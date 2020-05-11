@@ -5,6 +5,7 @@ layout: wiki
 <h2>Welcome to wikifolder</h2>
 <p>This is my personal digital garden. A wild garden, loosely tended. There's drafts, ideas, partials, fragments and ideas.</p>
 
+<h3>Topics</h3>
 {% assign folders = site.pages | where_exp:"item", "item.path contains 'wiki'" %}
 {% assign wikifolders = "" | split:"" %}
 
@@ -29,7 +30,7 @@ layout: wiki
 
 {% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'" | sort:"path" %}
 {% for item in folder1 %}
-<a href="{{ item.url }}">{{item.path}}</a>
+<a href="{{ site.baseurl }}/{{ item.url }}">{{item.path}}</a>
 <br>
 {% endfor %}
 
