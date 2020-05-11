@@ -11,17 +11,21 @@
 
 /* ARTICLE LIST */
 .article_list {
-    margin: 30px 0px 0px 0px;   
+    margin: 100px 0px 0px 0px;   
 }
 
 .article_list li {
     font-size: 1.5em;
     list-style-type: none;
-    margin: 15px 0px 0px 0px;
+    margin: 10px 0px 0px 0px;
 }
 
 .article_list ul {
     padding: 0px;;
+}
+
+.article_list a:link {
+	border: none !important;
 }
 
 .date {

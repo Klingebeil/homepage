@@ -6,10 +6,11 @@ title: Johannes Klingebiel
 <h1>I work as a designer and researcher in the innovation team at <i>Süddeutschen Zeitung Digitale Medien GmbH</i>. <a href="#">My projects</a> are currently focussed on exploring possible futures for the news media.</h1>
 
 <div class="article_list">
+  <p class="uppercase mono-space">Articles</p>
   <ul>
       {% for post in site.posts %}
         <li>
-          <h2><a href="{{ site.baseurl }}/{{ post.url }}" title="{{ post.title }}"">{{ post.title }}</a></h2></li>
+          <p><a href="{{ site.baseurl }}/{{ post.url }}" title="{{ post.title }}"">{{ post.title }}</a></p></li>
       {% endfor %}
   </ul>
 </div>
