@@ -3,4 +3,4 @@ markdown: kramdown
 encoding: UTF-8
 
 url: https://klingebeil.github.io
-baseurl: https://klingebeil.github.io
+baseurl: ""
