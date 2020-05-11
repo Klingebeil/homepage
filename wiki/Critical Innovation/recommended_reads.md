@@ -1,8 +1,8 @@
 ---
 layout: wikicrumb 
 ---
-
-**Recommended Reads**
+# Recommended Reads
+Books, links and articles that have a critical view on the idea of „innovation“.
 
 [Jacob Silverman: Future Fail][1] (The Baffler)
 

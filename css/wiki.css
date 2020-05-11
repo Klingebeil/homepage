@@ -34,13 +34,16 @@ a:link {
 }
 
 .notes h1 {
-    font-size: 1.5em;
+    font-feature-settings: "liga" 0, "calt" 0, "kern" 1;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1em;
     text-transform: bold;
 }
 
 .notes h2 {
     font-size: 1em;
-    text-transform: uppercase;
+    text-transform: capitalize;
     margin-top: 30px;
     border-top: 1px solid currentColor;
     padding-top: 5px;
