@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Notes on AI in Journalism"
-date:   2019-11-18
+title: "Notes on AI in Journalism"
+date: 2019-11-18
 ---
 
 # Notes on AI in Journalism
