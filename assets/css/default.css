@@ -31,9 +31,9 @@
 
 /* TYPOGRAPHY */
 
-@font-face { font-family: 'calendas-regular'; src: url('../fonts/calendas_plus-webfont.ttf') format('truetype'); }
-@font-face { font-family: 'calendas-italic'; src: url('../fonts/calendas_plus_italic-webfont.ttf') format('truetype'); }
-@font-face { font-family: 'calendas-bold'; src: url('../fonts/calendas_plus_bold-webfont.ttf') format('truetype'); }
+@font-face { font-family: 'calendas-regular'; src: url('assets/fonts/calendas_plus-webfont.ttf') format('truetype'); }
+@font-face { font-family: 'calendas-italic'; src: url('assets/fonts/calendas_plus_italic-webfont.ttf') format('truetype'); }
+@font-face { font-family: 'calendas-bold'; src: url('assets/fonts/calendas_plus_bold-webfont.ttf') format('truetype'); }
 
 body {
 	font-family: calendas-regular, Times, Serif;
