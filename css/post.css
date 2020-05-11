@@ -7,6 +7,7 @@ img {
 p {
     text-align: justify;
     margin: 32px 0px 0px 0px;
+    font-size: 21px;
 } 
 
 p a:link {
