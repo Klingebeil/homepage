@@ -18,15 +18,14 @@
     max-width: 100%;
 }
 
-.notes_link {
-    padding: 0px;
-    margin: 5px 0px 10px 0px;
+#notes_link {
+    padding: 5px 10px 2px 0px;
+    margin: 0px 0px 10px 0px;
     color: #D3D3D3;
     font-size: 0.7em;
-}
-
-.notes_link a:link {
     border-bottom: none;
+    display: inline-block;
+    border-right: solid 1px currentColor;
 }
 
 .notes h1 {

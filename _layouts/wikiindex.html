@@ -29,7 +29,7 @@
         {% unless item.path contains "index.html" %}
             <li class="notes">
               {%if item.pinned %}📌{% endif %}
-              <p class="notes_link mono-space"><a href="{{ site.baseurl }}/{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></p>
+              <p class="mono-space" id="notes_link"><a href="{{ site.baseurl }}{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></p>
               {{ item.content | markdownify }}
             </li>
         {% endunless %}
