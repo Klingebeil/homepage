@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<head>
+    {% include wiki_head.html %}
+</head>
 <body>
-    <div class="crumb-wrapper">{{ content }}</div>
+    <div class="content-wrapper">
+        {% include wikibreadcrumb.html %}
+        {{ content }}
+    </div>
 </body>

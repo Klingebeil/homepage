@@ -85,7 +85,7 @@ a {
 	text-decoration: none;
     font-weight: inherit !important;
 	color: inherit !important;
-	border-bottom: solid 2px currentColor;
+	border-bottom: solid 1px currentColor;
   	line-height: 1;
   	text-shadow:
 	    1px 1px white,
