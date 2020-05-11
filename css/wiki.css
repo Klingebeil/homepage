@@ -30,5 +30,22 @@
 }
 
 a:link {
-    border-bottom: 1px solid currentColor;
+    /*border-bottom: 1px solid currentColor;*/
+}
+
+.notes h1 {
+    font-size: 1.5em;
+    text-transform: bold;
+}
+
+.notes h2 {
+    font-size: 1em;
+    text-transform: uppercase;
+    margin-top: 30px;
+    border-top: 1px solid currentColor;
+    padding-top: 5px;
+}
+
+.notes h3 {
+    font-size: 1em;
 }
