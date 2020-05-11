@@ -97,3 +97,11 @@ blockquote {
 	margin-left: 20px;
 	font-family: calendas-italic, Times, Serif;
 }
+
+/* MEDIA QUERIES */
+@media (max-device-width: 1020px) { 
+	.content-wrapper {
+		width: 90%;
+		margin: 100px auto 0px auto;
+	}
+}
