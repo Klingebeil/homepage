@@ -23,10 +23,14 @@
         {% endunless %}
     {% endfor %}
     {% else %}-->
-    <ul>
+    <ul id="notes">
     {% for item in notes %}
         {% unless item.path contains "index.html" %}
-            <li>{%if item.pinned %}📌{% endif %} <a href="{{ site.baseurl }}/{{item.url}}">{{item.path | replace: folderfilter , ""}}</a> — {{ item.content | markdownifiy}}</li>
+            <li>
+              {%if item.pinned %}📌{% endif %}
+              <p class="notes_link"><a href="{{ site.baseurl }}/{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></p>
+              {{ item.content | markdownifiy}}
+            </li>
         {% endunless %}
     {% endfor %}
     </ul>
