@@ -1,5 +1,6 @@
 _site
 _.sass-cache
+.gitignore
 ======
 _site/
 .sass-cache/
