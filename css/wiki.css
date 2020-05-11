@@ -29,10 +29,6 @@
     border-bottom: none;
 }
 
-a:link {
-    /*border-bottom: 1px solid currentColor;*/
-}
-
 .notes h1 {
     font-feature-settings: "liga" 0, "calt" 0, "kern" 1;
     text-transform: uppercase;
