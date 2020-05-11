@@ -3,6 +3,7 @@
 <head>{% include wiki_head.html %}</head>
 <body>
   <div class="content-wrapper">
+    {% include wikibreadcrumb.html %}
     <p>{{content}}</p>
 
     <div>
@@ -28,8 +29,8 @@
         {% unless item.path contains "index.html" %}
             <li class="notes">
               {%if item.pinned %}📌{% endif %}
-              <p class="notes_link"><a href="{{ site.baseurl }}/{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></p>
-              {{ item.content | markdownifiy}}
+              <p class="notes_link mono-space"><a href="{{ site.baseurl }}/{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></p>
+              {{ item.content | markdownify }}
             </li>
         {% endunless %}
     {% endfor %}

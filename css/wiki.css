@@ -1,3 +1,7 @@
+#breadcrumbs {
+    font-size: 0.7em;
+}
+
 #notes_list {
     padding: 0px;
 }
@@ -17,4 +21,8 @@
 
 .notes_link a:link {
     border-bottom: none;
+}
+
+a:link {
+    border-bottom: 1px solid currentColor;
 }
