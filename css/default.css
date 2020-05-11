@@ -1,5 +1,5 @@
 :root {
-    --main-txt-color: #E84A12;
+    --main-txt-color: #29293a;
     --contrast-txt-color:#007a55
   }
 
@@ -38,7 +38,7 @@
 body {
 	font-family: calendas-regular, Times, Serif;
 	font-feature-settings: "liga" 1, "calt" 1, "kern" 1;
-	color: #29293a;
+	color: var(--main-txt-color);
 }
 
 .color {
