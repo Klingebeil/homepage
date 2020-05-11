@@ -2,7 +2,6 @@
 layout: post
 title:  "Notes on AI in Journalism"
 date:   2019-11-18
-categories: jekyll update
 ---
 
 # Notes on AI in Journalism
