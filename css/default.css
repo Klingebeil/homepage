@@ -3,13 +3,13 @@
     --contrast-txt-color:#007a55
   }
 
-/* PAGE LAYOUT*/
+/* PAGE LAYOUT */
 .content-wrapper {
 	width: 70%;
 	margin: 100px auto 0px auto;
 }
 
-/* ARTICLE LIST*/
+/* ARTICLE LIST */
 .article_list {
     margin: 30px 0px 0px 0px;   
 }
@@ -31,13 +31,14 @@
 
 /* TYPOGRAPHY */
 
-@font-face { font-family: 'calendas-regular'; src: url('assets/fonts/calendas_plus-webfont.ttf') format('truetype'); }
-@font-face { font-family: 'calendas-italic'; src: url('assets/fonts/calendas_plus_italic-webfont.ttf') format('truetype'); }
-@font-face { font-family: 'calendas-bold'; src: url('assets/fonts/calendas_plus_bold-webfont.ttf') format('truetype'); }
+@font-face { font-family: 'calendas-regular'; src: url('../fonts/calendas_plus-webfont.ttf') format('truetype'); }
+@font-face { font-family: 'calendas-italic'; src: url('../fonts/calendas_plus_italic-webfont.ttf') format('truetype'); }
+@font-face { font-family: 'calendas-bold'; src: url('../fonts/calendas_plus_bold-webfont.ttf') format('truetype'); }
 
 body {
 	font-family: calendas-regular, Times, Serif;
 	font-feature-settings: "liga" 1, "calt" 1, "kern" 1;
+	color: #29293a;
 }
 
 .color {
