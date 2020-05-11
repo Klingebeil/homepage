@@ -10,7 +10,7 @@ title: Johannes Klingebiel
   <ul>
       {% for post in site.posts %}
         <li>
-          <p><a href="{{ site.baseurl }}/{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p></li>
+          <p><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p></li>
       {% endfor %}
   </ul>
 </div>
