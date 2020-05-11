@@ -2,10 +2,14 @@
 layout: default
 title: Johannes Klingebiel
 ---
+<p class="uppercase mono-space">Johannes Klingebiel</p>
+<h1>I work as a designer and researcher in the innovation team at <i>Süddeutschen Zeitung Digitale Medien GmbH</i>. <a href="#">My projects</a> are currently focussed on exploring possible futures for the news media.</h1>
 
-<ul>
-    {% for post in site.posts %}
-      <li>
-        <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"">{{ post.title }}</a></h2></li>
-    {% endfor %}
+<div class="article_list">
+  <ul>
+      {% for post in site.posts %}
+        <li>
+          <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"">{{ post.title }}</a></h2></li>
+      {% endfor %}
   </ul>
+</div>
