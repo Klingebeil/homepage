@@ -25,10 +25,10 @@ p a:link {
 	border-bottom: 0.5px solid currentColor;
   	line-height: 1em;
   	text-shadow:
-	    1px 1px white,
-	    1px -1px white,
-	    -1px 1px white,
-        -1px -1px white;
+	    1px 1px var(--background),
+	    1px -1px var(--background),
+	    -1px 1px var(--background),
+        -1px -1px var(--background);
 }
 
 li {

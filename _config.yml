@@ -1,2 +1,6 @@
 url: https://klingebeil.github.io
 baseurl: "/homepage"
+
+collections:
+  portfolio:
+    output: true
