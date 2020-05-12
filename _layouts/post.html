@@ -7,6 +7,7 @@
 <body>
     <div class="content-wrapper">
         {% include header.html %}
+        <p class="article_info uppercase mono-space">{{ page.date | date: "%b %d, %Y" }}</p>
         {{ content }}
     </div>
 </body>

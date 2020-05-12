@@ -1,10 +1,13 @@
 :root {
     --main-txt-color: #29293a;
-    --contrast-txt-color:#007a55
+	--contrast-color: #F2385A;
+	--light-grey: #D3D3D3;
+	--background: #F2F2F2;
 }
 
 body {
 	margin: 0px;
+	background-color: var(--background);
 }
 
 /* PAGE LAYOUT */
@@ -55,7 +58,7 @@ body {
 }
 
 .color {
-	color: var(--main-txt-color);
+	color: var(--contrast-color);
 }
 
 .uppercase {

@@ -2,6 +2,11 @@ img {
     max-width: 100%;
 }
 
+.article_info {
+    font-size: 0.7em;
+    color: var(--light-grey);
+}
+
 /* TYPOGRAPHY */
 
 body {
