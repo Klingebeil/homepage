@@ -5,8 +5,6 @@ layout: wikicrumb
 
 ## How does AI/ML/DL work?
 
-### Videos
-
 **[Course: Artificial Intelligence][1]** (Fall 2015) Prof. Patrick Henry Winston. MIT.
 
 A course including 12 video lectures (about 50 minutes each) on the technical details of AI. I especially found the two lectures on neural nets helpful, which give a great introduction on the topic.

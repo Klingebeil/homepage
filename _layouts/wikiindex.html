@@ -8,7 +8,7 @@
     <p>{{content}}</p>
 
     <div>
-    {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | sort:"pinned" | reverse %}
+    {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | reverse %}
 
     {% assign snippets = site.static_files | where_exp: "item" , "item.path contains folderfilter" %}
 
@@ -18,7 +18,6 @@
     {% for item in notes %}
         {% unless item.path contains "index.html" %}
             <li class="notes">
-              {%if item.pinned %}📌{% endif %}
               <p class="mono-space" id="notes_link"><a href="{{ site.baseurl }}{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></p>
               {{ item.content | markdownify }}
             </li>
