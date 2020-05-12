@@ -16,12 +16,10 @@ layout: wiki
 
 {% assign wikifolders = wikifolders | uniq | sort %}
 
-<div class="w-100 cf">
+<div id="topic_list">
 {% for folder in wikifolders %}
   {% unless folder contains 'md' or folder contains 'html' %}
-    <div>
-      <a href="{{ site.baseurl }}/wiki/{{folder}}/"><div class="capitalize">{{folder}}</div></a>
-    </div>
+      <a href="{{ site.baseurl }}/wiki/{{folder}}/"><div class="capitalize topic">{{folder}}</div></a>
   {% endunless %}
 {% endfor %}
 </div>

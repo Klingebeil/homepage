@@ -4,10 +4,13 @@ img {
 
 /* TYPOGRAPHY */
 
+body {
+    font-size: 18px;
+}
+
 p {
     text-align: justify;
     margin: 32px 0px 0px 0px;
-    font-size: 21px;
 } 
 
 p a:link {
@@ -23,17 +26,14 @@ p a:link {
         -1px -1px white;
 }
 
-blockquote {
-    margin-left: 20px;
-    font-style: italic;
-}
-
 li {
     margin-top: 1em;
 }
 
-h2 { font-feature-settings: "liga" 1, "calt" 1, "kern" 1, "tnum" 1;}
+h2 { 
+    margin-top:50px;
+}
 
 ul , ol {
-    padding: 16px;
+    margin: 32px 16px 32px 16px;
 }

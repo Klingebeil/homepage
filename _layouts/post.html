@@ -5,5 +5,8 @@
     <title>{{ page.title }}</title>
 </head>
 <body>
-    <div class="content-wrapper">{{ content }}</div>
+    <div class="content-wrapper">
+        {% include header.html %}
+        {{ content }}
+    </div>
 </body>
