@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: portfolio
 title: Zukünfte
 featured_img: /featured.jpg
+date: 2019-01-01
 ---
 # Zukünfte
 Though trends are often presented as a force of nature reorganizing society or the economy things are more complicated if you look more closely. In fact “trends” are often performative, meaning formulating and naming one ensure their influence in the first place. Especially if those trends are propagated by prominent consulting agencies such as Gartner, BCG or TKTKTK.
