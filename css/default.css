@@ -2,6 +2,7 @@
     --main-txt-color: #29293a;
 	--contrast-color: #F2385A;
 	--light-grey: #D3D3D3;
+	--dark-grey: #4A4A4A;
 	--background: #F2F2F2;
 }
 
@@ -17,23 +18,31 @@ img {
 /* PAGE LAYOUT */
 .content-wrapper {
 	width: 60%;
+	max-width: 700px;
 	margin: 20px auto 50px auto;
 }
 
 /* FOOTER */
 .footer {
-	margin: 20px 0px 50px 0px;
-	padding-top: 30px;
-	border-top: 1px solid var(--light-grey)
+	margin: 100px 0px 50px 0px;
+    color: var(--dark-grey) !important;
+    border-top: solid 1px currentColor;
 }
 
 .footer a:link {
-	margin-right: 15px;
+	padding: 5px 10px 2px 0px;
+    margin: 0px 5px 10px 0px;
+    color: var(--dark-grey);
+    font-size: 0.7em;
+    border-bottom: none;
+    display: inline-block;
+	border-right: solid 1px currentColor;
+	text-decoration: none;
 }
 
 /* HEADER */
 .header {
-	margin: 30px 0px 50px 0px;
+	margin: 30px 0px 30px 0px;
 }
 
 /* ARTICLE LIST */
@@ -114,6 +123,10 @@ a {
 	    1px -1px white,
 	    -1px 1px white,
         -1px -1px white;*/
+}
+
+a:hover {
+	color: var(--contrast-color);
 }
 
 blockquote {

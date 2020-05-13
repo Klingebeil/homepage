@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: portfolio
 title: Futures of Media Tarot
 featured_img: 01.jpg
+date: 2019-01-01
 ---
 # Futures of Media Tarot
 Journalism as a industry has been through a couple of minor and major disruptions in the last two decades. The media experienced a seismic advertising shift and found itself on the shrinking end of the ad budgets. At the same time we can observe how truth as a concept became evermore vague and muddied through the internet and social media. As such parts of the industry at times seems to cultivate their own doom and gloom or romanticizes the past. There‘s a lack of alternative futures to discuss and build towards.
