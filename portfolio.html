@@ -5,7 +5,7 @@ title: Portfolio
 <div class="seg-line"></div>
 <h1>{{ page.title }}</h1>
 
-{% assign work_items = site.portfolio | sort: 'date' %}
+{% assign work_items = site.portfolio | sort: 'date' | reverse %}
 
 <ul id="project-list">
   {% for article in work_items %}
