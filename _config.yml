@@ -4,3 +4,11 @@ baseurl: "/homepage"
 collections:
   portfolio:
     output: true
+    permalink: /portfolio/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "portfolio"
+    values:
+      layout: portfolio

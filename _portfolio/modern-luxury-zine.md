@@ -2,6 +2,8 @@
 layout: portfolio
 title: Modern Luxury Zine
 date: 2019-01-01
+category: Zine
+summary: A small zine exploring the current state of luxury. Developed to test a different method of communicating research throughout a complex organisation, the zine also offered up questions and different strategic directions.s 
 ---
 # Modern Luxury Zine
 Early on in our work at Süddeutsche Zeitung we noticed an organisational tendency to focus on our direct competitors when it came to new ideas, features and concepts. There was a serious lack of fresh ideas from outside this small circle of companies and brands. While trying to correct this habit we also noticed how the media we noticed didn‘t seem to stick.

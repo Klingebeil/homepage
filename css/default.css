@@ -36,6 +36,10 @@ img {
 	border-right: solid 1px currentColor;
 }
 
+.seg-element a:link {
+	text-decoration: none;
+}
+
 /* FOOTER */
 .footer {
 	margin: 100px 0px 50px 0px;
@@ -77,6 +81,26 @@ img {
     font-size: 0.7em;
 }
 
+/* PROJECT LIST */
+
+#project-list {
+	list-style: none;
+	padding: 0px;
+}
+
+#project-list div {
+	vertical-align: top;
+}
+
+.project-year {
+	width: 10%;
+}
+
+.project-summary {
+	padding-right: 10px;
+	margin: 20px 0px 50px 20px;
+}
+
 /* TYPOGRAPHY */
 
 @font-face { font-family: 'calendas-regular'; src: url('../fonts/calendas_plus-webfont.ttf') format('truetype'); }
@@ -107,6 +131,10 @@ body {
 
 .mono-space {
 	font-family: sans-serif;
+}
+
+.italics {
+	font-style: italic;
 }
 
 b {

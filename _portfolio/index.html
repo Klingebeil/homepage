@@ -1,0 +1,23 @@
+---
+layout: default
+title: Portfolio
+---
+<div class="seg-line"></div>
+<h1>{{ page.title }}</h1>
+
+{% assign work_items = site.portfolio | sort: 'date' %}
+
+<ul id="project-list">
+  {% for article in work_items %}
+    {% unless article.path contains "index.html" %}
+    <li class="seg-line">
+      <div class="seg-element mono-space project-year">{{ article.date | date: "%Y" }}</div>
+      <div class="seg-element capitalize italics">{{ article.category }}</div>
+      <div class="project-summary">
+        <a class=" project-title" href="{{ site.baseurl }}{{ article.url }}"><h2>{{ article.title }}</h2></a>
+        <p>{{ article.summary }}</p>
+      </div>
+    </li>
+    {% endunless %}
+  {% endfor %}
+</ul>
