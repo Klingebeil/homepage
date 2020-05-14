@@ -2,22 +2,6 @@ body {
     color: var(--contrast-color);
 }
 
-.article_info {
-    font-size: 0.7em;
-    color: var(--contrast-color);
-    border-top: solid 1px currentColor;
-}
-
-.article_info p {
-    padding: 5px 10px 2px 0px;
-    margin: 0px 5px 10px 0px;
-    color: var(--contrast-color);
-    font-size: 0.7em;
-    border-bottom: none;
-    display: inline-block;
-    border-right: solid 1px currentColor;
-}
-
 .article-wrapper p:first-of-type {
     font-size: 1.5em;
 }

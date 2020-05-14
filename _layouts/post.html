@@ -7,9 +7,9 @@
 <body>
     <div class="content-wrapper">
         {% include header.html %}
-        <div class="article_info uppercase mono-space">
-            <p>Article</p>
-            <p>{{ page.date | date: "%b %d, %Y" }}</p>
+        <div class="seg-line uppercase mono-space">
+            <p class="seg-element">Article</p>
+            <p class="seg-element">{{ page.date | date: "%b %d, %Y" }}</p>
         </div>
         {{ content }}
         {% include footer.html %}

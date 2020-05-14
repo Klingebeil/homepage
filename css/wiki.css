@@ -1,6 +1,6 @@
 /* BREADCRUMBS NAVIGATION */
-#breadcrumbs {
-    font-size: 0.7em;
+#breadcrumbs a {
+    text-decoration: none;
 }
 
 /* WIKI TOPIC LIST */

@@ -8,9 +8,9 @@
 <body>
     <div class="content-wrapper">
         {% include header.html %}
-        <div class="article_info uppercase mono-space">
-            <p>Portfolio</p>
-            <p>{{ page.date | date: "%Y" }}</p>
+        <div class="seg-line uppercase mono-space">
+            <p class="seg-element">Portfolio</p>
+            <p class="seg-element">{{ page.date | date: "%Y" }}</p>
         </div>
         <div class="article-wrapper">
             {{ content }}
