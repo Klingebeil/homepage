@@ -5,19 +5,15 @@ title: Articles
 <div class="seg-line"></div>
 <h1>{{ page.title }}</h1>
 
-{% assign work_items = site.posts | sort: 'date' %}
-
-<ul id="project-list">
-  {% for article in work_items %}
-    {% unless article.path contains "index.html" %}
-    <li class="seg-line">
-      <div class="seg-element mono-space project-year">{{ article.date | date: "%Y" }}</div>
-      <div class="seg-element capitalize italics">{{ article.category }}</div>
-      <div class="project-summary">
-        <a class=" project-title" href="{{ site.baseurl }}{{ article.url }}"><h2>{{ article.title }}</h2></a>
-        <p>{{ article.summary }}</p>
-      </div>
-    </li>
-    {% endunless %}
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <div class="seg-line">
+      <p class="seg-element mono-space uppercase project-year" id="y{{post.date | date: "%Y" }}">{{ currentdate }}</p></div>
+    <ul class="article-list">
+    {% assign date = currentdate %}
+  {% endif %}
+    <li><a href="{{site.baseurl}}{{ post.url }}"><h2>{{ post.title }}</h2></a></li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}

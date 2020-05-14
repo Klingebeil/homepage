@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <head>
+    {% include default_head.html %}
     {% include post_head.html %}
 
     <title>{{ page.title }}</title>
@@ -9,7 +10,7 @@
         {% include header.html %}
         <div class="seg-line uppercase mono-space">
             <div class="seg-element"><a href="{{ site.baseurl }}/articles.html">Article</a></div>
-            <div class="seg-element">{{ page.date | date: "%b %d, %Y" }}</div>
+            <div class="seg-element">{{ page.date | date: "%m.%d.%Y" }}</div>
         </div>
         {{ content }}
         {% include footer.html %}

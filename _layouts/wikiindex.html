@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 {% assign folderfilter = page.path | replace: "/index.html" , "" %}
-<head>{% include wiki_head.html %}</head>
+<head>
+  {% include default_head.html %}
+  {% include wiki_head.html %}
+</head>
 <body>
   <div class="content-wrapper">
     {% include header_wiki.html %}

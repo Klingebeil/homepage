@@ -74,21 +74,21 @@ img {
 }
 
 /* ARTICLE LIST */
-.article_list {
-    margin: 100px 0px 0px 0px;   
+.article-list {
+	margin-bottom: 50px;
+	padding-left: 0px;
 }
 
-.article_list li {
-    font-size: 1.5em;
+.article-list li {
     list-style-type: none;
-    margin: 10px 0px 0px 0px;
+    margin: 20px 0px 0px 20px;
 }
 
-.article_list ul {
+.article-list ul {
     padding: 0px;;
 }
 
-.article_list a:link {
+.article-list a:link {
 	border: none !important;
 }
 
@@ -161,6 +161,11 @@ h1 {
 	font-weight: normal;
 	line-height: 1.3em;
 	font-feature-settings: "liga" 1, "calt" 1, "kern" 1, "swsh" 1;
+	margin-bottom: 50px;
+}
+
+h2 {
+	font-weight: normal;
 }
 
 p {
