@@ -7,12 +7,13 @@ title: Johannes Klingebiel
 </div>
 <h1 class="color">I work as a designer and researcher in the innovation team at <i>Süddeutsche Zeitung Digitale Medien GmbH</i>. <a href="{{ site.baseurl }}/portfolio/index.html">My projects</a> are currently focussed on exploring possible futures for the news media.</h1>
 
-<div class="article_list">
-  <p class="uppercase mono-space">Recent Articles</p>
+<div class="article_list seg-line">
+  <div class="uppercase mono-space seg-element">Recent Articles</div>
   <ul>
       {% for post in site.posts %}
         <li>
-          <p><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p></li>
+          <p><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
+        </li>
       {% endfor %}
   </ul>
 </div>
