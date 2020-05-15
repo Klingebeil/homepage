@@ -15,4 +15,4 @@ The finished Futures of Media Tarot now serves as a workshop tool to open up ima
 The game was a prominent part of the TKTK 2019 in Munich and was also played at the TKTKT 2019 in Hamburg, as well as smaller workshops.
 You can find a longer write-up on Medium as well as a printable set of cards in german.
 
-{% include img_full.html id="fmt_01.jpeg" alt="test"%}
+{% include img-full.html id="fmt_01.jpeg" alt="test"%}

@@ -12,8 +12,14 @@ body {
 	background-color: var(--background);
 }
 
+/* IMAGES */
 img {
 	max-width: 100%;
+}
+
+.img-small {
+	width: 20%;
+	margin: 50px auto 50px auto;
 }
 
 /* PAGE LAYOUT */
