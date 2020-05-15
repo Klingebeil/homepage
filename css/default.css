@@ -29,7 +29,7 @@ img {
 /* PAGE LAYOUT */
 .content-wrapper {
 	width: 60%;
-	max-width: 700px;
+	max-width: 600px;
 	margin: 20px auto 50px auto;
 }
 
@@ -101,8 +101,7 @@ img {
 .article-list img {
 	max-height: 1.3em;
     display: inline;
-    margin-top: 5px;
-    margin-right: 10px;
+    margin-right: 5px;
 }
 
 /* PROJECT LIST */
@@ -156,7 +155,7 @@ body {
 }
 
 .mono-space {
-	font-family: mono-space, sans-serif;
+	font-family: mono-space, 'Courier New', Courier, monospace;
 }
 
 .italics {
@@ -190,13 +189,6 @@ p {
 a {
     font-weight: inherit !important;
 	color: inherit !important;
-	/*text-decoration: none;
-	border-bottom: solid 1px currentColor;
-  	text-shadow:
-	    1px 1px white,
-	    1px -1px white,
-	    -1px 1px white,
-        -1px -1px white;*/
 }
 
 a:hover {

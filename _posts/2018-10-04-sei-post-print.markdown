@@ -1,21 +1,19 @@
 ---
 layout: post
-title: "Sei Post-Print ✨"
+title: "Sei Post-Print"
 date: 2018-10-04
 teaser-img: 2018-10-04-teaser.jpg
 ---
 
 {% include img-small.html id="2018-10-04-teaser.jpg" alt=""%}
 
-# Sei Post-Print ✨
+# Sei Post-Print
 
 Journalismus ist online noch immer gefangen in sehr risiko-aversen Formaten und Layouts, die vom Leser selbst kaum etwas fordern. Und obwohl diese natürlich ihre Berechtigung haben, [tauchen in den letzten Jahren wieder vermehrt Webseiten auf, die bewusst mit dieser Form des Publishings brechen][1].
 
 Beispielsweise Kickstarters “[Creative Independent][2]”, Toggls “[t:msheets magaz:ne][3]” oder Indie-Projekte, wie “[Sentiments][4]”, “[Uncube Magazine][5]”, “[Untold-Stories][6]” und das redesignte “[Zucker-Magazin][7]”. Oder aber das bekanntere digitale Offline-Magazin “[The Disconnect][8]”.Die Washington Post hat unlängst ihr Magazin ebenfalls digital [als kreatives und alternatives Storytelling Projekt umgesetzt][9]. (Inkl. einem Brettspiel und der Option eine eigene Trump-Rede zu schreiben.)
 
-/+ Und was spannende Konzepte angeht, sollte auch [Low Tech Magazine][10] nicht unerwähnt bleiben. Die Seite wird seit neuestem komplett durch Solarstrom und Batterien betrieben. (Und wird bei schlechtem Wetter irgendwann einfach offline sein)
-
-(Ursprünglich in meinem Newsletter erschienen)
+Und was spannende Konzepte angeht, sollte auch [Low Tech Magazine][10] nicht unerwähnt bleiben. Die Seite wird seit neuestem komplett durch Solarstrom und Batterien betrieben. (Und wird bei schlechtem Wetter irgendwann einfach offline sein)
 
 [1]:	https://eyeondesign.aiga.org/the-digital-mags-challenging-outdated-reading-content-rules/?mc_cid=e3db25270f&mc_eid=f8495f8258&utm_campaign=Johannes%20Klingebiel&utm_medium=email&utm_source=Revue%20newsletter
 [2]:	https://thecreativeindependent.com/?utm_campaign=Johannes%20Klingebiel&utm_medium=email&utm_source=Revue%20newsletter

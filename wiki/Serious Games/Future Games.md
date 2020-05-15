@@ -3,7 +3,7 @@ layout: wikicrumb
 ---
 # Future Games
 
-Some interesting games around the creation and simulation of possible futures. Most are free to download.
+There are some interesting games out there that revolve around simulating and exploring different futures. I‘ve collected a couple of those on are.na.
 
 **Our Futures**, Nesta ([Link][1])
 

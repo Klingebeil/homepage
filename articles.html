@@ -11,7 +11,7 @@ title: Articles
   {% if currentdate != date %}
     {% unless forloop.first %}</div>{% endunless %}
     <div class="seg-line">
-      <p class="seg-element mono-space uppercase project-year" id="y{{post.date | date: "%Y" }}">{{ currentdate }}</p></div>
+      <div class="seg-element mono-space uppercase project-year" id="y{{post.date | date: "%Y" }}">{{ currentdate }}</div></div>
     <div class="article-list">
     {% assign date = currentdate %}
   {% endif %}
