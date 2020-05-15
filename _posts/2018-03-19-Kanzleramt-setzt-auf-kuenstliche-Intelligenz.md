@@ -5,7 +5,7 @@ date: 2018-03-19
 teaser-img: 2018-03-19-teaser.jpg
 ---
 
-{% include img-small.html id="2018-03-19-teaser.jpg“ alt=" "%}
+{% include img-small.html id="2018-03-19-teaser.jpg" alt=" "%}
 
 # Kanzleramt setzt auf künstliche Intelligenz für Pressemitteilungen
 
