@@ -14,8 +14,13 @@
 }
 
 /* LIST OF NOTES */
-#notes_list {
+#notes-list {
     padding: 0px;
+}
+
+#allnotes-list p{
+    font-size: 0.7em;
+
 }
 
 .notes {
@@ -28,7 +33,7 @@
     max-width: 100%;
 }
 
-#notes_link {
+#notes-link {
     padding: 5px 10px 2px 0px;
     margin: 0px 0px 10px 0px;
     color: var(--dark-grey);

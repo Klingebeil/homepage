@@ -1,7 +1,7 @@
 ---
 layout: wikicrumb 
 ---
-# A Critical AI Reading List for Journalists
+# A Critical Reading List
 
 ## How does AI/ML/DL work?
 

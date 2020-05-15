@@ -17,11 +17,11 @@
 
     <h3>Notes:</h3>
 
-    <ul id="notes_list">
+    <ul id="notes-list">
     {% for item in notes %}
         {% unless item.path contains "index.html" %}
             <li class="notes">
-              <p class="mono-space" id="notes_link"><a href="{{ site.baseurl }}{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></p>
+              <p class="mono-space" id="notes-link"><a href="{{ site.baseurl }}{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></p>
               {{ item.content | markdownify }}
             </li>
         {% endunless %}

@@ -8,12 +8,12 @@ title: Articles
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
-    {% unless forloop.first %}</ul>{% endunless %}
+    {% unless forloop.first %}</div>{% endunless %}
     <div class="seg-line">
       <p class="seg-element mono-space uppercase project-year" id="y{{post.date | date: "%Y" }}">{{ currentdate }}</p></div>
-    <ul class="article-list">
+    <div class="article-list">
     {% assign date = currentdate %}
   {% endif %}
-    <li><a href="{{site.baseurl}}{{ post.url }}"><h2>{{ post.title }}</h2></a></li>
-  {% if forloop.last %}</ul>{% endif %}
+    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }} / </h2></a>
+  {% if forloop.last %}</div>{% endif %}
 {% endfor %}

@@ -7,14 +7,14 @@ title: Johannes Klingebiel
 </div>
 <h1 class="color">I work as a designer and researcher in the innovation team at <i>Süddeutsche Zeitung Digitale Medien GmbH</i>. <a href="{{ site.baseurl }}/portfolio.html">My projects</a> are currently focussed on exploring possible futures for the news media.</h1>
 
-<div class="article-list seg-line">
+<div class="seg-line">
   <div class="uppercase mono-space seg-element">Stuff I wrote...</div>
   <div class="uppercase mono-space seg-element"><a href="{{site.baseurl}}/articles.html">All Articles &rarr;</a></div>
-  <ul>
+
+  <!--INLINE LIST-->
+  <div class="article-list">
       {% for post in site.posts limit:5 %}
-        <li>
-          <p><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><h2>{{ post.title }}</h2></a></p>
-        </li>
+          <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }} / </h2></a>
       {% endfor %}
-  </ul>
+  </div>
 </div>

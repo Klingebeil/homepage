@@ -22,6 +22,10 @@ img {
 	margin: 50px auto 50px auto;
 }
 
+.img-full {
+	margin: 20px 0px 20px 0px;
+}
+
 /* PAGE LAYOUT */
 .content-wrapper {
 	width: 60%;
@@ -81,26 +85,24 @@ img {
 
 /* ARTICLE LIST */
 .article-list {
-	margin-bottom: 50px;
+	margin: 20px 0px 30px 20px;
 	padding-left: 0px;
-}
-
-.article-list li {
-    list-style-type: none;
-    margin: 20px 0px 0px 20px;
-}
-
-.article-list ul {
-    padding: 0px;;
 }
 
 .article-list a:link {
 	border: none !important;
+	text-decoration: none;
 }
 
-.date {
+.article-list h2 {
+	display:inline;
+}
+
+.article-list img {
+	max-height: 1.3em;
     display: inline;
-    font-size: 0.7em;
+    margin-top: 5px;
+    margin-right: 10px;
 }
 
 /* PROJECT LIST */
@@ -129,6 +131,8 @@ img {
 @font-face { font-family: 'calendas-italic'; src: url('../fonts/calendas_plus_italic-webfont.ttf') format('truetype'); }
 @font-face { font-family: 'calendas-bold'; src: url('../fonts/calendas_plus_bold-webfont.ttf') format('truetype'); }
 
+@font-face { font-family: 'mono-space'; src: url('../fonts/RobotoMono-Regular.ttf') format('truetype'); }
+
 body {
 	font-family: calendas-regular, Times, Serif;
 	font-feature-settings: "liga" 1, "calt" 1, "kern" 1;
@@ -152,7 +156,7 @@ body {
 }
 
 .mono-space {
-	font-family: sans-serif;
+	font-family: mono-space, sans-serif;
 }
 
 .italics {
