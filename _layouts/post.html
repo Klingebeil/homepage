@@ -11,6 +11,10 @@
         <div class="seg-line uppercase mono-space">
             <div class="seg-element"><a href="{{ site.baseurl }}/articles.html">Article</a></div>
             <div class="seg-element">{{ page.date | date: "%m.%d.%Y" }}</div>
+            <div class="seg-element">
+                {% assign words = content | number_of_words %}
+                {{ words | divided_by:180 }} mins
+            </div>
         </div>
         {{ content }}
         {% include footer.html %}

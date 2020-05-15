@@ -36,6 +36,7 @@ img {
 /* SEGMENTED LINE AND HEADER */
 .seg-line {
 	border-top: solid 1px currentColor;
+	margin-top: 50px;
 }
 
 .seg-element {
@@ -163,6 +164,10 @@ body {
 	font-style: italic;
 }
 
+.small {
+	font-size: 0.7em;
+}
+
 b {
 	font-family: calendas-bold, Times, Serif;
 }
@@ -171,7 +176,6 @@ h1 {
 	font-weight: normal;
 	line-height: 1.3em;
 	font-feature-settings: "liga" 1, "calt" 1, "kern" 1, "swsh" 1;
-	margin-bottom: 50px;
 }
 
 h2 {
