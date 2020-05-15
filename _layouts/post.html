@@ -9,7 +9,7 @@
     <div class="content-wrapper">
         {% include header.html %}
         <div class="seg-line uppercase mono-space">
-            <div class="seg-element"><a href="{{ site.baseurl }}/articles.html">Article</a></div><div class="seg-element">{{ page.date | date: "%m.%d.%Y" }}</div><div class="seg-element">{% assign words = content | number_of_words %}{{words}} words — {{ words | divided_by:180 }} mins</div>
+            <div class="seg-element"><a href="{{ site.baseurl }}/articles.html">Article</a></div><div class="seg-element">{{ page.date | date: "%d.%m.%Y" }}</div><div class="seg-element">{% assign words = content | number_of_words %}{{words}} words — {{ words | divided_by:180 }} mins</div>
         </div>
         <div class="article-wrapper">
             {{ content }}
