@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Was du über den Gartner Hype Cycle wissen solltest"
+title: "Kanzleramt setzt auf künstliche Intelligenz für Pressemitteilungen"
 date: 2018-03-19
 teaser-img: 2018-03-19-teaser.jpg
 ---
