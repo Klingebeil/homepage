@@ -40,8 +40,8 @@ img {
 }
 
 .seg-element {
-	padding: 5px 10px 2px 0px;
-    margin: 0px 7px 10px 0px;
+	padding: 5px 10px 0px 0px;
+	margin-right: 10px;
     font-size: 0.7em;
     display: inline-block;
 	border-right: solid 1px currentColor;
@@ -87,7 +87,6 @@ img {
 /* ARTICLE LIST */
 .article-list {
 	margin: 20px 0px 30px 20px;
-	padding-left: 0px;
 }
 
 .article-list a:link {

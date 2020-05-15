@@ -2,9 +2,9 @@
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 {% for crumb in crumbs offset: 1 %}
   {% if forloop.last %}
-    <a class="uppercase seg-element" href="{{ site.baseurl }}{{page.url}}">{{ page.title }}</a>
+    <div class="uppercase seg-element"><a href="{{ site.baseurl }}{{page.url}}">{{ page.title }}</a></div>
   {% else %}
-    <a class="uppercase seg-element" href="{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">{{ crumb | replace:'-',' ' | replace: '%20', ' ' | remove:'.html' | capitalize }}</a>
+    <div class="uppercase seg-element"><a href="{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">{{ crumb | replace:'-',' ' | replace: '%20', ' ' | remove:'.html' | capitalize }}</a></div>
   {% endif %}
 {% endfor %}
 </div>

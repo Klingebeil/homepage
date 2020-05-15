@@ -3,6 +3,10 @@
     text-decoration: none;
 }
 
+#breadcrumbs .seg-element {
+    margin-right: 0px;
+}
+
 /* WIKI TOPIC LIST */
 
 .topic {
