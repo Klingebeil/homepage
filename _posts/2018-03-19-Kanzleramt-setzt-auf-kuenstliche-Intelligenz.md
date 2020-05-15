@@ -9,7 +9,7 @@ teaser-img: 2018-03-19-teaser.jpg
 
 # Kanzleramt setzt auf künstliche Intelligenz für Pressemitteilungen
 
-**SZENARIO—Mit Beginn des neuen Jahres will das Kanzleramt erstmals Pressemitteilungen durch künstlich generierten Sprachaufnahmen der Kanzlerin ergänzen — ein Schritt der gleichermaßen auf Kritik und Lob stößt.**
+**Szenario—Beginn des neuen Jahres will das Kanzleramt erstmals Pressemitteilungen durch künstlich generierten Sprachaufnahmen der Kanzlerin ergänzen — ein Schritt der gleichermaßen auf Kritik und Lob stößt.**
 
 19.03.2020 Berlin — Wer zukünftig die Bundeskanzlerin im Radio oder Podcast hört, der wird wahrscheinlich nicht die echte Frau Merkel hören. Ab dem 1. Januar, will das Kanzleramt Pressemitteilungen und Antworten auf Anfragen von Journalisten mit von einer künstlichen Intelligenz vorgelesenen Sprachaufnahme der Kanzlerin beantworten. „Wir wollen es den Medien ermöglichen ausführlicher und authentischer über die Politik der Bundesregierung zu berichten.“, begründete der Pressesprecher Haas die Entscheidung, „Die Kanzlerin soll mit diesem Schritt näher und greifbarer für die Bürger der Bundesrepublik werden.“
 
@@ -27,6 +27,7 @@ In der Zwischenzeit bekundeten auch einige Landesregierungen und Kabinettsmitgli
 ## Inspiration
 
 Die Inspiration für dieses Szenario kommt von den Entwicklungen im Bereich Spracherkennung/Sprachsynthetisierung, die in den letzten zwei Jahren durch den Einsatz von Machine Learning, bzw. Deep Learning möglich gemacht wurde. Ziel war es einen denkbaren Einsatz dieser Technologie zu finden, abseits von Fälschungen und manipulierten Inhalten und zugleich die ethischen Probleme im Einsatz dieser aufzuzeigen, außerhalb der Fake News Diskussion.
+
 ---- 
 ## Literatur
 

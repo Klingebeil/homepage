@@ -202,6 +202,10 @@ blockquote {
     border-left: 1px solid gray;
 }
 
+hr {
+	margin: 20px 0px 20px 0px;
+}
+
 /* MEDIA QUERIES */
 @media (max-device-width: 1020px) { 
 	.content-wrapper {
