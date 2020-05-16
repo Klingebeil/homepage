@@ -39,7 +39,7 @@ Ein weiteres Problem ist das Display. Zwar sind die Hologramme der Magic Leap du
 
 Was mich bei der Nutzung jedoch beeindruckte war das „Spatial Audio“-System der Brille, welche es tatsächlich schaffte eine glaubwürdige 360°-Geräuschkulisse zu erzeugen. Mehr als einmal drehte ich mich während der Demos um, um Geräusche hinter mir zu erkunden. Und das vor allem ohne Kopfhörer tragen zu müssen.
 
-{% include img-full.html id="2018-09-09-02.jpg" alt="Magic Leap"%}
+{% include img-full.html id="2018-09-09-02.jpg" alt="Magic Leap" info="Cyberpunk as f*ck"%}
 
 ## Keine Revolution, aber Evolution
 Ist die Magic Leap also das nächste große Ding™? Ich glaube ehrlich nicht. Nicht zuletzt, weil die Magic Leap One als reines Heimgerät konzipiert ist. Man sollte die Brille eher als Evolutionsschritt sehen. Sie ist ein faszinierendes Gadget, welches rein auf den Konsumentenmarkt abzielt. Und wird damit wahrscheinlich der Flugbahn der Google Glass und Microsofts HoloLens folgen, welche beide ebenfalls als Konsumentenprodukt positioniert wurden, nur um ihre Nische in Industrieanwendungen zu finden. (Eine Anmerkung die Holo-Light dazu machte war jedoch, dass das eingeschränkte Sichtfeld der Brille sie für viele Industrie-Aufgaben disqualifizieren dürfte.)
