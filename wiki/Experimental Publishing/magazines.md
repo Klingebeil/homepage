@@ -1,7 +1,7 @@
 ---
 layout: wikicrumb 
 ---
-A couple of independent magazines I love.
+# A couple of independent magazines, I love.
 
 Makeshift Magazine (sadly not publishing anymore)
 
