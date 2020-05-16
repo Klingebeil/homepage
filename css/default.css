@@ -28,7 +28,7 @@ img {
 }
 
 .img-full .img-info {
-	margin: 5px 0px 0px 0px;
+	margin: 0px;
 	font-family: mono-space, 'Courier New', Courier, monospace;
 	font-size: 0.5em;
 	text-align: right;
@@ -110,7 +110,8 @@ img {
 #video-embed {
     position: relative;
     height: 0;
-    padding-bottom: 56.25%;
+	padding-bottom: 56.25%;
+	margin-top: 32px;
 }
 
 .video-extern {
