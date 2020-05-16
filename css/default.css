@@ -3,6 +3,7 @@
 	--contrast-color: #F2385A;
 	--light-grey: #D3D3D3;
 	--dark-grey: #4A4A4A;
+	--light-yellow: #F8F4C6;
 	--background: #F2F2F2;
 	--contrast-green: #6CA637;
 }
@@ -51,6 +52,36 @@ img {
 	text-decoration: none;
 }
 
+/* REVUE EMBED */
+#newsletter-embed {
+	text-align: center;
+	margin-top: 20px;
+	padding: 10px 30px 30px 30px;
+	border-radius: 0.5em;
+	background-color: var(--light-yellow);
+}
+
+#newsletter-embed input[type=email] {
+	width: 80%;
+	margin-top: 20px;
+	background-color: inherit;
+	font-size: 1em;
+	border: none;
+	border-bottom: 1px solid var(--contrast-color);
+	text-align: center;
+	font-family: calendas-regular, Times, Serif;
+	font-style: italic;
+}
+#newsletter-embed input[type=submit] {
+	margin-top: 20px;
+	padding: 5px 10px 5px 10px;
+	background-color: var(--contrast-color);
+	color: var(--background);
+	border:none;
+	border-radius: 30px;
+	font-family: mono-space, 'Courier New', Courier, monospace;
+}
+
 /* VIDEO EMBEDS */
 
 #video-embed {
@@ -69,7 +100,7 @@ img {
 
 /* FOOTER */
 .footer {
-	margin: 100px 0px 50px 0px;
+	margin: 50px 0px 50px 0px;
     color: var(--dark-grey) !important;
 }
 
