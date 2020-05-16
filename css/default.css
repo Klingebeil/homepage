@@ -54,21 +54,31 @@ img {
 
 /* REVUE EMBED */
 #newsletter-embed {
-	text-align: center;
 	margin-top: 20px;
 	padding: 10px 30px 30px 30px;
 	border-radius: 0.5em;
 	background-color: var(--light-yellow);
 }
 
+#newsletter-firstline {
+	font-size: 18px;
+	text-align: left;
+	margin: 10px 0px 20px 0px;
+}
+
+#newsletter-secondline {
+	font-size: 14px;
+	text-align: left;
+	margin: 10px 0px 20px 0px;
+}
+
 #newsletter-embed input[type=email] {
-	width: 80%;
+	width: 95%;
 	margin-top: 20px;
 	background-color: inherit;
 	font-size: 1em;
 	border: none;
 	border-bottom: 1px solid var(--contrast-color);
-	text-align: center;
 	font-family: calendas-regular, Times, Serif;
 	font-style: italic;
 }
@@ -80,6 +90,12 @@ img {
 	border:none;
 	border-radius: 30px;
 	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-size: 0.6em;
+}
+
+#newsletter-embed ::placeholder {
+	color: var(--dark-grey);
+	opacity: 1;
 }
 
 /* VIDEO EMBEDS */
@@ -235,6 +251,8 @@ blockquote {
 
 hr {
 	margin: 20px 0px 20px 0px;
+	border:none;
+	border-top: solid 1px var(--dark-grey);
 }
 
 /* MEDIA QUERIES */

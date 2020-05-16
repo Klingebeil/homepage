@@ -24,6 +24,8 @@ Die traurige Wahrheit ist, dass wir unglaublich schlecht darin sind, die Zukunft
 
 Ganz allgemein sollten Artikel und Studien über Hypes und Trends immer mit Vorsicht genossen werden, wenn sie nicht auch die Gründe für diese untersuchen. Ansonsten sind sie zu 99,9% (Content) Marketing.
 
+{% include newsletter-embed.html %}
+
 [1]:	http://www.gartner.com/smarterwithgartner/top-trends-in-the-gartner-hype-cycle-for-emerging-technologies-2017/
 [2]:	https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany
 [3]:	https://www.researchgate.net/publication/224182916_Scrutinizing_Gartner%27s_hype_cycle_approach
