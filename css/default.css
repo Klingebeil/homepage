@@ -27,6 +27,13 @@ img {
 	margin: 20px 0px 20px 0px;
 }
 
+.img-full .img-info {
+	margin: 5px 0px 0px 0px;
+	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-size: 0.5em;
+	text-align: right;
+}
+
 /* PAGE LAYOUT */
 .content-wrapper {
 	width: 60%;
