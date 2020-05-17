@@ -1,5 +1,6 @@
 ---
-layout: wikicrumb 
+layout: wikicrumb
+title: manifestos
 ---
 
 
