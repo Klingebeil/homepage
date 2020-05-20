@@ -1,5 +1,7 @@
 <div class="img-full">
     <img src="{{site.baseurl}}/img/{{ include.id }}" alt="{{ include.alt }}">
     
-    <p class="img-info">{{ include.info }}</p>
+    {% if include.info %}
+        <p class="img-info">&#x21B3; {{ include.info }}</p>
+    {% endif %}
 </div>
