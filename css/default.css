@@ -48,7 +48,7 @@ img {
 }
 
 .seg-element {
-	padding: 5px 10px 0px 0px;
+	padding: 5px 10px 3px 0px;
 	margin-right: 10px;
     font-size: 0.7em;
     display: inline-block;
@@ -118,11 +118,20 @@ img {
 }
 
 /*BUTTON STYLE*/
-button {
+.button {
 	border: 1px solid var(--main-txt-color);
     background-color: var(--background);
 	border-radius: 40px;
+	padding: 1px 10px 1px 10px;
+	margin-right: 10px;
+    font-size: 0.7em;
+    display: inline-block;
 	font-family: mono-space, 'Courier New', Courier, monospace;
+	text-decoration: none;
+}
+
+.button:hover {
+	background-color: var(--contrast-color);
 }
 
 /* FOOTER */
