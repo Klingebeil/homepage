@@ -243,10 +243,6 @@ a {
 	color: inherit !important;
 }
 
-a:hover {
-	color: var(--contrast-color);
-}
-
 blockquote {
 	font-family: calendas-italic, Times, Serif;
 	padding-left: 20px;
