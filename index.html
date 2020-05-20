@@ -9,12 +9,11 @@ title: Johannes Klingebiel
 
 <div class="seg-line">
   <div class="uppercase mono-space seg-element">Stuff I wrote...</div>
-  <a class="button" href="{{site.baseurl}}/articles.html"> All Articles &#x279E;</a>
 
   <!--INLINE LIST-->
   <div class="article-list">
       {% for post in site.posts limit:8 %}
           <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }} / </h2></a>
-      {% endfor %}
+      {% endfor %}<a class="button" href="{{site.baseurl}}/articles.html"> All Articles &#x279E;</a>
   </div>
 </div>
