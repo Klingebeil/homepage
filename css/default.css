@@ -243,12 +243,18 @@ b {
 
 h1 {
 	font-weight: normal;
-	line-height: 1.3em;
+	line-height: 1.4em;
 	font-feature-settings: "liga" 1, "calt" 1, "kern" 1, "swsh" 1;
 }
 
 h2 {
 	font-weight: normal;
+	line-height: 1.4em;
+}
+
+h3 {
+	font-size: 1em;
+	text-transform: uppercase;
 }
 
 p {
