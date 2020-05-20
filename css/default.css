@@ -1,7 +1,7 @@
 :root {
     --main-txt-color: #29293a;
 	--contrast-color: #FD675E;
-	--light-grey: #F4F4F4;
+	--light-grey: #d3d3d3;
 	--dark-grey: #4A4A4A;
 	--light-yellow: #F8F4C6;
 	--background: #F2F2F2;
@@ -255,6 +255,8 @@ h2 {
 h3 {
 	font-size: 1em;
 	text-transform: uppercase;
+	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-weight: 100;
 }
 
 p {

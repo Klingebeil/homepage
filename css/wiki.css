@@ -47,17 +47,7 @@
     border-right: solid 1px currentColor;
 }
 
-.notes h1 {
-    font-feature-settings: "liga" 0, "calt" 0, "kern" 1;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 1em;
-    text-transform: bold;
-}
-
 .notes h2 {
-    font-size: 1em;
-    text-transform: capitalize;
     margin-top: 30px;
     padding-top: 5px;
 }
