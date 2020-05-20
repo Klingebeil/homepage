@@ -3,7 +3,7 @@ layout: post
 title: "Notes on AI in Journalism"
 date: 2019-11-18
 teaser-img: 2019-11-18-teaser.jpg
-category: essay
+category: Essay
 ---
 {% include img-full.html id="2019-11-18-01.jpg" alt=""%}
 

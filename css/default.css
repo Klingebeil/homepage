@@ -225,6 +225,10 @@ body {
 	font-family: mono-space, 'Courier New', Courier, monospace;
 }
 
+.serif {
+	font-family: calendas-regular, Times, Serif;
+}
+
 .italics {
 	font-style: italic;
 }
