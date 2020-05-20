@@ -3,6 +3,7 @@ layout: post
 title: "Kanzleramt setzt auf künstliche Intelligenz für Pressemitteilungen"
 date: 2018-03-19
 teaser-img: 2018-03-19-teaser.png
+category: scenario
 ---
 
 {% include img-small.html id="2018-03-19-teaser.png" alt=" "%}

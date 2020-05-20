@@ -3,6 +3,7 @@ layout: post
 title: "What is Conversational Journalism?"
 date: 2016-02-14
 teaser-img: 2016-02-14-teaser.png
+category: essay
 ---
 {% include img-small.html id="2016-02-14-teaser.png" alt=" "%}
 

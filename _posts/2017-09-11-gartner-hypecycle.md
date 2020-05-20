@@ -3,6 +3,7 @@ layout: post
 title: "Was du über den Gartner Hype Cycle wissen solltest"
 date: 2017-09-11
 teaser-img: 2017-09-11-teaser.png
+category: essay
 ---
 
 {% include img-small.html id="2017-09-11-teaser.png" alt=" "%}

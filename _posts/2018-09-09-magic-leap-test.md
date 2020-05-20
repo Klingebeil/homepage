@@ -3,6 +3,7 @@ layout: post
 title: Meine Begegnung mit der Magic Leap
 date: 2018-09-09
 teaser-img: 2018-09-09-teaser.png
+category: report
 ---
 
 {% include img-small.html id="2018-09-09-teaser.png" alt="Magic Leap"%}

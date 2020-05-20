@@ -214,6 +214,10 @@ body {
 	font-size: 0.7em;
 }
 
+.centered {
+	text-align: center;
+}
+
 b {
 	font-family: calendas-bold, Times, Serif;
 }
