@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb
-title: manifestos
+title: Bullshit
 ---
 
 {% include img-full.html id="wiki-bullshit.png" alt= "C.R.A.P. Framework" info="The C.R.A.P. framework for dealing with workplace bullshit" %}
