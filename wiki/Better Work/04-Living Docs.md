@@ -9,4 +9,6 @@ In short: a Google Doc, that‘s used as a project documentation + project narra
 - document chats, ideas, crits, workshops…
 - that “we should be keeping a list of these ideas somewhere” moment
 
-María Izquierdo Alfaro wrote a longer article [all around living docs on medium](https://medium.com/@mariaizquierdo/documenting-work-to-tell-stories-b27da7f3ce96).
+María Izquierdo Alfaro wrote a longer article [all around living docs on medium][1].
+
+[1]:	https://medium.com/@mariaizquierdo/documenting-work-to-tell-stories-b27da7f3ce96
