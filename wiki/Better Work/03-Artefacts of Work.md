@@ -11,4 +11,9 @@ One great example is the work of Craig Mod who seems to use every opportunity to
 
 _Folch_, a studio based in Barcelona, also walks a similar path and has an entire online shop dedicated to artifacts, magazines and books. ([Link][1])
 
+One way of extending this idea is the act of crafting „Anchoring Artefacts“, as described in _[HDL‘s Legible Practices][2]_ (pg. 93).
+
+> Tangible artefacts—documents, objects and other material—subtly embody or express the values of an organisation. Especially when an organisation is growing rapidly or attempt- ing to transform itself, high-res artefacts help embody organisational or operational change which is often more abstract and invisible.
+
 [1]:	https://www.curatedbyfolch.com/
+[2]:	http://helsinkidesignlab.org/pages/legible-practises.html
