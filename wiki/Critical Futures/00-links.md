@@ -2,7 +2,9 @@
 layout: wikicrumb 
 title: Reading Recommendations
 ---
-**Reading Recommendations**
+# Reading Recommendations
+
+## Articles
 
 - [The History of the Future][1] (Audrey Waters)
 - [Future Fail][2] (Jacob Silverman, The Baffler)
