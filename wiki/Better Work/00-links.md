@@ -1,20 +1,16 @@
 ---
 layout: wikicrumb 
-title: Links
+title: Reading Recommendations
 ---
-**Links**
+**Reading Recommendations**
 
 Some great resources I‘ve used extensively in my own work.
 
- [Legible Practices][1] (Helsinki Design Lab)
-
- [ In Studio: Recipes for Systemic change][2] (Helsinki Design Lab)
-
- [Creative Collaborations][3] (Helsinki Design Lab)
-
-[Strategy and stewardship][4] (Tom Critchlow)
-
-[Narrative Strategy: Thoughts on an emerging indie consulting style][5] (Tom Critchlow)
+- [Legible Practices][1] (Helsinki Design Lab)
+- [In Studio: Recipes for Systemic change][2] (Helsinki Design Lab)
+- [Creative Collaborations][3] (Helsinki Design Lab)
+- [Strategy and stewardship][4] (Tom Critchlow)
+- [Narrative Strategy: Thoughts on an emerging indie consulting style][5] (Tom Critchlow)
 
 
 
