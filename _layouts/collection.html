@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+    {% include default_head.html %}
+
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <div class="content-wrapper">
+      {% include header.html %}
+
+      <div class="seg-line uppercase mono-space">
+        <div class="seg-element">Series</div>
+      </div>
+      
+      <h1 class="centered">{{ page.title }}</h1>
+      <p class="italics centered">{{ page.subtitle }}</p>
+      
+      <div class="small mono-space centered">{{ page.content }}</div>
+
+      <ol class="centered-list">
+      {% for post in site.posts reversed %}
+      {% if post.series contains page.series %}
+      
+      <li>
+        <h2 class="centered"><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
+      </li>
+      </ol>
+      
+      {% endif %}
+      {% endfor %}
+
+      {% include footer.html %}
+    </div>
+</body>

@@ -5,6 +5,9 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:name
+  collections:
+    output: true
+    permalink: /collections/:name
 
 defaults:
   - scope:
