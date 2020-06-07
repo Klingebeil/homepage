@@ -3,12 +3,7 @@ layout: post
 title: "Sei Post-Print"
 date: 2018-10-04
 teaser-img: 2018-10-04-teaser.jpg
-category: notes
 ---
-
-{% include img-small.html id="2018-10-04-teaser.jpg" alt=""%}
-
-# Sei Post-Print
 
 Journalismus ist online noch immer gefangen in sehr risiko-aversen Formaten und Layouts, die vom Leser selbst kaum etwas fordern. Und obwohl diese natürlich ihre Berechtigung haben, [tauchen in den letzten Jahren wieder vermehrt Webseiten auf, die bewusst mit dieser Form des Publishings brechen][1].
 

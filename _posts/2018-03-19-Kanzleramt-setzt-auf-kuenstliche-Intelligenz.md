@@ -3,12 +3,7 @@ layout: post
 title: "Kanzleramt setzt auf künstliche Intelligenz für Pressemitteilungen"
 date: 2018-03-19
 teaser-img: 2018-03-19-teaser.png
-category: scenario
 ---
-
-{% include img-small.html id="2018-03-19-teaser.png" alt=" "%}
-
-# Kanzleramt setzt auf künstliche Intelligenz für Pressemitteilungen
 
 **Szenario—Beginn des neuen Jahres will das Kanzleramt erstmals Pressemitteilungen durch künstlich generierten Sprachaufnahmen der Kanzlerin ergänzen — ein Schritt der gleichermaßen auf Kritik und Lob stößt.**
 

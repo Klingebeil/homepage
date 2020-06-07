@@ -3,12 +3,7 @@ layout: post
 title: "Was du über den Gartner Hype Cycle wissen solltest"
 date: 2017-09-11
 teaser-img: 2017-09-11-teaser.png
-category: essay
 ---
-
-{% include img-small.html id="2017-09-11-teaser.png" alt=" "%}
-
-# Was du über den Gartner Hype Cycle wissen solltest
 
 Gartner hat seine Trendaufstellung [für 2018 veröffentlicht][1]. Hier sind ein paar Hinweise, die ich empfehle zu beachten, wenn man die Prognose interpretiert. Denn diese Grafik wird uns garantiert die nächsten 12 Monate in Vorträgen und Artikeln verfolgen.
 

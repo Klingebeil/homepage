@@ -25,6 +25,7 @@ img {
 
 .img-full {
 	margin: 20px 0px 20px 0px;
+	text-align: center;
 }
 
 .img-full .img-info {
@@ -135,7 +136,7 @@ img {
 }
 
 #btn-all-articles {
-	margin-top: 10px;
+	margin-top: 8px;
 }
 
 /* FOOTER */
@@ -194,6 +195,29 @@ img {
 	margin: 20px 0px 50px 20px;
 }
 
+/* CENTRED LIST */
+
+.centered-list {
+	padding: 0px;
+	list-style: none;
+  	counter-reset: mono-space-counter;
+}
+
+.centered-list li{
+	counter-increment: mono-space-counter;
+	margin-top: 10px;
+	padding-top: 10px;
+	border-top: 1px solid var(--main-txt-color);
+	text-align: center;
+	list-style-position: inside;
+}
+
+.centered-list li::before {
+	content: counter(mono-space-counter, upper-roman) ".";
+	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-size: 0.7em;
+}
+
 /* TYPOGRAPHY */
 
 @font-face { font-family: 'calendas-regular'; src: url('../fonts/calendas_plus-webfont.ttf') format('truetype'); }
@@ -232,8 +256,9 @@ body {
 	font-family: calendas-regular, Times, Serif;
 }
 
-.italics {
+em, .italics {
 	font-style: italic;
+	font-family: calendas-italic, Times, Serif;
 }
 
 .small {
@@ -244,7 +269,7 @@ body {
 	text-align: center;
 }
 
-b {
+b, strong, .bold {
 	font-family: calendas-bold, Times, Serif;
 }
 
