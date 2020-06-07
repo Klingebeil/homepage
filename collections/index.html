@@ -2,14 +2,12 @@
 layout: page
 ---
 
-<p><a href="/writing/">blog</a> / <a href="/collections/">collections</a></p>
-
-Collections in progress:
+<p>Collections in progress:</p>
 
 {% assign collection = site.pages | where_exp: "item" , "item.path contains 'collections'" | where_exp: "item" , "item.path contains '.md'"  %}
 
 <ul>
-{% for page in collection %}
-<li><a href="{{ site.baseurl }}{{page.url}}">{{page.title}}</a></li>
+{% for item in collection %}
+    <li><a href="{{ site.baseurl }}{{item.url}}">{{item.title}} {%if item.subtitle%}</a>: {{item.subtitle}} {% endif %}</li>
 {% endfor %}
 </ul>

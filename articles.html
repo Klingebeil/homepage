@@ -18,3 +18,17 @@ title: Articles
     <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }} / </h2></a>
   {% if forloop.last %}</div>{% endif %}
 {% endfor %}
+
+<div class="seg-line">
+  <div class="seg-element mono-space uppercase">Series</div>
+</div>
+
+<p class="mono-space small">Some of my articles are part of a series. You can find every ongoing series here:</p>
+
+{% assign collection = site.pages | where_exp: "item" , "item.path contains 'collections'" | where_exp: "item" , "item.path contains '.md'"  %}
+
+<ul>
+{% for item in collection %}
+    <li><a href="{{ site.baseurl }}{{item.url}}">{{item.title}} {%if item.subtitle%}</a>: {{item.subtitle}} {% endif %}</li>
+{% endfor %}
+</ul>
