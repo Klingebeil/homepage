@@ -1,6 +1,6 @@
 ---
 layout: page
-title: series
+title: Series
 ---
 
 <div class="seg-line">
@@ -10,7 +10,7 @@ title: series
 <h1>{{page.title}}</h1>
 <p>Series in progress:</p>
 
-{% assign collection = site.pages | where_exp: "item" , "item.path contains 'collections'" | where_exp: "item" , "item.path contains '.md'"  %}
+{% assign collection = site.pages | where_exp: "item" , "item.path contains 'series'" | where_exp: "item" , "item.path contains '.md'"  %}
 
 <ul>
 {% for item in collection %}
