@@ -7,9 +7,9 @@
     <div class="content-wrapper">
         {% include header.html %}
         <div class="seg-line uppercase mono-space">
-            <div class="seg-element" href="{{ site.baseurl }}/articles.html">Article</div><div class="seg-element">{{ page.date | date: "%d.%m.%Y" }}</div><div class="seg-element">{% assign words = content | number_of_words %}{{words}} words — {{ words | divided_by:180 }} mins</div>
+            <div class="seg-element">Article</div><div class="seg-element">{{ page.date | date: "%d.%m.%Y" }}</div><div class="seg-element">{% assign words = content | number_of_words %}{{words}} words — {{ words | divided_by:180 }} mins</div>
         </div>
-        <div class="article-wrapper">
+        <div class="article-wrapper" role="article">
             
             {% if page.teaser-img %}
                 {% include img-small.html id=page.teaser-img  alt=""%}
@@ -23,7 +23,12 @@
                 <p class="small mono-space centered">This article is part of the <a href="{{ site.baseurl }}/collections/{{page.series}}.html">{{page.series | replace:'-',' ' | upcase }}</a> series.</p>
             {% endif %}
             {{ content }}
+
         </div>
+        {% if page.series %}
+            {% include collection-nav.html %}
+        {% endif %}
+
         {% include footer.html %}
     </div>
 </body>

@@ -1,3 +1,16 @@
-<div>
-  <p class="small mono-space centered">This article is part of the <a href="{{ site.baseurl }}/collections/{{page.series}}.html">{{page.series | replace:'-',' ' | upcase }}</a> series.</p>
+<div class="collection-nav">
+  <p class="centered mono-space small uppercase">All Chapters</p>
+  <p class="centered bold"><a href="{{ site.baseurl }}/collections/{{page.series}}.html">{{page.series | replace:'-',' ' | upcase }}</a></p >
+  
+  <ol class="centered-list">
+    {% for post in site.posts reversed %}
+    {% if post.series contains page.series %}
+    
+    <li>
+      <p class="centered"><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></p>
+    </li>
+    </ol>
+    
+    {% endif %}
+    {% endfor %}
 </div>

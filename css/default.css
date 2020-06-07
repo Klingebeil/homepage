@@ -45,7 +45,7 @@ img {
 /* SEGMENTED LINE AND HEADER */
 .seg-line {
 	border-top: solid 1px currentColor;
-	margin-top: 50px;
+	margin-top: 20px;
 }
 
 .seg-element {
@@ -256,9 +256,18 @@ body {
 	font-family: calendas-regular, Times, Serif;
 }
 
-em, .italics {
+em, i, .italics {
 	font-style: italic;
 	font-family: calendas-italic, Times, Serif;
+}
+
+b, strong, .bold {
+	font-family: calendas-bold, Times, Serif;
+}
+
+.regular {
+	font-family: calendas-regular, Times, Serif;
+	font-weight: normal;
 }
 
 .small {
@@ -267,10 +276,6 @@ em, .italics {
 
 .centered {
 	text-align: center;
-}
-
-b, strong, .bold {
-	font-family: calendas-bold, Times, Serif;
 }
 
 h1 {
