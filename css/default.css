@@ -134,6 +134,10 @@ img {
 	background-color: var(--contrast-color);
 }
 
+#btn-all-articles {
+	margin-top: 10px;
+}
+
 /* FOOTER */
 .footer {
 	margin: 50px 0px 50px 0px;
@@ -262,10 +266,12 @@ h3 {
 	font-weight: 100;
 }
 
-p {
+p, span, div, blockquote, li, ol, ul {
     overflow-wrap: break-word;
     word-wrap: break-word;
 	hyphens: auto;
+
+	line-height: 1.4em;
 }
 
 a {
@@ -274,10 +280,9 @@ a {
 }
 
 blockquote {
-	font-family: calendas-italic, Times, Serif;
 	padding-left: 20px;
     margin-left: 5px;
-    border-left: 1px solid gray;
+    border-left: 1px solid var(--light-grey);
 }
 
 hr {
