@@ -25,7 +25,7 @@ title: Articles
 
 <p class="mono-space small">Some of my articles are part of a series. You can find every ongoing series here:</p>
 
-{% assign collection = site.pages | where_exp: "item" , "item.path contains 'collections'" | where_exp: "item" , "item.path contains '.md'"  %}
+{% assign collection = site.pages | where_exp: "item" , "item.path contains 'series'" | where_exp: "item" , "item.path contains '.md'"  %}
 
 <ul>
 {% for item in collection %}

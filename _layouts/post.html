@@ -20,7 +20,7 @@
                 <p id="post-subtitle" class="centered italics">{{ page.subtitle }}</p>
             {% endif %}
             {% if page.series %}
-                <p class="small mono-space centered">This article is part of the <a href="{{ site.baseurl }}/collections/{{page.series}}.html">{{page.series | replace:'-',' ' | upcase }}</a> series.</p>
+                <p class="small mono-space centered">This article is part of the <a href="{{ site.baseurl }}/series/{{page.series}}.html">{{page.series | replace:'-',' ' | upcase }}</a> series.</p>
             {% endif %}
             {{ content }}
 
