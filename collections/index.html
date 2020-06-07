@@ -1,0 +1,15 @@
+---
+layout: page
+---
+
+<p><a href="/writing/">blog</a> / <a href="/collections/">collections</a></p>
+
+Collections in progress:
+
+{% assign collection = site.pages | where_exp: "item" , "item.path contains 'collections'" | where_exp: "item" , "item.path contains '.md'"  %}
+
+<ul>
+{% for page in collection %}
+<li><a href="{{ site.baseurl }}{{page.url}}">{{page.title}}</a></li>
+{% endfor %}
+</ul>
