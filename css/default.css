@@ -13,6 +13,10 @@ body {
 	background-color: var(--background);
 }
 
+#intro {
+	margin: 20px 0px 50px 20px;
+}
+
 /* IMAGES */
 img {
 	max-width: 100%;
@@ -131,10 +135,6 @@ img {
 	text-decoration: none;
 }
 
-.button:hover {
-	background-color: var(--contrast-color);
-}
-
 #btn-all-articles {
 	margin-top: 8px;
 }
@@ -178,9 +178,9 @@ img {
 /* SERIES LIST */
 
 .series-block {
-	padding: 5px 10px 5px 15px;
+	padding: 5px 10px 5px 10px;
 	border: 1px solid;
-    margin: 0px 15px 15px 15px;
+    margin: 5px 5px 0px 0px;
 	border-radius: 5px;
 	text-align: center;
 	text-decoration: none;

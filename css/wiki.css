@@ -17,6 +17,10 @@
     border-radius: 5px;
 }
 
+#topic-list {
+    margin-top: 20px;
+}
+
 /* LIST OF NOTES */
 #notes-list {
     padding: 0px;
