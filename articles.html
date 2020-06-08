@@ -23,12 +23,15 @@ title: Articles
   <div class="seg-element mono-space uppercase">Series</div>
 </div>
 
-<p class="mono-space small">Some of my articles are part of a series. You can find every ongoing series here:</p>
+<p class="mono-space small">Some of my articles are part of a larger series. You can find every ongoing series here:</p>
 
 {% assign collection = site.pages | where_exp: "item" , "item.path contains 'series'" | where_exp: "item" , "item.path contains '.md'"  %}
 
-<ul>
 {% for item in collection %}
-    <li><a href="{{ site.baseurl }}{{item.url}}">{{item.title}} {%if item.subtitle%}</a>: {{item.subtitle}} {% endif %}</li>
+    <a class="no-decoration" href="{{ site.baseurl }}{{item.url}}">
+        <div class="series-block">
+            <p>{{item.title}}</p> 
+            {%if item.subtitle%}<p class="mono-space small uppercase">{{item.subtitle}}</p>{% endif %}
+        </div>
+    </a>
 {% endfor %}
-</ul>

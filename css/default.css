@@ -175,6 +175,17 @@ img {
     margin-right: 5px;
 }
 
+/* SERIES LIST */
+
+.series-block {
+	padding: 5px 10px 5px 15px;
+    background-color: var(--light-grey);
+    margin: 0px 15px 15px 15px;
+	border-radius: 5px;
+	text-align: center;
+	text-decoration: none;
+}
+
 /* PROJECT LIST */
 
 #project-list {
@@ -276,6 +287,10 @@ b, strong, .bold {
 
 .centered {
 	text-align: center;
+}
+
+.no-decoration {
+	text-decoration: none;
 }
 
 h1 {
