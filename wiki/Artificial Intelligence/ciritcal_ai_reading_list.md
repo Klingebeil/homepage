@@ -1,5 +1,6 @@
 ---
 layout: wikicrumb 
+title: critical reading
 ---
 # A Critical Reading List
 
