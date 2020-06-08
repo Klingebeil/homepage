@@ -179,7 +179,7 @@ img {
 
 .series-block {
 	padding: 5px 10px 5px 15px;
-    background-color: var(--light-grey);
+	border: 1px solid;
     margin: 0px 15px 15px 15px;
 	border-radius: 5px;
 	text-align: center;
