@@ -1,5 +1,5 @@
 :root {
-    --main-txt-color: #252525;
+	--main-txt-color: #3D4543;
 	--contrast-color: #FD675E;
 	--light-grey: #d3d3d3;
 	--dark-grey: #4A4A4A;
@@ -13,8 +13,8 @@ body {
 	background-color: var(--background);
 }
 
-#intro {
-	margin: 20px 0px 50px 20px;
+.intro {
+	margin: 50px 0px 75px 20px;
 }
 
 /* IMAGES */
@@ -158,11 +158,12 @@ img {
 
 /* ARTICLE LIST */
 .article-list {
-	margin: 20px 0px 30px 20px;
+	margin: 50px 0px 75px 20px;
 }
 
 .article-list a:link {
 	text-decoration: none;
+	margin-right: 5px;
 }
 
 .article-list h2 {
@@ -180,7 +181,7 @@ img {
 .series-block {
 	padding: 5px 10px 5px 10px;
 	border: 1px solid;
-    margin: 5px 5px 0px 0px;
+    margin: 10px 5px 5px 0px;
 	border-radius: 5px;
 	text-align: center;
 	text-decoration: none;

@@ -3,8 +3,10 @@ layout: default
 title: Articles
 ---
 <div class="seg-line"></div>
-<h1>{{ page.title }}</h1>
-<p class="mono-space small">A number of articles and longer essays I‘ve written over the years.</p>
+<div class="intro">
+  <h1>{{ page.title }}</h1>
+  <p class="mono-space small">A number of articles and longer essays I‘ve written over the years.</p>
+</div>
 
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
@@ -15,7 +17,7 @@ title: Articles
     <div class="article-list">
     {% assign date = currentdate %}
   {% endif %}
-    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }} / </h2></a>
+    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }}, </h2></a>
   {% if forloop.last %}</div>{% endif %}
 {% endfor %}
 
@@ -23,15 +25,17 @@ title: Articles
   <div class="seg-element mono-space uppercase">Series</div>
 </div>
 
-<p class="mono-space small">Some of my articles are part of a larger series. You can find every ongoing series here:</p>
+<div class="intro">
+  <p class="mono-space small">Some of my articles are part of a larger series. You can find every ongoing series here:</p>
 
-{% assign collection = site.pages | where_exp: "item" , "item.path contains 'series'" | where_exp: "item" , "item.path contains '.md'"  %}
+  {% assign collection = site.pages | where_exp: "item" , "item.path contains 'series'" | where_exp: "item" , "item.path contains '.md'"  %}
 
-{% for item in collection %}
-    <a class="no-decoration" href="{{ site.baseurl }}{{item.url}}">
-        <div class="series-block">
-            <p>{{item.title}}</p> 
-            {%if item.subtitle%}<p class="mono-space small uppercase">{{item.subtitle}}</p>{% endif %}
-        </div>
-    </a>
-{% endfor %}
+  {% for item in collection %}
+      <a class="no-decoration" href="{{ site.baseurl }}{{item.url}}">
+          <div class="series-block">
+              <p>{{item.title}}</p> 
+              {%if item.subtitle%}<p class="mono-space small uppercase">{{item.subtitle}}</p>{% endif %}
+          </div>
+      </a>
+  {% endfor %}
+</div>

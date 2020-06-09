@@ -13,12 +13,13 @@
     display: inline-block;
     padding: 5px 10px 5px 15px;
     background-color: var(--light-grey);
+    border: 1px solid var(--main-txt-color);
     margin: 0px 15px 15px 0px;
     border-radius: 5px;
 }
 
 #topic-list {
-    margin-top: 20px;
+    margin: 50px 0px 50px 20px;
 }
 
 /* LIST OF NOTES */
@@ -26,9 +27,9 @@
     padding: 0px;
 }
 
-#allnotes-list p{
+#allnotes-list {
     font-size: 0.7em;
-
+    margin: 50px 0px 50px 20px;
 }
 
 .notes {

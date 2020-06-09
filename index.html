@@ -2,13 +2,14 @@
 layout: default
 title: Johannes Klingebiel
 ---
-<div class="seg-line color">
-  <div class="uppercase mono-space color seg-element">{{page.title}}</div>
+<div class="seg-line">
+  <div class="uppercase mono-space seg-element">{{page.title}}</div>
 </div>
-<div id="intro">
-  <h1 class="color normal">Hello, Hallo, Servus,</h1>
-  <p class="color mono-space">I work as a designer and researcher in the innovation team at <i>Süddeutsche Zeitung Digitale Medien GmbH</i>.</p>
-  <p class="color mono-space"><a href="{{ site.baseurl }}/portfolio.html">My projects</a> are currently focussed on exploring possible futures for the news media.</p>
+<div class="intro">
+  <h1 class="color normal">Hello, Hallo, Griaß di,</h1>
+  <p class="color">I work as a designer and researcher in the innovation team at <i>Süddeutsche Zeitung Digitale Medien GmbH</i> in Munich.</p>
+  <p class="color"><a href="{{ site.baseurl }}/portfolio.html">My projects</a> are currently focussed on exploring possible futures for the news media.</p>
+  <p class="color">I also write a <i>(german)</i> Newsletter and you can follow me on <a href="https://twitter.com/Klingebeil">Twitter</a>, <a href="https://www.are.na/johannes-klingebiel">Are.na</a>, or <a href="https://www.instagram.com/klingebeil">Instagram</a>.</p>
 </div>
 
 <div class="seg-line">
@@ -17,7 +18,7 @@ title: Johannes Klingebiel
   <!--INLINE LIST-->
   <div class="article-list">
       {% for post in site.posts limit:8 %}
-          <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }} / </h2></a>
+          <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }}, </h2></a>
       {% endfor %}<a id="btn-all-articles" class="button" href="{{site.baseurl}}/articles.html"> All Articles &#x279E;</a>
   </div>
 </div>
