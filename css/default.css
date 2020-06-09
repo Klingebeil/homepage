@@ -358,6 +358,10 @@ hr {
 	.content-wrapper {
 		width: 90%;
 	}
+
+	.print {
+		display: none;
+	}
 }
 
 @media print {
