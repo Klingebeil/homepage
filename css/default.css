@@ -326,6 +326,16 @@ a {
 	color: inherit !important;
 }
 
+code {
+	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-size: 0.9em;
+	padding: 5px 5px 5px 10px;
+	display: block;
+	margin-right: 10px;
+	background-color: var(--light-grey);
+    border-radius: 5px;
+}
+
 blockquote {
 	padding-left: 20px;
     margin-left: 5px;

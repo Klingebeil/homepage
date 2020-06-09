@@ -13,8 +13,6 @@ In a nutshell, _conversational commerce_ tries not to build a business through a
 
 Without a doubt, being more _conversational_ is also interesting for journalists and news organizations and a couple of outlets are already using chat as a way of reaching their readers.
 
-{% include img-full.html id="2016-02-14-03.png" alt="Quartz App"%}
-
 ## Quartz is “texting” the news
 
 The latest example is _Quartz’s_ first and only iPhone App, which the organization launched last week. Users can receive the news via a pre-programmed course of messages, which are sent to the reader. After every new message, the reader gets two possible answers to choose from, which either ask for more details or trigger the next topic to be sent. Of course, the app does not only send texts, but also pictures, gifs, and—of course—emojis 🎉📰✌🏻.
@@ -26,7 +24,7 @@ I think Quartz’s approach is interesting on many levels:
 
 Though one could argue, that Quartz’s app merely simulates a conversation, but it does so brilliantly.
 
-{% include img-full.html id="2016-02-14-04.png" alt="NYT election slack bot"%}
+{% include img-full.html id="2016-02-14-03.png" alt="Quartz App"%}
 
 ## The NYT Election Slack Bot
 
@@ -38,7 +36,7 @@ This command will enable you to send a question about the election into the NYT 
 
 Yes, you can talk directly to a NYT journalist from inside your Slack team.
 
-{% include img-full.html id="2016-02-14-05.jpg" alt="BBC whatsapp"%}
+{% include img-full.html id="2016-02-14-04.png" alt="NYT election slack bot"%}
 
 ## The BBC’s WhatsApp experience
 
@@ -50,13 +48,15 @@ When Ebola struck out in West-Africa, the [BBC published information about the d
 
 Though WhatsApp is still extremely limited with a missing API and a laborious subscription process, the BBC found an interesting way of not only reaching its readers but also connecting a newsroom to the events unfolding on the ground.
 
-{% include img-full.html id="2016-02-14-06.jpg" alt="Purple chatbot"%}
+{% include img-full.html id="2016-02-14-05.jpg" alt="BBC whatsapp"%}
 
 ## Purple
 
 The easiest way to describe _Purple_ is by inventing a new buzzword: messaging-first newsroom. Founded by [Rebecca Harris](), Purple texts you the news in a similar manner as Quartz, but as real texts. It doesn’t live in an app, but inside your SMS application and instead of choosing from two prewritten answers, [readers have to text back trigger words, which will then result in a new message being sent](). (Or, in case of the republican debate, in a Trump gif)
 
 With this approach, Purple is one of the purest examples of conversational journalism. Like the BBC, [Purple tries to cover certain events, instead of publishing ongoing editorial content](). Though the service is limited to US cellphone numbers, a WhatsApp, Messenger, and Slack extension seems to be in the works.
+
+{% include img-full.html id="2016-02-14-06.jpg" alt="Purple chatbot"%}
 
 ## Where does this leave the news?
 
