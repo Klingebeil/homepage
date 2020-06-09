@@ -270,6 +270,7 @@ body {
 
 em, i, .italics {
 	font-style: italic;
+	font-style: oblique 0deg;
 	font-family: calendas-italic, Times, Serif;
 }
 
