@@ -4,7 +4,7 @@ title: Der Pivot zu Cafés
 subtitle: Medien und Commerce
 date: 2019-03-20
 teaser-img: 2019-03-20-teaser.png
-series: media-commerce
+series: media-&-commerce
 ---
 
 Über das letzte halbe Jahr habe ich eine ganze Reihe von kleineren Bewegungen in der Schnittmenge Medien und Commerce beobachtet, die ich noch nicht ganz mit einem schicken Namen oder Begriff umreißen konnte.
