@@ -8,14 +8,12 @@
   <div class="content-wrapper">
     {% include header_wiki.html %}
     {% include wikibreadcrumb.html %}
-    <p>{{content}}</p>
+    <p class="intro">{{content}}</p>
 
     <div>
     {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | reverse %}
 
     {% assign snippets = site.static_files | where_exp: "item" , "item.path contains folderfilter" %}
-
-    <h3>Notes:</h3>
 
     <ul id="notes-list">
     {% for item in notes %}

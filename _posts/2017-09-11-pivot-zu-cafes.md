@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Der Pivot zu Cafés
-subtitle: Medien und Commerce
+subtitle: Medien und Commerce, Teil I
 date: 2019-03-20
 teaser-img: 2019-03-20-teaser.png
 series: media-&-commerce

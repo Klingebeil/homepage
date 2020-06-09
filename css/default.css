@@ -46,6 +46,10 @@ img {
 	margin: 20px auto 50px auto;
 }
 
+.print {
+	display: none;
+}
+
 /* SEGMENTED LINE AND HEADER */
 .seg-line {
 	border-top: solid 1px currentColor;
@@ -211,6 +215,7 @@ img {
 
 .centered-list {
 	padding: 0px;
+	margin: 50px;
 	list-style: none;
   	counter-reset: mono-space-counter;
 }
@@ -218,7 +223,7 @@ img {
 .centered-list li{
 	counter-increment: mono-space-counter;
 	margin-top: 10px;
-	padding-top: 10px;
+	padding-top: 25px;
 	border-top: 1px solid var(--main-txt-color);
 	text-align: center;
 	list-style-position: inside;
@@ -366,5 +371,9 @@ hr {
 
 	.footer {
 		display: none;
+	}
+
+	.print {
+		display: block;
 	}
   }
