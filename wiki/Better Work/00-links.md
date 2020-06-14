@@ -16,6 +16,8 @@ Some great resources I‘ve used extensively in my own work.
 - [Strategy and stewardship][4] (Tom Critchlow)
 - [Narrative Strategy: Thoughts on an emerging indie consulting style][5] (Tom Critchlow)
 
+## Books
+
 
 
 [1]:	http://helsinkidesignlab.org/pages/legible-practises.html

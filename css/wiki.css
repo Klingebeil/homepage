@@ -38,6 +38,10 @@
     border-top: 1px solid var(--dark-grey);
 }
 
+.notes_content {
+    margin-left: 20px;
+}
+
 .notes img {
     max-width: 100%;
 }
