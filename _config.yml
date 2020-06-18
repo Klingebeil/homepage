@@ -1,5 +1,5 @@
 url: johannesklingebiel.de
-baseurl: "johannesklingebiel.de"
+# baseurl: "johannesklingebiel.de"
 
 # Uncomment for local testing
 # baseurl. "/homepage"
