@@ -285,7 +285,7 @@ b, strong, .bold {
 
 .regular {
 	font-family: calendas-regular, Times, Serif;
-	font-weight: normal;
+	font-weight: 100;
 }
 
 .small {
@@ -301,13 +301,13 @@ b, strong, .bold {
 }
 
 h1 {
-	font-weight: normal;
+	font-weight: 100;
 	line-height: 1.4em;
 	font-feature-settings: "liga" 1, "calt" 1, "kern" 1, "swsh" 1;
 }
 
 h2 {
-	font-weight: normal;
+	font-weight: 100;
 	line-height: 1.4em;
 }
 
