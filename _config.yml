@@ -1,5 +1,5 @@
-url: https://klingebeil.github.io
-baseurl: "/homepage"
+url: https://www.johanneskligebiel.de
+baseurl: "https://www.johanneskligebiel.de/homepage"
 
 collections:
   portfolio:
