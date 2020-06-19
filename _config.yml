@@ -1,8 +1,6 @@
 url: johannesklingebiel.de
-# baseurl: "https://johannesklingebiel.de"
 
-# Uncomment for local testing
-# baseurl. "/homepage"
+# Comment url for local testing
 
 collections:
   portfolio:
