@@ -4,7 +4,7 @@ title: Reading Recommendations
 ---
 # Reading Recommendations
 
-Space10: [Space10 Playbook][1] 
+[Space10 Playbook][1]. Space10
 
 [Make Maintainers: Engineering Education and an Ethics of Care][2] (The MIT Press, 2019).  Andrew L. Russell, Lee Vinsel
 
