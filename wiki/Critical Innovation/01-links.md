@@ -2,7 +2,7 @@
 layout: wikicrumb 
 title: Reading Recommendations
 ---
-#Reading Recommendations
+# Reading Recommendations
 
 Space10: [Space10 Playbook][1] 
 
@@ -10,7 +10,7 @@ Russell, Andrew L. Vinsel, Lee.: [Make Maintainers: Engineering Education and an
 
 Russell, Andrew L. Vinsel, Lee.: [Hail the maintainers][3] (Aeon Psyche, 2016)
 
-##Books
+## Books
 
 Jennifer M. Gildey: The Future: A very short introduction (Book)
 
