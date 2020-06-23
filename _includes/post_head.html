@@ -1,4 +1,11 @@
 <!DOCTYPE html>
 <head>
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/post.css">
+    
+    <!--Social Tags-->
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}"/>
+    <meta property="og:image" content="img/og-img-default.jpg"/>
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="{{ page.content | truncatewords:50 }}" />
 </head>
