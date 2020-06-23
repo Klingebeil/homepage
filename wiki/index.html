@@ -34,7 +34,7 @@ title: Digital Garden
 <div id="allnotes-list" class="mono-space">
 {% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'" | sort:"path" %}
 {% for item in folder1 %}
-  <p><a href="{{ site.url }}/{{ item.url }}">{{item.path}}</a></p>
+  <p><a href="/{{ item.url }}">{{item.path}}</a></p>
 {% endfor %}
 </div>
 
