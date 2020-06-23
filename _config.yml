@@ -1,4 +1,4 @@
-url: johannesklingebiel.de
+# url: johannesklingebiel.de
 
 # Comment url for local testing
 
@@ -16,3 +16,6 @@ defaults:
       type: "portfolio"
     values:
       layout: portfolio
+
+plugins:
+  - jekyll-feed
