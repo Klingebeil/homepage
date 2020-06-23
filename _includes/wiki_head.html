@@ -7,5 +7,5 @@
     <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}"/>
     <meta property="og:image" content="img/og-img-digital-garden.jpg"/>
     <meta property="og:type" content="article" />
-    <meta property="og:description" content="{{ page.content | truncatewords:50 }}" />
+    <meta property="og:description" content="{{ page.content | truncatewords:50 | strip_html }}"/>
 </head>
