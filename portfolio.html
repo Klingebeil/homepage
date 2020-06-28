@@ -12,11 +12,16 @@ title: Portfolio
     {% unless article.path contains "index.html" %}
     <li class="seg-line">
       <div class="seg-element mono-space project-year">{{ article.date | date: "%Y" }}</div>
-      <div class="seg-element capitalize italics">{{ article.category }}</div>
-      <div class="project-summary">
-        <a class=" project-title" href="{{ site.baseurl }}{{ article.url }}"><h2>{{ article.title }}</h2></a>
-        <p>{{ article.summary }}</p>
-      </div>
+      <div class="seg-element uppercase mono-space">{{ article.category }}</div>
+      <a class="no-decoration" href="{{ site.baseurl }}{{ article.url }}">
+        <div class="project-summary">
+          <img class="portfolio-teaser-img" src="{{site.baseurl}}/img/{{ article.teaser-img }}" alt="{{ article.title }} Teaser Image">
+          <div class="portfolio-project-text">
+            <h2 class=" project-title">{{ article.title }}</h2>
+            <p>{{ article.summary }}</p>
+          </div>
+        </div>
+      </a>
     </li>
     {% endunless %}
   {% endfor %}

@@ -4,6 +4,7 @@ title: Futures of Media Tarot
 featured_img: 01.jpg
 date: 2019-01-01
 category: game
+teaser-img: portfolio/future-of-media-tarot/futures-of-media-tarot-teaser.jpg
 summary: Developed to explore different possible futures of the news media, this card game was inspired by a similar project by Superflux and used in workshops at different german conferences.
 ---
 # Futures of Media Tarot
