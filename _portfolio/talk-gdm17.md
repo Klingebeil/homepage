@@ -3,6 +3,7 @@ layout: portfolio
 title: Ein unvollständiger Reiseführer für die Zukunft von AR & VR
 date: 2017-12-14
 category: Talk
+teaser-img: portfolio/talk-gdm17/talk-gdm17-teaser.jpg
 summary: A short talk I was invited to give at the GDM17 on the narratives around AR and VR.
 ---
 # Ein unvollständiger Reiseführer für die Zukunft von AR & VR
