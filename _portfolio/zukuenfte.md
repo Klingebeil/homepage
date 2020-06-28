@@ -16,3 +16,9 @@ As a result we observed a influx of FOMO (fear of missing our) in the questions 
 In collaboration with the Berlin-based consulting agency _Third Wave_ we developed the quarterly magazine _Zukünfte_ (engl. “futures”). Focussed on new technologies we combined short explorations to each tech-trend with different small case-studies to create a magazine that would be useful to our managers but also our colleagues.
 
 During the project I not only headed the editorial part of the project, but also designed and distributed the magazines. The texts were written by the core-team as well as collaborators throughout the organisation and freelancers.
+
+{% include img-full.html id= "portfolio/zukuenfte/spread-01.jpg" alt="Issue 01 spreads" info="Issue 01 spreads" %}
+
+{% include img-full.html id= "portfolio/zukuenfte/spread-02.jpg" alt="Issue 02 spreads" info="Issue 02 spreads" %}
+
+{% include img-full.html id= "portfolio/zukuenfte/spread-03.jpg" alt="Issue 03 spreads" info="Issue 03 spreads" %}
