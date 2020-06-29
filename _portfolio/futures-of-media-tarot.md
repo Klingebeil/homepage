@@ -18,7 +18,7 @@ The game was a prominent part of the ["Media Innovation Camp 2019"][2] in Munich
 
 You can find [a longer write-up on Medium][3] as well as a printable set of cards in german.
 
-{% include img-full.html id="fmt_01.jpeg" alt="test"%}
+{% include img-full.html id="portfolio/futures-of-media-tarot/futures-of-media-tarot-01.jpg" alt="All cards" info="Every Card"%}
 
 [1]:    https://superflux.in/index.php/work/synbio-tarot-reading/#
 [2]:    https://www.facebook.com/media/set/?vanity=MediaLabBayern&set=a.1896367487141877
