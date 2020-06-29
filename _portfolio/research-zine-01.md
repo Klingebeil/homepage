@@ -7,9 +7,9 @@ teaser-img: portfolio/research-zine-01/Research-Zine-teaser.jpg
 summary: "A small zine exploring the current state of luxury. Developed to test a different method of communicating research throughout a complex organisation, the zine also offered up questions and different strategic directions."
 ---
 # Research Zine: Luxury
-Early on in our work at Süddeutsche Zeitung we noticed an organisational tendency to focus on our direct competitors when it came to new ideas, features and concepts. There was a serious lack of fresh ideas from outside this small circle of companies and brands. While trying to challenge this habit we also noticed how the media we used didn‘t seem to stick.
+Early on in our work at Süddeutsche Zeitung we noticed an organizational tendency to exclusively focus on our direct competitors when it came to new ideas, features, and concepts. There was a lack of fresh ideas from outside this small circle of companies and brands. While trying to bring different ideas into the company we also noticed how the media we used didn‘t seem to stick.
 
-As Anand Giridharadas notes: “Powerpoint is the language of the status quo.” We needed new ways if we wanted to transport different ideas. One test was the 16 page zine-project we called _Research Zine_. Issue one, simply titled „Luxury“ explored the modern luxury industry and the ideas and strategies we media companies might copy. Riso-printed by _[Herr und Frau Rio][1]_ on TKTKT paper in black and neon orange the zine was distributed to managers and colleagues working in the marketing and advertising teams at Süddeutsche Zeitung.
+As Anand Giridharadas notes: “Powerpoint is the language of the status quo.” We needed new ways if we wanted to transport different ideas. One test was the 16 page zine-project we called _Research Zine_. Issue one, titled „Luxury“ explored the modern luxury industry and the ideas and strategies media companies might copy. Riso-printed by _[Herr und Frau Rio][1]_ on Metapaper rough white 100gr paper in black and neon-orange ink the zine was distributed to managers and colleagues working in the marketing and advertising teams at _Süddeutsche Zeitung_.
 
 Research, editing and design was handled by myself.
 
