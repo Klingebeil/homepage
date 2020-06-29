@@ -20,6 +20,8 @@ You can find [a longer write-up on Medium][3] as well as a printable set of card
 
 {% include img-full.html id="portfolio/futures-of-media-tarot/futures-of-media-tarot-01.jpg" alt="All cards" info="Every Card"%}
 
+{% include img-full.html id="portfolio/futures-of-media-tarot/futures-of-media-tarot-02.jpg" alt=""%}
+
 [1]:    https://superflux.in/index.php/work/synbio-tarot-reading/#
 [2]:    https://www.facebook.com/media/set/?vanity=MediaLabBayern&set=a.1896367487141877
 [3]:    https://medium.com/media-lab-bayern/das-futures-of-media-tarot-fedc318a7a61
