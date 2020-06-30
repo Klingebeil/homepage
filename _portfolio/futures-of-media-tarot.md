@@ -14,15 +14,18 @@ Which is why we (the Medialab Bayern, my co-author [Christian Simon][1] and myse
 
 The finished Futures of Media Tarot now serves as a workshop tool to open up imaginative horizons, inform players about the big trends currently influencing the industry and challenge their ideas about the futures of journalism and the media as a whole.
 
-The game was a prominent part of the ["Media Innovation Camp 2019"][3] in Munich.
+The game was a prominent part of the "[Media Innovation Camp 2019][3]" in Munich and also played at the "[Frankfurter Tag des Onlinejournalismus 2019][4]" (FTOJ) in Frankfurt.
 
-You can find [a longer write-up on Medium][4] as well as a printable set of cards in german.
+You can find [a longer write-up on Medium][5] as well as a printable set of cards in german.
 
 {% include img-full.html id="portfolio/future-of-media-tarot/futures-of-media-tarot-02.jpg" alt=""%}
 
-{% include img-full.html id="portfolio/future-of-media-tarot/futures-of-media-tarot-01.jpg" alt="All cards"%}
+{% include img-full.html id="portfolio/future-of-media-tarot/futures-of-media-tarot-01.jpg" alt="All cards" info="All 30 cards"%}
+
+{% include img-full.html id="portfolio/future-of-media-tarot/futures-of-media-tarot-03.jpg" alt="FTOJ Workshop" info="Workshop at the Frankfurter Tag des Onlinejournalismus 2019 (© Hessischer Rundfunk)"%}
 
 [1]:    https://twitter.com/Scub4
 [2]:    https://superflux.in/index.php/work/synbio-tarot-reading/#
 [3]:    https://www.facebook.com/media/set/?vanity=MediaLabBayern&set=a.1896367487141877
-[4]:    https://medium.com/media-lab-bayern/das-futures-of-media-tarot-fedc318a7a61
+[4]:    https://ftoj.de/johannes-klingebiel-workshop-zukunft/
+[5]:    https://medium.com/media-lab-bayern/das-futures-of-media-tarot-fedc318a7a61
