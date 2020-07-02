@@ -22,7 +22,7 @@ You can find [a longer write-up on Medium][6] as well as a printable set of card
 
 {% include img-full.html id="portfolio/future-of-media-tarot/futures-of-media-tarot-01.jpg" alt="All cards" info="All 30 cards"%}
 
-{% include img-full.html id="portfolio/future-of-media-tarot/futures-of-media-tarot-03.jpg" alt="FTOJ Workshop" info="Workshop at the Frankfurter Tag des Onlinejournalismus 2019 (© Hessischer Rundfunk)"%}
+{% include img-full.html id="portfolio/future-of-media-tarot/futures-of-media-tarot-03.jpg" alt="FTOJ Workshop" info="Workshop at the Frankfurter Tag des Onlinejournalismus 2019 (Credits: Corinna Klingler/hr)"%}
 
 [1]:    https://twitter.com/Scub4
 [2]:    https://superflux.in/index.php/work/synbio-tarot-reading/#
