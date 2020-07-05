@@ -45,6 +45,8 @@ Für mich ist es hilfreich meinen Newslettern eine Struktur zu geben. Die meist 
 
 {% include img-full.html id="2020-07-05-02.svg" alt="" %}
 
+Andere Blöcke könnten beispielsweise auch „Tweet der Woche“, „Absurde Zahl der Woche“ oder „Meme der Woche“ sein. Alles was dir hilft deine Arbeit zu strukturieren und die Grenzen zu setzen macht nicht nur dir dein Leben einfacher, sondern macht deinen Newsletter für dein Publikum unverwechselbar.
+
 ## Absender: Wer bin ich?
 Der mitunter schwierigste Teil von jedem persönlichen Publishing-Projekt ist die Frage: „Wer bin ich?“ Diese Frage ist eng verbunden mit der Frage nach Tonalität, der Auswahl und Präsentation von Inhalten oder um es einmal umzudrehen der Frage, wie mich mein Publikum wahrnehmen soll.
 
@@ -53,3 +55,8 @@ Will ich der Experte sein, der zu allem etwas tiefgründiges zu sagen hat? Ein n
 In meinem Newsletter will ich als Forscher auftreten. Also Themengebiete verknüpfen, Muster aufzeigen und vielleicht so neue Perspektiven entdecken—Jedoch immer aus einer unvollständigen Position. Sprich: Ich weiß letztendlich auch nicht alles, kann aber meinen Leser:innen immer noch etwas präsentieren und darüber sprechen warum ich es spannend finde und was ich dazu denke. Meist kombiniert mit zusätzlichen Links, um tiefer in einzelne Themen einzusteigen.
 
 Ganz grundsätzlich solltest du aber klar erkennbar der Kopf hinter deinem Newsletter sein. Es ist letztendlich dein größtes Asset du zu sein. Versuch nicht dich zu verstellen oder eine Rolle zu spielen, die du nicht sein willst. Zu schreiben bedeutet die eigenen Gedanken und einen Teil der eigene Persönlichkeit zu transportieren. Je wohler man sich in dieser Rolle fühlt, desto einfach gelingt es. Alles andere ist oft ein sicherer Weg zu einer Schreibblokade.
+
+## Hab Spaß
+Den wichtigsten Tipp, den ich aber geben kann ist der einfach Spaß zu haben. Es gibt keine Regeln wie du deinen Newsletter schreiben sollst oder nicht. Gib sie dir selbst. Und dann spiele mit ihnen, brich sie wenn notwendig und experimentiere. Das schöne an Newslettern ist ihre persönliche Note. Es ist genauso wie ein Blog dein kleines privates Stück Internet und du solltest es mit den Dingen füllen, die dir Spaß machen.
+
+{% include newsletter-embed.html %}
