@@ -13,5 +13,11 @@ One way of extending this idea is the act of crafting „Anchoring Artefacts“,
 
 > Tangible artefacts—documents, objects and other material—subtly embody or express the values of an organisation. Especially when an organisation is growing rapidly or attempt- ing to transform itself, high-res artefacts help embody organisational or operational change which is often more abstract and invisible.
 
+A more familiar example might also be _NASA_ mission patches —easily replicated in [the form of stickers][3] or [posters][4].
+
+> Stickers like that become tokens that represent something more – a shared experience, a shared set of memories that only people who worked on that project will remember and understand. A sticker, like a web page, can be a conscious act of institutional memory.
+
 [1]:	https://twitter.com/craigmod
 [2]:	http://helsinkidesignlab.org/pages/legible-practises.html
+[3]:	https://gilest.org/2017/stickers/
+[4]:	https://gilest.org/2018/posters/
