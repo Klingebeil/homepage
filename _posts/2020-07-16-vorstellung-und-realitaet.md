@@ -52,6 +52,8 @@ Um dies zu erreichen schlägt Critchlow bereits bekannte Werkzeuge vor, die Team
 
 Innovation beginnt mit ihrer eigenen Definition. Wenn Innovation im Journalismus wirklich erfolgreich sein will, muss sie es schaffen, diese Lücke zwischen Vorstellung und Realität zu schließen. Ansonsten wird sie sich damit begnügen müssen, wieder und wieder dem nächsten Hype hinterherzulaufen.
 
+
+
 ---- 
 Mit großer Dankbarkeit an [Meike Winkler][11], [Martin Wiens][12] und [Benjamin Heinz][13] für die Korrekturen und Feedback.
 
