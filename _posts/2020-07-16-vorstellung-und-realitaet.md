@@ -69,5 +69,3 @@ Mit großer Dankbarkeit an [Meike Winkler][11], [Martin Wiens][12] und [Benjamin
 [11]:	https://twitter.com/MeikeWinkler
 [12]:	https://twitter.com/martinwiens
 [13]:	https://twitter.com/HeinzBenjamin
-
-#Messy Middle#
