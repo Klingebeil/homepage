@@ -3,7 +3,7 @@ layout: post
 title: Innovation—Die Lücke zwischen Vorstellung und Realität
 subtitle: "Innovation als Kommunikationsproblem"
 date: 2020-07-16
-teaser-img: 2020-07-16-teaser.svg
+teaser-img: 2020-07-16-teaser.png
 series: the-messy-middle
 ---
 
