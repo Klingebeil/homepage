@@ -17,13 +17,15 @@ Ein Grund für das Wachstum dieses Trends ist eine neue Generation von Tools, wi
 
 Um Erfolg zu haben, reicht es nicht einfach nur Inhalte online zu stellen und zu erwarten, dass Menschen dafür bezahlen. Der Medien-Analyst Thomas Baekdal trifft den Nagel auf den Kopf, [wenn er in seiner Analyse des Trends schreibt][6]:
 
-> You see, the reason people decide to pay you is almost **never because they want to support YOU**, but is almost always because **they want to pay you to support THEM**.
+> You see, the reason people decide to pay you is almost **never because they want to support YOU, but is almost always because they want to pay you to support THEM.**
 
 (Der ganze Artikel ist einen Blick wert, wenn man selbst darüber nachdenkt, eine ähnliche Publikation zu starten.)
 
 Entsprechend haben die Köpfe hinter diesen Publikationen mehrere Hüte auf. Sie produzieren nicht nur Inhalte, sondern sind zudem Community, Sales und Marketing Manager in einem. Und damit [weit weg vom klassischen Selbstverständnis eines Journalisten oder einer Journalistin][7]. (Hier als Zitat über Podcasts)
 
 > Today’s podcast hosts are not just on-air personae, but community managers, designers of incentives, spokespeople for subscription toothbrushes and business-to-business software. The worth of a podcast is no longer just its content, but rather the sum of the relations it produces — fan to host, fan to fan, fake friends eating ice cream on billboards together.
+
+{% include newsletter-embed.html %}
 
 [1]:	https://socialmediawatchblog.de/
 [2]:	https://uebermedien.de/

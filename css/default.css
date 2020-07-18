@@ -369,6 +369,12 @@ blockquote {
     border-left: 1px solid var(--light-grey);
 }
 
+blockquote b, blockquote strong {
+	font-family: calendas-regular, Times, Serif;
+	font-weight: 100;
+	background-color: var(--light-yellow);
+}
+
 hr {
 	margin: 20px 0px 20px 0px;
 	border:none;
