@@ -13,21 +13,29 @@
       <div class="seg-line uppercase mono-space">
         <div class="seg-element">Series</div>
       </div>
-      
-      <h1 class="centered">{{ page.title }}</h1>
-      <p class="italics centered">{{ page.subtitle }}</p>
-      
-      <div class="small mono-space centered">{{ page.content }}</div>
 
-      <ol class="centered-list">
+      {% if page.teaser-img %}
+        {% include img-small.html id=page.teaser-img  alt=""%}
+      {% endif %}
+      
+      <h1>{{ page.title }}</h1>
+      <p class="italics">{{ page.subtitle }}</p>
+      
+      <div class="small mono-space">{{ page.content }}</div>
+
+      <ul id="project-list">
       {% for post in site.posts reversed %}
       {% if post.series contains page.series %}
-      
-      <li>
-        <h2 class="centered"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <div class="small mono-space">{{ post.content | truncatewords:30 }}</div>
-      </li>
-      </ol>
+
+      <li class="seg-line">
+        <div class="seg-element mono-space">{{ post.date | date: "%Y" }}</div>
+        <a class="no-decoration" href="{{ site.baseurl }}{{ post.url }}">
+          <div class="project-summary">  
+            <h2 class="project-title">{{ post.title }}</h2>
+            <p>{{ post.content | truncatewords:30 }} <em class="mono-space small color">READ &#x279E;</em></p>
+          </div>
+        </a>
+      </ul>
       
       {% endif %}
       {% endfor %}

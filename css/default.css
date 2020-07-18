@@ -213,6 +213,15 @@ img {
 	text-decoration: none;
 }
 
+.series-teaser-img {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 8px;
+	width: 32%;
+	@media (max-width: 1020px) {
+		width: 100%; }
+}
+
 /* PROJECT LIST */
 
 #project-list {
@@ -231,30 +240,6 @@ img {
 .project-summary {
 	padding-right: 10px;
 	margin: 20px 0px 50px 20px;
-}
-
-/* CENTRED LIST */
-
-.centered-list {
-	padding: 0px;
-	margin: 50px;
-	list-style: none;
-  	counter-reset: mono-space-counter;
-}
-
-.centered-list li{
-	counter-increment: mono-space-counter;
-	margin-top: 10px;
-	padding-top: 25px;
-	border-top: 1px solid var(--main-txt-color);
-	text-align: center;
-	list-style-position: inside;
-}
-
-.centered-list li::before {
-	content: counter(mono-space-counter, upper-roman) ".";
-	font-family: mono-space, 'Courier New', Courier, monospace;
-	font-size: 0.7em;
 }
 
 /* TYPOGRAPHY */
