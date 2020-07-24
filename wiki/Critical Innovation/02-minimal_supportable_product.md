@@ -16,4 +16,4 @@ My suggestion would be something like a _minimal supportable project_ or (_MSP_)
 
 {% include img-full.html id="wiki/wiki-minimal-supportable-product.svg" alt="" info="Minimal Supportable Product—a sketch" %}
 
-[1]:	johannesklingebiel.de/wiki/Critical%20Innovation/00-dark_matter.html
+[1]:	wiki/Critical%20Innovation/00-dark_matter.html
