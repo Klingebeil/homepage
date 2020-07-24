@@ -1,9 +1,10 @@
 ---
 layout: wikicrumb 
+title: Dark Matter
 ---
 # Dark Matter
 One of the most influential metaphors for my work was Dan Hill‘s „Dark Matter“ from his book „Dark Matter and Trojan Horses“.
-_Dark Matter_ describes the invisible forces influencing organisations:
+_Dark Matter_ describes the invisible forces influencing organizations, projects and concepts:
 
 > organisational culture, policy environments, market mechanisms, legislation, finance models and other incentives, governance structures, tradition and habits, local culture and national identity, the habitats, situations and events that decisions are produced within.
 
