@@ -3,6 +3,7 @@ layout: post
 title: Was ist Boutique Publishing?
 date: 2019-12-09
 teaser-img: 2019-12-09-teaser.png
+series: boutique-publishing
 ---
 
 Wenn etwas in der Medienwelt geschieht, aber niemand es benennt, ist es dann überhaupt ein Trend? In diesem Sinne, willkommen in der wundervollen Welt der Boutique Publikationen.

@@ -28,14 +28,14 @@
         <a class="no-decoration" href="{{ site.baseurl }}{{ post.url }}">
           <div class="project-summary">  
             <h2 class="project-title">{{ post.title }}</h2>
-            <p>{{ post.content | truncatewords:30 }} <em class="mono-space small color">READ &#x279E;</em></p>
+            <p>{{ post.content | truncatewords:20 }} <span class="mono-space small color">READ &#x279E;</span></p>
           </div>
         </a>
-      </ul>
+      </li>
       
       {% endif %}
       {% endfor %}
-
+      </ul>
       {% include footer.html %}
     </div>
 </body>
