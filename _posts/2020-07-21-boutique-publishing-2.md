@@ -34,6 +34,8 @@ Anyway… Behaltet _Substack_ im Auge!
 
 \+ Oh, und es gibt natürlich auch [die ersten Influencer, die Paywalls aufbauen.][11]
 
+{% include newsletter-embed.html %}
+
 [1]:	https://www.getrevue.co/profile/klingebeil/issues/lean-mean-publishing-machine-211337
 [2]:	https://www.nytimes.com/2020/05/24/business/media/new-model-celebrity.html
 [3]:	https://digiday.com/media/how-substack-has-spawned-a-new-class-of-newsletter-entrepreneurs/?utm_campaign=Johannes%20Klingebiel&utm_medium=email&utm_source=Revue%20newsletter
