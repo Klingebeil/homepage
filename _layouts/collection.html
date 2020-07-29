@@ -14,10 +14,11 @@
         <div class="seg-element">Series</div>
       </div>
       
-      <h1>{{ page.title }}</h1>
-      <p class="italics">{{ page.subtitle }}</p>
-      
-      <div class="small mono-space">{{ page.content }}</div>
+      <div class="intro">
+        <h1>{{ page.title }}</h1>
+        <p class="italics">{{ page.subtitle }}</p>
+        <div class="small mono-space">{{ page.content }}</div>
+      </div>
 
       <ul id="project-list">
       {% for post in site.posts reversed %}
