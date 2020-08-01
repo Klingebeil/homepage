@@ -366,6 +366,37 @@ hr {
 	border-top: solid 1px var(--dark-grey);
 }
 
+/* FOOTNOTES */
+
+sup {
+	font-size: 8px;
+	margin-left: 3px;
+	vertical-align: text-top;
+	color: var(--contrast-color);
+	font-family: mono-space, 'Courier New', Courier, monospace;
+}
+.footnotes {
+	border-top: solid 1px currentColor;
+	font-size: 10px;
+	margin-top: 20px;
+  }
+  
+.footnotes p {
+	margin: 10px;
+  }
+  
+a.footnote {
+	text-decoration: none;
+}
+
+a.footnote:before {
+   content: "[";
+  }
+  
+a.footnote:after {
+	  content: "]";
+  }
+
 /* MEDIA QUERIES */
 @media (max-device-width: 1020px) { 
 	.content-wrapper {
