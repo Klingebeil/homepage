@@ -21,6 +21,8 @@ Some resources I‘ve used extensively in my own work.
 
 [Narrative Strategy: Thoughts on an emerging indie consulting style][6]—I like the idea of using communication as a strategic tool for work inside complex organizations. Especially when it comes to trying to influence the deeper layers of organizational meaning, such as imaginaries, visions and intents.
 
+[Experiments in Studio Telemetry][7]—Some interesting experiments around keeping and streamlining criticism and feedback in a studio environment.
+
 
 
 [1]:	http://helsinkidesignlab.org/pages/legible-practises.html
@@ -29,3 +31,4 @@ Some resources I‘ve used extensively in my own work.
 [4]:	https://store.strelka.com/en/items/140
 [5]:	https://tomcritchlow.com/2018/06/28/strategy-stewardship/
 [6]:	https://tomcritchlow.com/2020/02/20/narrative-strategy/
+[7]:	https://medium.com/@bryan/experiments-in-studio-telemetry-be2d68592bcc
