@@ -17,5 +17,7 @@ defaults:
     values:
       layout: portfolio
 
+markdown: kramdown
+
 plugins:
   - jekyll-feed
