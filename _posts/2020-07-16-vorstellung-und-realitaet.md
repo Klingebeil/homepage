@@ -58,7 +58,7 @@ Innovation beginnt mit ihrer eigenen Definition. Wenn Innovation im Journalismus
 Mit großer Dankbarkeit an [Meike Winkler][11], [Martin Wiens][12] und [Benjamin Heinz][13] für die Korrekturen und Feedback.
 
 
-[^1]:	Hilfreich ist an dieser Stelle die Begriffe „Imaginary“ und „Futures“ oder „Zukünfte“ aus der kritischen Zukunftsforschung. Siehe auch Sohail Inayatullah (2007): Six pillars: futures thinking for transforming
+[^1]:	Hilfreich ist an dieser Stelle die Begriffe „Imaginary“ und „Futures“ oder „Zukünfte“ aus der kritischen Zukunftsforschung. Siehe auch Sohail Inayatullah (2007): _Six pillars: futures thinking for transforming_.
 
 [1]:	https://www.theguardian.com/media/pda/2010/jan/28/can-apple-ipad-save-newspapers
 [2]:	https://vtechworks.lib.vt.edu/handle/10919/89518
