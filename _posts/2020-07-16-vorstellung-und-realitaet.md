@@ -35,7 +35,7 @@ Und als Konsequenz haben wir eine Flut an Alexa-Skills, VR-Apps und Daily Podcas
 
 ## Innovation braucht glaubhafte Erzählungen
 
-Wenn Innovation erfolgreich sein will, muss sie sich mit den dominanten Vorstellungen von Innovation und Journalismus auseinandersetzen, anstatt sie nur blind zu erfüllen. Innovationsteams und R&D-Labs müssen ihr Budget und ihre Energie nicht nur in neue Technologien, Entwickler:innen oder hübsche Prototypen stecken, sondern auch in die strategische Kommunikation nach innen und nach außen. Sie müssen nicht nur glaubhaft eine Geschichte über die eigene Arbeit erzählen können, sondern auch die Mythen unter der Oberfläche von Unternehmen hinterfragen und neu prägen.
+Wenn Innovation erfolgreich sein will, muss sie sich mit den dominanten Vorstellungen von Innovation und Journalismus auseinandersetzen, anstatt sie nur blind zu erfüllen. Innovationsteams und R&D-Labs müssen ihr Budget und ihre Energie nicht nur in neue Technologien, Entwickler:innen oder hübsche Prototypen stecken, sondern auch in die strategische Kommunikation nach innen und nach außen. Sie müssen nicht nur glaubhaft eine Geschichte über die eigene Arbeit erzählen können, sondern auch die Mythen unter der Oberfläche von Unternehmen hinterfragen und neu prägen[^1].
 
 Dieser Herangehensweise folgend, sind zukunftsfähige Innovationsteams nicht (ausschließlich) Tech-Labore, sondern vielmehr strategische Begleiter:innen. Für einen solchen Positionswechsel muss auch akzeptiert werden, dass Innovation ein Kommunikationsproblem hat. Eine mögliche Herangehensweise ist das, was der Indie-Consultant [Tom Critchlow][4] als „[Narrative Strategy][5]“ und der Autor [Patrick Tanguay][6] als „[Thought Partnerships][7]“ bezeichnet:
 
@@ -57,6 +57,8 @@ Innovation beginnt mit ihrer eigenen Definition. Wenn Innovation im Journalismus
 ---- 
 Mit großer Dankbarkeit an [Meike Winkler][11], [Martin Wiens][12] und [Benjamin Heinz][13] für die Korrekturen und Feedback.
 
+
+[^1]:	Hilfreich ist an dieser Stelle die Begriffe „Imaginary“ und „Futures“ oder „Zukünfte“ aus der kritischen Zukunftsforschung. Siehe auch Sohail Inayatullah (2007): Six pillars: futures thinking for transforming
 
 [1]:	https://www.theguardian.com/media/pda/2010/jan/28/can-apple-ipad-save-newspapers
 [2]:	https://vtechworks.lib.vt.edu/handle/10919/89518
