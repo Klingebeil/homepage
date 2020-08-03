@@ -360,10 +360,26 @@ blockquote b, blockquote strong {
 	background-color: var(--light-yellow);
 }
 
-hr {
+/*hr {
 	margin: 20px 0px 20px 0px;
 	border:none;
 	border-top: solid 1px var(--dark-grey);
+}*/
+
+hr {
+	overflow: visible; /* For IE */
+	margin: 40px 0px 10px 0px;
+    padding: 0;
+    border: none;
+    color: inherit;
+    text-align: center;
+}
+
+hr:after {
+    content: "***";
+    display: inline-block;
+    position: relative;
+    font-size: 1.5em;
 }
 
 /* FOOTNOTES */
