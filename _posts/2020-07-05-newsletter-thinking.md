@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tipps für bessere Newsletter
-date: 2020-07-05
+date: 2020-08-10
 published: false
 teaser-img: 2020-07-05-teaser.png
 ---
@@ -15,11 +15,11 @@ Newsletter sind sowohl einzelne E-Mails, als auch die Summe dieser. Dein Ziel is
 
 Deswegen versuche ich meine Newsletter eher als Magazin zu verstehen oder genauer als Zine. Als kleines, etwas scrappy Medium, das durch seine Mischung an Inhalten lebt. Es hat längere Themen, witziges, Dinge bei denen man sich den Kopf schüttelt und hin und wieder auch Absätze über mich und meine Projekte. Mein Ziel ist, dass jede Leser:in mindestens einen Link aus dem Newsletter für sich mitnehmen kann.
 
-Dafür ist es hilfreich sich eine klare Struktur für den Newsletter zu überlegen, die leicht zu füllen ist. Meine sieht (meist) wie folgt aus:
+Dafür ist es hilfreich sich eine klare Struktur für den Newsletter zu überlegen, die leicht mit Inhalte zu füllen ist. Ein Großartiges Beispiel ist der Styleguide, den die Investorin [Tina He][1] für [ihren Newsletter _Fake Pixels_ entworfen hat][2].
 
-{% include img-full.html id="2020-07-05-02.svg" alt="" %}
+{% include img-full.html id="2020-08-12-01.png" alt="Screenshot Fake Pixels Styleguide" %}
 
-Andere Blöcke könnten beispielsweise auch „Tweet der Woche“, „Absurde Zahl der Woche“ oder „Meme der Woche“ sein. Alles was dir hilft deine Arbeit zu strukturieren und die Grenzen zu setzen. Es macht nicht nur deine Arbeiter einfacher, sondern macht deinen Newsletter für dein Publikum unverwechselbar.
+Alles was dir hilft deine Arbeit zu strukturieren und die Grenzen zu setzen. Es macht nicht nur deine Arbeiter einfacher, sondern macht deinen Newsletter für dein Publikum unverwechselbar.
 
 ## Interessen anstelle von Personas
 Viele Formatentwicklungen starten oft mit der Frage nach dem Publikum. Personas oder Archetypen werden hier gerne verwendet, oft verbunden mit aufwendigen Befragungen. Es ist grundsätzlich nicht falsch, aber kaum händelbar für Einzelautoren und oft mehr einengend als wirklich zielführend. Personas und Archetypen benötigen zudem oft einen Sprung der Interpretation, um tatsächlich nützlich zu sein. Hilfreicher ist es demografische Daten komplett beiseite zu lassen. Viele Publika entwickeln sich organisch und unabhängig von großen Strategien.
@@ -35,11 +35,11 @@ Nischen, vor allem wenn man sie selbst spannend findet, sind die schnellste Art 
 {% include img-full.html id="2020-07-05-01.svg" alt="" info="Meine Nische" %}
 
 ## Mind the Aufmerksamkeitsspanne
-Okay, im besten Fall haben wir jetzt unsere Nische gefunden. Aber wie schreibe ich einen guten Newsletter? Es gibt ehrlicherweise kein Patentrezept. Es hängt extrem stark davon ab, welche Inhalte ich vermitteln will. Alles von Stichpunkt-Listen bis hin zu kompletten Essays sind generell möglich und gangbar.
+Okay, im besten Fall haben wir jetzt unsere Nische gefunden. Aber wie schreibe ich einen guten Newsletter? Es gibt ehrlicherweise kein Patentrezept. Es hängt extrem stark davon ab, welche Inhalte ich vermitteln will. Alles von Stichpunkt-Listen bis hin zu kompletten Essays sind generell möglich.
 
 Was jedoch im Blick behalten werden sollte, ist die Länge der Mail. Die Aufmerksamkeitsspanne auf dem Smartphone (dem Ort an dem die meisten Newsletter gelesen werde) ist kurz. Push-Benachrichtigungen lenken dein Publikum schnell ab und der Sprung in eine andere App ist einfach.
 
-Grundsätzlich ist also ein knapperer, gut strukturierter Newsletter einem langen Text vorzuziehen. 
+Grundsätzlich ist also ein knapperer, gut strukturierter Newsletter einem langen Text vorzuziehen.
 
 ## Absender: Wer bin ich?
 Der mitunter schwierigste Teil von jedem Publishing-Projekt ist die Frage: „Wer bin ich als Autor?“ Diese Frage ist eng verbunden mit der Frage nach Tonalität, der Auswahl und Präsentation von Inhalten oder—um es einmal umzudrehen—der Frage, wie mich mein Publikum wahrnehmen soll.
@@ -54,10 +54,12 @@ Ganz grundsätzlich solltest du aber klar erkennbar der Kopf hinter deinem Newsl
 Den wichtigsten Tipp, den ich aber geben kann ist: hab Spaß! Es gibt keine Regeln wie du deinen Newsletter schreiben sollst oder nicht. Gib sie dir selbst. Und dann spiele mit ihnen, brich sie wenn notwendig und experimentiere. Das schöne an Newslettern ist ihre persönliche Note. Es ist genauso wie ein Blog dein kleines privates Stück Internet und du solltest es mit den Dingen füllen, die dich interessieren.
 
 ---- 
-Craig Mods Tipps: [https://craigmod.com/essays/on\_writing\_good\_newsletters/][1]
+Craig Mods Tipps: [https://craigmod.com/essays/on\_writing\_good\_newsletters/][3]
 
 
 
 {% include newsletter-embed.html %}
 
-[1]:	https://craigmod.com/essays/on_writing_good_newsletters/
+[1]:	http://tinahe.co/
+[2]:	[https://docs.google.com/spreadsheets/d/1SaIIlvxdp59P8e0RBYWsLF4kPyb-DnjmvivldqM0wIM/edit#gid=0]
+[3]:	https://craigmod.com/essays/on_writing_good_newsletters/
