@@ -312,6 +312,11 @@ b, strong, .bold {
 	font-size: 0.7em;
 }
 
+.small-caps {
+	text-transform: lowercase;
+	font-variant: small-caps;
+}
+
 .centered {
 	text-align: center;
 }
