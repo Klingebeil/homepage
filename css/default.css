@@ -161,6 +161,19 @@ img {
 	text-decoration: none;
 }
 
+.button-disabled {
+	border: 1px solid var(--light-grey);
+	color: var(--light-grey) !important;
+    background-color: var(--background);
+	border-radius: 40px;
+	padding: 1px 10px 1px 10px;
+	margin-right: 10px;
+    font-size: 0.7em;
+    display: inline-block;
+	font-family: mono-space, 'Courier New', Courier, monospace;
+	text-decoration: none;
+}
+
 #btn-all-articles {
 	margin-top: 8px;
 }
