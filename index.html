@@ -5,6 +5,7 @@ title: Johannes Klingebiel
 <div class="seg-line">
   <div class="uppercase mono-space seg-element">{{page.title}}</div>
 </div>
+<!--Intro-->
 <div class="intro">
   <p class="color mono-space small uppercase">Hello, Hallo, Griaß di,</p>
   <h2 class="color">I work as a designer and researcher in the innovation team at the <span class="small-caps">Süddeutsche Zeitung</span> in Munich.</h2>
@@ -15,8 +16,7 @@ title: Johannes Klingebiel
 <div class="seg-line">
   <div class="uppercase mono-space seg-element">Writing</div>
   <div class="uppercase mono-space seg-element"><a href="feed.xml">RSS &#x279E;</a></div>
-
-  <!--INLINE LIST-->
+  <!--Article List-->
   <div class="article-list">
       {% for post in site.posts limit:8 %}
           <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }}, </h2></a>
