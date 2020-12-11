@@ -6,7 +6,7 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:name
-  collections:
+  series:
     output: true
     permalink: /collections/:name
 
@@ -21,3 +21,6 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
+
+sass:
+    sass_dir: _sass

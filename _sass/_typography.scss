@@ -1,0 +1,220 @@
+// CSS for Typography
+/* TYPOGRAPHY */
+
+@font-face { font-family: 'calendas-regular'; src: url('../fonts/calendas_plus-webfont.ttf') format('truetype'); }
+@font-face { font-family: 'calendas-italic'; src: url('../fonts/calendas_plus_italic-webfont.ttf') format('truetype'); }
+@font-face { font-family: 'calendas-bold'; src: url('../fonts/calendas_plus_bold-webfont.ttf') format('truetype'); }
+
+@font-face { font-family: 'mono-space'; src: url('../fonts/RobotoMono-Regular.ttf') format('truetype'); }
+
+body {
+	font-family: calendas-regular, Times, Serif;
+	font-feature-settings: "liga" 1, "calt" 1, "kern" 1;
+	color: $main-txt-color;
+}
+
+.color {
+	color: $contrast-color;
+}
+
+.color-green {
+	color: $contrast-green;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+.capitalize {
+	text-transform: capitalize;
+}
+
+.mono-space {
+	font-family: mono-space, 'Courier New', Courier, monospace;
+}
+
+.serif {
+	font-family: calendas-regular, Times, Serif;
+}
+
+em, i, .italics {
+	font-style: italic;
+	font-style: oblique 0deg;
+	font-family: calendas-italic, Times, Serif;
+}
+
+b, strong, .bold {
+	font-family: calendas-bold, Times, Serif;
+}
+
+.regular {
+	font-family: calendas-regular, Times, Serif;
+	font-weight: 100;
+}
+
+.small {
+	font-size: 0.7em;
+}
+
+.small-caps {
+	text-transform: lowercase;
+	font-variant: small-caps;
+}
+
+.centered {
+	text-align: center !important;
+}
+
+.no-decoration {
+	text-decoration: none;
+}
+
+h1 {
+	font-weight: 100;
+	line-height: 1.4em;
+	font-feature-settings: "liga" 1, "calt" 1, "kern" 1, "swsh" 1;
+}
+
+h2 {
+	font-weight: 100;
+	line-height: 1.4em;
+}
+
+h3 {
+	font-size: 1em;
+	text-transform: uppercase;
+	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-weight: 100;
+}
+
+p, span, div, blockquote, li, ol, ul {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+	hyphens: auto;
+
+	line-height: 1.4em;
+}
+
+a {
+    font-weight: inherit !important;
+	color: inherit !important;
+}
+
+code {
+	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-size: 0.9em;
+	padding: 5px 5px 5px 10px;
+	display: block;
+	margin-right: 10px;
+	background-color: $light-grey;
+    border-radius: 5px;
+}
+
+blockquote {
+	padding-left: 20px;
+    margin-left: 5px;
+    border-left: 1px solid $light-grey;
+}
+
+blockquote b, blockquote strong {
+	font-family: calendas-regular, Times, Serif;
+	font-weight: 100;
+	background-color: $light-yellow;
+}
+
+hr {
+	overflow: visible; /* For IE */
+	margin: 40px 0px 10px 0px;
+    padding: 0;
+    border: none;
+    color: inherit;
+    text-align: center;
+}
+
+hr:after {
+    content: "***";
+    display: inline-block;
+    position: relative;
+    font-size: 1.5em;
+}
+
+/* -- ARTICLES -- */
+
+.article-wrapper {
+    font-size: 18px;
+
+	p {
+		text-align: justify;
+		margin: 32px 0px 0px 0px;
+	} 
+
+	li {
+		margin-top: 0.2em;
+	}
+
+	h1 {
+		text-align: center;
+		margin-bottom: 50px;
+		hyphens: none;
+	}
+
+	h2 { 
+		margin-top: 50px;
+		hyphens: none;
+	}
+
+	ul , ol {
+		margin: 16px 8px 16px 8px;
+		padding-left: 16px;
+	}
+}
+
+#post-title {
+    margin: 30px 20px 0px 20px;
+
+}
+
+#post-subtitle {
+    margin: 30px 0px 50px 0px;
+}
+
+/* FOOTNOTES */
+
+sup {
+	font-size: 8px;
+	margin-left: 3px;
+	vertical-align: text-top;
+	color: $contrast-color;
+	font-family: mono-space, 'Courier New', Courier, monospace;
+}
+.footnotes {
+	border-top: solid 1px currentColor;
+	font-size: 10px;
+	margin-top: 20px;
+	padding-bottom: 10px;
+	background-color: white;
+  }
+  
+.footnotes p {
+	margin: 10px;
+  }
+  
+a.footnote {
+	text-decoration: none;
+}
+
+a.footnote:before {
+   content: "[";
+  }
+  
+a.footnote:after {
+	  content: "]";
+  }
+
+/* -- WIKI -- */
+
+#allnotes-list {
+	a {
+		text-decoration: underline !important;
+	}
+}
