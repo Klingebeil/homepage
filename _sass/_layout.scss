@@ -15,7 +15,7 @@ body {
 /* MEDIA QUERIES */
 @media (max-device-width: 1020px) { 
 	.content-wrapper {
-		width: 90%;
+		width: 90% !important;
 	}
 
 	.print {
