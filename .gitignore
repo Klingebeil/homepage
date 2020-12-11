@@ -1,5 +1,8 @@
 _site/
+_css/
 .bundle/
+.sass-cache/
+.vscode/
 
 wiki/.Ulysses-Group.plist
 wiki/.Ulysses-Settings.plist
