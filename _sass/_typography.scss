@@ -221,11 +221,3 @@ a.footnote:before {
 a.footnote:after {
 	  content: "]";
   }
-
-/* -- WIKI -- */
-
-#allnotes-list {
-	a {
-		text-decoration: underline !important;
-	}
-}
