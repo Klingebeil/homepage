@@ -25,13 +25,45 @@ img {
 .img-full {
 	margin: 20px 0px 20px 0px;
 	text-align: center;
-}
+}	
 
-.img-full .img-info {
+.img-info {
 	margin: 0px;
 	font-family: mono-space, 'Courier New', Courier, monospace;
 	font-size: 0.5em;
 	text-align: center;
+}
+
+.img-gallery {
+	overflow: auto; 
+	margin: 25px auto 25px auto !important;
+	padding: 0px !important;
+
+	li {
+		float: left; 
+		display: block; 
+		margin: 0 0 1% 1%; 
+		width: 49%;
+	}
+
+
+	li a {
+		text-decoration: none !important; 
+	}
+
+	li a span {
+		display: block;
+		text-overflow: ellipsis;
+		overflow: hidden;
+		white-space: nowrap;
+		padding: 3px 0;
+	}
+
+	li a img {
+		width: 100%;
+		display: block;
+	}
+
 }
 
 /* PORTFOLIO LAYOUT */
