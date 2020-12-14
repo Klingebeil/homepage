@@ -153,7 +153,7 @@ img {
     font-size: 0.7em;
     display: inline-block;
 	font-family: mono-space, 'Courier New', Courier, monospace;
-	text-decoration: none;
+	text-decoration: none !important;
 }
 
 .button-disabled {
