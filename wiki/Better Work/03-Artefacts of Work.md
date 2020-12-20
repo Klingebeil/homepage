@@ -17,7 +17,9 @@ A more familiar example might also be _NASA_ mission patches—easily replicated
 
 > Stickers like that become tokens that represent something more – a shared experience, a shared set of memories that only people who worked on that project will remember and understand. A sticker, like a web page, can be a conscious act of institutional memory.
 
-_Facebook‘s_ „[Analog Research Lab][6]“ operates on a similar level. Around 2010 two marketing manager set up a small print-shop on the company campus. A project, which inadvertently played an integral part in not only creating a common company culture, but also propagated it to offices world-wide.
+![][6]![][image-1]
+
+_Facebook‘s_ „[Analog Research Lab][7]“ operates on a similar level. Around 2010 two marketing manager set up a small print-shop on the company campus. A project, which inadvertently played an integral part in not only creating a common company culture, but also propagated it to offices world-wide.
 
 > “It’s more observations across the company,” says Boms, who calls himself a workplace philosopher. “The hope is that the artwork is more empathetic, curious and diverse, and it looks at what’s happening from a critical eye. It’s the pulse of what’s going on internally.”  
 > 
@@ -28,4 +30,7 @@ _Facebook‘s_ „[Analog Research Lab][6]“ operates on a similar level. Aroun
 [3]:	https://gilest.org/2017/stickers/
 [4]:	https://gilest.org/2018/posters/
 [5]:	https://gds.blog.gov.uk/
-[6]:	https://outofoffice.room.com/inside-facebook-analog-research-lab/
+[6]:	https://outofoffice.room.com/wp-content/uploads/2019/04/Facebook-Analog-Lab-Early-Prints-1.jpg
+[7]:	https://outofoffice.room.com/inside-facebook-analog-research-lab/
+
+[image-1]:	https://outofoffice.room.com/wp-content/uploads/2019/04/Facebook-Analog-Lab-Early-Prints-1.jpg
