@@ -6,6 +6,7 @@
 @font-face { font-family: 'calendas-bold'; src: url('../fonts/calendas_plus_bold-webfont.ttf') format('truetype'); }
 
 @font-face { font-family: 'mono-space'; src: url('../fonts/RobotoMono-Regular.ttf') format('truetype'); }
+@font-face { font-family: 'mono-space-bold'; src: url('../fonts/RobotoMono-Bold.ttf') format('truetype'); }
 
 body {
 	font-family: calendas-regular, Times, Serif;
@@ -44,7 +45,7 @@ em, i, .italics {
 }
 
 b, strong, .bold {
-	font-family: calendas-bold, Times, Serif;
+	font-weight: bold;
 }
 
 .regular {
