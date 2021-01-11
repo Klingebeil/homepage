@@ -10,28 +10,11 @@ published: true
 
 <head>
     <style>
-        /*body {
-            background: linear-gradient(-45deg, #ceaca1, #d682a2, #9dd7ec, #a0f3e0);
-            background-size: 400% 400%;
-            animation: gradient 15s ease infinite;
-        }
-        
-        @keyframes gradient {
-            0% {
-		        background-position: 0% 50%;
-            }
-	        50% {
-		        background-position: 100% 50%;
-	        }
-	        100% {
-		        background-position: 0% 50%;
-	        }
-        }*/
-
         #kolophon {
             text-align: left;
             border-spacing: 5px;
             margin: 20px 0px 20px 0px;
+            hyphens: none;
         }
 
         #kolophon th, #kolophon td {
@@ -42,23 +25,42 @@ published: true
         #kolophon th {
             width: 45%;
         }
+
+        img { border-radius: 10px;}
+
+        .hero-image { margin: 20px 0px 20px 0px;}
+        .teaser {margin: -20px 60px 60px 60px !important;}
+        .button, .button-disabled {margin: 0px 0px 20px 0px;}
     </style>
+    <script src="https://gumroad.com/js/gumroad.js"></script>
 </head>
 <body>
 
 {% include bookup_work_in_progress.html %}
 
-<h1 class="centered">Work in Progress</h1>
+<!--TEASER-->
 <p class="mono-space small uppercase centered">Special Project Zine</p>
-<p class="centered">Ein Zine als Dokumentation meiner Erfahrungen aus drei Jahren Arbeit im Innovationsteam der <i>Süddeutschen Zeitung</i>.</p>
+<h1 class="centered">Work in Progress</h1>
+<p class="centered teaser">Ein Zine über meine Erfahrungen aus drei Jahren Innovationsarbeit.</p>
 <p class="centered">Coming in 2021</p>
-<p class="centered"><a class="button-disabled no-decoration no-margin" href="https://gum.co/workinprogess">Jetzt Bestellen</a></p>
+<p class="centered"><a class="button-disabled no-decoration" href="https://gum.co/workinprogess">Jetzt Bestellen</a></p>
+
+<!--INHALTE-->
+<div class="seg-line">
+    <p class="seg-element uppercase mono-space">Inhalt</p>
+</div>
+<p>Diese Zine ist ein zugegebenerweise merkwürdiges Format. Es ist zu lang für einen Blog-Post, aber zu kurz für ein Buch. Es ist auch weder eine Anleitung für erfolgreiche Innovation, noch ist es eine detaillierte Beschreibung meiner Arbeit bei der <i>süddeutschen zeitung</i>. Es ist von allem ein bisschen.</p>
+<p>Es ist mein Versuch, nicht nur meine Gedanken und Erfahrungen zu sammeln, sondern auch eine Innenperspektive zu bieten.</p>
+<p>Bücher über Innovation sind meist von und für Manager:innen geschrieben und beschäftigen sich selten mit den Werkzeugen und Wegen, wie Ideen in komplexen Organisation tatsächlich erfolg haben können. Der Teil, der auch uns in den letzten Jahren am meisten Kopfschmerzen bereitet hat.</p>
+<p>Dieses Zine ist keine vollständige Antwort auf diese Frage, aber eine Hilfestellung.</p>
 <br>
-<script src="https://gumroad.com/js/gumroad.js"></script>
+<img class="hero-image" src="/img/portfolio/work-in-progress/work-in-progress-01.jpg">
+<br>
+
+<!--KOLOPHON-->
 <div class="seg-line">
     <p class="seg-element uppercase mono-space">Kolophon</p>
 </div>
-
 <table id="kolophon" class="small mono-space">
     <tr>
         <th>Druckdaten</th>
