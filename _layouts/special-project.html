@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>
+    {% include default_head.html %}
+
+    <title>{{ page.title }}</title>
+
+    {% include google-analytics.js %}
+</head>
+<body>
+    <div class="content-wrapper">
+        {% include header.html %}
+        <div class="article-wrapper">
+            {{ content }}
+        </div>
+        {% include footer.html %}
+    </div>
+</body>
