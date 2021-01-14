@@ -7,6 +7,7 @@ category: game
 teaser-img: portfolio/future-of-media-tarot/futures-of-media-tarot-teaser.jpg
 summary: "Developed to explore different possible futures of the news media, this card game was inspired by a similar project by Superflux and used in workshops at different german conferences and events."
 ---
+
 # Futures of Media Tarot
 Journalism as a industry has been through a couple of minor and major disruptions in the last two decades. The media experienced a seismic advertising shift and found itself on the shrinking end of the ad budgets. At the same time we can observe how truth as a concept became evermore vague and muddied through the internet and social media. As such parts of the industry at times seems to cultivate their own doom and gloom or romanticizes the past. There‘s a lack of alternative futures to discuss and build towards.
 
@@ -16,7 +17,10 @@ The finished Futures of Media Tarot now serves as a workshop tool to open up ima
 
 The game was a prominent part of the "[Media Innovation Camp 2019][3]" in Munich and also played at the "[Frankfurter Tag des Onlinejournalismus 2019][4]" (FTOJ) in Frankfurt and "[Mind the Progress 2019][5]" in Hamburg.
 
-You can find [a longer write-up on Medium][6] as well as a printable set of cards in german.
+You can find [a longer write-up on Medium][6].
+
+<p class="centered"><a class="button" href="/img/portfolio/future-of-media-tarot/printable-cards.pdf">Download Printable Cards [PDF, German]</a></p>
+<p class="centered"><a class="button" href="/img/portfolio/future-of-media-tarot/single-cards.pdf">Download Single Cards [PDF, German]</a></p>
 
 {% include img-full.html id="portfolio/future-of-media-tarot/futures-of-media-tarot-02.jpg" alt=""%}
 
