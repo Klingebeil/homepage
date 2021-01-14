@@ -1,0 +1,66 @@
+---
+layout: portfolio
+title: Futures of Media Tarot Interactive
+date: 2021-01-12
+category: game
+teaser-img: portfolio/interactive-future-of-media-tarot/teaser.jpg
+summary: "A small tool for generating scenario prompts for possible media futures."
+---
+
+<head>
+    <style>
+        .tarot-text {
+            font-size: 2em;
+            text-align: left !important;
+        }
+
+        .tarot-text em {
+            background: linear-gradient(to top, #F8F4C6 50%, transparent 50%);
+            border-radius: 5px;
+            padding: 0px 5px 0px 5px;
+        }
+    </style>
+</head>
+<body>
+    <p class ="small mono-space">This is a digital version of the "<a hfre="/portfolio/futures-of-media-tarot">Future of Media Tarot</a>" I created in 2019 in cooperation with the <a href="https://www.media-lab.de/">Media Lab Bayern</a>.</p>
+    <br>
+    <p class="tarot-text">You‘re <em id="card-role">Role</em>, operating in <em id="card-city">location</em> in <em id="card-time">time</em>. You‘re trying to <em id="card-goal">goal</em>, but you have to face <em id="card-factor1">Factor 1</em> and <em id="card-factor2">Factor 2</em>.</p>
+    <p><a id="refresh" class="button">Create a new Scenario</a></p>
+    
+    <script type="text/javascript">
+        
+        var role = ['a journalist', 'a journalism school', 'an editor in chief', 'a publisher', 'a broadcaster', 'a media start-up', 'a content creator'];
+        var city = ['Berlin', 'New York', 'Hong Kong', 'Munich', 'Brussels', 'Mexico City', 'Cape Town', 'London', 'Copenhagen', 'Luanda', 'Dar es Salaam','Douala', 'Bangalore', 'Chengdu','Singapore'];
+        var goal = ['get rich', 'be the fourth estate', 'create a new public sphere', 'be an activist', 'become famous through your work', 'entertain'];
+        var factor1 = ['splinternets', 'an election', 'an universal basic income', 'a post-privacy world', 'a post-screen media world', 'a multipolar world order', 'runaway climate change', 'a new golden age of media'];
+        var factor2 = ['deep fakes', 'radical journalistic transparence', 'a highly precarious media landscape', 'automated newsrooms', 'the end of advertising', 'extreme competition', 'a polarized public'];
+
+        function shuffle(array){
+            var array = array;
+            var position =  Math.floor(Math.random() * array.length);
+
+            //check if 'role' == journalism school to modify 'goal'
+            if (array[position] == 'a journalism school') {
+                document.getElementById("card-goal").innerHTML = "to teach how to ";
+            }
+            return array[position];
+        }
+
+        function createScenario() {
+            document.getElementById("card-goal").innerHTML = ""; //Delete 'goal'
+
+            document.getElementById("card-role").innerHTML = shuffle(role);
+            document.getElementById("card-city").innerHTML = shuffle(city);
+            document.getElementById("card-time").innerHTML = 2025 + Math.floor(Math.random() * 60);
+            document.getElementById("card-goal").innerHTML += shuffle(goal);
+            document.getElementById("card-factor1").innerHTML = shuffle(factor1);
+            document.getElementById("card-factor2").innerHTML = shuffle(factor2);
+        }
+
+        document.addEventListener("load", createScenario());
+
+        document.getElementById("refresh").addEventListener("click", function() {
+            createScenario();
+        });
+    </script>
+</body>
