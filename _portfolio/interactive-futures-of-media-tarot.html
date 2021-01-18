@@ -12,6 +12,7 @@ summary: "A small tool for generating scenario prompts for possible media future
         .tarot-text {
             font-size: 2em;
             text-align: left !important;
+            min-height: 400px;
         }
 
         .tarot-text em {
@@ -19,14 +20,27 @@ summary: "A small tool for generating scenario prompts for possible media future
             border-radius: 5px;
             padding: 0px 5px 0px 5px;
         }
+
+        .tarot-wrapper {
+            border: 1px solid black;
+            border-radius: 10px;
+            padding: 0px 20px 20px 20px;
+        }
     </style>
 </head>
 <body>
     <p class ="small mono-space">This is a digital version of the "<a href="https://johannesklingebiel.de/portfolio/futures-of-media-tarot">Future of Media Tarot</a>" I created in 2019 in cooperation with the <a href="https://www.media-lab.de/">Media Lab Bayern</a>.</p>
     <br>
-    <p class="tarot-text">You‘re <em id="card-role">Role</em>, operating in <em id="card-city">location</em> in <em id="card-time">time</em>. You‘re trying to <em id="card-goal">goal</em>, but you have to face <em id="card-factor1">Factor 1</em> and <em id="card-factor2">Factor 2</em>.</p>
-    <p><a id="refresh" class="button">Create a new Scenario</a></p>
-    
+    <div class="tarot-wrapper">
+        <p class="tarot-text">You‘re <em id="card-role">Role</em>, operating in <em id="card-city">location</em> in <em id="card-time">time</em>. You‘re trying to <em id="card-goal">goal</em>, but you have to face <em id="card-factor1">Factor 1</em> and <em id="card-factor2">Factor 2</em>.</p>
+        <p><a id="refresh" class="button">Create a new Scenario</a></p>
+        <div class="seg-line"></div>
+        <!--<ul class="small mono-space">
+            <li>How might the flow of and access to information change?</li>
+            <li>How does your protagonist finance his/her work?</li>
+        </ul>-->
+
+    </div>
     <script type="text/javascript">
         
         var role = ['a journalist', 'a journalism school', 'an editor in chief', 'a publisher', 'a broadcaster', 'a media start-up', 'a content creator'];
@@ -34,6 +48,12 @@ summary: "A small tool for generating scenario prompts for possible media future
         var goal = ['get rich', 'be the fourth estate', 'create a new public sphere', 'be an activist', 'become famous through your work', 'entertain', 'build a sustainable organization'];
         var factor1 = ['splinternets', 'an election', 'a universal basic income', 'a post-privacy world', 'a post-screen media world', 'a multipolar world order', 'runaway climate change', 'a new golden age of journalism'];
         var factor2 = ['deep fakes', 'radical journalistic transparence', 'a highly precarious media landscape', 'automated newsrooms', 'the end of advertising', 'extreme competition', 'a polarized public', 'monopolized media'];
+
+        var roleQuestions = ['How hard/easy is the access to sources and information?', 'What does the curriculum look like?', 'Which roles, functions and skills are needed in your newsroom?', 'What does your business modell look like?', 'What does your business modell look like?', 'Which risks do you have to face?', 'Which channels are you using and why?']
+        var cityQuestions
+        var goalQuestions
+        var factor1Questions = ['How might the flow of and access to information change?', 'What kind of role does your protagonist play in an election?', 'What kind of social status has your protagnoist?', 'How can us avoid surveillance tools and how might you use them for your benefit?', 'How might the flow of and access to information change?', 'Which new political, economic and cultural power blocks exist?', 'What kind of impact has a rapidly changing climate on your work?', 'How does this new golden age manifest?']
+        var factor2Questions = ['How do deep fakes impact trust in journalism and in the wider society?', 'What does the relationship between society and media look like?', 'How will journalists be able to still finance their work and life?', 'What kind of tasks or roles are automated? How does this change the work of journalists?', 'Which new business modells are emerging?', 'What‘s the secret sauce you use to distinguish yourself from your competition?']
 
         function shuffle(array){
             var array = array;
