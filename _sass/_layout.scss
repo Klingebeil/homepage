@@ -16,6 +16,8 @@ body {
 
 .no-margin {margin: 0px !important};
 
+.float {position: absolute; z-index: 9;}
+
 /* IMAGES */
 img {
 	max-width: 100%;

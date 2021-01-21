@@ -5,6 +5,12 @@ title: Johannes Klingebiel
 <div class="seg-line">
   <div class="uppercase mono-space seg-element">{{page.title}}</div>
 </div>
+<!--FLOAT-->
+<!--<div class="float" id="zine-float"> 
+  <img src="img/work-in-progress-header.png">
+  <div id="float-text">Ein Zine über <em class="small-caps">Innovation</em></div>
+  <div class="mono-space"><a class="button" href="/portfolio/work-in-progress">Jetzt bestellen</a></div>
+</div>-->
 <!--Intro-->
 <div class="intro">
   <p class="color mono-space small uppercase">Hello, Hallo, Griaß di,</p>
@@ -23,3 +29,60 @@ title: Johannes Klingebiel
       {% endfor %}<a id="btn-all-articles" class="button" href="{{site.baseurl}}/articles.html"> All Articles &#x279E;</a>
   </div>
 </div>
+<style>
+  #zine-float {
+    background-color: #22429B;
+    color: white;
+    width: 300px;
+    height: 170px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    transform: rotate(15deg);
+
+    left: 590px;
+    top: 100px;
+
+    box-shadow: 0 1px 2px rgba(0,0,0,0.07), 
+                0 2px 4px rgba(0,0,0,0.07), 
+                0 4px 8px rgba(0,0,0,0.07), 
+                0 8px 16px rgba(0,0,0,0.07),
+                0 16px 32px rgba(0,0,0,0.07), 
+                0 32px 64px rgba(0,0,0,0.07);
+  }
+
+  #zine-float img {
+    width: 50%;
+    margin-bottom: 10px;
+  }
+
+  #zine-float em {font-family: calendas-regular;}
+  #zine-float .button {background-color: #22429B; border-color: white; margin: 15px 0px 0px 0px;}
+</style>
+
+<script>
+var offset = [0,0];
+var divOverlay = document.getElementById ("zine-float");
+var isDown = false;
+divOverlay.addEventListener('mousedown', function(e) {
+    isDown = true;
+    offset = [
+        divOverlay.offsetLeft - e.clientX,
+        divOverlay.offsetTop - e.clientY
+    ];
+}, true);
+document.addEventListener('mouseup', function() {
+    isDown = false;
+}, true);
+
+document.addEventListener('mousemove', function(e) {
+    event.preventDefault();
+    if (isDown) {
+        divOverlay.style.left = (e.clientX + offset[0]) + 'px';
+        divOverlay.style.top  = (e.clientY + offset[1]) + 'px';
+    }
+}, true);
+</script>
