@@ -73,6 +73,8 @@ title: Johannes Klingebiel
 var offset = [0,0];
 var divOverlay = document.getElementById ("zine-float");
 var isDown = false;
+
+//mouse
 divOverlay.addEventListener('mousedown', function(e) {
     isDown = true;
     offset = [
@@ -91,4 +93,25 @@ document.addEventListener('mousemove', function(e) {
         divOverlay.style.top  = (e.clientY + offset[1]) + 'px';
     }
 }, true);
+
+//touch
+divOverlay.addEventListener('touchstart', function(e) {
+    isDown = true;
+    offset = [
+        divOverlay.offsetLeft - e.clientX,
+        divOverlay.offsetTop - e.clientY
+    ];
+}, true);
+document.addEventListener('touchend', function() {
+    isDown = false;
+}, true);
+
+document.addEventListener('touchmove', function(e) {
+    event.preventDefault();
+    if (isDown) {
+        divOverlay.style.left = (e.clientX + offset[0]) + 'px';
+        divOverlay.style.top  = (e.clientY + offset[1]) + 'px';
+    }
+}, true);
+
 </script>
