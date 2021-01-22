@@ -45,9 +45,9 @@ summary: "A small tool for generating scenario prompts for possible media future
     <div class="tarot-wrapper">
         <p class="tarot-text">You‘re <em id="card-role">Role</em>, operating in <em id="card-city">location</em> in <em id="card-time">time</em>. You‘re trying to <em id="card-goal">goal</em>, but you have to face <em id="card-factor1">Factor 1</em> and <em id="card-factor2">Factor 2</em>.</p>
         <p><a id="refresh" class="button">Create a new Scenario</a></p>
-        <div class="seg-line"></div>
+        <!--<div class="seg-line"></div>
         <ul class="small mono-space" id="tarot-questions">
-        </ul>
+        </ul>-->
 
     </div>
     <script type="text/javascript">
@@ -73,7 +73,7 @@ summary: "A small tool for generating scenario prompts for possible media future
                 document.getElementById("card-goal").innerHTML = "to teach how to ";
             }
 
-            if (array == role) {
+            /*if (array == role) {
                 document.getElementById("tarot-questions").innerHTML += "<li>" + roleQuestions[position] + "</li>";
             } else if (array == city) {
                 document.getElementById("tarot-questions").innerHTML += "<li>" + cityQuestions[Math.floor(Math.random() * cityQuestions.length)] + "</li>";
@@ -81,7 +81,7 @@ summary: "A small tool for generating scenario prompts for possible media future
                 document.getElementById("tarot-questions").innerHTML += "<li>" + factor1Questions[position] + "</li>";   
             } else if (array == factor2) {
                 document.getElementById("tarot-questions").innerHTML += "<li>" + factor2Questions[position] + "</li>";
-            } ;
+            } ;*/
 
             return array[position];
         }
