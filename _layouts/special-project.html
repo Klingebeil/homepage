@@ -3,6 +3,12 @@
     {% include default_head.html %}
 
     <title>{{ page.title }}</title>
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:image" content="{{ site.url }}/img/{{ page.teaser-img }}"/>
+    <meta property="og:image:width" content="500" />
+    <meta property="og:image:height" content="500" />
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="{{ page.content | truncatewords:50 | strip_html | markdownify }}" />
 
     {% include google-analytics.js %}
 </head>
