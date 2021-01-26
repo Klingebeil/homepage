@@ -72,23 +72,11 @@ summary: "A small tool for generating scenario prompts for possible media future
             if (array[position] == 'a journalism school') {
                 document.getElementById("card-goal").innerHTML = "to teach how to ";
             }
-
-            /*if (array == role) {
-                document.getElementById("tarot-questions").innerHTML += "<li>" + roleQuestions[position] + "</li>";
-            } else if (array == city) {
-                document.getElementById("tarot-questions").innerHTML += "<li>" + cityQuestions[Math.floor(Math.random() * cityQuestions.length)] + "</li>";
-            } else if (array == factor1) {
-                document.getElementById("tarot-questions").innerHTML += "<li>" + factor1Questions[position] + "</li>";   
-            } else if (array == factor2) {
-                document.getElementById("tarot-questions").innerHTML += "<li>" + factor2Questions[position] + "</li>";
-            } ;*/
-
             return array[position];
         }
 
         function createScenario() {
             document.getElementById("card-goal").innerHTML = ""; //Delete 'goal'
-            document.getElementById("tarot-questions").innerHTML = ""; //Delete Questions
 
             document.getElementById("card-role").innerHTML = shuffle(role);
             document.getElementById("card-city").innerHTML = shuffle(city);
