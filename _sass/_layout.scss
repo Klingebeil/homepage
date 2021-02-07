@@ -4,7 +4,7 @@ $contrast-color: #FD675E;
 $light-grey: #d3d3d3;
 $dark-grey: #4A4A4A;
 $light-yellow: #F8F4C6;
-$background: #F7F6F1;
+$background: #EFEFEF;
 $contrast-green: #68B053;
 
 body {
@@ -12,11 +12,51 @@ body {
 	background-color: $background;
 }
 
+/* Layout */
+
+.row {
+	display: flex;
+	padding: 0px 20px 0px 20px;
+
+	@media (max-width: 1024px) {
+		display: inline-block;
+	}
+}
+.column-50 {
+	width: 50%;
+	box-sizing: border-box;
+	margin-right: 10px;
+
+	@media (max-width: 1024px) {
+		width: 100%;
+		max-width: 100%;
+	}
+
+}
+
+.column-25 {
+	width: 25%;
+	box-sizing: border-box;
+	margin-right: 10px;
+
+	@media (max-width: 1024px) {
+		width: 100%;
+		max-width: 100%;
+	}
+} 
+
+.column-100 {
+	width: 100%;
+	box-sizing: border-box;
+}
+
 /* Modifiers */
 
 .no-margin {margin: 0px !important};
 
 .float {position: absolute; z-index: 9;}
+
+.resp-no-display { @media (max-width: 1024px) {display:none;}}
 
 /* IMAGES */
 img {
@@ -110,10 +150,21 @@ img {
 	display: none;
 }
 
+/* -- INDEX PAGE --*/
+
+.intro {
+	margin: 50px 10px 75px 20px;
+}
+
+#intro-column {
+	//background-color: #ffffff;
+	border-radius: 0em 0em 0.5em 0.5em;
+}
+
+
 /* SEGMENTED LINE AND HEADER */
 .seg-line {
 	border-top: solid 1px currentColor;
-	margin-top: 20px;
 }
 
 .seg-element {
@@ -122,10 +173,9 @@ img {
     font-size: 0.7em;
     display: inline-block;
 	border-right: solid 1px currentColor;
-}
 
-.seg-element a:link {
-	text-decoration: none;
+	& a:link {
+		text-decoration: none;}
 }
 
 /* REVUE EMBED */
@@ -191,11 +241,11 @@ img {
     background-color: #ffffff;
 	border-radius: 40px;
 	padding: 1px 10px 1px 10px;
-	margin-right: 10px;
     font-size: 0.7em;
     display: inline-block;
 	font-family: mono-space, 'Courier New', Courier, monospace;
 	text-decoration: none !important;
+	display: inline-block !important;
 	cursor: pointer;
 	transition: all 400ms 0ms;
 
@@ -226,6 +276,10 @@ img {
 .footer {
 	margin: 50px 0px 50px 0px;
     color: $dark-grey !important;
+
+	& .button {
+		margin-right: 5px
+	}
 }
 
 .footer a:link {
@@ -241,7 +295,7 @@ img {
 
 /* ARTICLE LIST */
 .article-list {
-	margin: 50px 0px 75px 20px;
+	margin: 80px 0px 75px 20px;
 }
 
 .article-list a:link {
@@ -407,8 +461,4 @@ img {
 	.print {
 		display: block;
 	}
-}
-
-.intro {
-	margin: 50px 0px 75px 20px;
 }

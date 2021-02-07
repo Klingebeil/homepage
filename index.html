@@ -2,25 +2,44 @@
 layout: default
 title: Johannes Klingebiel
 ---
-<div class="seg-line">
-  <div class="uppercase mono-space seg-element">{{page.title}}</div>
-</div>
-<!--Intro-->
-<div class="intro">
-  <p class="color mono-space small uppercase">Hello, Hallo, Griaß di,</p>
-  <h2 class="color">I work as a designer and researcher in the innovation team at the <span class="small-caps">Süddeutsche Zeitung</span> in Munich.</h2>
-  <h2 class="color"><a href="{{site.baseurl}}/portfolio">My projects</a> are currently focussed on exploring possible futures for the news media.</h2>
-  <h2 style="color: #22429B">I recently <a href="{{site.baseurl}}/portfolio/work-in-progress">wrote and published a zine</a> in German about my experiences and learnings of working in an innovation team for three years.</h2>
-  <h2 class="color">I also write a <i>(German)</i> <a href="https://www.getrevue.co/profile/klingebeil">Newsletter</a> and you can follow me on <a href="https://twitter.com/Klingebeil">Twitter</a>, <a href="https://www.are.na/johannes-klingebiel">Are.na</a>, or <a href="https://www.instagram.com/klingebeil">Instagram</a>.</h2>
-</div>
 
-<div class="seg-line">
-  <div class="uppercase mono-space seg-element">Writing</div>
-  <div class="uppercase mono-space seg-element"><a href="feed.xml">RSS &#x279E;</a></div>
-  <!--Article List-->
-  <div class="article-list">
-      {% for post in site.posts limit:8 %}
-          <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }}, </h2></a>
-      {% endfor %}<a id="btn-all-articles" class="button" href="{{site.baseurl}}/articles.html"> All Articles &#x279E;</a>
+<div class="row">
+  <div class="column-100">
+    {% include header.html %}
   </div>
 </div>
+
+<div class="row">
+<div class="column-50" id="intro-column">
+  <div class="seg-line">
+    <div class="uppercase mono-space seg-element">{{page.title}}</div>
+  </div>
+  <!--Intro-->
+  <div class="intro">
+    <p class="mono-space small uppercase">Hello, Hallo, Griaß di,</p>
+    <h2>I work as a designer and researcher in the innovation team at the <span class="small-caps">Süddeutsche Zeitung</span> in Munich.</h2>
+    <h2><a class="button uppercase small" href="{{site.baseurl}}/portfolio">My projects</a> are currently focussed on exploring possible futures for the news media.</h2>
+    <h2 style="color: #22429B">I recently <a class="button uppercase small" href="{{site.baseurl}}/portfolio/work-in-progress">wrote and published a zine</a> in German about my experiences and learnings of working in an innovation team for three years.</h2>
+    <h2>I also write a <i>(German)</i> <a class="button uppercase small" href="https://www.getrevue.co/profile/klingebeil">Newsletter</a> and you can follow me on <a class="button uppercase small" href="https://twitter.com/Klingebeil">Twitter</a>, <a class="button uppercase small" href="https://www.are.na/johannes-klingebiel">Are.na</a>, or <a class="button uppercase small" href="https://www.instagram.com/klingebeil">Instagram</a>.</h2>
+  </div>
+</div>
+
+<div class="column-50">
+  <div class="seg-line">
+    <div class="uppercase mono-space seg-element">Writing</div>
+    <div class="uppercase mono-space seg-element"><a href="feed.xml">RSS &#x279E;</a></div>
+    <!--Article List-->
+    <div class="article-list">
+        {% for post in site.posts limit:8 %}
+            <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }}, </h2></a>
+        {% endfor %}<a id="btn-all-articles" class="button" href="{{site.baseurl}}/articles.html"> All Articles &#x279E;</a>
+    </div>
+  </div>
+</div>
+</div>
+<div class="row">
+  <div class="column-100">
+    {% include footer.html %}
+  </div>
+</div>
+

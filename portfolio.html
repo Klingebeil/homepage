@@ -2,7 +2,7 @@
 layout: default
 title: Portfolio
 ---
-<div class="seg-line"></div>
+<!--<div class="seg-line"></div>
 <div class="intro"><h1>{{ page.title }}</h1></div>
 
 {% assign work_items = site.portfolio | sort: 'date' | reverse %}
@@ -25,4 +25,53 @@ title: Portfolio
     </li>
     {% endunless %}
   {% endfor %}
-</ul>
+</ul>-->
+
+<div class="row">
+  <div class="column-100">
+    {% include header.html %}
+  </div>
+</div>
+
+<div class="row">
+
+<div class="column-25">
+  <div class="seg-line"></div>
+  <div class="intro"><h1>{{ page.title }}</h1></div>
+</div>
+
+<div class="column-50">
+    {% assign work_items = site.portfolio | sort: 'date' | reverse %}
+
+    <ul id="project-list">
+      {% for article in work_items %}
+        {% unless article.path contains "index.html" %}
+        <li class="seg-line">
+          <div class="seg-element mono-space project-year">{{ article.date | date: "%Y" }}</div>
+          <div class="seg-element uppercase mono-space">{{ article.category }}</div>
+          <a class="no-decoration" href="{{ site.baseurl }}{{ article.url }}">
+            <div class="project-summary">
+              <img class="portfolio-teaser-img" src="{{site.baseurl}}/img/{{ article.teaser-img }}" alt="{{ article.title }} Teaser Image">
+              <div class="portfolio-project-text">
+                <h2 class=" project-title">{{ article.title }}</h2>
+                <p>{{ article.summary }}</p>
+              </div>
+            </div>
+          </a>
+        </li>
+        {% endunless %}
+      {% endfor %}
+    </ul>
+</div>
+
+<div class="column-25">
+  <div class="seg-line"> </div>
+</div>
+
+</div>
+
+<div class="row">
+  <div class="column-100">
+    {% include footer.html %}
+  </div>
+</div>
