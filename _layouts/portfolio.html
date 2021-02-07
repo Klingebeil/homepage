@@ -8,17 +8,31 @@
     {% include google-analytics.js %}
 </head>
 <body>
-    {% include header.html %}
-    <div class="content-wrapper">
-        <div class="seg-line uppercase mono-space">
-            <p class="seg-element">Portfolio</p>
-            {% if page.date %}
-            <p class="seg-element">{{ page.date | date: "%Y" }}</p>
-            {% endif %}
+    <div class="row">
+        <div class="column-100">
+          {% include header.html %}
         </div>
-        <div class="article-wrapper">
-            {{ content }}
+    </div>
+
+    <div class="row">
+        <div class="column-25"><div class="seg-line resp-no-display"></div></div>
+        <div class="column-50">
+            <div class="seg-line uppercase mono-space">
+                <p class="seg-element">Portfolio</p>
+                {% if page.date %}
+                <p class="seg-element">{{ page.date | date: "%Y" }}</p>
+                {% endif %}
+            </div>
+            <div class="article-wrapper">
+                {{ content }}
+            </div>
         </div>
-        {% include footer.html %}
+        <div class="column-25"><div class="seg-line resp-no-display"></div></div>
+    </div>
+
+    <div class="row">
+        <div class="column-100">
+            {% include footer.html %}
+        </div>
     </div>
 </body>

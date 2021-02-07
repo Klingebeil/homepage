@@ -348,13 +348,14 @@ img {
 
 /* PROJECT LIST */
 
-#project-list {
+.project-list {
 	list-style: none;
 	padding: 0px;
-}
+	margin: 0px;
 
-#project-list div {
-	vertical-align: top;
+	& div {
+		vertical-align: top;
+	}
 }
 
 .project-year {
