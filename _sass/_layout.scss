@@ -373,12 +373,14 @@ img {
 
 /* -- WIKI -- */
 /* BREADCRUMBS NAVIGATION */
-#breadcrumbs a {
-    text-decoration: none;
-}
+#breadcrumbs {
+	margin-bottom: 4px;
 
-#breadcrumbs .seg-element {
-    margin-right: 0px;
+	& a {
+    text-decoration: none;}
+
+	& .seg-element {
+		margin-right: 0px;}
 }
 
 /* WIKI TOPIC LIST */
@@ -411,14 +413,23 @@ img {
     list-style-type: none;
     margin: 0px 0px 50px 0px;
     border-top: 1px solid $contrast-green;
+
+	& img {
+		max-width: 100%;
+	}
+
+	& h2 {
+		margin-top: 30px;
+		padding-top: 5px;
+	}
+
+	& h3 {
+		font-size: 1em;
+	}
 }
 
 .notes_content {
     margin-left: 20px;
-}
-
-.notes img {
-    max-width: 100%;
 }
 
 #notes-link {
@@ -429,15 +440,6 @@ img {
     border-bottom: none;
     display: inline-block;
     border-right: solid 1px currentColor;
-}
-
-.notes h2 {
-    margin-top: 30px;
-    padding-top: 5px;
-}
-
-.notes h3 {
-    font-size: 1em;
 }
 
 /* -- MEDIA QUERIES -- */
