@@ -253,6 +253,10 @@ img {
 		color: #ffffff !important;
 		background-color: $main-txt-color;
 	}
+
+	& a {
+		text-decoration: none;
+	}
 }
 
 .button-disabled {
