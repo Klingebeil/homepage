@@ -197,6 +197,12 @@ img {
 	font-family: mono-space, 'Courier New', Courier, monospace;
 	text-decoration: none !important;
 	cursor: pointer;
+	transition: all 400ms 0ms;
+
+	&:hover {
+		color: #ffffff !important;
+		background-color: $main-txt-color;
+	}
 }
 
 .button-disabled {
