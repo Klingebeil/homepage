@@ -6,10 +6,26 @@
     {% include google-analytics.js %}
 </head>
 <body>
-    <div class="content-wrapper">
-        {% include header_wiki.html %}
-        {% include wikibreadcrumb.html %}
-        {{ content }}
-        {% include footer.html %}
-    </div>
+
+    <div class="row">
+        <div class="column-100">
+          {% include header_wiki.html %}
+        </div>
+      </div>
+      
+      <div class="row">
+        <div class="column-50">
+          {% include wikibreadcrumb.html %}
+        </div>
+        <div class="column-50">
+            <div class="seg-line color-green"></div>
+            {{ content }}
+        </div>
+      </div>
+    
+      <div class="row">
+        <div class="column-100">
+          {% include footer.html %}
+        </div>
+      </div>
 </body>

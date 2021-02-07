@@ -7,28 +7,40 @@
   {% include google-analytics.js %}
 </head>
 <body>
-  <div class="content-wrapper">
-    {% include header_wiki.html %}
-    {% include wikibreadcrumb.html %}
-    <p class="intro">{{content}}</p>
 
-    <div>
-    {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | reverse %}
-
-    {% assign snippets = site.static_files | where_exp: "item" , "item.path contains folderfilter" %}
-
-    <ul id="notes-list">
-    {% for item in notes %}
-        {% unless item.path contains "index.html" %}
-            <li class="notes">
-              <p class="mono-space" id="notes-link"><a href="{{ site.baseurl }}{{item.url}}">{{item.path | replace: folderfilter , ""}}</a></p>
-              <div class="notes_content">{{ item.content | markdownify }}</div>
-            </li>
-        {% endunless %}
-    {% endfor %}
-    </ul>
-
+  <div class="row">
+    <div class="column-100">
+      {% include header_wiki.html %}
     </div>
-    {% include footer.html %}
+  </div>
+  
+  <div class="row">
+    <div class="column-50">
+      {% include wikibreadcrumb.html %}
+      <h1>{{page.title}}</h1>
+      <p class="intro">{{content}}</p>
+    </div>
+    <div class="column-50">
+      {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | reverse %}
+
+      {% assign snippets = site.static_files | where_exp: "item" , "item.path contains folderfilter" %}
+
+      <ul id="notes-list">
+      {% for item in notes %}
+          {% unless item.path contains "index.html" %}
+              <li class="notes">
+                <div class="mono-space button capitalize color-green"><a href="{{ site.baseurl }}{{item.url}}">{{item.title }}</a></div>
+                <div class="notes_content">{{ item.content | markdownify }}</div>
+              </li>
+          {% endunless %}
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="column-100">
+      {% include footer.html %}
+    </div>
   </div>
 </body>
