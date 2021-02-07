@@ -13,12 +13,16 @@
     </div>
 
     <div class="row">
-        <div class="column-25">
-            <div class="seg-line resp-no-display"></div>
+        <div class="column-25 mono-space small">
+            <div class="seg-line"></div>
+            <p>ARTICLE</p>
+            <div class="seg-line"></div>
+            <p>PUBLISHED: {{ page.date | date: "%d.%m.%Y" }}</p>
+            <div class="seg-line "></div>
+            <p>{% assign words = content | number_of_words %}{{words}} words — {{ words | divided_by:180 }} mins</p>
         </div>
         <div class="column-50">
             <div class="seg-line uppercase mono-space">
-                <div class="seg-element">Article</div><div class="seg-element">{{ page.date | date: "%d.%m.%Y" }}</div><div class="seg-element">{% assign words = content | number_of_words %}{{words}} words — {{ words | divided_by:180 }} mins</div>
             </div>
             <div class="article-wrapper" role="article">
                 
