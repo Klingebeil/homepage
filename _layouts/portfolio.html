@@ -15,13 +15,16 @@
     </div>
 
     <div class="row">
-        <div class="column-25"><div class="seg-line resp-no-display"></div></div>
+        <div class="column-25 mono-space small">
+            <div class="seg-line"></div>
+            <p>PORTFOLIO</p>
+            {% if page.date %}
+                <div class="seg-line"></div>
+                <p>PUBLISHED: {{ page.date | date: "%d.%m.%Y" }}</p>
+            {% endif %}
+            <div class="seg-line resp-no-display"></div></div>
         <div class="column-50">
             <div class="seg-line uppercase mono-space">
-                <p class="seg-element">Portfolio</p>
-                {% if page.date %}
-                <p class="seg-element">{{ page.date | date: "%Y" }}</p>
-                {% endif %}
             </div>
             <div class="article-wrapper">
                 {{ content }}
