@@ -20,6 +20,11 @@
             <p>PUBLISHED: {{ page.date | date: "%d.%m.%Y" }}</p>
             <div class="seg-line "></div>
             <p>{% assign words = content | number_of_words %}{{words}} words — {{ words | divided_by:180 }} mins</p>
+            {% if page.series %}
+                <div class="seg-line "></div>
+                <p class="color mono-space">This article is part of the <a href="{{ site.baseurl }}/series/{{page.series}}.html">{{page.series | replace:'-',' ' | upcase }}</a> series.</p>
+            {% endif %}
+            <div class="seg-line "></div>
         </div>
         <div class="column-50">
             <div class="seg-line uppercase mono-space">
@@ -33,9 +38,6 @@
                 <h1 id="post-title">{{ page.title }}</h1>
                 {% if page.subtitle %}
                     <p id="post-subtitle" class="centered italics">{{ page.subtitle }}</p>
-                {% endif %}
-                {% if page.series %}
-                    <p class="small color mono-space centered">This article is part of the <a href="{{ site.baseurl }}/series/{{page.series}}.html">{{page.series | replace:'-',' ' | upcase }}</a> series.</p>
                 {% endif %}
                 {{ content }}
     
