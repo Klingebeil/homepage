@@ -23,7 +23,7 @@
         {{content}}
       </div>
       <div class="seg-line color-green"></div>
-      <p class="mono-space small color-green">Entries: {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | reverse %}{{ notes.size }}</p>
+      <p class="mono-space small color-green">Entries: {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | reverse %}{{ notes.size | minus:1 }}</p>
       <div class="seg-line color-green resp-no-display"></div>
     </div>
     <div class="column-50">
