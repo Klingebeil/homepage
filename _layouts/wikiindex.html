@@ -15,10 +15,16 @@
   </div>
   
   <div class="row">
-    <div class="column-50">
+    <div class="column-25">
       {% include wikibreadcrumb.html %}
+      <div class="seg-line color-green"></div>
+      <div class="collection-description color-green">
         <h1>{{page.title}}</h1>
         {{content}}
+      </div>
+      <div class="seg-line color-green"></div>
+      <p class="mono-space small color-green">Entries: {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | reverse %}{{ notes.size }}</p>
+      <div class="seg-line color-green resp-no-display"></div>
     </div>
     <div class="column-50">
       {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | reverse %}
@@ -36,6 +42,7 @@
       {% endfor %}
       </ul>
     </div>
+    <div class="column-25"><div class="seg-line color-green"></div></div>
   </div>
 
   {% include footer.html %}
