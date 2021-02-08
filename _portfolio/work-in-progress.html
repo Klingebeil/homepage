@@ -63,68 +63,82 @@ published: true
 </head>
 <body>
 
-<!--BOOKUP-->
-
-<div class="bookup-container">
-    <div class="boockup">
-      <div class="book-container">
-        <div class="book-front"></div>
-        <div class="book-side-left"></div>
-        <div class="book-side-right"></div>
-        <div class="book-top"></div>
-        <div class="book-bottom"></div>
-        <div class="book-back"></div>
-      </div>
+<div class="row">
+    <div class="column-100">
+        {% include header.html %}
     </div>
-  </div>
 </div>
 
-<!--TEASER-->
-<p class="mono-space small uppercase centered">Special Project Zine</p>
-<h1 class="centered">Work in Progress</h1>
-<p class="centered">Ein Zine über meine Erfahrungen aus drei Jahren Innovationsarbeit.</p>
-<p class="centered"><a class="button-disabled no-decoration">Jetzt bestellen (Print)</a> <span class="mono-space small" style="
-    margin-left: 10px;">Sold out</span></p>
-<p class="centered mono-space small">Etwas unerwartet wurden alle gedruckten Exemplare innerhalb von vier Stunden komplett verkauft. Deswegen habe mich entschlossen auch noch zusätzlich eine digitale Version zur Verfügung zu stellen.</p>
-<p class="centered"><a class="button no-decoration js-explosion" href="https://gum.co/JNtdt">Jetzt bestellen (PDF)</a></p>
-</p>
-
-<!--INHALTE-->
-<div class="zine-text-block">
-
-<!--<div id="zine-definition">
-    <p><b>zine</b> \ˈzēn\ <em>noun</em> — <b>1.</b> magazine <b>2.</b> <em>especially :</em> a noncommercial often homemade or online publication usually devoted to specialized and often unconventional subject matter.</p>
-    <p id="zine-definition-source" class="uppercase mono-space"><a href="https://www.merriam-webster.com/dictionary/zine">Merriam Webster</a></p>
-</div>-->
-<p>Bücher über Innovation sind meist von und für Manager:innen geschrieben und beschäftigen sich selten mit Werkzeugen und Wegen, wie Ideen in komplexen Organisation tatsächlich Erfolg haben können. Es fehlt oft die Innenperspektive, der Blick auf die tatsächliche Arbeit jenseits von Plattitüden wie „Fehlerkultur“ oder „Innovations-Workshops“.</p>
-<p>Dieses Zine ist die Sammlung meiner Erfahrungen aus drei Jahren Arbeit im Innovationsteam der <i>Süddeutschen Zeitung</i>. Es ist sicher keine vollständige Anleitung für erfolgreiche Innovation, aber hoffentlich eine Hilfestellung auf dem Weg dorthin.</p>
-<br>
-<img class="hero-image" src="/img/portfolio/work-in-progress/work-in-progress-01.jpg">
+<div class="row">
+    <div class="column-25 mono-space small">
+        <div class="seg-line"></div>
+        <p>PORTFOLIO &#8226; Zine</p>
+        <div class="seg-line-dotted"></div>
+        <p>PUBLISHED: {{ page.date | date: "%d.%m.%Y" }}</p>
+        <div class="seg-line "></div>
+    </div>
+    <div class="column-50">
+        <div class="bookup-container">
+            <div class="boockup">
+              <div class="book-container">
+                <div class="book-front"></div>
+                <div class="book-side-left"></div>
+                <div class="book-side-right"></div>
+                <div class="book-top"></div>
+                <div class="book-bottom"></div>
+                <div class="book-back"></div>
+              </div>
+            </div>
+        </div>
+        
+        <!--TEASER-->
+        <p class="mono-space small uppercase centered">Special Project Zine</p>
+        <h1 class="centered">Work in Progress</h1>
+        <p class="centered">Ein Zine über meine Erfahrungen aus drei Jahren Innovationsarbeit.</p>
+        <p class="centered"><a class="button-disabled no-decoration">Jetzt bestellen (Print)</a> <span class="mono-space small" style="
+            margin-left: 10px;">Sold out</span></p>
+        <p class="centered mono-space small">Etwas unerwartet wurden alle gedruckten Exemplare innerhalb von vier Stunden komplett verkauft. Deswegen habe mich entschlossen auch noch zusätzlich eine digitale Version zur Verfügung zu stellen.</p>
+        <p class="centered"><a class="button no-decoration js-explosion" href="https://gum.co/JNtdt">Jetzt bestellen (PDF)</a></p>
+        </p>
+        
+        <!--INHALTE-->
+        <div class="zine-text-block">
+        
+        <!--<div id="zine-definition">
+            <p><b>zine</b> \ˈzēn\ <em>noun</em> — <b>1.</b> magazine <b>2.</b> <em>especially :</em> a noncommercial often homemade or online publication usually devoted to specialized and often unconventional subject matter.</p>
+            <p id="zine-definition-source" class="uppercase mono-space"><a href="https://www.merriam-webster.com/dictionary/zine">Merriam Webster</a></p>
+        </div>-->
+        <p>Bücher über Innovation sind meist von und für Manager:innen geschrieben und beschäftigen sich selten mit Werkzeugen und Wegen, wie Ideen in komplexen Organisation tatsächlich Erfolg haben können. Es fehlt oft die Innenperspektive, der Blick auf die tatsächliche Arbeit jenseits von Plattitüden wie „Fehlerkultur“ oder „Innovations-Workshops“.</p>
+        <p>Dieses Zine ist die Sammlung meiner Erfahrungen aus drei Jahren Arbeit im Innovationsteam der <i>Süddeutschen Zeitung</i>. Es ist sicher keine vollständige Anleitung für erfolgreiche Innovation, aber hoffentlich eine Hilfestellung auf dem Weg dorthin.</p>
+        <br>
+        <img class="hero-image" src="/img/portfolio/work-in-progress/work-in-progress-01.jpg">
+        </div>
+        <!--KOLOPHON-->
+        <table id="kolophon" class="small mono-space">
+            <tr>
+                <th class="th-first uppercase">Kolophon</th>
+                <th class="uppercase">Druckdaten</th>
+                <th>20 Seiten &#8226; DinA5 &#8226; Vollfarbig &#8226; Klammerbindung &#8226; Cover: Inapa Infinity Silk . &#8226; Innen: Munken Print White Uncoated &#8226; Auflage: 100 Stück</th>
+            </tr>
+            <tr>
+                <th class="th-invisible"></th>
+                <th class="uppercase">Schriften</th>
+                <th>iA Writer Quattro V &#8226; Calendas Plus</th>
+            </tr>
+            <tr>
+                <th class="th-invisible"></th>
+                <th class="uppercase">Druck durch</th>
+                <th>junge Media Service GmbH, München</th>
+            </tr>
+            <tr>
+                <th class="th-invisible"></th>
+                <th class="uppercase">Mit großem Dank an</th>
+                <th>Meike Winkler und Dirk von Gehlen für lange Gespräche und ausführliche Korrekturen</th>
+            </tr>
+        </table>
+    </div>
+    <div class="column-25"></div>
 </div>
-
-<!--KOLOPHON-->
-<table id="kolophon" class="small mono-space">
-    <tr>
-        <th class="th-first uppercase">Kolophon</th>
-        <th class="uppercase">Druckdaten</th>
-        <th>20 Seiten &#8226; DinA5 &#8226; Vollfarbig &#8226; Klammerbindung &#8226; Cover: Inapa Infinity Silk . &#8226; Innen: Munken Print White Uncoated &#8226; Auflage: 100 Stück</th>
-    </tr>
-    <tr>
-        <th class="th-invisible"></th>
-        <th class="uppercase">Schriften</th>
-        <th>iA Writer Quattro V &#8226; Calendas Plus</th>
-    </tr>
-    <tr>
-        <th class="th-invisible"></th>
-        <th class="uppercase">Druck durch</th>
-        <th>junge Media Service GmbH, München</th>
-    </tr>
-    <tr>
-        <th class="th-invisible"></th>
-        <th class="uppercase">Mit großem Dank an</th>
-        <th>Meike Winkler und Dirk von Gehlen für lange Gespräche und ausführliche Korrekturen</th>
-    </tr>
-</table>
 
 <script type="text/javascript">
 

@@ -6,7 +6,9 @@ date: 2021-01-28
 teaser-img: 2021-01-28-teaser.png
 ---
 
-Indie-Magazine und Zines haben mich schon immer fasziniert. Die Idee etwas eigenes gedrucktes in der Hand zu halten ist mehr als verführerisch. Ich bin beispielsweise ein riesiger Fan der Publikation „[Critical Mass](http://readcriticalmass.com/)“ des Design Studio _[Foreign Policy](http://foreignpolicy.design/)_ aus Singapur. Die drei bisher erschienenen Ausgaben von „Critical Mass“ sind ein Ergebnis der Recherche-Arbeit des Studios und beschäftigt sich bunt gemischt mit Themen wie Co-Living, Comme des Garçon und Yayoi Kusama. Meine Schreibblockade brach letztendlich, nachdem ich mir aus Neugier einige Ausgaben des „[Logo Archive](https://logoarchive.bigcartel.com/)“-Zines des Designers [Rich Baird](https://twitter.com/richbaird) bestellt hatte.  Und beim Auspacken nur den Gedanken: „Verdammt, das kann ich auch!“, hatte.
+Ich bin ein großer Fan von Print. Ich besitze eine ständig wachsende Sammlung an Indie-Magazinen und Zines, zu viele Monocle Ausgaben und inzwischen auch zunehmend Papier- und Druckproben. Und ja, ich arbeite auch bei einer Zeitung, jedoch selten auf Papier.
+
+Dennoch hatte im Kontext meiner Arbeit die Möglichkeit mehrmals Recherche-Ergebnisse drucken zu lassen, sei dies als Riso-Zine oder als mehrteilige Print-Reports oder kleinere Artefakte. Print kann ein unheimlich effektives Werkzeug in der Kommunikation von Arbeit sein und das im doppelten Sinne. Nicht nur transportiert es seinen Inhalt, sondern auch als Objekt an sich die Tatsache, dass Arbeit getan wurde. Print ist nicht so vergänglich wie eine Präsentation, ein Textdokument oder eine E-Mail. Gut gemacht und gut positioniert kann Print eine vollkommen eigene Wirkung entfalten.
 
 <div id="zine-definition" style="margin: 40px 20px 40px 40px; font-size: 1.2em;">
     <p><b>zine</b> \ˈzēn\ <em>noun</em> — <b>1.</b> magazine <b>2.</b> <em>especially :</em> a noncommercial often homemade or online publication usually devoted to specialized and often unconventional subject matter.</p>
@@ -15,11 +17,12 @@ Indie-Magazine und Zines haben mich schon immer fasziniert. Die Idee etwas eigen
     </p>
 </div>
 
+Und das war letztendlich auch der Grund, weshalb ich nach drei Jahren Arbeit im Innovationsteam der _Süddeutschen Zeitung_ die Möglichkeit nutzen wollte diese Form doppelter Kommunikation für mich zu nutzen. Das Ergebnis, „Work in Progress“, ist letztendlich eine Mischung aus meinen Erfahrungen, Verbesserungsideen und der Beweis für mich, dass ich in dieser Zeit dazugelernt habe.
+
 +++ TBA BILD +++
 
-Nach nun etwas drei Jahren im Innovationsteam der Süddeutschen Zeitung hatte ich im Pandemie-Jahr auf einmal  —  dank einiger gekippten Projekte  —  mehr Zeit zur Verfügung, als mir wahrscheinlich gut getan hat. Dazu kam das Gefühl, dass es eine Lücke in der Innovations-Literatur gibt. Viel ist entweder aus der Management-Perspektive geschrieben mit netten Frameworks und Prozess-Diagrammen oder fokussierte sich rein auf Startups oder Design Thinking. Nur sind wir weder Manager, noch arbeiten wir in einem Startup. Ganz im Gegenteil arbeiten wir in einer komplexen Organisation mit einer langen Geschichte, sehr gegensätzlichen Interessen und oft vollkommen anderen Prioritäten als den unseren. 
-
-Ich wollte also die freiere Zeit nutzen meine Gedanken zu dem Thema Innovation einmal zu ordnen, vor allem für mich, aber auch mit der leisen Hoffnung, dass sie Kolleg:innen in anderen Häusern auch helfen könnten. Ein direktes Ergebnis dieser Überlegungen war auch mein etwas angriffslustiger Text „[Innovation—Die Lücke zwischen Vorstellung und Realität](https://johannesklingebiel.de/2020/07/16/vorstellung-und-realitaet.html)“.
+## Anders arbeiten
+Die vielleicht wichtigste Erkenntnis aus diesen drei Jahren ist die Tatsache, wie wenig „klassische“ Innovationsliteratur meine Arbeit unterstützte. Nicht nur weil sie fast ausschließlich von und für Manager:innen geschrieben ist, sondern auch weil sie sich zu sehr auf Start-Ups fokussiert. Nur bin ich weder ein Manager, noch arbeite ich in einem Startup. Ganz im Gegenteil arbeitet unser Team in einer komplexen Organisation mit einer langen Geschichte, sehr gegensätzlichen Interessen und oft vollkommen anderen Prioritäten als den unseren. Ein direktes Ergebnis dieser Überlegungen war auch mein etwas angriffslustiger Text „[Innovation—Die Lücke zwischen Vorstellung und Realität](https://johannesklingebiel.de/2020/07/16/vorstellung-und-realitaet.html)“.
 
 ## Print is the way
 Nachdem mir klar war, dass das Ergebnis in Print erscheinen sollte, folgten einige Monate mit verschiedenen Iterationen, Layout-Tests, Korrekturen durch meinen Kollegen Dirk von Gehlen und vor allem meiner unermüdlichen und peniblen Freundin.

@@ -16,9 +16,9 @@
         <div class="column-25 mono-space small">
             <div class="seg-line"></div>
             <p>ARTICLE</p>
-            <div class="seg-line"></div>
+            <div class="seg-line-dotted"></div>
             <p>PUBLISHED: {{ page.date | date: "%d.%m.%Y" }}</p>
-            <div class="seg-line "></div>
+            <div class="seg-line-dotted"></div>
             <p>{% assign words = content | number_of_words %}{{words}} words — {{ words | divided_by:180 }} mins</p>
             {% if page.series %}
                 <div class="seg-line "></div>

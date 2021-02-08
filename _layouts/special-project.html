@@ -13,17 +13,6 @@
     {% include google-analytics.js %}
 </head>
 <body>
-    <div class="row">
-        <div class="column-100">
-          {% include header.html %}
-        </div>
-    </div>
-
-    <div class="content-wrapper">
-        <div class="article-wrapper">
-            {{ content }}
-        </div>
-    </div>
-
+    {{ content }}
     {% include footer.html %}
 </body>
