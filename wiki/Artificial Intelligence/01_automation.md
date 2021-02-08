@@ -15,4 +15,4 @@ title: understanding automation
 
 Keeping this in mind, almost every new technology can be placed in one of the following quadrants.
 
-{% include img-full.html id="wiki-automation-graph.svg" alt="automation quadrants" %}
+![](/img/wiki-automation-graph.svg)
