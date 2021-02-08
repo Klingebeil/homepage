@@ -13,7 +13,15 @@ title: Portfolio
 
 <div class="column-25">
   <div class="seg-line"></div>
-  <div class="intro"><h1>{{ page.title }}</h1></div>
+  <div class="collection-description">
+    <h1>{{ page.title }}</h1>
+  </div>
+  <div class="seg-line"></div>
+        <p class="mono-space small">Entries: 
+          {% assign work_items = site.portfolio | sort: 'date' | reverse %}
+            {{ work_items.size }}
+          </p>
+      <div class="seg-line resp-no-display"></div>
 </div>
 
 <div class="column-50">
