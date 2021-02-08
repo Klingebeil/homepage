@@ -238,11 +238,13 @@ sup {
 }
 .footnotes {
 	border-top: solid 1px currentColor;
-	font-size: 10px;
+	font-size: 0.7em;
 	margin-top: 20px;
 	padding-bottom: 10px;
 	background-color: white;
-  }
+
+	@media (max-device-width: 1020px) { font-size: 0.9em;}
+}
   
 .footnotes p {
 	margin: 10px;
