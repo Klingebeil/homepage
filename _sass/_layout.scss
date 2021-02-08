@@ -340,7 +340,7 @@ img {
 		width: 100%; }
 }
 
-/* COLLECTION NAVIGATION */
+/* COLLECTION */
 
 .collection-nav {
     border: 1px solid $main-txt-color;
@@ -351,6 +351,12 @@ img {
 
 .collection-nav p {
     margin-top: 12px;
+}
+
+.collection-description {
+	background-color: white;
+    margin: 0px;
+	padding: 10px 5px 40px 10px
 }
 
 /* PROJECT LIST */

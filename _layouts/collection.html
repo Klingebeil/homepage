@@ -7,36 +7,46 @@
     {% include google-analytics.js %}
 </head>
 <body>
-    {% include header.html %}
-    <div class="content-wrapper">
-
-      <div class="seg-line uppercase mono-space">
-        <div class="seg-element">Series</div>
-      </div>
-      
-      <div class="intro">
+  <div class="row">
+    <div class="column-100">
+      {% include header.html %}
+    </div>
+  </div>
+  <div class="row">
+    <div class="column-25">
+      <div class="seg-line"></div>
+      <div class="collection-description">
         <h1>{{ page.title }}</h1>
         <p class="italics">{{ page.subtitle }}</p>
         <div class="small mono-space">{{ page.content }}</div>
       </div>
-
-      <ul id="project-list">
-      {% for post in site.posts reversed %}
-      {% if post.series contains page.series %}
-
-      <li class="seg-line">
-        <div class="seg-element mono-space">{{ post.date | date: "%Y" }}</div>
-        <a class="no-decoration" href="{{ site.baseurl }}{{ post.url }}">
-          <div class="project-summary">  
-            <h2 class="project-title">{{ post.title }}</h2>
-            <p>{{ post.content | truncatewords:20 }} <span class="mono-space small color">READ &#x279E;</span></p>
-          </div>
-        </a>
-      </li>
-      
-      {% endif %}
-      {% endfor %}
-      </ul>
-      {% include footer.html %}
+      <div class="seg-line"></div>
+        <p class="mono-space small">SERIES</p>
+      <div class="seg-line_dotted"></div>
+        <p class="mono-space small">Entries: 
+          {% assign collection_posts = site.posts | where:"series", page.series %}
+          {{ collection_posts.size }}
+        </p>
+      <div class="seg-line resp-no-display"></div>
     </div>
+    <div class="column-50">
+      <ul class="project-list">
+        {% for post in collection_posts reversed %}
+  
+        <li class="seg-line">
+          <div class="seg-element mono-space">{{ post.date | date: "%Y" }}</div>
+          <a class="no-decoration" href="{{ site.baseurl }}{{ post.url }}">
+            <div class="project-summary">  
+              <h2 class="project-title">{{ post.title }}</h2>
+              <p>{{ post.content | truncatewords:20 }} <span class="button mono-space small color">READ &#x279E;</span></p>
+            </div>
+          </a>
+        </li>
+        
+        {% endfor %}
+        </ul>
+      </div>
+      <div class="column-25"><div class="seg-line"></div></div>
+    </div>
+    {% include footer.html %}
 </body>
