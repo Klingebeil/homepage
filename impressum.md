@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: post
 title: Impressum
 ---
-
-# Impressum
 
 _Angaben gemäß § 5 TMG:_
 
