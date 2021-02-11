@@ -21,6 +21,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
+ # - jekyll-last-modified
 
 sass:
     sass_dir: _sass
