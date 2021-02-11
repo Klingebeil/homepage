@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb
-title: Links 
+title: Luxury Links 
 ---
 **Links**
 

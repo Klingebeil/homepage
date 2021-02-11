@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb 
-title: Work in Progress Reading
+title: Work in Progress Reading List
 ---
 
 # Work in Progress Reading List

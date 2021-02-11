@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb
-title: magazines
+title: Magazines
 ---
 # A couple of independent magazines, I love.
 

@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb
-title: manifestos
+title: Work Manifestos
 ---
 
 ![](/img/wiki/manifestos/wiki-manifestos-01.jpg)

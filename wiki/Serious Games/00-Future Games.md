@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb 
-title: future games
+title: Future Games
 ---
 # Future Games
 

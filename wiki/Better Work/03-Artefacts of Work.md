@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb 
-title: artefacts
+title: Artefacts of Work
 ---
 # Artefacts of Work
 

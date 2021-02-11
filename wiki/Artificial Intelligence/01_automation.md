@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb 
-title: understanding automation
+title: Understanding Automation
 ---
 # Understanding Automation
 

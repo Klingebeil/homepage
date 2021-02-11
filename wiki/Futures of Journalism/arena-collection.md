@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb
-title: are.na collection
+title: FOJ Are.na Collection
 ---
 
 ![](/img/wiki/futures-of-journalism/arena.png)

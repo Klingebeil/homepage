@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb 
-title: critical reading
+title: Critical AI Reading List
 ---
 # A Critical Reading List
 
