@@ -10,7 +10,7 @@ One interesting notion in the last years was the question of how I can make the 
 
 One great example is the work of [Craig Mod][2] who seems to use every opportunity to turn projects into a book. Be that via SMS during long walks through Japan or by laying out every commit ever made on a software project. Here he is talking about both.
 
-<iframe max-width="560" max-height="315" src="https://www.youtube.com/embed/k-Oveq6mwiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="video-embed"> <iframe class="video-extern" width="auto" height="auto" src="https://www.youtube.com/embed/k-Oveq6mwiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 One way of extending this idea is the act of crafting „Anchoring Artefacts“, as described in [_HDL‘s_ „Legible Practices“][3], (pg. 93).
 
