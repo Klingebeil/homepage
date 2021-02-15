@@ -10,6 +10,9 @@ $contrast-green: #68B053;
 body {
 	margin: 0px;
 	background-color: $background;
+
+	@viewport {
+		zoom: 100%; }
 }
 
 /* Layout */
