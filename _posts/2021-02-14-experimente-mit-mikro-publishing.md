@@ -14,7 +14,7 @@ Mitte Januar veröffentlichte ich parallel zu meinem Newsletter [ein Zine als Zu
 
 ![](/img/portfolio/work-in-progress/work-in-progress-01.jpg)
 
-Ich bin ein großer Fan von Print. Ich besitze eine ständig wachsende Sammlung an Indie-Magazinen und Zines, zu viele Monocle Ausgaben und inzwischen auch zunehmend Papier- und Druckproben. Und ja, ich arbeite auch bei einer Zeitung.
+Ich bin ein großer Fan von Print. Ich besitze eine ständig wachsende Sammlung an Indie-Magazinen und Zines, zu viele _Monocle_ Ausgaben und inzwischen auch zunehmend Papier- und Druckproben. Und ja, ich arbeite auch bei einer Zeitung.
 
 Ich hatte im Kontext meiner Arbeit die Möglichkeit, mehrmals Rechercheergebnisse drucken zu lassen. Sei dies als [Riso-Zine](https://johannesklingebiel.de/portfolio/research-zine-01), als mehrteilige Reports oder [kleinere Artefakte](https://www.are.na/block/4718575). Print ist ein unheimlich effektives Werkzeug in der Kommunikation von Arbeit  —  und das im doppelten Sinne. Nicht nur transportiert es natürlich Inhalt, sondern ist als Objekt auch der Beweis, dass Arbeit getan wurde. Print ist nicht so vergänglich wie eine Präsentation, eine PDF oder eine E-Mail. Gut gemacht und gut positioniert kann Print [eine vollkommen eigene Wirkung entfalten](https://johannesklingebiel.de/wiki/Better%20Work/03-Artefacts%20of%20Work.html).
 

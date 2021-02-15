@@ -14,17 +14,17 @@ One great example is the work of [Craig Mod][2] who seems to use every opportuni
 
 One way of extending this idea is the act of crafting „Anchoring Artefacts“, as described in [_HDL‘s_ „Legible Practices“][3], (pg. 93).
 
-> Tangible artefacts—documents, objects and other material—subtly embody or express the values of an organisation. Especially when an organisation is growing rapidly or attempting to transform itself, high-res artefacts help embody organisational or operational change which is often more abstract and invisible.
+> **Tangible artefacts—documents, objects and other material—subtly embody or express the values of an organisation.** Especially when an organisation is growing rapidly or attempting to transform itself, high-res artefacts help embody organisational or operational change which is often more abstract and invisible.
 
 A more familiar example might also be _NASA_ mission patches—easily replicated in [the form of stickers][4] or [posters][5] as used by the UK‘s _[Government Digital Service][6]_.
 
-> Stickers like that become tokens that represent something more – a shared experience, a shared set of memories that only people who worked on that project will remember and understand. A sticker, like a web page, can be a conscious act of institutional memory.
+> Stickers like that become tokens that represent something more – a shared experience, a shared set of memories that only people who worked on that project will remember and understand. **A sticker, like a web page, can be a conscious act of institutional memory.**
 
 _Facebook‘s_ „[Analog Research Lab][7]“ operates on a similar level. Around 2010 two marketing manager set up a small print-shop on the company campus. A project, which inadvertently played an integral part in not only creating a common company culture, but also propagated it to offices world-wide.
 
 > “It’s more observations across the company,” says Boms, who calls himself a workplace philosopher. “The hope is that the artwork is more empathetic, curious and diverse, and it looks at what’s happening from a critical eye. It’s the pulse of what’s going on internally.”  
 > 
-> Boms says the posters don’t aim to dictate what employees should think.  Rather, they offer a prompt for people to think about.
+> Boms says the posters don’t aim to dictate what employees should think.  **Rather, they offer a prompt for people to think about.**
 
 [1]:	http://interconnected.org/home/2021/01/21/otl
 [2]:	https://twitter.com/craigmod
