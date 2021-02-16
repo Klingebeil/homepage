@@ -10,6 +10,7 @@ $contrast-green: #68B053;
 body {
 	margin: 0px;
 	background-color: $background;
+}
 
 /* Layout */
 
@@ -20,6 +21,7 @@ body {
 	max-width: 1024px;
 	margin-left: auto;
 	margin-right: auto;
+
 	@media (max-width: 1024px) {
 		display: inline-block;
 	}
@@ -125,6 +127,7 @@ img {
 	margin-top: 8px;
 	border-radius: 10px;
 	width: 32%;
+
 	@media (max-width: 1020px) {
 		width: 100%; margin-bottom: 20px;}
 }
@@ -133,6 +136,7 @@ img {
 	display: inline-block;
 	width: 64%;
 	margin-left: 5px;
+
     @media (max-width: 1020px) {
       width: 100%; }
 }
