@@ -15,6 +15,10 @@
       <div class="row">
         <div class="column-25">
           {% include wikibreadcrumb.html %}
+          {% if page.status %}
+            <div class="seg-line color-green"></div>
+            <p class="mono-space small color-green">STATUS: {{ page.status }}</p>
+          {% endif %}
           <div class="seg-line color-green resp-no-display"></div>
         </div>
         <div class="column-50">
