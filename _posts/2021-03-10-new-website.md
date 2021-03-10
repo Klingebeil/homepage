@@ -23,7 +23,7 @@ Form the start I knew, I wanted a couple of things my website should do:
 - A place that works as a portfolio for my projects
 - A digital garden (I get to that in a minute)
 
-{% include img-full.html id="2021-03-10-01.jpeg" alt="" %}
+{% include img-full.html id="2021-03-10-01.jpeg" alt="" info="The Money Shot" %}
 ## The Stack
 
 In the end my choice fell on _Github_ Pages as a quick and easy platform after being inspired to check it out by Tom Critchlow’s piece [on his own digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) (yes, yes… let me finish here).
