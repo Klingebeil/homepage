@@ -1,5 +1,0 @@
-## Notes
-
-Indie-Magazine und Zines haben mich schon immer fasziniert. Die Idee etwas eigenes gedrucktes in der Hand zu halten ist mehr als verführerisch. Ich bin beispielsweise ein riesiger Fan der Publikation „[Critical Mass](http://readcriticalmass.com/)“ des Design Studio _[Foreign Policy](http://foreignpolicy.design/)_ aus Singapur. Die drei bisher erschienenen Ausgaben von „Critical Mass“ sind ein Ergebnis der Recherche-Arbeit des Studios und beschäftigt sich bunt gemischt mit Themen wie Co-Living, Comme des Garçon und Yayoi Kusama. Meine Schreibblockade brach letztendlich, nachdem ich mir aus Neugier einige Ausgaben des „[Logo Archive](https://logoarchive.bigcartel.com/)“-Zines des Designers [Rich Baird](https://twitter.com/richbaird) bestellt hatte.  Und beim Auspacken nur den Gedanken: „Verdammt, das kann ich auch!“, hatte.
-
-#is_material
