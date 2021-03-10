@@ -31,12 +31,12 @@ _Github_ Pages uses a programing language called _Jekyll_ to weave together bloc
 
 - I have been using _Ulysses_ for some time now to collect my notes and write articles. _Jekyll_ allows me to keep the workflow and just push slightly changed markdown files onto _Github_.
 - _Jekyll_ also uses folders and files instead of other more opaque databases. So the whole site is extremely portable and backup-able. At the moment the whole side exists as a somewhat offline backup on my _Google Drive_. And I can simply push an update via Git to the online version. Neat and simple, once you get the hang of it.
-- It also allows me to build lots and lots of custom designs and layouts. _Jekyll_ is quite flexible and allows me to do lots of hard-coded manipulations and tweaks on the go, once you‘ve set up your templates right.
+- It also allows me to build custom designs and layouts. _Jekyll_ is quite flexible and allows me to do lots of hard-coded manipulations and tweaks on the go, once you‘ve set up your templates right.
 - Also: I hate the _Wordpress_ editor with a passion.
 
 ## Planting a Digital Garden
 
-Okay, what‘s a digital garden? To be concise, a digital garden is a collection of [^1]. It works similar to a personal wiki, where I can build on ideas while also being able to reference them quickly through links. Or as Tom Crithlow describes it:
+Okay, what‘s a digital garden? To be concise, a digital garden is a collection of public notes[^1]. It works similar to a personal wiki, where I can build on ideas while also being able to reference them quickly through links. Or as Tom Crithlow describes it:
 
 > It’s a less-performative version of blogging – more of a captain’s log than a broadcast blog. The distinction will come down to how you blog – some people blog in much the same way. For me, however, blogging is mostly performative thinking and less captain’s log. So I am looking for a space to nurture, edit in real-time and evolve my thinking.
 
