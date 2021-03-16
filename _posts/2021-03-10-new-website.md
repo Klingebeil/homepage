@@ -48,4 +48,6 @@ So, if I want to update a file, I can simply jump into _Ulysses_, edit the conte
 
 So yes. Here we are. New website, new system, lots of room to play.
 
+{% include img-small.html id="digital garden new.svg" %}
+
 [^1]:	If you‘d like to read more, Patrick Tanguay published [a great overview on the different approaches and idaes behind digital gardens](https://sentiers.media/dispatch-08-digital-gardens/).
