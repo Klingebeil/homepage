@@ -13,7 +13,11 @@ title: Dog
             width: 250px;
             margin-left: auto;
             margin-right: auto;
-            margin-top: 80px;
+            margin-top: 30px;
+        }
+
+        #dog-header {
+            margin-top: 30px;
         }
     </style>
 </head>
@@ -26,14 +30,15 @@ title: Dog
 
 <div class="row">
     <div class="column-25">
-        <div class="seg-line"></div>
+        <div class="seg-line resp-no-display"></div>
     </div>
     <div class="column-50">
         <div class="seg-line"></div>
+        <p id="dog-header" class="mono-space centered small">Pet the dog!</p>
         <div id="dog"></div>
     </div>
     <div class="column-25">
-        <div class="seg-line"></div>
+        <div class="seg-line resp-no-display"></div>
     </div>
 </div>
 
@@ -43,6 +48,14 @@ title: Dog
     });
 
     document.getElementById("dog").addEventListener("mouseup", function() {
+        dog.style.backgroundImage = "url(/img/dog/01.svg)"
+    });
+
+    document.getElementById("dog").addEventListener("touchstart", function() {
+        dog.style.backgroundImage = "url(/img/dog/02.svg)"
+    });
+
+    document.getElementById("dog").addEventListener("touchend", function() {
         dog.style.backgroundImage = "url(/img/dog/01.svg)"
     });
 </script>
