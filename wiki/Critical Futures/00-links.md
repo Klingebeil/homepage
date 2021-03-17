@@ -13,4 +13,4 @@ title: Reading Recommendations
 
 
 [1]:	http://hackeducation.com/2020/04/24/future
-[2]:	[https://thebaffler.com/outbursts/future-fail-silverman]%0A
+[2]:	https://thebaffler.com/outbursts/future-fail-silverman
