@@ -176,6 +176,10 @@ hr:after {
     font-size: 1.5em;
 }
 
+li {
+	margin-top: 1em;
+}
+
 /* -- ARTICLES -- */
 
 .article-wrapper {
@@ -185,10 +189,6 @@ hr:after {
 		text-align: justify;
 		text-justify: newspaper;
 		margin: 32px 0px 0px 0px;
-	} 
-
-	li {
-		margin-top: 1em;
 	}
 
 	h1 {
