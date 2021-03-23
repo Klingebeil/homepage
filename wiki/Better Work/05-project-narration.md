@@ -26,3 +26,10 @@ A couple of notes towards a communication strategy for innovation teams.
 > The story needs to whet the audience's appetite for what's to follow, and deliver on the promise through emotional fulfilment. For the story to be successful, it needs to make the audience take ownership-to retell it in their own terms, while retaining its mission. It may seem contra dictory, but intense preparation for, and a deep understanding of the material being shared supports spontaneity, allowing the researcher to ad-lib with confidence.
 
 — Jan Chipchase, Field Study Handbook
+
+---- 
+**Make it sticky**
+
+> Good insights and ideas can get lost if they are not also easy to communicate. Simple language and frameworks help ensure design and development work is more naturally grounded in user insights. Creating a ‘sticky’ language for these findings helps key insights become memorable and therefore actionable as part of everyday decision-making.
+
+ —  Helsinki Design Lab, Legible Practices
