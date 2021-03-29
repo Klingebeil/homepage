@@ -4,7 +4,7 @@ title: Artefacts of Work
 ---
 # Artefacts of Work
 
-One interesting notion in the last years was the question of how I can make the process of my work more engaging and transparent? An obvious direction is the idea of artifacts, i.e. books or zines that are a byproduct of the greater endeavor and can be used to present and narrate a project. In his article „[Towards the Orthogonal Technology Lab, v0.1][1]“ Matt Webb wrote a nice definition.
+One interesting notion in the last years was the question of how I can make the process of my work more engaging and transparent? An obvious direction is the idea of artefacts, i.e. books or zines that are a byproduct of the greater endeavor and can be used to present and narrate a project. In his article „[Towards the Orthogonal Technology Lab, v0.1][1]“ Matt Webb wrote a nice definition.
 
 > The idea is to follow early product innovation processes, **but ship all the collateral around the product rather than the product itself**.
 
@@ -16,11 +16,13 @@ One way of extending this idea is the act of crafting „Anchoring Artefacts“,
 
 > **Tangible artefacts—documents, objects and other material—subtly embody or express the values of an organisation.** Especially when an organisation is growing rapidly or attempting to transform itself, high-res artefacts help embody organisational or operational change which is often more abstract and invisible.
 
-A more familiar example might also be _NASA_ mission patches—easily replicated in [the form of stickers][4] or [posters][5] as used by the UK‘s _[Government Digital Service][6]_.
+On intriguing class of artefacts here might be the [„one pager“][4]. A concise presentation technique for communicating the interactions within systems (i.e. in game design).
+
+A more familiar example might also be _NASA_ mission patches—easily replicated in [the form of stickers][5] or [posters][6] as used by the UK‘s _[Government Digital Service][7]_.
 
 > Stickers like that become tokens that represent something more – a shared experience, a shared set of memories that only people who worked on that project will remember and understand. **A sticker, like a web page, can be a conscious act of institutional memory.**
 
-_Facebook‘s_ „[Analog Research Lab][7]“ operates on a similar level. Around 2010 two marketing manager set up a small print-shop on the company campus. A project, which inadvertently played an integral part in not only creating a common company culture, but also propagated it to offices world-wide.
+_Facebook‘s_ „[Analog Research Lab][8]“ operates on a similar level. Around 2010 two marketing manager set up a small print-shop on the company campus. A project, which inadvertently played an integral part in not only creating a common company culture, but also propagated it to offices world-wide.
 
 > “It’s more observations across the company,” says Boms, who calls himself a workplace philosopher. “The hope is that the artwork is more empathetic, curious and diverse, and it looks at what’s happening from a critical eye. It’s the pulse of what’s going on internally.”  
 > 
@@ -29,7 +31,8 @@ _Facebook‘s_ „[Analog Research Lab][7]“ operates on a similar level. Aroun
 [1]:	http://interconnected.org/home/2021/01/21/otl
 [2]:	https://twitter.com/craigmod
 [3]:	http://helsinkidesignlab.org/pages/legible-practises.html
-[4]:	https://gilest.org/2017/stickers/
-[5]:	https://gilest.org/2018/posters/
-[6]:	https://gds.blog.gov.uk/
-[7]:	https://outofoffice.room.com/inside-facebook-analog-research-lab/
+[4]:	https://tomcritchlow.com/2019/06/28/one-page-strategy/
+[5]:	https://gilest.org/2017/stickers/
+[6]:	https://gilest.org/2018/posters/
+[7]:	https://gds.blog.gov.uk/
+[8]:	https://outofoffice.room.com/inside-facebook-analog-research-lab/
