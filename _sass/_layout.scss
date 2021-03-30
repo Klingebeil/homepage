@@ -398,6 +398,64 @@ img {
 	margin: 20px 0px 50px 20px;
 }
 
+/* -- SLIDES -- */
+
+.slides-content-wrapper {
+
+	& p, span, h1, h2, h3, h4, h5, h6 {
+		margin-left: 46%;
+
+		@media (max-device-width: 1020px) {
+			margin-left: 0%
+		}
+	}
+
+	& blockquote {
+		margin-left: 46%;
+		
+		& p {
+			margin-left: 0px;
+		}
+	}
+
+	& .img-small {
+		width: 40%;
+		float: left;
+		margin-top: 7px;
+
+		@media (max-device-width: 1020px) {
+			width: 100%;
+			float: none;
+			margin-top: 20px;
+		}
+	}
+
+}
+
+.slides-contents {
+
+	background-color: #ffffff;
+	padding: 20px 0px 20px 0px;
+	border-bottom: 1px solid;
+	border-top: 1px solid;
+	& li {
+		list-style: none;
+		margin-right: 20px;
+		text-transform: uppercase ;
+		border-top: 1px solid;
+
+		& a {
+			text-decoration: none;
+		}
+
+		& li {
+			text-transform: capitalize;
+			border: none;
+			margin-top: 0.5em;
+		}
+	}
+}
+
 /* -- WIKI -- */
 /* BREADCRUMBS NAVIGATION */
 #breadcrumbs {

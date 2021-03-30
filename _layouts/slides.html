@@ -4,22 +4,6 @@
     {% include default_head.html %}
     {% include post_head.html %}
     <title>{{ page.title }}</title>
-    <style>
-
-      .slides-content {
-
-      }
-
-      .slides-content p, h1, h2, h3, h4, h5 {
-        margin-left: 46%;
-      }
-
-      .slides-content .img-full {
-        width: 40%;
-        float: left;
-        margin-top: 7px;
-      }
-    </style>
   </head>
   <body>
 
@@ -35,32 +19,28 @@
           <p>
           {% if paginator.paginated %}
             <a class="button" href="{{ paginator.single_page }}">View as a single page</a>
-            <div class="seg-line"></div>
           {% elsif paginator %}
             <a class="button" href="{{ paginator.first_path }}">View as {{ paginator.total_pages }} pages</a>
-            <div class="seg-line"></div>
           {% endif %}
           </p>
 
           <!-- CONTENTS ON STATIC COMPLETE PAGE -->
           {% unless paginator.paginated %}
             {% if paginator.toc.simple %}
-              <div class="slides-contents">
+              <div class="slides-contents mono-space">
                 {{ paginator.toc.simple | markdownify }}
               </div>
-              <div class="seg-line"></div>
             {% endif %}
           {% endunless  %}
 
           <!-- CONTENT ON TOP OF SLICES-->
           {% if paginator.paginated and paginator.toc.simple %}
-            <div class="slides-contents">
+            <div class="slides-contents mono-space">
               {{ paginator.toc.simple | markdownify }}
             </div>
-            <div class="seg-line"></div>
           {% endif %}
 
-          <div class="slides-content">
+          <div class="slides-content-wrapper">
           {{ content }}
           </div>
 
@@ -70,7 +50,7 @@
             {% if prev == "Untitled" %}
               {% assign prev = "Previous"%}
             {% endif %}
-            <a class="button mono-space uppercase" href="{{ paginator.previous_path }}">{{ prev }}</a>
+            <a class="button mono-space uppercase" href="{{ paginator.previous_path }}">&#8672; {{ prev }}</a>
           {% endif %}
           {% if paginator.previous_section and paginator.next_section %}{% endif %}
 
@@ -80,7 +60,7 @@
               {% assign next = "Next"%}
             {% endif %}
 
-            <a class="button mono-space uppercase" href="{{ paginator.next_path }}">{{ next }}</a>
+            <a class="button mono-space uppercase" href="{{ paginator.next_path }}">{{ next }} &#8674;</a>
           {% endif %}
           </div>
 
