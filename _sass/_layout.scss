@@ -412,7 +412,7 @@ img {
 
 	& blockquote {
 		margin-left: 46%;
-		
+
 		& p {
 			margin-left: 0px;
 		}
@@ -422,6 +422,7 @@ img {
 		width: 40%;
 		float: left;
 		margin-top: 7px;
+		margin-bottom: 0px;
 
 		@media (max-device-width: 1020px) {
 			width: 100%;
