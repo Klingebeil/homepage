@@ -21,7 +21,8 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
- # - jekyll-last-modified
+  - jekyll-paginate-content
 
+# SASS Options
 sass:
     sass_dir: _sass
