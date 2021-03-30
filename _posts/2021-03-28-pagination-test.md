@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: "Building a new website"
+title: "Pagination Test"
 date: 2021-03-10
 paginate: true
 teaser-img: 2021-03-20-teaser.png

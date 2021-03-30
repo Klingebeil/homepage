@@ -1,6 +1,5 @@
-#url: johannesklingebiel.de
-
-# Comment url for local testing
+baseurl: ""
+url: ""
 
 collections:
   portfolio:
@@ -22,6 +21,10 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-paginate-content
+
+paginate_content:
+  debug: true
+  collections: pages, posts
 
 # SASS Options
 sass:
