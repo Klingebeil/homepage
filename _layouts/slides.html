@@ -7,7 +7,6 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        {{ paginator.toc.simple | markdownify }}
         <p>
         {% if paginator.paginated %}
           <a href="{{ paginator.single_page }}">View as a single page</a>

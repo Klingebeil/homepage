@@ -29,7 +29,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
-    jekyll-paginate (1.1.0)
     jekyll-paginate-content (1.1.0)
       jekyll (~> 3.0)
     jekyll-sass-converter (1.5.2)
@@ -71,8 +70,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll-feed (~> 0.12)
-  jekyll-paginate
-  jekyll-paginate-content
+  jekyll-paginate-content (~> 1.1.0)
   kramdown-parser-gfm
   tzinfo (~> 1.2)
   tzinfo-data
