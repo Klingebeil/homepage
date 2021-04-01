@@ -151,7 +151,9 @@ code {
 blockquote {
 	padding-left: 20px;
     margin-left: 5px;
-    border-left: 1px solid $light-grey;
+    border-left: 1px solid $dark-grey;
+	background-color: $light-grey;
+	padding: 10px 5px 10px 20px;
 }
 
 blockquote b, blockquote strong {

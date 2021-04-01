@@ -14,9 +14,13 @@ The failures of chatbots as a „technology“ aside, the authors make some inte
 - Journalists, intrapreneurs and managers are all governed by their own „institutional logic“, referring to the ways, rules and norms people observe and follow when operating in a given social environment. (i.e. newsrooms, innovation teams & publishers)
 
 > Institutional logics are socially constructed from historical patterns of material practices, assumptions, values, beliefs, and rules. These logics provide meaning for the production and reproduction of action and social reality across time and space
+>
 > (…)
+>
 > A core assumption of institutional logics is embedded agency, referring to the ways that interests, identity, values, and agents’ assumptions are embedded in prevailing institutional orientations. Decisions and outcomes thus are the result of the interplay between agency and institutional structure, which both enable and constrain individual and organizational actors 
+>
 > (…)
+>
 >  The embedded agency of actors suggests that individual and institutional agents seeking to trigger technological change and innovation are not neutral but are shaped by competing logics of inter-institutional systems.
 
 - Innovation teams are forced to manoeuvre these logics and while being propelled by their own logic („experimentation, audience orientation, and efficiency“)
