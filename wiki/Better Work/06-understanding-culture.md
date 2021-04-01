@@ -37,7 +37,7 @@ The failures of chatbots as a „technology“ aside, the authors make some inte
 - In the case of newsrooms/publishers the way journalists, managers and entrepreneurs view their audience can also be broken down along similar lines as they use similar abstractions. What‘s the difference between a _user_ and a _reader_? What're the differences between _users_  and _readership_? How are those groups broken down and why? What logic permeates the engagement with these segments?
 - It‘s not about finding the _right_ way of understanding your audience, but understanding the gap of understanding. The ways these abstractions shape the work and processes of different teams.
 
-- I found a second illustration inside the [newsletter TK by Bryan Boyer][3], contrasting the somewhat exaggerated worldview of an urbanist vs. „technologist“.
+- I found a second illustration inside the ["Urban Technology" newsletter by Bryan Boyer][3], contrasting the somewhat exaggerated worldview of an urbanist vs. „technologist“.
 
 ![][image-2]
 
