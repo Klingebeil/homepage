@@ -54,6 +54,7 @@ The failures of chatbots as a „technology“ aside, the authors make some inte
 > (…)
 > 
 > Likewise, it's helpful to understand the language of knowledge - certain or otherwise - that an organization traffics in. Does it speak to itself in rational numbers, data and hard evidence and have a strong affinity for probabilities? Can it function with what an old client of ours used to call highly informed insight' - that is, the trusted knowledge and points of view developed by its own internal expert culture that are often not quantitative in nature but that carry analytical weight?
+
  —  Scott Smith & Madeline Ashby, _How to Future_ (pg.48ff.)
 
 [1]:	https://academic.oup.com/jcmc/article/25/4/291/5869071
