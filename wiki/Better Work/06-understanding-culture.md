@@ -34,18 +34,27 @@ The failures of chatbots as a „technology“ aside, the authors make some inte
 
 ## Competing worldview: User vs. Human
 
-- One more good illustration of this gap [comes from the designer Ted Hunt][2] in his broader critique of „user centered design“.
+- Another good illustration of this gap [comes from the designer Ted Hunt][2] in his broader critique of „user centered design“.
 
 ![][image-1]
 
 - In the case of newsrooms/publishers the way journalists, managers and entrepreneurs view their audience can also be broken down along similar lines as they use similar abstractions. What‘s the difference between a _user_ and a _reader_? What're the differences between _users_  and _readership_? How are those groups broken down and why? What logic permeates the engagement with these segments?
-- It‘s not about finding the _right_ way of understanding your audience, but understanding the gap of understanding. The ways these abstractions shape the work and processes of different teams.
+- It‘s not about finding the _right_ way of understanding your audience, but understanding this gap of understanding. The ways these abstractions shape the work, processes and decisions of different teams.
 
 - I found a second illustration inside the ["Urban Technology" newsletter by Bryan Boyer][3], contrasting the somewhat exaggerated worldview of an urbanist vs. „technologist“.
 
 ![][image-2]
 
 - How might a similar graphic look like for intrapreneurs vs. journalists?
+
+---- 
+
+> How does your organization talk to itself? How does it tell stories? Does it deal only in certainties, or is it comfortable talk ing about possibilities (beyond rhetorical questions and glib marketing slogans)? Does it revere or fear the future? How does it measure current efforts against future aspirations? All of these are vital issues for getting a firm handle on your venture into futuring. You may be in the enviable position of setting the tone and direction for all of these questions, but chances are that there are already embedded ways of treating uncertainty, possibility and associated risk. 
+> 
+> (…)
+> 
+> Likewise, it's helpful to understand the language of knowledge - certain or otherwise - that an organization traffics in. Does it speak to itself in rational numbers, data and hard evidence and have a strong affinity for probabilities? Can it function with what an old client of ours used to call highly informed insight' - that is, the trusted knowledge and points of view developed by its own internal expert culture that are often not quantitative in nature but that carry analytical weight?
+ —  Scott Smith & Madeline Ashby, _How to Future_ (pg.48ff.)
 
 [1]:	https://academic.oup.com/jcmc/article/25/4/291/5869071
 [2]:	http://www.ted-hunt.com/USERS-PEOPLE.html
