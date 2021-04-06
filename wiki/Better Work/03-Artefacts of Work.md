@@ -8,7 +8,9 @@ One interesting notion in the last years was the question of how I can make the 
 
 > The idea is to follow early product innovation processes, **but ship all the collateral around the product rather than the product itself**.
 
-One great example is the work of [Craig Mod][2] who seems to use every opportunity to turn projects into a book. Be that via SMS during long walks through Japan or by laying out every commit ever made on a software project. Here he is talking about both.
+Such artefacts can take on a lot of different forms. They can be reports, design drafts, actual artefacts from field research, etc., etc.
+
+One quirky example is the work of [Craig Mod][2] who seems to use every opportunity to turn projects into a book. Be that via SMS during long walks through Japan or by laying out every commit ever made on a software project. Here he is talking about both.
 
 <div id="video-embed"> <iframe class="video-extern" width="auto" height="auto" src="https://www.youtube.com/embed/k-Oveq6mwiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

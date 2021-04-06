@@ -11,8 +11,8 @@ A couple of loose notes on the cultural gaps of publishers vs. newsrooms vs. inn
 
 The failures of chatbots as a „technology“ aside, the authors make some interesting observations:
 
-- Journalists, intrapreneurs and managers are all governed by their own „institutional logic“, referring to the ways, rules and norms people observe and follow when operating in a given social environment. (i.e. newsrooms, innovation teams & publishers)
-
+> Journalists, intrapreneurs and managers are all governed by their own „institutional logic“, referring to the ways, rules and norms people observe and follow when operating in a given social environment. (i.e. newsrooms, innovation teams & publishers)
+> 
 > Institutional logics are socially constructed from historical patterns of material practices, assumptions, values, beliefs, and rules. These logics provide meaning for the production and reproduction of action and social reality across time and space
 > 
 > (…)
@@ -31,8 +31,9 @@ The failures of chatbots as a „technology“ aside, the authors make some inte
 - To sum up: there is a broad cultural gap between innovation teams and newsrooms and the management above both. This gap can lead to miscalculations and misunderstandings from both sides which in turn can doom certain projects.
 - Innovation teams need to be aware of this cultural gap and need to do their homework and be more willing to throw away an idea if it does not fit. It‘s once again the gap between a „good idea“ and a „successful idea“.
 
+---- 
 
-## Competing worldview: User vs. Human
+## Competing worldviews: User vs. Human
 
 - Another good illustration of this gap [comes from the designer Ted Hunt][2] in his broader critique of „user centered design“.
 
@@ -46,6 +47,15 @@ The failures of chatbots as a „technology“ aside, the authors make some inte
 ![][image-2]
 
 - How might a similar graphic look like for intrapreneurs vs. journalists?
+
+---- 
+##  The Language Barrier
+
+- aside from the user vs. reader distinction, teams tend to invent or adopt their own language. Especially when it comes to innovation teams, as Alexandra Deschamps-Sonsino observes in her book „Creating a culture of innovation“
+
+> One of the reasons for this choice of language is world building. Every innovation department is trying to build a narrative about themselves as an extension or in opposition to the rest of its business. Language is an easy way to create that world when the office space doesn't. It's also a way of embracing military ideologies or artistic ones, both potent sources of imagery and visual inspiration for innovation work.
+
+- I think innovation teams should be highly conscious of their own decisions of how to name of explain concepts and projects. Creative obfuscation might sound impressive, but might hinder the communication and collaboration with the wider organization.
 
 ---- 
 
