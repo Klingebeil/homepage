@@ -27,17 +27,19 @@
           <!-- CONTENTS ON STATIC COMPLETE PAGE -->
           {% unless paginator.paginated %}
             {% if paginator.toc.simple %}
-              <div class="slides-contents mono-space">
+              <details class="slides-contents mono-space">
+                <summary class="mono-space uppercase">Contents</summary>
                 {{ paginator.toc.simple | markdownify }}
-              </div>
+              </details>
             {% endif %}
           {% endunless  %}
 
           <!-- CONTENT ON TOP OF SLICES-->
           {% if paginator.paginated and paginator.toc.simple %}
-            <div class="slides-contents mono-space">
+            <details class="slides-contents mono-space">
+              <summary class="mono-space uppercase">Contents</summary>
               {{ paginator.toc.simple | markdownify }}
-            </div>
+            </details>
           {% endif %}
 
           <div class="slides-content-wrapper">

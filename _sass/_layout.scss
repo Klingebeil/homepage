@@ -406,7 +406,7 @@ img {
 		margin-left: 46%;
 
 		@media (max-device-width: 1020px) {
-			margin-left: 0%
+			margin-left: 0%;
 		}
 	}
 
@@ -415,6 +415,10 @@ img {
 
 		& p {
 			margin-left: 0px;
+		}
+
+		@media (max-device-width: 1020px) {
+			margin-left: 0%;
 		}
 	}
 
@@ -454,6 +458,10 @@ img {
 			border: none;
 			margin-top: 0.5em;
 		}
+	}
+
+	& summary {
+		padding-left: 23px;
 	}
 }
 
