@@ -10,6 +10,8 @@ One interesting notion in the last years was the question of how I can make the 
 
 Such artefacts can take on a lot of different forms. They can be reports, design drafts, actual artefacts from field research, etc., etc.
 
+<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">Design artifacts are not the deliverable. They just document the design decisions, and design decisions must be rooted in user research.<br><br>If you can&#39;t draw a direct line from the artifact to how the decisions it documents will be informed, you won&#39;t produce anything of value.</p>&mdash; Pavel #StopAsianHate (@PavelASamsonov) <a href="https://twitter.com/PavelASamsonov/status/1379864423788122113?ref_src=twsrc%5Etfw">April 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 One quirky example is the work of [Craig Mod][2] who seems to use every opportunity to turn projects into a book. Be that via SMS during long walks through Japan or by laying out every commit ever made on a software project. Here he is talking about both.
 
 <div id="video-embed"> <iframe class="video-extern" width="auto" height="auto" src="https://www.youtube.com/embed/k-Oveq6mwiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
