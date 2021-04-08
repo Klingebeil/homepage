@@ -35,7 +35,9 @@ title: Digital Garden
     <div id="topic-list">
     {% for folder in wikifolders %}
       {% unless folder contains 'md' or folder contains 'html' %}
-          <a class="button capitalize color-green" href="/wiki/{{folder}}/">{{folder}}</a>
+          <a class="button capitalize color-green" href="/wiki/{{folder}}/">
+            {{folder}}
+          </a>
       {% endunless %}
     {% endfor %}
     </div>
