@@ -15,16 +15,12 @@
         background-color: #{{ page.contrastcolor }};
       }
 
-      .header {
-        position: fixed;
-      }
+      #footer-slides .row { max-width: 100%;}
     </style>
   </head>
   <body>
     <!-- *** HEADER *** -->
-    <div class="row">
-      <div class="column-100">
-        <div class="header"><a href="{{ site.baseurl }}/">
+        <div class="slides-header"><a href="{{ site.baseurl }}/">
           <svg id="logo-normal" width="30px" height="36px" viewBox="0 0 30 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
               <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
               <title>Logo-Klein-path</title>
@@ -34,37 +30,38 @@
               </g>
           </svg></a>
 
-          {% if paginator.paginated %}
+          <!--{% if paginator.paginated %}
             <a class="button" href="{{ paginator.single_page }}">View as a single page</a>
           {% elsif paginator %}
             <a class="button" href="{{ paginator.first_path }}">View as {{ paginator.total_pages }} pages</a>
-          {% endif %}
-
+          {% endif %}-->
+          <p>
+          <a class="button mono-space uppercase" href="{{ paginator.previous_path }}">&#8672;</a>
+          <a class="button mono-space uppercase" href="{{ paginator.next_path }}">&#8674;</a>
+          </p>
         </div>
-      </div>
-    </div>
     <!-- *** CONTENT *** -->
     <div class ="row">
       <main class="page-content" aria-label="Content">
         <div class="wrapper">
-
+          
           <!-- CONTENTS ON STATIC COMPLETE PAGE -->
-          {% unless paginator.paginated %}
+          <!--{% unless paginator.paginated %}
             {% if paginator.toc.simple %}
               <details class="slides-contents mono-space">
                 <summary class="mono-space uppercase">Contents</summary>
                 {{ paginator.toc.simple | markdownify }}
               </details>
             {% endif %}
-          {% endunless  %}
+          {% endunless  %}-->
 
           <!-- CONTENT ON TOP OF SLICES-->
-          {% if paginator.paginated and paginator.toc.simple %}
+          <!--{% if paginator.paginated and paginator.toc.simple %}
             <details class="slides-contents mono-space">
               <summary class="mono-space uppercase">Contents</summary>
               {{ paginator.toc.simple | markdownify }}
             </details>
-          {% endif %}
+          {% endif %}-->
 
           <div class="slides-content-wrapper">
           {{ content }}
@@ -93,8 +90,7 @@
         </div>
       </main>
     </div>
-
-    {% include footer.html %}
+    <div id="footer-slides">{% include footer.html %}</div>
 
     <script>
       addEventListener('keydown', function(event) {
