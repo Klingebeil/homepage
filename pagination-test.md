@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: "Building a new website"
+title: "Slides Test"
 date: 2021-03-10
 backgroundcolor: FEC502
 contrastcolor: 312938
@@ -8,11 +8,11 @@ paginate: true
 teaser-img: 2021-03-20-teaser.png
 ---
 
-This shows up at the top of all pages.
-
-<!--page_header-->
+{% include img-full.html id="2018-09-09-01.jpg" alt="Magic Leap" %}
 
 # Editorial
+
+<div class="slides-inline-contents mono-space">{{ paginator.toc.simple | markdownify }}</div>
 
 Wer am Morgen des 13. August 2018 eine Ausgabe der _New York Post_ kaufen wollte, fand sich überaschenderweise for leeren Auslagen. Nicht weil etwa die Druckermaschinen über Nacht kaputt gegangen wären oder Lieferungen in der ganzen Stadt vorm Erdboden verschluckt wurden, sondern weil an fast jedem Kiosk auf der Halbinsel alle Ausgaben bereits wenige Minuten nach der Öffnung ausverkauft waren.
 

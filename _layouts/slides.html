@@ -15,6 +15,11 @@
         background-color: #{{ page.contrastcolor }};
       }
 
+      .button:hover {
+        color: #{{ page.backgroundcolor }};
+        background-color: #{{ page.contrastcolor }};
+      }
+
       #footer-slides .row { max-width: 100%;}
     </style>
   </head>
@@ -36,9 +41,32 @@
             <a class="button" href="{{ paginator.first_path }}">View as {{ paginator.total_pages }} pages</a>
           {% endif %}-->
           <p>
+          <details class="button">
+            <summary>
+              CONTENTS
+            </summary>
+            {{ paginator.toc.simple | markdownify }}
+          </details>
           <a class="button mono-space uppercase" href="{{ paginator.previous_path }}">&#8672;</a>
           <a class="button mono-space uppercase" href="{{ paginator.next_path }}">&#8674;</a>
           </p>
+          <!--{% if paginator.page_trail %}
+          <ul class="pager">
+          {% for trail in paginator.page_trail %}
+
+          {% assign clearedpath = trail.path | remove: ".html" %}
+          {% if page.url == clearedpath %}
+            <li class="selected">
+              <a href="{{ trail.path }}">(...)</a>
+            </li>
+          {% else %}
+            <li>
+              <a href="{{ trail.path }}">(.)</a>
+            </li>
+          {% endif %}
+          {% endfor %}
+          </ul>
+          {% endif %}-->
         </div>
     <!-- *** CONTENT *** -->
     <div class ="row">
