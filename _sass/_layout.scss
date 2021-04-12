@@ -442,7 +442,6 @@ img {
 }
 
 .slides-contents {
-
 	background-color: #ffffff;
 	padding: 20px 0px 20px 0px;
 	border-bottom: 1px solid;
@@ -468,6 +467,15 @@ img {
 		padding-left: 23px;
 	}
 }
+
+.slides-contents[open] summary ~ * {
+	animation: sweep .5s ease-in-out;
+  }
+
+  @keyframes sweep {
+	0%    {opacity: 0; margin-top: -5px}
+	100%  {opacity: 1; margin-top: 0px}
+  }
 
 /* -- WIKI -- */
 /* BREADCRUMBS NAVIGATION */

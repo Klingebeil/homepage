@@ -2,6 +2,8 @@
 layout: slides
 title: "Building a new website"
 date: 2021-03-10
+backgroundcolor: FCD5D3
+contrastcolor: 312938
 paginate: true
 teaser-img: 2021-03-20-teaser.png
 ---
