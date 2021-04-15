@@ -421,6 +421,7 @@ img {
 
 	& .button {
 		margin-right: 5px;
+		margin-top: 6px;
 	}
 
 	& ul {
@@ -488,6 +489,10 @@ img {
 	& h1 {
 		font-size: 4em;
   		border-top: solid 1px;
+		
+		@media (max-device-width: 1020px) {
+			font-size: 2em;
+		}
 	}
 
 	& blockquote {
@@ -547,9 +552,13 @@ img {
 .slides-inline-contents {
 	width: 40%;
     float: left;
-    margin-bottom: 0px;
+    margin-bottom: 50px;
 	border-top: 1px solid;
 	border-bottom: 1px solid;
+	
+	@media (max-device-width: 1020px) {
+		display: none;
+	}
 
 	& ul {
 		list-style: none;

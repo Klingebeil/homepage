@@ -149,17 +149,22 @@ code {
 }
 
 blockquote {
-	padding-left: 20px;
+	padding: 20px;
     margin-left: 5px;
+	margin-top: 32px;
+	margin-inline-end: 10px;
     border-left: 1px solid $dark-grey;
 	background-color: $light-grey;
-	padding: 10px 5px 10px 20px;
-}
 
-blockquote b, blockquote strong {
-	font-family: calendas-regular, Times, Serif;
-	font-weight: 100;
-	background-color: $light-yellow;
+	& b, strong {
+		font-family: calendas-regular, Times, Serif;
+		font-weight: 100;
+		background-color: $light-yellow;
+	} 
+
+	& p {
+		margin: 0px !important;
+	}
 }
 
 hr {
