@@ -25,7 +25,7 @@ Für eine Zeitung wie die _Süddeutsche Zeitung_ könnte eine ähnlich überspit
 
 {% include img-full.html id="2021-03-12-02.jpeg" %}
 
-Wichtig ist jedoch zu verstehen, dass hier “Innovationskultur” nicht besser als “Redaktionskultur” ist. Im Gegenteil sind beide Perspektiven auch wieder nur das Ergebnis der Arbeit, die in ihnen geschieht. Beispielsweise entwickeln Innovationsteams oft ganz bewusst eine eigene und oft verschleiernde Begriffe, um sich vom Rest der Organisation abzuheben[1]()(https://waspassiert.substack.com/p/extra-uber-innovationskultur#footnote-1):
+Wichtig ist jedoch zu verstehen, dass hier “Innovationskultur” nicht besser als “Redaktionskultur” ist. Im Gegenteil sind beide Perspektiven auch wieder nur das Ergebnis der Arbeit, die in ihnen geschieht. Beispielsweise entwickeln Innovationsteams oft ganz bewusst eine eigene und oft verschleiernde Begriffe, um sich vom Rest der Organisation abzuheben[^1]:
 
 > Every innovation department is trying to build a narrative about themselves as an extension or in opposition to the rest of its business. Language is an easy way to create that world when the office space doesn’t. It’s also a way of embracing military ideologies or artistic ones, both potent sources of imagery and visual inspiration for innovation work.
 
@@ -36,3 +36,5 @@ Diese Lücke und die Missverständnisse zwischen den unterschiedlichen Kulturen 
 -   Die gewohnte Sprache der Organisation verwenden (indem bspw. wenig Englische Begriffe verwendet werden und gewohnte Medien und Formate wie E-Mails oder Powerpoint genutzt werden).
 
 -   Früh Feedback aus anderen Teams eingeholt wird, damit Ideen nicht im Vakuum entwickelt werden.
+
+[^1]:	“Creating a Culture of Innovation” by Alexandra Deschamps-Sonsino, p. 73
