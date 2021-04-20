@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: "Slides Test"
+title: "A Proposal for an journalistic Innovation Team"
 date: 2021-03-10
 backgroundcolor: FEC502
 contrastcolor: 312938
@@ -10,9 +10,12 @@ teaser-img: 2021-03-20-teaser.png
 
 {% include img-full.html id="2018-09-09-01.jpg" alt="Magic Leap" %}
 
-# Editorial
+# Intro
 
 <div class="slides-inline-contents mono-space">{{ paginator.toc.simple | markdownify }}</div>
+
+#0C7D4A
+#FEC502
 
 Wer am Morgen des 13. August 2018 eine Ausgabe der _New York Post_ kaufen wollte, fand sich überaschenderweise for leeren Auslagen. Nicht weil etwa die Druckermaschinen über Nacht kaputt gegangen wären oder Lieferungen in der ganzen Stadt vorm Erdboden verschluckt wurden, sondern weil an fast jedem Kiosk auf der Halbinsel alle Ausgaben bereits wenige Minuten nach der Öffnung ausverkauft waren.
 
@@ -74,6 +77,3 @@ Zusätzlich führt der Laden eine Reihe exklusiver Produkte, sowie wechselnde Ge
 Vor allem kleine und unabhängige Buchhändler haben in den letzten zehn Jahren unter der Konkurrenz aus dem Internet gelitten. Bunkitsu in Tokyo ist keine Antwort auf diesen Niedergang, aber dennoch ein faszinierendes Konzept. Geführt von einem der größten Buchgroßhändler Japans, Nippon Shuppan Hanbai, ist Bunkitsu äußerst puristisch. Kunden finden hier keine Schreibwaren oder Ansichtskarten, dafür aber über 30.000 handverlesene Bücher und Magazine, von denen jeweils nur eine einzige Ausgabe vorrätig gehalten wird. Bunkitsu will zum Entdecken einladen und lässt sich das bezahlen. 
 
 Der Eintritt in den Laden alleine kostet bereits ¥1,500 (12€). Dafür haben Besucher Zugriff auf das gesamte Archiv, Arbeitsplätze und eine Kaffeebar. Die Mitarbeiter beraten ihre Kunden und schließen auf Wunsch auch Magazinabos ab oder kündigen diese. Bunkitsu lädt dazu ein, mehrere Stunden vor Ort zu verbringen, zu stöbern, zu lesen und die Zeit zu vergessen. Ob man am Ende ein Buch kauft, ist erst einmal nebensächlich, aber es ist fast unmöglich Bunkitsu mit leeren Händen zu verlassen. •
-
-<!--page_footer-->
-This goes into the bottom of all pages.
