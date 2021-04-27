@@ -301,6 +301,7 @@ img {
 .footer {
 	margin: 50px 0px 50px 0px;
     color: $dark-grey !important;
+	clear: both;
 
 	& .button {
 		margin-right: 5px
@@ -472,39 +473,10 @@ img {
 
 .slides-content-wrapper {
 
-	margin-top: 50px;
+	margin-top: 75px;
 
 	@media (max-device-width: 1020px) {
 		margin-top: 100px;
-	}
-
-	& p, span, h2, h3, h4, h5, h6 {
-		margin-left: 46%;
-
-		@media (max-device-width: 1020px) {
-			margin-left: 0%;
-		}
-	}
-
-	& h1 {
-		font-size: 4em;
-  		border-top: solid 1px;
-		
-		@media (max-device-width: 1020px) {
-			font-size: 2em;
-		}
-	}
-
-	& blockquote {
-		margin-left: 46%;
-
-		& p {
-			margin-left: 0px;
-		}
-
-		@media (max-device-width: 1020px) {
-			margin-left: 0%;
-		}
 	}
 
 	& .img-small {
