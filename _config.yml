@@ -21,10 +21,6 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-paginate_content:
-  debug: true
-  collections: pages, posts
-
 # SASS Options
 sass:
     sass_dir: _sass
