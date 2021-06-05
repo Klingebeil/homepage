@@ -1,19 +1,19 @@
 ---
 layout: special-project
 title: A Weird Summer
-teaser-img: work-in-progress-teaser.jpg
+teaser-img: a-weird-summer-teaser.jpg
 date: 2021-05-03
 category: zine
-summary: "A printed zine documenting in German the experiences and learnings from three years of work in the innovation team of the <em>Süddeutsche Zeitung</em>."
+summary: "A zine about pandemic podcasting, news from the future, staying six feet apart, newsletters, a possible green future, baking Kanelbullars and what's next."
 published: true
 ---
 
 <head>
     <style>
         :root {
-            --bg-color: #EEE5E0;
+            --bg-color: #FFF577;
             --txt-color: #1A161C;
-            --contrast-color: #FFF577;
+            --contrast-color: #1A161C;
         }
         /* BOOKUP */
         /* Created with http://boockup.marco.land */
@@ -71,7 +71,7 @@ published: true
         /* EVERYTING ELSE */
 
         body {
-            background-color: var(--contrast-color);
+            background-color: var(--bg-color);
         }
         .fullscreen {
             max-width: 100% !important;
@@ -90,37 +90,24 @@ published: true
             fill: var(--contrast-color);
         }
 
-        #zsp-seal {
-            position: absolute;
-            transform: rotate(-20deg);
-            width: 150px;
-            left: 60%;
-            top: 600px;
-            display: none;
-        }
-
         #teaser {
-            margin: 30px;
+            margin: 200px 30px 150px 30px;
         }
 
         #teaser p {
-            display: inline;
             font-family: mono-space, 'Courier New', Courier, monospace;
+            text-align: center;
         }
 
         #teaser h1 {
             line-height: 1.2em;
             font-size: 3em;
-            text-align: left;
         }
 
 
         @media screen and (max-width: 1020px){
-            #zsp-seal {
-                left: 55%;
-                top: 520px; 
-            }
-
+            #teaser {
+                margin-top: 30px; }
         }
 
         @media screen and (max-width: 450px){
@@ -192,8 +179,8 @@ published: true
     <div class="column-50">
         <!--TEASER-->
         <div id="teaser">
-            <p class="mono-space small uppercase">A Weird Summer: Trying to make sense of the now</p>
-            <h1>A zine about the pandemic, trends, podcasting, building a cabin in the woods, a possible green future and baking Kanelbullars.</h1>
+            <p class="mono-space small uppercase centered">Trying to make sense of the now</p>
+            <h1 class="centered">A zine about pandemic podcasting, news from the future, staying six feet apart, newsletters, a possible green future, baking Kanelbullars and what's next.</h1>
 
         </div>
     </div>
