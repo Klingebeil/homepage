@@ -4,7 +4,7 @@ title: A Weird Summer
 teaser-img: a-weird-summer-teaser.jpg
 date: 2021-05-03
 category: zine
-summary: "A zine about pandemic podcasting, news from the future, staying six feet apart, newsletters, a possible green future, baking Kanelbullars and what's next."
+summary: "A zine about pandemic podcasting, news from 2034, staying six feet apart, newsletters, a possible green future, baking Kanelbullars and what's next."
 published: true
 ---
 
@@ -13,7 +13,7 @@ published: true
         :root {
             --bg-color: #FFF577;
             --txt-color: #1A161C;
-            --contrast-color: #1A161C;
+            --contrast-color: #FFF577;
         }
         /* BOOKUP */
         /* Created with http://boockup.marco.land */
@@ -71,8 +71,10 @@ published: true
         /* EVERYTING ELSE */
 
         body {
-            background-color: var(--bg-color);
-            background-image: url("a-weird-summer/background-palmtree.jpeg");
+            /*background-color: var(--bg-color);*/
+            background-image: url("../img/portfolio/a-weird-summer/background-palmtree.jpeg");
+            background-repeat: no-repeat;
+            background-size: cover;
         }
         .fullscreen {
             max-width: 100% !important;
@@ -93,6 +95,7 @@ published: true
 
         #teaser {
             margin: 200px 30px 150px 30px;
+            color: var(--contrast-color);
         }
 
         #teaser p {
