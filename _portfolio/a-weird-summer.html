@@ -76,7 +76,9 @@ published: true
             background-repeat: no-repeat;
             background-size: cover;
         }
+
         .fullscreen {
+            display: block !important;
             max-width: 100% !important;
             padding-left: 0px !important;
             padding-right: 0px !important;
@@ -94,7 +96,7 @@ published: true
         }
 
         #teaser {
-            margin: 200px 30px 150px 30px;
+            margin: 200px 300px 150px 300px;
             color: var(--contrast-color);
         }
 
@@ -111,7 +113,7 @@ published: true
 
         @media screen and (max-width: 1020px){
             #teaser {
-                margin-top: 30px; }
+                margin: 30px; }
         }
 
         @media screen and (max-width: 450px){
@@ -164,7 +166,7 @@ published: true
 <body>
 
 <div class="row fullscreen">
-    <div class="column-50" id="book-showcase">
+    <div class="column-100" id="book-showcase">
         {% include header.html %}
         <div class="bookup-container">
             <div class="boockup">
@@ -180,7 +182,7 @@ published: true
         </div>
     </div>
 
-    <div class="column-50">
+    <div class="column-100">
         <!--TEASER-->
         <div id="teaser">
             <p class="mono-space small uppercase centered">Trying to make sense of the now</p>
