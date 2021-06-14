@@ -110,6 +110,22 @@ published: true
             font-size: 3em;
         }
 
+        table {
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 850px;
+            color: var(--contrast-color);
+            text-align: left;
+        }
+
+        tr th:first-child {
+            padding-right: 20px;
+        }
+
+        th {
+            vertical-align: top;
+        }
+
 
         @media screen and (max-width: 1020px){
             #teaser {
@@ -186,9 +202,29 @@ published: true
         <!--TEASER-->
         <div id="teaser">
             <p class="mono-space small uppercase centered">Trying to make sense of the now</p>
-            <h1 class="centered">A zine about pandemic podcasting, news from 2034, staying six feet apart, newsletters, a possible green future, baking Kanelbullars and what's next.</h1>
+            <h1 class="centered">A zine about pandemic podcasting, news from 2024, staying six feet apart, newsletters, a possible green future, baking Kanelbullars and what's next.</h1>
             <p class="mono-space small uppercase centered">Coming soon</p>
         </div>
+    </div>
+    <div class="column-100">
+        <table id="kolophon" class="small mono-space">
+            <tr>
+                <th class="uppercase">Print specs</th>
+                <th>24 pages &#8226; Run: 300</th>
+            </tr>
+            <tr>
+                <th class="uppercase">Fonts</th>
+                <th> Windsor &#8226; iA Writer Quattro V &#8226; Calendas Plus</th>
+            </tr>
+            <tr>
+                <th class="uppercase">Printed by</th>
+                <th>junge Media Service GmbH, Munich</th>
+            </tr>
+            <tr>
+                <th class="uppercase">Wiht a huge thanks</th>
+                <th>to Meike Winkler for helping me edit this project and to Kristoffer Tjalve for helping me hammer out some aspects.</th>
+            </tr>
+        </table>
     </div>
 </div>
 </body>
