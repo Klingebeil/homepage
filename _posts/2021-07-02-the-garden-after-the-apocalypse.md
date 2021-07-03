@@ -30,6 +30,6 @@ Considering this, there’s something rebellious in not building digital tools f
 Of course, even the _Millennium Forrest_ is still the vanity project of someone insanely rich with what might be considered its own hero story at heart. But if I had the choice, I’d rather walk through a garden full of flowers on earth and tell this story than live in a sealed colony on Mars.
 
 ---- 
-This text was originally written for my zine “_[A Weird Summer](https://johannesklingebiel.de/portfolio/a-weird-summer)_”, channeling my reading leading up to the project, namely Ursula Le Guin‘s “\_Carrier bag theory of fiction\_” and articles by _The Planthunter_, as well as Elizabeth Rush’ “\_Rising: Dispatches from the New American Shore\_”.
+This text was originally written for my zine “_[A Weird Summer](https://johannesklingebiel.de/portfolio/a-weird-summer)_”, channeling my reading leading up to the project, namely Ursula Le Guin‘s “_Carrier bag theory of fiction_” and articles by _The Planthunter_, as well as Elizabeth Rush’ “_Rising: Dispatches from the New American Shore_”.
 
 A number of links, ideas and projects around gardening as a skill for the future(s) [can be found here.](https://www.are.na/johannes-klingebiel/gardening-as-a-futures-skill)
