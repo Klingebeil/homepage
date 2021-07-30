@@ -35,9 +35,10 @@
               <a class="book no-decoration flex" href="{{ site.baseurl }}{{ item.url }}" style="background-color: {{ item.color-spine }}; color: {{ item.color-text }}">
                 <aside class="mono-space uppercase book-category small">{{ item.category }}</aside>
                 <div class="title-author">
-                  <h2 class="uppercase no-decoration">{{item.title }}</h2>
+                  <h2 class="no-decoration">{{item.title }}</h2>
                   <p class="mono-space small no-decoration">by {{item.author}}</p>
                 </div>
+                <aside class="uppercase book-category small">{{ item.publisher }}</aside>
               </a>
           {% endunless %}
       {% endfor %}
