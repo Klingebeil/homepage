@@ -1,6 +1,6 @@
 ---
 layout: book 
-title: "The Field Study Handbook, Field Edition"
+title: "The Field Study Handbook"
 author: Jan Chipchase
 publisher: Field Institute
 year: 2019
