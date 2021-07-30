@@ -5,7 +5,7 @@ author: Alexandra Deschamps-Sonsino
 publisher: Apress
 year: 2020
 cover:
-category: Business
+category: Business & Innovation
 color-spine: "#2C1916"
 color-text: "#FFFAFA"
 ---
