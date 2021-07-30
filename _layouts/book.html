@@ -15,7 +15,7 @@
       <div class="row">
         <div class="column-25">
           <div class="seg-line color-green"></div>
-          <div class="button color-green capitalize" id="breadcrumbs"><a href="/wiki/Bookshelf">back to bookshelf</a></div>
+          <div id="breadcrumbs"><p><a class="button color-green capitalize" href="/wiki/Bookshelf">back to bookshelf</a></p></div>
           <div class="seg-line color-green"></div>
           <p class="small mono-space color-green">TITLE:</p>
           <p class="color-green">{{page.title}}</p>
@@ -38,9 +38,11 @@
         </div>
         <div class="column-50">
             <div class="seg-line color-green"></div>
+            <p class="mono-space small color-green">NOTES:</p>
+            <div class="seg-line color-green"></div>
             {{ content }}
         </div>
-        <div class="column-25"><div class="seg-line color-green"></div></div>
+        <div class="column-25"><div class="seg-line color-green resp-no-display"></div></div>
       </div>
     
     {% include footer.html %}
