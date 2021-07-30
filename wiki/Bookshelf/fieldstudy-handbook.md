@@ -5,4 +5,7 @@ author: Jan Chipchase
 publisher: Field Institute
 year: 2019
 cover: fieldstudy-handbook.png
+category: Ethnography
+color-spine: "#DFDFE3"
+color-text: "#F1523E"
 ---

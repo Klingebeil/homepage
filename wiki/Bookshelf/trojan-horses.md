@@ -5,6 +5,9 @@ author: Dan Hill
 publisher: Strelka Press
 year: 2015
 cover: dark-matter-cover.jpeg
+category: Design Theory
+color-spine: "#FFFF00"
+color-text: "#050503"
 ---
 If there‘s any book I would have wished to find on my desk when I first started out working in the innovation team at the _Süddeutsche Zeitung_ it would have been this. 
 

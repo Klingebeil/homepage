@@ -5,6 +5,9 @@ author: Nathan Jurgenson
 publisher: Verso Books
 year: 2019
 cover: the-social.photo.jpeg
+category: Media
+color-spine: "#FFFFFF"
+color-text: "#080707"
 ---
 This book lives in an interesting niche and some parts of it already feel almost dated. That said Nathan Jurgenson‘s „The Social Photo“ is a fascinating tour through the social functions and meanings of photography. Starting even before photography even existed to the fast and cheap medium of today.
 

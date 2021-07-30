@@ -5,6 +5,9 @@ author: Vaughn Tan
 publisher: Columbia University Press
 year: 2020
 cover: uncertainty-mindset.jpeg
+category: Ethnography
+color-spine: "#F0463B"
+color-text: "#FEDEC7"
 ---
 Vaughn Tan‘s „The Uncertainty Mindest“ sits at the tasty intersection of the hows and whys of innovation and Chef‘s Table foodie aspirations. Not only is it a fascinating look into the ways culinary R&D teams work, but it also takes it time to zoom out and disect the broader context of the high-end restaurant scene these teams have to operate in.
 
