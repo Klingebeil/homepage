@@ -25,23 +25,22 @@
       <p class="mono-space small color-green">Entries: {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | reverse %}{{ notes.size | minus:1 }}</p>
       <div class="seg-line color-green resp-no-display"></div>
     </div>
-    <div class="column-50">
+    <div class="column-75">
       {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | reverse %}
 
       {% assign snippets = site.static_files | where_exp: "item" , "item.path contains folderfilter" %}
 
-      <ul id="notes-list">
+      <div id="notes-list" class="flex">
       {% for item in notes %}
           {% unless item.path contains "index.html" %}
-              <li class="notes">
+              <div class="notes">
                 <div class="mono-space button capitalize color-green"><a href="{{ site.baseurl }}{{item.url}}">{{item.title }}</a></div>
-                <div class="notes_content">{{ item.content | markdownify }}</div>
-              </li>
+                <div class="notes_content">{{ item.content | markdownify | truncate: 500 }}</div>
+              </div>
           {% endunless %}
       {% endfor %}
-      </ul>
+      </div>
     </div>
-    <div class="column-25"><div class="seg-line color-green"></div></div>
   </div>
 
 {% include footer.html %}
