@@ -646,11 +646,17 @@ img {
 
 /* BOOKSHELF */
 
-#book-list {
+.book-list {
 	padding: 0px;
     margin: 0px;
-    display: flex;
-    flex-wrap: wrap;
+
+	& :nth-child(3n+3) {
+		margin-right: 20px;
+	}
+
+	& :nth-child(2n+2) {
+		margin-right: 10px;
+	}
 }
 
 .book {

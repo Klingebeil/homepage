@@ -26,13 +26,13 @@
       <div class="seg-line color-green resp-no-display"></div>
     </div>
 
-    <div class="column-75 flex-column">
+    <div class="column-75 flex-column book-list">
       {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | reverse %}
 
       {% assign snippets = site.static_files | where_exp: "item" , "item.path contains folderfilter" %}
       {% for item in notes %}
           {% unless item.path contains "index.html" %}
-              <a class="book no-decoration flex w-100" href="{{ site.baseurl }}{{ item.url }}" style="background-color: {{ item.color-spine }}; color: {{ item.color-text }}">
+              <a class="book no-decoration flex" href="{{ site.baseurl }}{{ item.url }}" style="background-color: {{ item.color-spine }}; color: {{ item.color-text }}">
                 <aside class="mono-space uppercase book-category small">{{ item.category }}</aside>
                 <div class="title-author">
                   <h2 class="uppercase no-decoration">{{item.title }}</h2>
