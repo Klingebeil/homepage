@@ -596,6 +596,7 @@ img {
 #notes-list {
     padding: 0px;
 	margin: 0px;
+	flex-wrap: wrap;;
 
 	@media (max-width: 1024px) {
 		flex-direction: column;
@@ -609,7 +610,7 @@ img {
 
 .notes {
     margin: 0px 20px 50px 0px;
-	max-width: 48%;
+	max-width: 45%;
     border-top: 1px solid $contrast-green;
 
 	& img {
