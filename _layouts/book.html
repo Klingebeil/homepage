@@ -17,13 +17,18 @@
           <div class="seg-line color-green"></div>
           <div class="button color-green capitalize" id="breadcrumbs"><a href="/wiki/Bookshelf">back to bookshelf</a></div>
           <div class="seg-line color-green"></div>
-          <div class="cover-image"><img src=/img/bookshelf/{{page.cover}}></div>
-          <div class="seg-line color-green"></div>
-          <p class="mono-space small color-green">AUTHOR: {{page.author}}</p>
-          <div class="seg-line color-green"></div>
-          <p class="mono-space small color-green">PUBLISHER: {{page.publisher}}</p>
-          <div class="seg-line color-green"></div>
-          <p class="mono-space small color-green">YEAR: {{page.year}}</p>
+          <div class="flex">
+            <div class="cover-image color-green"><img src=/img/bookshelf/{{page.cover}}></div>
+            <div class="flex-column book-info">
+              <p class="mono-space small color-green">AUTHOR: {{page.author}}</p>
+              <div class="seg-line color-green"></div>
+              <p class="mono-space small color-green">PUBLISHER: {{page.publisher}}</p>
+              <div class="seg-line color-green"></div>
+              <p class="mono-space small color-green">YEAR: {{page.year}}</p>
+              <div class="seg-line color-green"></div>
+              <p class="mono-space small color-green">CATEGORY: {{page.category}}</p>
+            </div>
+          </div>
           <div class="seg-line color-green"></div>
           <p class="mono-space small color-green">Please consider buying your books locally.</p>
           <div class="seg-line color-green resp-no-display"></div>

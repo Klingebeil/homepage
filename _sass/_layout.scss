@@ -695,6 +695,17 @@ img {
 	}
 }
 
+.book-info p { padding-left: 10px;}
+
+.cover-image {
+
+	padding: 10px 10px 10px 0px;
+	border-right: 1px solid;
+
+	img {
+		max-height: 200px;
+	}
+}
 /* -- MEDIA QUERIES -- */
 @media (max-device-width: 1020px) { 
 	.content-wrapper {
