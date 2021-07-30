@@ -13,7 +13,7 @@
       </div>
       
       <div class="row">
-        <div class="column-25">
+        <div class="column-25 book-info">
           <div class="seg-line color-green"></div>
           <div id="breadcrumbs"><p><a class="button color-green capitalize" href="/wiki/Bookshelf">back to bookshelf</a></p></div>
           <div class="seg-line color-green"></div>
@@ -21,8 +21,10 @@
           <p class="color-green">{{page.title}}</p>
           <div class="seg-line color-green"></div>
           <div class="flex">
-            <div class="cover-image color-green"><img src=/img/bookshelf/{{page.cover}}></div>
-            <div class="flex-column book-info w-100">
+            {% if page.cover %}
+              <div class="cover-image color-green"><img src=/img/bookshelf/{{page.cover}}></div>
+            {% endif %}
+            <div class="flex-column w-100">
               <p class="mono-space small color-green">AUTHOR: {{page.author}}</p>
               <div class="seg-line color-green"></div>
               <p class="mono-space small color-green">PUBLISHER: {{page.publisher}}</p>
