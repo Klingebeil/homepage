@@ -21,10 +21,6 @@ body {
 	max-width: 1024px;
 	margin-left: auto;
 	margin-right: auto;
-
-	@media (max-width: 1024px) {
-		display: block;
-	}
 }
 
 .flex { display: flex;}
@@ -35,36 +31,28 @@ body {
 	width: 50%;
 	box-sizing: border-box;
 	margin-right: 10px;
-
-	@media (max-width: 1024px) {
-		width: 100%;
-		max-width: 100%;
-	}
-
 }
 
 .column-75 {
 	width: 75%;
 	box-sizing: border-box;
 	margin-right: 10px;
-
-	@media (max-width: 1024px) {
-		width: 100%;
-		max-width: 100%;
-	}
-
 }
 
 .column-25 {
 	width: 25%;
 	box-sizing: border-box;
 	margin-right: 10px;
+}
 
-	@media (max-width: 1024px) {
-		width: 100%;
-		max-width: 100%;
+@media (max-width: 1050px) {
+	.column-100, .column-75, .column-50, .column-25 {
+	width: 100%;
+	max-width: 100%;
 	}
-} 
+
+	.row { display: block;}
+}
 
 .column-100 {
 	width: 100%;

@@ -13,7 +13,7 @@ Vaughn Tan‘s „The Uncertainty Mindest“ sits at the tasty intersection of t
 
 I think the thing I enjoyed most about this book is it lack of business jargon. It‘s in many ways more a ethnographic and sociology study, than a „how to“ manual. It‘s a great reflection on what makes R&D teams successful and what not.
 
-## What I took away from it
+### What I took away from it
 
 Mainly two things:
 
