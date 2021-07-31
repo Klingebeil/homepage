@@ -3,6 +3,8 @@ layout: wikicrumb
 title: Project Narration
 ---
 
+# Project Narration
+
 A couple of notes towards a communication strategy for innovation teams.
 
 ## Why?

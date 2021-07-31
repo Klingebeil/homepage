@@ -3,9 +3,11 @@ layout: wikicrumb
 title: Understanding Newsroom vs. Publisher Culture
 ---
 
+# Understanding Culture
+
 A couple of loose notes on the cultural gaps of publishers vs. newsrooms vs. innovation teams.
 
-## Failure to Launch: Competing Institutional Logics, Intrapreneurship, and the Case of Chatbots
+### Failure to Launch: Competing Institutional Logics, Intrapreneurship, and the Case of Chatbots
 
 [This paper by Valerie Belair-Gagnon, Seth C. Lewis and Colin Agur][1] hits some interesting beats when examining the work of innovation teams inside publishers in the case of chatbots.
 
@@ -33,7 +35,7 @@ The failures of chatbots as a „technology“ aside, the authors make some inte
 
 ---- 
 
-## Competing worldviews: User vs. Human
+### Competing worldviews: User vs. Human
 
 - Another good illustration of this gap [comes from the designer Ted Hunt][2] in his broader critique of „user centered design“.
 
@@ -49,7 +51,8 @@ The failures of chatbots as a „technology“ aside, the authors make some inte
 - How might a similar graphic look like for intrapreneurs vs. journalists?
 
 ---- 
-##  The Language Barrier
+
+###  The Language Barrier
 
 - aside from the user vs. reader distinction, teams tend to invent or adopt their own language. Especially when it comes to innovation teams, as Alexandra Deschamps-Sonsino observes in her book „Creating a culture of innovation“
 
