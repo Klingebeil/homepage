@@ -13,7 +13,7 @@ This book lives in an interesting niche and some parts of it already feel almost
 
 It‘s an interesting perspective on daily live based not on technology, but the social components and practices surrounding the medium. If you‘re interested in the evolution and effects of social media, this might be the book for you.
 
-## What I took away from it
+### What I took away from it
 
 1. A good time.
 2. There‘s this funny anecdote about people using shaped mirrors to watch landscapes in the 18th century. I am not going to spoil it here.
