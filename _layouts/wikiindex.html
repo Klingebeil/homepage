@@ -35,7 +35,7 @@
           {% unless item.path contains "index.html" %}
               <div class="notes">
                 <div class="mono-space button capitalize color-green"><a href="{{ site.baseurl }}{{item.url}}">{{item.title }}</a></div>
-                <div class="notes_content">{{ item.content | markdownify | truncate: 500 }}</div><p class="button mono-space small color"><a href="{{ site.baseurl }}{{item.url}}">READ ➞</a></p>
+                <div class="notes_content">{{ item.content | markdownify }}</div><p class="button mono-space small color-green"><a href="{{ site.baseurl }}{{item.url}}">READ ➞</a></p>
               </div>
           {% endunless %}
       {% endfor %}

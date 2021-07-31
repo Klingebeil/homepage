@@ -635,6 +635,8 @@ img {
 
 .notes_content {
     margin-left: 20px;
+	max-height: 400px;
+    overflow: hidden;
 }
 
 #notes-link {
