@@ -37,6 +37,12 @@ summary: "A small tool for generating scenario prompts for possible media future
         #tarot-questions li {
             margin-top: 1em;
         }
+
+        #refresh {
+            margin-bottom: 2em;;
+        }
+
+        summary {margin-top: 2em;}
     </style>
 </head>
 <body>
@@ -46,28 +52,34 @@ summary: "A small tool for generating scenario prompts for possible media future
     <div class="tarot-wrapper">
         <p class="tarot-text">You‘re <em id="card-role">Role</em>, operating in <em id="card-city">location</em> in <em id="card-time">time</em>. You‘re trying to <em id="card-goal">goal</em>, but you have to face <em id="card-factor1">Factor 1</em> and <em id="card-factor2">Factor 2</em>.</p>
         <p><a id="refresh" class="button">Create a new Scenario</a></p>
-        <!--<div class="seg-line"></div>
+        <div class="seg-line"></div>
+        <details>
+        <summary class="mono-space uppercase">Scenario Questions</summary>
         <ul class="small mono-space" id="tarot-questions">
-        </ul>-->
+            <li>test</li>
+        </ul>
+        </details>
 
     </div>
     <script type="text/javascript">
+
+        var position = 0 //Position for shuffling
         
         var role = ['a journalist', 'a journalism school', 'an editor in chief', 'a publisher', 'a broadcaster', 'a media start-up', 'a content creator'];
-        var city = ['Berlin', 'New York', 'Hong Kong', 'Munich', 'Brussels', 'Mexico City', 'Cape Town', 'London', 'Copenhagen', 'Luanda', 'Dar es Salaam','Douala', 'Bangalore', 'Chengdu','Singapore', 'Istanbul'];
+        var city = ['Berlin, Germany', 'New York, USA', 'Hong Kong, China', 'Munich, Germany', 'Brussels, Belgium', 'Mexico City, Mexico', 'Cape Town, South Africa', 'London, UK', 'Copenhagen, Denmark', 'Luanda, Angola', 'Dar es Salaam, Tansania','Douala, Cameroon', 'Bangalore, India', 'Chengdu, China','Singapore', 'Istanbul, Turkey'];
         var goal = ['get rich', 'be the fourth estate', 'create a new public sphere', 'be an activist', 'become famous through your work', 'entertain', 'build a sustainable organization'];
         var factor1 = ['splinternets', 'an election', 'a universal basic income', 'a post-privacy world', 'a post-screen media world', 'a multipolar world order', 'runaway climate change', 'a new golden age of journalism'];
         var factor2 = ['deep fakes', 'radical journalistic transparence', 'a highly precarious media landscape', 'automated newsrooms', 'the end of advertising', 'extreme competition', 'a polarized public', 'monopolized media'];
 
-        var roleQuestions = ['How hard or easy is the access to sources and information?', 'What does your curriculum look like?', 'Which roles, functions and skills are needed in your newsroom?', 'What does your business model look like?', 'What does your business model look like?', 'Which risks to your business do you have to face?', 'Which channels are you using to reach your audience and why?']
-        var cityQuestions = ['What are the local challenges you have to face?', 'What special political or societal characteristics of this city influence you work?', 'What does the local media landscape look like?']
+        var roleQuestions = ['How hard or easy is the access to sources and information?', 'What does your curriculum look like?', 'Which roles, functions and skills are needed in your newsroom?', 'What does your business model look like?', 'What does your business model look like?', 'Which risks to your business do you have to face?', 'Which channels are you using to reach your audience and why?'];
+        var cityQuestions = ['What are the local challenges you have to face?', 'What unique political or societal characteristics of this city influence you work?', 'What does the local media landscape look like?'];
+        var yearQuestions = ['What new forms of technology exist? Do they support or hinder your work?', 'Which new of different forms of media exist?', 'Which things still haven‘t change, despite the distance to our presence?'];
         var goalQuestions
-        var factor1Questions = ['How might the flow of and access to information change?', 'What kind of role does your protagonist play in an election?', 'What‘s your standing in society? Why?', 'How can you avoid surveillance tools and how might you use them for your benefit?', 'How might the flow of and access to information change?', 'Which new political, economic and cultural power blocks exist?', 'What kind of impact has a rapidly changing climate on your work?', 'How does this new golden age manifest?']
-        var factor2Questions = ['How do deep fakes impact trust in media and in the wider society?', 'What does the relationship between society and media look like?', 'How will you be able to still finance their work and life?', 'What kind of tasks or roles are automated? How does this change the work of journalists?', 'Which new business models are emerging?', 'What‘s the secret sauce you use to distinguish yourself from your competition?', 'Are you trying to gap this polarization or are you helping in deepening the divide?', 'How does this monopoly affect your work and daily life?']
+        var factor1Questions = ['How might the flow of and access to information change? How will you navigate this new form of internet?', 'What kind of role does your protagonist play in an election? Does your work have impact?', 'How does a UBI change your standing in society? What kind of prestige does your job hold?', 'How can you avoid surveillance? How might you use surveillance tools for your benefit?', 'How might the flow of and access to information change?', 'Which new political, economic and cultural power blocks exist?', 'What kind of impact has a rapidly changing climate on your work?', 'How does this new golden age manifest?'];
+        var factor2Questions = ['How do deep fakes impact trust in media and in the wider society?', 'What does the relationship between society and media look like?', 'How will you be able to finance good journalism?', 'What kind of tasks or roles are automated? How does this change your day-to-day work?', 'Which new business models are emerging?', 'What‘s the secret sauce you use to distinguish yourself from your competition?', 'Are you trying to gap this polarization or are you deepening the divide?', 'How does this monopoly affect your work and daily life? How did it came to pass?'];
 
         function shuffle(array){
-            var array = array;
-            var position =  Math.floor(Math.random() * array.length);
+            position =  Math.floor(Math.random() * array.length); //shuffle the array
 
             //check if 'role' == journalism school to modify 'goal'
             if (array[position] == 'a journalism school') {
@@ -76,15 +88,36 @@ summary: "A small tool for generating scenario prompts for possible media future
             return array[position];
         }
 
+        function addQuestion(array){
+            let question = array[position];
+            let li = document.createElement('li');
+            li.appendChild(document.createTextNode(question));
+            return li;
+        }
+
+        function addrandomQuestion(array){
+            let random = Math.floor(Math.random() * array.length); //shuffle the array
+            let question = array[random];
+            let li = document.createElement('li');
+            li.appendChild(document.createTextNode(question));
+            return li;
+        }
+
         function createScenario() {
             document.getElementById("card-goal").innerHTML = ""; //Delete 'goal'
+            document.getElementById("tarot-questions").innerHTML = ""; //Delete Questions
 
             document.getElementById("card-role").innerHTML = shuffle(role);
+            document.getElementById("tarot-questions").appendChild(addQuestion(roleQuestions));
             document.getElementById("card-city").innerHTML = shuffle(city);
+            document.getElementById("tarot-questions").appendChild(addrandomQuestion(cityQuestions));
             document.getElementById("card-time").innerHTML = 2025 + Math.floor(Math.random() * 60);
+            document.getElementById("tarot-questions").appendChild(addrandomQuestion(yearQuestions));
             document.getElementById("card-goal").innerHTML += shuffle(goal);
             document.getElementById("card-factor1").innerHTML = shuffle(factor1);
+            document.getElementById("tarot-questions").appendChild(addQuestion(factor1Questions));
             document.getElementById("card-factor2").innerHTML = shuffle(factor2);
+            document.getElementById("tarot-questions").appendChild(addQuestion(factor2Questions));
         }
 
         document.addEventListener("load", createScenario());
