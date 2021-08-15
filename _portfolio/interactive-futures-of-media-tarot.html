@@ -104,7 +104,6 @@ summary: "A small tool for generating scenario prompts for possible media future
         }
 
         function createScenario() {
-            document.getElementById("card-goal").innerHTML = ""; //Delete 'goal'
             document.getElementById("tarot-questions").innerHTML = ""; //Delete Questions
 
             document.getElementById("card-role").innerHTML = shuffle(role);
@@ -113,7 +112,7 @@ summary: "A small tool for generating scenario prompts for possible media future
             document.getElementById("tarot-questions").appendChild(addrandomQuestion(cityQuestions));
             document.getElementById("card-time").innerHTML = 2025 + Math.floor(Math.random() * 60);
             document.getElementById("tarot-questions").appendChild(addrandomQuestion(yearQuestions));
-            document.getElementById("card-goal").innerHTML += shuffle(goal);
+            document.getElementById("card-goal").innerHTML = shuffle(goal);
             document.getElementById("card-factor1").innerHTML = shuffle(factor1);
             document.getElementById("tarot-questions").appendChild(addQuestion(factor1Questions));
             document.getElementById("card-factor2").innerHTML = shuffle(factor2);
