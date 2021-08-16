@@ -28,13 +28,6 @@ summary: "A small tool for generating scenario prompts for possible media future
             margin-bottom: 2em;
         }
 
-        #tarot-questions {
-            padding: 0px;
-            list-style-type: none;
-            margin: 50px 0px 10px 0px;
-            min-height: 160px;
-        }
-
         #tarot-questions li {
             margin-top: 1em;
         }
@@ -55,10 +48,10 @@ summary: "A small tool for generating scenario prompts for possible media future
         <p><a id="refresh" class="button">Create a new Scenario</a></p>
         <div class="seg-line"></div>
         <details>
-        <summary class="mono-space uppercase">Optional Scenario Prompts</summary>
-        <ul class="small mono-space" id="tarot-questions">
+        <summary class="small mono-space uppercase">Optional Scenario Prompts</summary>
+        <ol class="small mono-space" id="tarot-questions">
             <li>test</li>
-        </ul>
+        </ol>
         </details>
 
     </div>
@@ -74,7 +67,7 @@ summary: "A small tool for generating scenario prompts for possible media future
 
         var roleQuestions = ['How hard or easy is the access to sources and information?', 'What does your curriculum look like?', 'Which roles, functions and skills are needed in your newsroom?', 'What does your business model look like?', 'What does your business model look like?', 'Which risks to your business do you have to face?', 'Which channels are you using to reach your audience and why?'];
         var cityQuestions = ['What are the local challenges you have to face?', 'What unique political or societal characteristics of this city influence you work?', 'What does the local media landscape look like?'];
-        var yearQuestions = ['What new forms of technology exist? Do they support or hinder your work?', 'Which new of different forms of media exist?', 'Which things still haven‘t change, despite the distance to our presence?'];
+        var yearQuestions = ['What new forms of technology exist? Do they support or hinder your work?', 'Which new or different forms of media exist?', 'Which things still haven‘t change, despite the distance to our presence?'];
         var goalQuestions
         var factor1Questions = ['How might the flow of and access to information change? How will you navigate this new form of internet?', 'What kind of role does your protagonist play in an election? Does your work have impact?', 'How does a UBI change your standing in society? What kind of prestige does your job hold?', 'How can you avoid surveillance? How might you use surveillance tools for your benefit?', 'How might the flow of and access to information change?', 'Which new political, economic and cultural power blocks exist?', 'What kind of impact has a rapidly changing climate on your work?', 'How does this new golden age manifest?'];
         var factor2Questions = ['How do deep fakes impact trust in media and in the wider society?', 'What does the relationship between society and media look like?', 'How will you be able to finance good journalism?', 'What kind of tasks or roles are automated? How does this change your day-to-day work?', 'Which new business models are emerging?', 'What‘s the secret sauce you use to distinguish yourself from your competition?', 'Are you trying to gap this polarization or are you deepening the divide?', 'How does this monopoly affect your work and daily life? How did it came to pass?'];
