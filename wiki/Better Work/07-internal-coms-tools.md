@@ -10,11 +10,11 @@ A couple of notes on internal communication tools and practices for organization
 
 ### The problem with hybrid or distributed work
 
-One problem of distributed/remote/hybrid work is the missing bandwidth of face-to-face communication or as a study of [60,000 Microsoft employees found][1]
+One problem of distributed/remote/hybrid work is the missing bandwidth of face-to-face communication or as a study of [60,000 Microsoft employees found](https://www.nature.com/articles/s41562-021-01196-4)
 
 > Our results show that firm-wide remote work caused the collaboration network of workers to become more static and siloed, with fewer bridges between disparate parts. Furthermore, there was a decrease in synchronous communication and an increase in asynchronous communication. Together, these effects may make it harder for employees to acquire and share new information across the network.
 
-A 2020 study by *Atlassian* aptly titled „[Reworking Work][2]“ arrived at similar conclusions.
+A 2020 study by *Atlassian* aptly titled „[Reworking Work](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/reworking-work_atlassian-and-papergiant.pdf)“ arrived at similar conclusions.
 
 - Meetings in a distributed environment became more formalized and structured. **Unstructured, free-floating communication almost vanished completely** and with it the exchange of topics, information and ideas not tied the work at hand.
 - The collaboration in teams actually got better up thanks to this formalized approach but suffered across team or department borders.
@@ -22,12 +22,13 @@ A 2020 study by *Atlassian* aptly titled „[Reworking Work][2]“ arrived at si
 
 ### The curious case of Automattic
 
-*Automattic*, the company behind Wordpress is an interesting case study. It employs 1.700 people across multiple continents and time-zones sind 2005 and [has an interesting work culture][3].
+*Automattic*, the company behind Wordpress is an interesting case study. It employs 1.700 people across multiple continents and time-zones sind 2005 and [has an interesting work culture](https://techcrunch.com/2021/10/19/automattic-tc1-remote/).
 
 1. **Asynchronous** — there are no meetings, e-mail or powerpoint presentation. Everything happens via *written* communication.
-2. **Transparency** — This written communication is (with exceptions) open for every employee to read, comment and share internally.
+2. **Transparency** — this written communication is (with exceptions) open for every employee to read, comment and share internally.
+3. **Document everything**  — obviously. (Meeting notes, project updates, new hires, etc.)
 
-To accomplish this the company religiously uses a [custom version of Wordpress called P2][4] as an internal forum/intranet/task-managment/documentation-tool. The idea is to document *eyverthing*: „[P2 or it didn’t happen.][5]“
+To accomplish this the company uses a [custom version of Wordpress called P2](https://wordpress.com/p2/) as an internal forum/intranet/task-managment/documentation-tool: „[P2 or it didn’t happen.](https://stephyiu.com/2019/02/17/behind-the-scenes-culture-and-tools-of-remote-work-at-automattic/)“
 
 - In conclusion: if a company wants to work as a distributed/hybrid organization in the long run, it might have to rethink its communication infrastructure and adopt one that is:
 	- open for every employee contribute to
@@ -51,9 +52,44 @@ Microsoft has lately also been more focussed not on solving these issues but ins
 
 (Honestly, Microsoft... just force people to add agendas to their meetings. It would make a bigger difference than starring at the feet-less avatars of my colleagues.)
 
+----
 
-[1]:  https://www.nature.com/articles/s41562-021-01196-4
-[2]:  https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/reworking-work_atlassian-and-papergiant.pdf
-[3]:  https://techcrunch.com/2021/10/19/automattic-tc1-remote/
-[4]:  https://wordpress.com/p2/
-[5]:  https://stephyiu.com/2019/02/17/behind-the-scenes-culture-and-tools-of-remote-work-at-automattic/
+## Practices
+
+Okay, let‘s talk about some interesting practices that fit the mold of asynchronous and written communication.
+
+### Amazon‘s six pager
+
+According to myth: *Amazon* banned powerpoint presentations in 2004 and [instead installed a culture of written memos](https://www.businessinsider.com.au/jeff-bezos-email-against-powerpoint-presentations-2015-7).
+
+> Powerpoint-style presentations somehow give permission to gloss over ideas, flatten out any sense of relative importance, and ignore the innerconnectedness of ideas.
+
+One format that caught on is the „six pager“. A narrative document used [to develop and pitch ideas, product and project](https://amazonchronicles.substack.com/p/working-backwards-dave-limp-on-amazons). And yes, it should be six pages long.
+
+Meetings thus consists mainly in the form of reading circles in which these documents a read, critiqued and discussed.
+
+These documents are interesting because:
+
+- They force a team to clearly spell out their thoughts and ideas *on paper*.
+- The use of a speculative press release gives them the chance to develop a common vision of the future of said project.
+- Because narrative and hard facts are at the forefront of any new project, it forces teams to be precise and agree on the same base truths.
+
+### Living docs
+
+I already have a [short note on living docs in this garden](https://johannesklingebiel.de/wiki/Better%20Work/04-Living%20Docs.html), so I won‘t repeat myself to much here.
+
+In short: living docs are multiplayer-edited documents (think: Google Docs) that work as a growing documentation of every project. Instead of having dozens of different documents, everything gets sorted into one big one.
+
+You‘ll find research, contact information, to-dos, etc. in there.
+
+----
+
+## Tools
+
+Some tools and platforms I find currently interesting:
+
+- [Pulse](https://pulseasync.com/) — similar to P2 but with a (in my opinion) nicer design
+- [Notion](https://www.notion.so/) — slow but still the go-to if you want to build a wiki for your team
+- [Coda](https://coda.io/) — focussed on documents, this one is pretty much „living doc, the tool“
+- [Abstract Notebooks](https://www.abstract.com/) — focussed on distributed design teams.
+- [Axios HQ](https://www.axioshq.com/) — Axios writing style but as a B2B SAAS platform.
