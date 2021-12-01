@@ -94,3 +94,10 @@ Some tools and platforms I find currently interesting:
 - [Abstract Notebooks](https://www.abstract.com/) — focussed on distributed design teams.
 - [Axios HQ](https://www.axioshq.com/) — Axios writing style but as a B2B SAAS platform.
 - [Twist](https://twist.com/) — Work communication as threaded discussions organized around channels. („Long-form slack“)
+
+----
+
+## Related Articles from other smart people
+
+- **[Filtered for... writing inside organizations](https://tomcritchlow.com/2020/05/27/filtered-for-org-writing/)** by Tom Critchlow 
+- **[Work & Learn Out Loud](https://sentiers.media/work-and-learn-out-loud/)** by Patrick Tanguay
