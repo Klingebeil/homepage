@@ -27,7 +27,7 @@ A 2020 study by *Atlassian* aptly titled „[Reworking Work][2]“ arrived at si
 1. **Asynchronous** — there are no meetings, e-mail or powerpoint presentation. Everything happens via *written* communication.
 2. **Transparency** — This written communication is (with exceptions) open for every employee to read, comment and share internally.
 
-To accomplish this the company uses a [custom version of Wordpress called P2][4] as an internal forum/intranet/task-managment/documentation-tool.
+To accomplish this the company religiously uses a [custom version of Wordpress called P2][4] as an internal forum/intranet/task-managment/documentation-tool. The idea is to document *eyverthing*: „[P2 or it didn’t happen.][5]“
 
 - In conclusion: if a company wants to work as a distributed/hybrid organization in the long run, it might have to rethink its communication infrastructure and adopt one that is:
 	- open for every employee contribute to
@@ -56,3 +56,4 @@ Microsoft has lately also been more focussed not on solving these issues but ins
 [2]:  https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/reworking-work_atlassian-and-papergiant.pdf
 [3]:  https://techcrunch.com/2021/10/19/automattic-tc1-remote/
 [4]:  https://wordpress.com/p2/
+[5]:  https://stephyiu.com/2019/02/17/behind-the-scenes-culture-and-tools-of-remote-work-at-automattic/
