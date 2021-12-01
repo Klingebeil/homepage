@@ -30,8 +30,8 @@ The failures of chatbots as a „technology“ aside, the authors make some inte
 
 > Aware of existing journalistic norms and practices, though many were not trained in professional journalism, the intrapreneurs reflected on how newsbots failed. Too often they were not in sync with traditional news formats (which made it difficult for reporters follow up on stories and develop sustained conversations using newsbots) or with news delivery (which relegated newsbots to the status of ‘add-ons’ rather than vital tools that could enhance efforts to target or broaden audiences in a more consistent and concerted fashion). **Therefore, newsbots did not match traditional news styles or means of distribution, nor were they adequately timed to match those moments of the day when newsbot users might be more likely to engage in a back-and-forth dialog with the technology.**
 
-- To sum up: there is a broad cultural gap between innovation teams and newsrooms and the management above both. This gap can lead to miscalculations and misunderstandings from both sides which in turn can doom certain projects.
-- Innovation teams need to be aware of this cultural gap and need to do their homework and be more willing to throw away an idea if it does not fit. It‘s once again the gap between a „good idea“ and a „successful idea“.
+- To sum up: there is a broad cultural gap between innovation teams and newsrooms and the management of both. This gap can lead to miscalculations and misunderstandings from both sides which in turn can doom projects.
+- Innovation teams need to be aware of this cultural gap and need to do their homework and be more willing to throw away an idea if it does not fit. It‘s once again the difference between a **good idea** and a potentially **successful idea**.
 
 ---- 
 
@@ -42,13 +42,15 @@ The failures of chatbots as a „technology“ aside, the authors make some inte
 ![][image-1]
 
 - In the case of newsrooms/publishers the way journalists, managers and entrepreneurs view their audience can also be broken down along similar lines as they use similar abstractions. What‘s the difference between a _user_ and a _reader_? What're the differences between _users_  and _readership_? How are those groups broken down and why? What logic permeates the engagement with these segments?
-- It‘s not about finding the _right_ way of understanding your audience, but understanding this gap of understanding. The ways these abstractions shape the work, processes and decisions of different teams.
+- It‘s not about finding the _right_ way of understanding your audience, but acknowledging this gap in understanding. The ways these abstractions shape the work, processes and decisions of different teams.
 
-- I found a second illustration inside the ["Urban Technology" newsletter by Bryan Boyer][3], contrasting the somewhat exaggerated worldview of an urbanist vs. „technologist“.
+- I found this second illustration inside the ["Urban Technology" newsletter by Bryan Boyer][3], contrasting the somewhat exaggerated worldview of an urbanist vs. „technologist“.
 
 ![][image-2]
 
-- How might a similar graphic look like for intrapreneurs vs. journalists?
+- How might a similar graphic look like for innovation teams vs. newsrooms?
+
+![][image-3]
 
 ---- 
 
@@ -66,9 +68,9 @@ The failures of chatbots as a „technology“ aside, the authors make some inte
 > 
 > (…)
 > 
-> Likewise, it's helpful to understand the language of knowledge - certain or otherwise - that an organization traffics in. Does it speak to itself in rational numbers, data and hard evidence and have a strong affinity for probabilities? Can it function with what an old client of ours used to call highly informed insight' - that is, the trusted knowledge and points of view developed by its own internal expert culture that are often not quantitative in nature but that carry analytical weight?
+> Likewise, it's helpful to understand the language of knowledge — certain or otherwise — that an organization traffics in. Does it speak to itself in rational numbers, data and hard evidence and have a strong affinity for probabilities? Can it function with what an old client of ours used to call highly informed insight’ — that is, the trusted knowledge and points of view developed by its own internal expert culture that are often not quantitative in nature but that carry analytical weight?
 
- —  Scott Smith & Madeline Ashby, _How to Future_ (pg.48ff.)
+ —  Scott Smith & Madeline Ashby, _How to Future_ (pg. 48ff.)
 
 [1]:	https://academic.oup.com/jcmc/article/25/4/291/5869071
 [2]:	http://www.ted-hunt.com/USERS-PEOPLE.html
@@ -76,3 +78,4 @@ The failures of chatbots as a „technology“ aside, the authors make some inte
 
 [image-1]:	/img/wiki/userpeople.png
 [image-2]:	/img/wiki/urbanistvstechnologist.png
+[image-3]:  /img/wiki/culture-sketch.jpg
