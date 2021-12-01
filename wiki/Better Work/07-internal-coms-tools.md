@@ -24,7 +24,7 @@ A 2020 study by *Atlassian* aptly titled „[Reworking Work][2]“ arrived at si
 
 *Automattic*, the company behind Wordpress is an interesting case study. It employs 1.700 people across multiple continents and time-zones sind 2005 and [has an interesting work culture][3].
 
-1. **Asynchronous** — there are no meetings or powerpoint presentation. Everything happens via *written* communication.
+1. **Asynchronous** — there are no meetings, e-mail or powerpoint presentation. Everything happens via *written* communication.
 2. **Transparency** — This written communication is (with exceptions) open for every employee to read, comment and share internally.
 
 To accomplish this the company uses a [custom version of Wordpress called P2][4] as an internal forum/intranet/task-managment/documentation-tool.
