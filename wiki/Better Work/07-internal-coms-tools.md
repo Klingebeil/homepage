@@ -93,3 +93,4 @@ Some tools and platforms I find currently interesting:
 - [Coda](https://coda.io/) — focussed on documents, this one is pretty much „living docs, the tool“
 - [Abstract Notebooks](https://www.abstract.com/) — focussed on distributed design teams.
 - [Axios HQ](https://www.axioshq.com/) — Axios writing style but as a B2B SAAS platform.
+- [Twist](https://twist.com/) — Work communication as threaded discussions organized around channels. („Long-form slack“)
