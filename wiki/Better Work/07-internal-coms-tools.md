@@ -64,9 +64,15 @@ According to myth: *Amazon* banned PowerPoint presentations in 2004 and [instead
 
 > Powerpoint-style presentations somehow give permission to gloss over ideas, flatten out any sense of relative importance, and ignore the innerconnectedness of ideas.
 
-One format that caught on is the „six pager“. A narrative document used [to develop and pitch ideas, product, and project](https://amazonchronicles.substack.com/p/working-backwards-dave-limp-on-amazons). And yes, it should be six pages long.
+One format that caught on is the „six pager“. A narrative document used [to develop and pitch ideas, product, and project](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9). And yes, it should be six pages long.
+
+> The main goal of authoring this kind of document is to craft the entire thing as a narrative. That doesn’t mean it needs to be an entertaining story. It merely means there are no bullet-point lists, no graphics, and no fluff in the document’s core 6-pages.
 
 Meetings thus consist mainly in the form of reading circles in which these documents a read, critiqued, and discussed.
+
+> You are usually given 20–25 minutes at the beginning of a 60-minute meeting to read the doc from beginning to end. Most people write down questions or feedback directly on the printout since using a computer during this time is frowned upon.
+> 
+> All print outs are handed back to you at the end of the meeting. The rest of the time consists of everyone in the room challenging your position, questioning your tactics, and digging through the data to make sure it is valid. It’s incredibly stressful, and when the meeting is over, it’s your responsibility to update and recirculate the document to everyone as a final version. There is no ideation or brainstorming during these kinds of meetings.
 
 These documents are interesting because:
 
