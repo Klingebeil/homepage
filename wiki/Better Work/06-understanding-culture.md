@@ -66,8 +66,9 @@ The failures of chatbots as a „technology“ aside, the authors make some inte
 
 > How does your organization talk to itself? How does it tell stories? Does it deal only in certainties, or is it comfortable talk ing about possibilities (beyond rhetorical questions and glib marketing slogans)? Does it revere or fear the future? How does it measure current efforts against future aspirations? All of these are vital issues for getting a firm handle on your venture into futuring. You may be in the enviable position of setting the tone and direction for all of these questions, but chances are that there are already embedded ways of treating uncertainty, possibility and associated risk. 
 > 
-> (…)
 > 
+> (…)
+>
 > Likewise, it's helpful to understand the language of knowledge — certain or otherwise — that an organization traffics in. Does it speak to itself in rational numbers, data and hard evidence and have a strong affinity for probabilities? Can it function with what an old client of ours used to call highly informed insight’ — that is, the trusted knowledge and points of view developed by its own internal expert culture that are often not quantitative in nature but that carry analytical weight?
 
  —  Scott Smith & Madeline Ashby, _How to Future_ (pg. 48ff.)
