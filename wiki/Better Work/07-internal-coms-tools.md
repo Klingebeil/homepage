@@ -90,6 +90,6 @@ Some tools and platforms I find currently interesting:
 
 - [Pulse](https://pulseasync.com/) — similar to P2 but with a (in my opinion) nicer design
 - [Notion](https://www.notion.so/) — slow but still the go-to if you want to build a wiki for your team
-- [Coda](https://coda.io/) — focussed on documents, this one is pretty much „living doc, the tool“
+- [Coda](https://coda.io/) — focussed on documents, this one is pretty much „living docs, the tool“
 - [Abstract Notebooks](https://www.abstract.com/) — focussed on distributed design teams.
 - [Axios HQ](https://www.axioshq.com/) — Axios writing style but as a B2B SAAS platform.
