@@ -30,7 +30,7 @@
       {% for item in notes %}
           {% unless item.path contains "index.html" %}
               <div class="seg-line color-green">
-                <p class="mono-space small capitalize color-green"><a href="{{ site.baseurl }}{{item.url}}">{{item.title }}</a></p>
+                <p class="mono-space small capitalize color-text"><a href="{{ site.baseurl }}{{item.url}}">{{item.title }} ↪</a></p>
               </div>
           {% endunless %}
       {% endfor %}
