@@ -1,6 +1,7 @@
 ---
 layout: wikicrumb 
 title: Modern Internal Communication Tools & Practices
+status: "🌿"
 ---
 
 # Modern Internal Communication Tools

@@ -9,6 +9,7 @@ category: Ethnography
 color-spine: "#F0463B"
 color-text: "#FEDEC7"
 ---
+
 Vaughn Tan‘s „The Uncertainty Mindest“ sits at the tasty intersection of the hows and whys of innovation and Chef‘s Table foodie aspirations. Not only is it a fascinating look into the ways culinary R&D teams work, but it also takes it time to zoom out and disect the broader context of the high-end restaurant scene these teams have to operate in.
 
 I think the thing I enjoyed most about this book is it lack of business jargon. It‘s in many ways more a ethnographic and sociology study, than a „how to“ manual. It‘s a great reflection on what makes R&D teams successful and what not.
