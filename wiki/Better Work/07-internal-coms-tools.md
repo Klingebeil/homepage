@@ -20,7 +20,7 @@ A 2020 study by *Atlassian* aptly titled „[Reworking Work](https://3kllhk1ibq3
 - Meetings in a distributed environment became more formalized and structured. **Unstructured, free-floating communication almost vanished completely** and with it the exchange of topics, information, and ideas not tied to the work at hand.
 - The collaboration in teams got better up thanks to this formalized approach but suffered across team or department borders.
 - **Individual workers fear their work might become invisible** and thus their careers may suffer without the ability to show off projects or network with higher-ups and peers. (This problem is especially pronounced for new higher of young workers.)
-- „work time“ in a distributed and remote team might also become fractured even with workers located within the same timezone, country of even city. Housework, children, private tasks and even hobbies tend to collide with the time allocated to work — without impacting productivity but availability.
+- **„work time“ in a distributed and remote team tends to fracture even with workers located within the same timezone**, country of even city. Housework, children, private tasks and even hobbies tend to collide with the time allocated to work — without impacting productivity but availability.
 
 ![](/img/wiki/remote-timetable.png)
 
@@ -35,9 +35,9 @@ A 2020 study by *Atlassian* aptly titled „[Reworking Work](https://3kllhk1ibq3
 To accomplish this the company uses a [custom version of WordPress called P2](https://wordpress.com/p2/) as an internal forum/intranet/task-managment/documentation-tool: „[P2 or it didn’t happen.](https://stephyiu.com/2019/02/17/behind-the-scenes-culture-and-tools-of-remote-work-at-automattic/)“
 
 - In conclusion: if a company wants to work as a distributed/hybrid organization, in the long run, it might have to rethink its communication infrastructure and adopt one that is:
-	- open for every employee to contribute to
-	- transparent
-	- and most importantly: **written**
+	- **open for every employee to contribute to**
+	- **transparent**
+	- **and most importantly: *written***
 
 ### Why is Microsoft moving in the opposite direction?
 
@@ -54,9 +54,9 @@ And of course:
 
 Microsoft has lately also been more focused not on solving these issues but instead working on the video components of the software and even integrating its version of the „Metaverse“ (formerly called „3D“ or „VR“) in the form of virtual spaces.
 
-Microsoft seems more interested in creating a skeuomorphic digital office than actually helping people do *good* work in a distributed team.
+Microsoft seems more interested in c**reating a skeuomorphic digital office than actually helping people do *good* work in a distributed team**. (And you can guess which tool the 60,000 Microsoft employees most likely used from the study at the top.)
 
-(Honestly, Microsoft... just force people to add agendas to their meetings. It would make a bigger difference than starring at the feet-less avatars of my colleagues.)
+Honestly, Microsoft... just force people to add agendas to their meetings. It would make a bigger difference than starring at the feet-less avatars of my colleagues.
 
 ----
 
@@ -90,7 +90,7 @@ These documents are interesting because:
 
 I already have a [short note on living docs in this garden](https://johannesklingebiel.de/wiki/Better%20Work/04-Living%20Docs.html), so I won‘t repeat myself too much here.
 
-In short: living docs are multiplayer-edited documents (think: Google Docs) that work as growing documentation of every project. Instead of having dozens of different documents, everything gets sorted into one big one.
+**In short: living docs are shared multiplayer-edited documents (think: Google Docs) that work as growing documentation of every project.** Instead of having dozens of different documents, everything gets sorted into one big one.
 
 You‘ll find research, contact information, to-dos, etc. in there.
 
