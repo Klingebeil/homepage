@@ -19,7 +19,10 @@ A 2020 study by *Atlassian* aptly titled „[Reworking Work](https://3kllhk1ibq3
 
 - Meetings in a distributed environment became more formalized and structured. **Unstructured, free-floating communication almost vanished completely** and with it the exchange of topics, information, and ideas not tied to the work at hand.
 - The collaboration in teams got better up thanks to this formalized approach but suffered across team or department borders.
-- **Individual workers fear their work might become invisible** and thus their careers may suffer without the ability to show off projects or network with higher-ups and peers. (This problem is especially pronounced for new higher of young workers.) 
+- **Individual workers fear their work might become invisible** and thus their careers may suffer without the ability to show off projects or network with higher-ups and peers. (This problem is especially pronounced for new higher of young workers.)
+- „work time“ in a distributed and remote team might also become fractured even with workers located within the same timezone, country of even city. Housework, children, private tasks and even hobbies tend to collide with the time allocated to work — without impacting productivity but availability.
+
+![](/img/wiki/remote-timetable.png)
 
 ### The curious case of Automattic
 
