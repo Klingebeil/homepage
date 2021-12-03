@@ -54,6 +54,8 @@ And of course:
 
 Microsoft has lately also been more focused not on solving these issues but instead working on the video components of the software and even integrating its version of the „Metaverse“ (formerly called „3D“ or „VR“) in the form of virtual spaces.
 
+Microsoft seems more interested in creating a skeuomorphic digital office than actually helping people do *good* work in a distributed team.
+
 (Honestly, Microsoft... just force people to add agendas to their meetings. It would make a bigger difference than starring at the feet-less avatars of my colleagues.)
 
 ----
