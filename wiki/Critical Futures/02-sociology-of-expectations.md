@@ -1,7 +1,7 @@
 ---
 layout: wikicrumb 
 title: The Sociology of Expectations
-status: “🌿”
+status: 🌿
 ---
 
 # The Sociology of Expectations
@@ -18,5 +18,5 @@ An argument can be made that these expectations are in some ways more explicitly
 
 The analysis of a technology is therefore incomplete without a close look at the expectations associated with it.
 
-[1]:	Nik Brown, Mike Michael (2003), [A Sociology of Expectations: Retrospecting Prospects and Prospecting Retrospects, Technology Analysis & Strategic Management](https://www.tandfonline.com/doi/abs/10.1080/0953732032000046024), 15:1, 3-18, DOI: 10.1080/0953732032000046024
-[2]:	Benjamin Bratton (2017), The New Normal, Strelka Press
+[^1]:	Nik Brown, Mike Michael (2003), [A Sociology of Expectations: Retrospecting Prospects and Prospecting Retrospects, Technology Analysis & Strategic Management](https://www.tandfonline.com/doi/abs/10.1080/0953732032000046024), 15:1, 3-18, DOI: 10.1080/0953732032000046024
+[^2]:	Benjamin Bratton (2017), The New Normal, Strelka Press
