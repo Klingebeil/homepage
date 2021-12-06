@@ -2,7 +2,6 @@
 layout: wikicrumb 
 title: Reading Recommendations
 ---
-# Reading Recommendations
 
 ## Articles
 
