@@ -45,28 +45,5 @@
     </div>
   </div>
 
-
-    <!--<div class="column-75">
-      {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | reverse %}
-
-      {% assign snippets = site.static_files | where_exp: "item" , "item.path contains folderfilter" %}
-
-      <ul id="book-list">
-      {% for item in notes %}
-          {% unless item.path contains "index.html" %}
-              <li class="book">
-                    <a class="no-decoration" href="{{ site.baseurl }}{{item.url}}">
-                        <img src="/img/bookshelf/{{item.cover}}">
-                    <div class="title-author">
-                    <p class="mono-space uppercase small no-decoration color-green">{{item.title }}</p>
-                    <p class="mono-space small no-decoration color-green">by {{item.author}}</p></a>
-                  </div>
-              </li>
-          {% endunless %}
-      {% endfor %}
-      </ul>
-    </div>
-  </div>-->
-
 {% include footer.html %}
 </body>
