@@ -1,15 +1,15 @@
 // CSS for Typography
 /* TYPOGRAPHY */
 
-@font-face { font-family: 'calendas-regular'; src: url('../fonts/calendas_plus-webfont.ttf') format('truetype'); }
-@font-face { font-family: 'calendas-italic'; src: url('../fonts/calendas_plus_italic-webfont.ttf') format('truetype'); }
-@font-face { font-family: 'calendas-bold'; src: url('../fonts/calendas_plus_bold-webfont.ttf') format('truetype'); }
+@font-face { font-family: 'calendas'; src: url('../fonts/calendas_plus-webfont.ttf') format('truetype'); font-weight: normal; font-style: normal;}
+@font-face { font-family: 'calendas'; src: url('../fonts/calendas_plus_italic-webfont.ttf') format('truetype');font-weight: normal; font-style: italic;}
+@font-face { font-family: 'calendas'; src: url('../fonts/calendas_plus_bold-webfont.ttf') format('truetype'); font-weight: bold; font-style: normal;}
 
-@font-face { font-family: 'mono-space'; src: url('../fonts/RobotoMono-Regular.ttf') format('truetype'); }
-@font-face { font-family: 'mono-space-bold'; src: url('../fonts/RobotoMono-Bold.ttf') format('truetype'); }
+@font-face { font-family: 'mono-space'; src: url('../fonts/RobotoMono-Regular.ttf') format('truetype'); font-weight: normal; font-style: normal;}
+@font-face { font-family: 'mono-space'; src: url('../fonts/RobotoMono-Bold.ttf') format('truetype'); font-weight: bold; font-style: normal;}
 
 body {
-	font-family: calendas-regular, Times, Serif;
+	font-family: calendas, Times, Serif;
 	font-feature-settings: "liga" 1, "calt" 1, "kern" 1;
 	color: $main-txt-color;
 }
@@ -48,13 +48,12 @@ body {
 }
 
 .serif {
-	font-family: calendas-regular, Times, Serif;
+	font-family: calendas, Times, Serif;
 }
 
 em, i, .italics {
 	font-style: italic;
-	font-style: oblique 0deg;
-	font-family: calendas-italic, Times, Serif;
+	font-family: calendas, Times, Serif;
 }
 
 b, strong, .bold {
@@ -62,7 +61,7 @@ b, strong, .bold {
 }
 
 .regular {
-	font-family: calendas-regular, Times, Serif;
+	font-family: calendas, Times, Serif;
 	font-weight: 100;
 }
 
@@ -161,7 +160,7 @@ blockquote {
 	background-color: $light-grey;
 
 	& b, strong {
-		font-family: calendas-regular, Times, Serif;
+		font-family: calendas, Times, Serif;
 		font-weight: 100;
 		background-color: $light-yellow;
 	} 
@@ -224,7 +223,7 @@ li {
 
 	i, em {
 		font-style: normal;
-		font-family: calendas-regular, Times, Serif;
+		font-family: calendas, Times, Serif;
 		text-transform: lowercase;
 		font-variant: small-caps;
 	}
