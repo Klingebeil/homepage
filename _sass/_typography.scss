@@ -153,7 +153,6 @@ code {
 }
 
 blockquote {
-	text-align: left;
 	padding: 20px;
     margin-left: 5px;
 	margin-top: 32px;
@@ -229,6 +228,12 @@ li {
 		text-transform: lowercase;
 		font-variant: small-caps;
 	}
+
+	blockquote p {text-align: left;}
+
+	@media screen and (max-width: 650px) {
+		p {text-align: left;}
+	}
 }
 
 #post-title {
@@ -298,44 +303,3 @@ a.footnote:before {
 a.footnote:after {
 	  content: "]";
   }
-
-/* SLIDES */
-
-.slides-content-wrapper {
-
-	& p, span, h2, h3, h4, h5, h6 {
-		margin-left: 46%;
-
-		@media (max-device-width: 1020px) {
-			margin-left: 0%;
-		}
-	}
-
-	& h1 {
-		font-size: 4em;
-  		border-top: solid 1px;
-		
-		@media (max-device-width: 1020px) {
-			font-size: 2em;
-		}
-	}
-
-	& blockquote {
-		margin-left: 46%;
-
-		& p {
-			margin-left: 0px;
-		}
-
-		@media (max-device-width: 1020px) {
-			margin-left: 0%;
-		}
-	}
-
-	i, em {
-		font-style: normal;
-		font-family: calendas-regular, Times, Serif;
-		text-transform: lowercase;
-		font-variant: small-caps;
-	}
-}
