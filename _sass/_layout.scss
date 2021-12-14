@@ -591,7 +591,26 @@ img {
 	& .button {
 		margin: 4px;
 	}
+
+	.svg-icon {
+		width: 1.2em;
+		height: 1.2em;
+		padding-right: 5px;
+		margin-bottom: -3px;
+	}
+	  
+	.svg-icon path,
+	.svg-icon polygon,
+	.svg-icon rect {
+		fill: $contrast-green;
+	}
+	  
+	.svg-icon circle {
+		stroke: $contrast-green;
+		stroke-width: 1;
+	}
 }
+
 
 /* LIST OF NOTES */
 #notes-list {
@@ -607,6 +626,24 @@ img {
 #allnotes-list {
     font-size: 0.7em;
     margin: 50px 0px 50px 20px;
+
+	.svg-icon {
+		width: 1.2em;
+		height: 1.2em;
+		padding-right: 5px;
+		margin-bottom: -2px;
+	}
+	  
+	.svg-icon path,
+	.svg-icon polygon,
+	.svg-icon rect {
+		fill: inherit;
+	}
+	  
+	.svg-icon circle {
+		stroke: inherit;
+		stroke-width: 1;
+	}
 }
 
 .notes {
