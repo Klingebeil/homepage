@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb 
-title: New Luxury Definiton(s)
+title: New Luxury Definiton
 ---
 
 ![](/img/wiki-new-luxury.jpg)
