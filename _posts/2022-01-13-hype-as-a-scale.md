@@ -11,12 +11,6 @@ For an upcoming project, I‘ve been buried deep under articles and papers on th
 
 Hype is an interesting thing. It‘s rightfully often spurred as misleading bullshit or ignorant boosterism but it also has its uses. In short: when it comes to creating a new technology you need to sell a vision to attract the resources you need (people, investment, etc.). Hype can also act as glue. At its best, it can create a shared vision pulling the actors in the same direction and thus creating a self-fulfilling prophecy.
 
-## Hype and polar expeditions
-
-Imagine hype as the guy standing in the town square trying to finance his expedition to the North Pole. At some point, he will notice that more and more outrageous claims will attract more attention. He could promise rare minerals, or bringing back animals for the zoo, or even find a mythical new trade route. The people start talking, the newspapers will write articles, investors will get interested and might want to invest. That‘s the way hype works, even today. Hype is an attention game.
-
-(Though, I should note that huge amounts of money on its one, doesn't mean you‘ll succeed. Theranos might be the best example of this.)
-
 One important component of hype is thus a set of promises of what the technology can achieve in the future for you dear reader. These might range from solving a particularly annoying problem to creating new markets, making you heaps of money, or even revolutionizing a whole field and changing society as a whole.
 
 Hype thus moves on a scale from overpromising to overselling, and even irrational exuberance.
@@ -30,6 +24,8 @@ So far, I‘ve decided to separate hype into five different levels. The first dr
 ## The five levels of hype
 
 {% include img-full.html id="downloads/hype-as-a-scale.jpg" %}
+
+You can download the graphic here: ([PDF](https://johannesklingebiel.de/img/downloads/hype-as-a-scale.pdf) / [JPG](https://johannesklingebiel.de/img/downloads/hype-as-a-scale.jpg)).
 
 ### Level 1: Marketing Claims
 
@@ -72,6 +68,6 @@ Examples here are (again) the cryptocurrency scene which has been pretty good at
 
 ---
 
-I hope this categorization is helpful for you to understand which form of hype you‘re confronted with. You can download the graphic here: ([PDF](https://johannesklingebiel.de/img/downloads/hype-as-a-scale.pdf) / [JPG](https://johannesklingebiel.de/img/downloads/hype-as-a-scale.jpg)).
+I hope this categorization is helpful for you to understand which form of hype you‘re confronted with.
 
 If you have thoughts, critiques, or notes — don‘t hesitate to shoot me [an e-mail](mailto:johannes.klingebiel@gmail.com)!
