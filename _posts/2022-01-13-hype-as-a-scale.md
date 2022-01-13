@@ -17,7 +17,7 @@ Hype thus moves on a scale from overpromising to overselling, and even irrationa
 
 Today‘s tech industry is obsessed with the big futures. The metaverses, the next internets — you name it. Hype is everywhere, oozing out of the headlines of news articles, growing like mold all over my LinkedIn feed, and blinking at me whenever I open my inbox.
 
-But hype is not always the same; there are different forms and levels. I‘ve been trying my hand on a categorization and please note, it‘s far from scientific. It‘s based on my experience and my understanding of the phenomenon. This categorization is intended to help people better understand which form of hype they‘re confronted with.
+But hype is not always the same; there are different forms and levels. I‘ve been trying my hand on a categorization based on my experience and my understanding of the phenomenon. This categorization is intended to help people better understand which form of hype they‘re confronted with.
 
 So far, I‘ve decided to separate hype into five different levels. The first draft of this scale [went unexpectedly viral on *Twitter*](https://twitter.com/Klingebeil/status/1481183190584807424). (Including, of course, every imaginable typo still in it.)
 
