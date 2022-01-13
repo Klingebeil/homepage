@@ -19,9 +19,11 @@ Today‘s tech industry is obsessed with the big futures. The metaverses, the ne
 
 But hype is not always the same; there are different forms and levels. I‘ve been trying my hand on a categorization based on my experience and my understanding of the phenomenon. This categorization is intended to help people better understand which form of hype they‘re confronted with.
 
+## The five levels of hype
+
 So far, I‘ve decided to separate hype into five different levels. The first draft of this scale [went unexpectedly viral on *Twitter*](https://twitter.com/Klingebeil/status/1481183190584807424). (Including, of course, every imaginable typo still in it.)
 
-## The five levels of hype
+Think of this scale as form of Richter scale to get a feel of how bad the hype is. A new technology doesn’t have to move through every single level but it most likely will at least reach level 3.
 
 {% include img-full.html id="downloads/hype-as-a-scale.jpg" %}
 
