@@ -27,19 +27,19 @@ That said — if we stick with the notion of zines as a practice, it should 
 
 Matt Webb lately had some [good ideas of what this might look like](https://interconnected.org/home/2020/09/09/organizine):
 
-> A private wiki or Notion instance that has a special zone that auto-publishes editions of a static website, once a month.
+> - A private wiki or Notion instance that has a special zone that auto-publishes editions of a static website, once a month.
 > 
-> A Slack workspace that has a special \#links channel, and every Friday it gets compiled into a newsletter, sent to whoever is online for a quick review, and posted out to all subscribers. Emailed replies to the newsletter are directed back into Slack, where they appear like messages in bottles.
+> - A Slack workspace that has a special \#links channel, and every Friday it gets compiled into a newsletter, sent to whoever is online for a quick review, and posted out to all subscribers. Emailed replies to the newsletter are directed back into Slack, where they appear like messages in bottles.
 > 
-> A WhatsApp group for a club committee, attached to a Google Drive folder with a fixed set of Google Docs in it, an once a week the content of the docs gets swept through pre-set templates and published as a PDF and emailed out to the membership.
+> - A WhatsApp group for a club committee, attached to a Google Drive folder with a fixed set of Google Docs in it, and once a week the content of the docs gets swept through pre-set templates and published as a PDF and emailed out to the membership.
 > 
-> A GitHub Pages repo that accepts all changes that are made to it, by anyone, and auto-publishes a website – but as issues, so previous issues are available at sequential URLs – and only on Thursdays.
+> - A GitHub Pages repo that accepts all changes that are made to it, by anyone, and auto-publishes a website – but as issues, so previous issues are available at sequential URLs – and only on Thursdays.
 > 
-> A shared album in the iOS Photos app for a family that lives apart and, for Christmas, after paste-ups are shared for editing on 1 December, the photos are automatically printed into books that are mailed out to all the households.
+> - A shared album in the iOS Photos app for a family that lives apart and, for Christmas, after paste-ups are shared for editing on 1 December, the photos are automatically printed into books that are mailed out to all the households.
 > 
-> A drag-and-drop Figma canvas that a design group drops and arranges inspiration image into, and every couple of weeks it all gets printed with Newspaper Club.
+> - A drag-and-drop Figma canvas that a design group drops and arranges inspiration image into, and every couple of weeks it all gets printed with Newspaper Club.
 > 
-> An email list for a writing group, and any Microsoft Word doc forwarded to a special email address gets posted to Drafts in a WordPress blog, and the next story, whatever it is, is pulled from the queue and published every Friday.
+> - An email list for a writing group, and any Microsoft Word doc forwarded to a special email address gets posted to Drafts in a WordPress blog, and the next story, whatever it is, is pulled from the queue and published every Friday.
 
 ## Links
 
