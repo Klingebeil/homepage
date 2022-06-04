@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb
-title: Zines
+title: What is a zine?
 ---
 
 # What is a zine?
