@@ -10,9 +10,9 @@ Makeshift Magazine (sadly not publishing anymore)
 
 [Visions Magazine][2]
 
-[Haarkon Adventure][3] (love their Japan guide)
+[Haarkon Adventure][3] (love their Japan issue)
 
-[Emergence Magazine][4] (horribly expensive to buy in Germany, but damn that binding!)
+[Emergence Magazine][4] (horribly expensive to buy in Germany, but damn that binding! That layout! The conten!)
 
 [1]:	https://logicmag.io
 [2]:	https://www.readvisions.com/
