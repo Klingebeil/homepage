@@ -1,7 +1,6 @@
 ---
 layout: wikicrumb 
-title: Tips for Critique & Feedback
-status: "🌿"
+title: "Tips for Critique & Feedback"
 ---
 
 # Tips for Critique & Feedback
