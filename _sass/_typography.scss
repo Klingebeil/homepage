@@ -174,6 +174,23 @@ blockquote {
 	& p {
 		margin: 0px !important;
 	}
+
+	& p:first-child::before {
+		color: $dark-grey;
+		content: "“";
+		display: inline-block;
+		margin-left: -0.7em;
+		padding-right: 0.07em;
+		text-align: right;
+		width: 0.7em;
+	}
+
+	& p:last-child::after {
+		break-before: avoid;
+		color: $dark-grey;
+		margin-left: 0.1em;
+		content: "”";
+	}
 }
 
 hr {
