@@ -193,10 +193,6 @@ blockquote {
 	}
 }
 
-p ~ blockquote {
-	margin-top: 0px;
-}
-
 hr {
 	overflow: visible; /* For IE */
 	margin: 40px 0px 10px 0px;
