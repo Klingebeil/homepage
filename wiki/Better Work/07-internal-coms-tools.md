@@ -38,10 +38,10 @@ A 2020 study by *Atlassian* aptly titled „[Reworking Work](https://3kllhk1ibq3
 
 To accomplish this the company uses a [custom version of WordPress called P2](https://wordpress.com/p2/) as an internal forum/intranet/task-managment/documentation-tool: „[P2 or it didn’t happen.](https://stephyiu.com/2019/02/17/behind-the-scenes-culture-and-tools-of-remote-work-at-automattic/)“
 
-- In conclusion: if a company wants to work as a distributed/hybrid organization, in the long run, it might have to rethink its communication infrastructure and adopt one that is:
-	- **open for every employee to contribute to**
-	- **transparent**
-	- **and most importantly: *written***
+In conclusion: if a company wants to work as a distributed/hybrid organization, in the long run, it might have to rethink its communication infrastructure and adopt one that is:
+- **open for every employee to contribute to**
+- **transparent**
+- **and most importantly: *written***
 
 ### Why is Microsoft moving in the opposite direction?
 
