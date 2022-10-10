@@ -33,7 +33,7 @@ A 2020 study by *Atlassian* aptly titled „[Reworking Work](https://3kllhk1ibq3
 
 *Automattic*, the company behind WordPress is an interesting case study. It employs 1.700 people across multiple continents and time zones since 2005 and [has an interesting work culture](https://techcrunch.com/2021/10/19/automattic-tc1-remote/).
 
-1. **Asynchronous** — there are no meetings, e-mail, or PowerPoint presentations. Everything happens via *written* communication.
+1. **Asynchronous** — there are no meetings, e-mail, or PowerPoint presentations. Everything happens via written communication.
 2. **Transparency** — this written communication is (with exceptions) open for every employee to read, comment, and share internally.
 3. **Document everything**  — obviously. (Meeting notes, project updates, new hires, etc.)
 
@@ -42,7 +42,7 @@ To accomplish this the company uses a [custom version of WordPress called P2](ht
 In conclusion: if a company wants to work as a distributed/hybrid organization, in the long run, it might have to rethink its communication infrastructure and adopt one that is:
 - **open for every employee to contribute to**
 - **transparent**
-- **and most importantly: *written***
+- **and most importantly: written**
 
 ### Why is Microsoft moving in the opposite direction?
 
@@ -59,7 +59,7 @@ And of course:
 
 Microsoft has lately also been more focused not on solving these issues but instead working on the video components of the software and even integrating its version of the „Metaverse“ (formerly called „3D“ or „VR“) in the form of virtual spaces.
 
-Microsoft seems more interested in **creating a skeuomorphic digital office than actually helping people do *good* work in a distributed team**. (And you can guess which tool the 60,000 Microsoft employees most likely used from the study at the top.)
+*Microsoft* seems more interested in **creating a skeuomorphic digital office than actually helping people do good work in a distributed team**. (And you can guess which tool the 60,000 Microsoft employees most likely used from the study at the top.)
 
 Honestly, Microsoft... just force people to add agendas to their meetings. It would make a bigger difference than starring at the feet-less avatars of my colleagues.
 
@@ -97,7 +97,7 @@ Meetings thus consist mainly in the form of reading circles in which these docum
 
 These documents are interesting because:
 
-- They force a team to spell out their thoughts and ideas *on paper*.
+- They force a team to spell out their thoughts and ideas on paper.
 - The use of a speculative press release gives them the chance to develop a common vision of the future of said project.
 - Because narrative and hard facts are at the forefront of any new project, it forces teams to be precise and agree on the same base truths.
 
