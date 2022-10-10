@@ -7,6 +7,11 @@ title: Understanding Newsroom vs. Publisher Culture
 
 A couple of loose notes on the cultural gaps of publishers vs. newsrooms vs. innovation teams.
 
+1. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
+---
+
 ### Failure to Launch: Competing Institutional Logics, Intrapreneurship, and the Case of Chatbots
 
 [This paper by Valerie Belair-Gagnon, Seth C. Lewis and Colin Agur][1] hits some interesting beats when examining the work of innovation teams inside publishers in the case of chatbots.

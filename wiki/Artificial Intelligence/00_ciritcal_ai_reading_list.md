@@ -4,6 +4,11 @@ title: Critical AI Reading List
 ---
 # A Critical Reading List
 
+1. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
+---
+
 ## How does AI/ML/DL work?
 
 **[Course: Artificial Intelligence][1]** (Fall 2015) Prof. Patrick Henry Winston. MIT.
