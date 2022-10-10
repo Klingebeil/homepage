@@ -64,6 +64,16 @@ Honestly, Microsoft... just force people to add agendas to their meetings. It wo
 
 Okay, let‘s talk about some interesting practices that fit the mold of asynchronous and written communication.
 
+### Agile Communication
+
+While not explicitly written for *distributed* teams, “agile communication” is a great way to structure communication [inside companies](https://defradigital.blog.gov.uk/a-guide-to-agile-communication/).
+
+> Your comms strategy should simply be “Show the thing. Be clear. Be brief.” Any time you spend trying to come up with something that says broadly the same thing, only using many more words, is probably wasted time.
+
+It argues in favor of blogging at the speed of work with a heavy focus on quick, short posts, showing the artifacts of work, and building up a archive of posts.
+
+The practice is described in a [great piece on the Gov.uk blog](https://defradigital.blog.gov.uk/a-guide-to-agile-communication/) as well as in the [book of the same name by Giles Turnbull](https://agilecommshandbook.com/).
+
 ### Amazon‘s six pager
 
 According to myth: *Amazon* banned PowerPoint presentations in 2004 and [instead installed a culture of written memos](https://www.businessinsider.com.au/jeff-bezos-email-against-powerpoint-presentations-2015-7).
