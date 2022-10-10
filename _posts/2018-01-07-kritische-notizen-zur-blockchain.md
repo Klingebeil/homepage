@@ -11,6 +11,9 @@ Nur hier ist das Problem: Es ist für mich fast unmöglich zu einer klaren Aussa
 
 Dieser Text ist also keine endgültige Einschätzung der Technologie, sondern viel mehr meine Recherche und Notizen ausformuliert. Entsprechend würde ich mich über Anmerkungen und Kommentare freuen.
 
+1. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 ## Was ist die Blockchain?
 
 Es gibt einige Artikel, die die Funktionsweise einer Blockchain weitaus detaillierter und besser beschreiben können, als ich es hier machen werde. Aber kurz zusammengefasst: Die Blockchain ist das zugrundeliegende Datenbank-Konzept der meisten Kryptowährungen und wurde in seiner grundsätzlichen Form von Satoshi Nakamoto, dem mythischen Erfinder von Bitcoin, beschrieben. Eine Blockchain erlaubt es mehreren Parteien zusammenzuarbeiten, ohne dass diese sich kennen und vertrauen müssen. Ermöglicht wird dies durch ein kryptografisches Verfahren.

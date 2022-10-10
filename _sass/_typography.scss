@@ -267,6 +267,18 @@ li {
     margin: 30px 0px 50px 0px;
 }
 
+#markdown-toc {
+	padding-inline-start: 30px;
+	background-color: $light-grey;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-radius: 10px;
+
+	ol {
+		padding-inline-start: 20px;
+	}
+}
+
 /* FOOTNOTES */
 
 sup {
