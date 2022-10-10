@@ -8,6 +8,8 @@ status: "🌿"
 
 A couple of notes on internal communication tools and practices for organizations that are either distributed, or working in a hybrid model, or are in need of structured ways of sharing information.
 
+* this unordered seed list will be replaced by toc as unordered list
+{:toc}
 
 ### The problem with hybrid or distributed work
 
