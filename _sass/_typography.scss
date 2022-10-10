@@ -277,6 +277,10 @@ li {
 	ol {
 		padding-inline-start: 20px;
 	}
+
+	li::marker {
+		font-variant-numeric:lining-nums;
+	}
 }
 
 #markdown-toc::before {
