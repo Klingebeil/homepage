@@ -5,6 +5,7 @@ status: "🌿"
 ---
 
 # Modern Internal Communication Tools
+{:.no_toc}
 
 A couple of notes on internal communication tools and practices for organizations that are either distributed, or working in a hybrid model, or are in need of structured ways of sharing information.
 

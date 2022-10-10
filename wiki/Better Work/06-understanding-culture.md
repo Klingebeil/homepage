@@ -4,6 +4,7 @@ title: Understanding Newsroom vs. Publisher Culture
 ---
 
 # Understanding Culture
+{:.no_toc}
 
 A couple of loose notes on the cultural gaps of publishers vs. newsrooms vs. innovation teams.
 

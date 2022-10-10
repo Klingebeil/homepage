@@ -3,6 +3,7 @@ layout: wikicrumb
 title: Critical AI Reading List
 ---
 # A Critical Reading List
+{:.no_toc}
 
 1. this unordered seed list will be replaced by toc as unordered list
 {:toc}
