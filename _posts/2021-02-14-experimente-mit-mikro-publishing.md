@@ -19,10 +19,10 @@ Ich bin ein großer Fan von Print. Ich besitze eine ständig wachsende Sammlung 
 Ich hatte im Kontext meiner Arbeit die Möglichkeit, mehrmals Rechercheergebnisse drucken zu lassen. Sei dies als [Riso-Zine](https://johannesklingebiel.de/portfolio/research-zine-01), als mehrteilige Reports oder [kleinere Artefakte](https://www.are.na/block/4718575). Print ist ein unheimlich effektives Werkzeug in der Kommunikation von Arbeit  —  und das im doppelten Sinne. Nicht nur transportiert es natürlich Inhalt, sondern ist als Objekt auch der Beweis, dass Arbeit getan wurde. Print ist nicht so vergänglich wie eine Präsentation, eine PDF oder eine E-Mail. Gut gemacht und gut positioniert kann Print [eine vollkommen eigene Wirkung entfalten](https://johannesklingebiel.de/wiki/Better%20Work/03-Artefacts%20of%20Work.html).
 
 <div id="zine-definition" style="margin: 40px 20px 40px 40px; font-size: 1.2em; color: #22429B;">
-    <p><b>zine</b> \ˈzēn\ <em>noun</em> — <b>1.</b> magazine <b>2.</b> <em>especially :</em> a noncommercial often homemade or online publication usually devoted to specialized and often unconventional subject matter.</p>
-    <p id="zine-definition-source" class="uppercase mono-space" style="font-size: 0.5em; margin-top: 20px;">
-        <a href="https://www.merriam-webster.com/dictionary/zine">Merriam Webster</a>
-    </p>
+<p><b>zine</b> \ˈzēn\ <em>noun</em> — <b>1.</b> magazine <b>2.</b> <em>especially :</em> a noncommercial often homemade or online publication usually devoted to specialized and often unconventional subject matter.</p>
+<p id="zine-definition-source" class="uppercase mono-space" style="font-size: 0.5em; margin-top: 20px;">
+    <a href="https://www.merriam-webster.com/dictionary/zine">Merriam Webster</a>
+</p>
 </div>
 
 Und das war letztendlich auch der Grund, weshalb ich nach drei Jahren Arbeit im Innovationsteam der _Süddeutschen Zeitung_   diese Form der doppelten Kommunikation für mich nutzen wollte. Das Ergebnis, „Work in Progress“, ist letztendlich eine Mischung aus meinen Erfahrungen, Verbesserungsideen und der Beweis für mich, dass ich in dieser Zeit dazugelernt habe.

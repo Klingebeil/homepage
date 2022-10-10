@@ -157,7 +157,7 @@ code {
     border-radius: 5px;
 }
 
-blockquote {
+blockquote:not(.twitter-tweet) {
 	padding: 20px;
     margin-left: 5px;
 	margin-top: 32px;
