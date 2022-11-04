@@ -74,4 +74,12 @@ I hope this categorization is helpful for you to understand which form of hype y
 
 If you have thoughts, critiques, or notes — don‘t hesitate to shoot me [an e-mail](mailto:johannes.klingebiel@gmail.com)!
 
-As noted above this piece is part of a larger zine project [you can follow along here](https://hypemachine.substack.com/p/coming-soon?showWelcome=true).
+As noted above this piece is part of a larger zine project which I published at the beginning of 2022.
+
+<div class="centered flex items-center">
+      <img style="width: 50%; z-index: 100; transform: rotate(-8deg);" src="/img/portfolio/hype-field-guide/cfgh-00cover.png">
+      <div style="color: #EFEFEF; background-color: #fd675e; padding: 10px 20px; border-radius: 20px; transform: rotate(4deg); margin-left: -30px;">
+        <p class="mono-space small uppercase">My latest project</p>
+      <h2>A small field guide on the uses and misuses of hype.</h2> 
+      <p><a style="color: #fd675e" class="button uppercase small" href="{{site.baseurl}}/portfolio/a-field-guide-to-hype.html">Grab one!</a></p>
+</div>
