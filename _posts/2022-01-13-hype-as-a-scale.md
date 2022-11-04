@@ -75,7 +75,8 @@ I hope this categorization is helpful for you to understand which form of hype y
 If you have thoughts, critiques, or notes — don‘t hesitate to shoot me [an e-mail](mailto:johannes.klingebiel@gmail.com)!
 
 As noted above this piece is part of a larger zine project which I published at the beginning of 2022.
-
+  
+  
 
 <div class="centered flex items-center">
       <img style="width: 50%; z-index: 100; transform: rotate(-8deg);" src="/img/portfolio/hype-field-guide/cfgh-00cover.png">
