@@ -10,7 +10,7 @@ teaser-img: 2022-11-18-teaser.png
 
 I have a small bone to pick with many scenarios written about the future of media or journalism: **stop putting journalism front and centre**.
 
-It‘s almost a cliché at this point but I can‘t anymore tell how many of these texts start with the protagonist being a) woken up by some smart assistant that b) does this by telling them the news.
+It‘s almost a cliché at this point but I can‘t tell anyomore how many of these texts start with the protagonist being a) woken up by some smart assistant that b) does this by telling them the news.
 
 Here‘s the problem with that: no one wants to be woken up by or with the news of the day. Not even journalists. Yes, you might at some point, while lying in bed, start scrolling through a news app of your choice but chances are social is going to come first. Because, hey — we‘re social animals, not masochists.
 
