@@ -160,7 +160,7 @@ code {
 blockquote:not(.twitter-tweet) {
 	padding: 20px;
     margin-left: 5px;
-	margin-top: 32px;
+	margin-top: 18px;
 	margin-inline-end: 10px;
     border-left: 1px solid $dark-grey;
 	background-color: $light-grey;
@@ -221,17 +221,17 @@ li {
 	p {
 		text-align: justify;
 		text-justify: newspaper;
-		margin: 32px 0px 0px 0px;
+		margin: 24px 0px 0px 0px;
 	}
 
 	h1 {
 		text-align: center;
-		margin-bottom: 50px;
+		margin-bottom: 36px;
 		hyphens: none;
 	}
 
 	h2 { 
-		margin-top: 50px;
+		margin-top: 36px;
 		hyphens: none;
 	}
 
@@ -251,7 +251,9 @@ li {
 		font-variant: small-caps;
 	}
 
-	blockquote p {text-align: left;}
+	blockquote p {
+		text-align: left;
+	}
 
 	@media screen and (max-width: 650px) {
 		p {text-align: left;}
@@ -290,6 +292,17 @@ li {
 	font-size: 0.7em;
 	font-family: mono-space, 'Courier New', Courier, monospace;
 }
+
+/* WIKI TYPOGRAPHY */@at-root
+
+.wiki {
+	h1 {
+		text-align: left;
+		padding-bottom: 16px;
+		border-bottom: 1px solid $contrast-green;
+	}
+}
+
 
 /* FOOTNOTES */
 
