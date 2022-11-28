@@ -21,7 +21,7 @@ Häufig geht es in Innovationsprozessen gar nicht so sehr darum, ob ein Produkt 
 
 Warum das gefährlich ist? Zunächst einmal beschränkt diese Idee von Innovation den Raum des Möglichen. Wer Innovation nur mit Technologie gleichsetzt, schließt von vornherein die vielen anderen Bereiche in denen die Arbeit an Neuem geschehen kann aus, [wie David Sax in der New York Times anmerkte][3]:
 
-> True innovation isn’t just some magic carnival of invention, like a Steve Jobs keynote with a pretty toy at the end. It is a continuing process of gradual improvement and assessment that every institution and business experiences in some way. Often that actually means adopting ideas and tools that already exist but make sense in a new context, or even returning to methods that worked in the past. Adapted to the challenges of today, these rearview innovations have proved to be as transformative as novel technologies.
+> True innovation isn‘t just some magic carnival of invention, like a Steve Jobs keynote with a pretty toy at the end. It is a continuing process of gradual improvement and assessment that every institution and business experiences in some way. Often that actually means adopting ideas and tools that already exist but make sense in a new context, or even returning to methods that worked in the past. Adapted to the challenges of today, these rearview innovations have proved to be as transformative as novel technologies.
 
 Keine Technologie, keine App, keine Investition wird alleine eine lohnenswerte Zukunft für den Journalismus bauen. 
 
@@ -39,12 +39,12 @@ Wenn Innovation erfolgreich sein will, muss sie sich mit den dominanten Vorstell
 
 Dieser Herangehensweise folgend, sind zukunftsfähige Innovationsteams nicht (ausschließlich) Tech-Labore, sondern vielmehr strategische Begleiter:innen. Für einen solchen Positionswechsel muss auch akzeptiert werden, dass Innovation ein Kommunikationsproblem hat. Eine mögliche Herangehensweise ist das, was der Indie-Consultant [Tom Critchlow][4] als „[Narrative Strategy][5]“ und der Autor [Patrick Tanguay][6] als „[Thought Partnerships][7]“ bezeichnet:
 
-> What I realized is that playing an editorial role for a company and influencing multiple projects and discussions are not two separate things. It’s not “writing things” and “giving opinions because you know about stuff.” A Thought Partner is someone who, through a practice of researching, reading, learning, asking questions, and writing, helps partners in developing their ideas, knowledge, and thinking.
+> What I realized is that playing an editorial role for a company and influencing multiple projects and discussions are not two separate things. It‘s not “writing things” and “giving opinions because you know about stuff.” A Thought Partner is someone who, through a practice of researching, reading, learning, asking questions, and writing, helps partners in developing their ideas, knowledge, and thinking.
 
 Es geht dabei darum die Kommunikationslandschaft in Organisationen zu nutzen, um deren Sprache und Vorstellungen zu prägen. Oder wie es Michael Geoghegan [so eloquent zusammenfasst][8]:
 
-> Managers understand the organization’s past behavior.  
-> But this knowledge, and the language that accompanies it, limit their vision of the organization’s potential future state.  
+> Managers understand the organization‘s past behavior.  
+> But this knowledge, and the language that accompanies it, limit their vision of the organization‘s potential future state.  
 >  Using the language of the past, managers may try to provide vision for the future. But it is an old future—a memory of what the future could be.  
 > Managers may strive for fundamental change, but their language prevents them from achieving it.
 

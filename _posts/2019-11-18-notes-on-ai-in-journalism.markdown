@@ -12,13 +12,13 @@ If you‘re working in the news industry or are interested in this field of AI, 
 ## 1. No-one knows what „AI“ actually is.
 The problem isn‘t the lack of definitions, but their abundance. Or as one interviewee in the “[An AI Pattern Language][2]” report by Data & Society put it:
 
-> If I walked into a room and said, “We’re going to talk about an artificial intelligent personal assistant,” nearly everyone would have a picture in their head. The problem is everybody’s picture would be different.
+> If I walked into a room and said, “We‘re going to talk about an artificial intelligent personal assistant,” nearly everyone would have a picture in their head. The problem is everybody‘s picture would be different.
 
 The report itself uses the following highly un-specific definition:
 
-> Artificial intelligence is a collection of ideas, technologies, and techniques that relate to a computer system’s capacity to perform tasks normally requiring human intelligence.
+> Artificial intelligence is a collection of ideas, technologies, and techniques that relate to a computer system‘s capacity to perform tasks normally requiring human intelligence.
 
-Or to be more precise; there isn‘t an “artificial intelligence”, there‘s just the field of artificial intelligence and unfortunately, its borders are not well defined. As a consequence, we can find a lot of weird ideas around what AI is, what it can do and might be able to in the future. Imaginations of AI mostly originate in three separate, but connected fields: science, science fiction, and speculation. As a consequence, the stories around actual AI in the form of machine learning are most of the time wildly of target and highly misleading. No-one seems to bother to distinguish between the Terminator, Elon Musk’s fantasies and the mostly mundane state of the field. Don‘t get me wrong, there are some real and exciting advances to be found here, BUT those have nothing in common with any Sci-fi scenario, except for the name.
+Or to be more precise; there isn‘t an “artificial intelligence”, there‘s just the field of artificial intelligence and unfortunately, its borders are not well defined. As a consequence, we can find a lot of weird ideas around what AI is, what it can do and might be able to in the future. Imaginations of AI mostly originate in three separate, but connected fields: science, science fiction, and speculation. As a consequence, the stories around actual AI in the form of machine learning are most of the time wildly of target and highly misleading. No-one seems to bother to distinguish between the Terminator, Elon Musk‘s fantasies and the mostly mundane state of the field. Don‘t get me wrong, there are some real and exciting advances to be found here, BUT those have nothing in common with any Sci-fi scenario, except for the name.
 
 The media is, of course, a willing accomplice in muddling the narrative and in turn falls itself victim to the same confusion when it comes to talking „AI Strategy“. Which is why you‘ll find ideas like „exponential growth“, „super AI“ and „Robot journalists“ being uttered on the stages of media industry conferences. (Though, to be fair: there are „robot journalist“, but those are strictly template-based and not at all able to write well-researched articles and no that won‘t change in the near future.)
 
@@ -29,15 +29,15 @@ This is where we get to my first tip if you find yourself in the position of for
 ## 2. The problem with „personalization“
 A lot of interviewees also talked about personalized content, mostly under the term of „relevant content“, which will be made possible by the application of AI to the historic user-data.
 
-Again I think this framing is a bit off to some degree. Especially, if it‘s put into the same bucket as „user-centric design“. Because let‘s be clear: Personalization by an algorithm without the user’s explicit control is not user-centric or user-friendly. It‘s business-friendly. The idea of showing „relevant“ content by algorithm is a red-herring. What you‘re actually trying to do is to keep users on your website or in your app. You‘re trying to optimize for the time spent, not actual interest.
+Again I think this framing is a bit off to some degree. Especially, if it‘s put into the same bucket as „user-centric design“. Because let‘s be clear: Personalization by an algorithm without the user‘s explicit control is not user-centric or user-friendly. It‘s business-friendly. The idea of showing „relevant“ content by algorithm is a red-herring. What you‘re actually trying to do is to keep users on your website or in your app. You‘re trying to optimize for the time spent, not actual interest.
 
 Let‘s just be honest with our intentions here. Everytime someone talks about „relevant content“, keep in mind there is no such thing as objective „relevance“. Just highly subjective approximations. Always ask yourself: relevant for whom? And by what metric?
 
 ## 3. The thing with efficiency
 In the end, let‘s talk about the other big horror AI-scenario: mass job-loss. It‘s an all-time favorite, right next to the enslavement or extinction of humanity. I won‘t get into the weeds of dissecting forecasts or studies, but I want to give you a small mental model, that might help to better understand the topic at hand.
 
-1. Automation doesn’t happen on the job-level, but the task-level.
-2.  Automation doesn’t strictly mean human replacement, but also augmenting given tasks. 
+1. Automation doesn‘t happen on the job-level, but the task-level.
+2.  Automation doesn‘t strictly mean human replacement, but also augmenting given tasks. 
 3. Automation will always need maintenance, updates, and upgrades. There is not a date X, where the process is finished.
 4. Automation happens, if it‘s economically beneficial, not if it‘s technically feasible. It‘s — of course — the product and producer of capitalism.
 

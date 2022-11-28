@@ -24,7 +24,7 @@ Entsprechend sind _Substacks_ Pläne keineswegs klein. Zur Kernfunktion sollen z
 
 Die eigentlich spannende Frage ist, welche Rolle _Substack_ und Co. in einem zukünftigen Medienökosystem spielen werden und [was dies für die einzelnen Journalist:innen bedeuten wird.][9]
 
-> I’m less interested in what new media will look like, than what a shift to this model might represent about the nature of work and labor, post pandemic. (…) **Ultimately, it’s a system that does very little if anything to challenge the existing structures and power relations that have shaped the industry, and if anything, it further capitulates to the tech platforms who still expect you to be grateful in the first place**.
+> I‘m less interested in what new media will look like, than what a shift to this model might represent about the nature of work and labor, post pandemic. (…) **Ultimately, it‘s a system that does very little if anything to challenge the existing structures and power relations that have shaped the industry, and if anything, it further capitulates to the tech platforms who still expect you to be grateful in the first place**.
 
 Es ist auch etwas ironisch, dass nach all den Jahren Hype um VR, AR oder Voice-Interfaces sich jetzt ausgerechnet Newsletter zum wichtigsten neuen/alten Medium für Verlage entwickelt haben.
 

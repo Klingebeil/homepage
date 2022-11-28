@@ -10,7 +10,7 @@ A couple of notes towards a communication strategy for innovation teams.
 ## Why?
 
 - Innovation often means a) working outside the comfort zone of a given company and b) trying to change aspects of the company in the process.
-- Promising projects often fell apart because company and team weren’t on the same level, meaning a difference in language, a lack of understanding of a field or idea or a missing history of the project which made the work of the team invisible and incomprehensible.
+- Promising projects often fell apart because company and team weren‘t on the same level, meaning a difference in language, a lack of understanding of a field or idea or a missing history of the project which made the work of the team invisible and incomprehensible.
 - To avoid those issues teams and projects need a communication strategy that goes beyond a pitch presentation.
 
 ## How?
@@ -32,6 +32,6 @@ A couple of notes towards a communication strategy for innovation teams.
 ---- 
 **Make it sticky**
 
-> Good insights and ideas can get lost if they are not also easy to communicate. Simple language and frameworks help ensure design and development work is more naturally grounded in user insights. Creating a ‘sticky’ language for these findings helps key insights become memorable and therefore actionable as part of everyday decision-making.
+> Good insights and ideas can get lost if they are not also easy to communicate. Simple language and frameworks help ensure design and development work is more naturally grounded in user insights. Creating a ‘sticky‘ language for these findings helps key insights become memorable and therefore actionable as part of everyday decision-making.
 
  —  Helsinki Design Lab, Legible Practices

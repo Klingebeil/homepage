@@ -28,7 +28,7 @@ Jedoch muss hier gleich eine Sache im Kopf behalten werden: Auch wenn viel von B
 
 Grundsätzlich muss auch zwischen öffentlichen (oder permissionless) Blockchains und privaten (oder permissioned) Blockchains unterschieden werden. Während in öffentlichen Blockchains jeder Teil des Netzwerks werden kann — wie beispielsweise bei Kryptowährungen — erhalten in privaten Blockchains nur ausgewählte Teilnehmer Zugriff. Die meisten Blockchain-Implementierungen in Banken oder Unternehmen sind beispielsweise private Blockchains.
 
-Ein anderer wichtiger Aspekt, den man im Blick behalten sollte, ist die Tatsache, dass die Blockchain als Konzept selbst auf [einer ganzen Reihe anderer Technologien basiert][4]. Die historische Perspektive ist zwar nicht unbedingt ausschlaggebend, aber dennoch wichtig zu berücksichtigen. Oder wie die Autoren es selbst beschreiben: „Nakamoto’s genius, then, wasn’t any of the individual components of bitcoin, but rather the intricate way in which they fit together to breathe life into the system.“
+Ein anderer wichtiger Aspekt, den man im Blick behalten sollte, ist die Tatsache, dass die Blockchain als Konzept selbst auf [einer ganzen Reihe anderer Technologien basiert][4]. Die historische Perspektive ist zwar nicht unbedingt ausschlaggebend, aber dennoch wichtig zu berücksichtigen. Oder wie die Autoren es selbst beschreiben: „Nakamoto‘s genius, then, wasn‘t any of the individual components of bitcoin, but rather the intricate way in which they fit together to breathe life into the system.“
 
 {% include img-full.html id="2018-01-07-01.png" alt="" info="via Arvind Narayanan und Jeremy Clark"%}
 
@@ -65,7 +65,7 @@ Und auch hier treffen wir wieder auf das Problem, dass der Begriff „Blockchain
 
 Bei privaten Blockchains kommt noch ein zusätzlicher Faktor ins Spiel. Eine Blockchain-Datenbank dürfte für 99% dieser Anwendungsfälle totaler Overkill sein. [Oder wie Arvind Narayanan es beschreibt][10]: 
 
-> To build these private blockchains, banks start with the Bitcoin Core code and rip out all the parts they don’t need. It’s a bit like hammering in a thumb tack, but if a hammer is readily available and no one’s told you that thumb tacks can be pushed in by hand, there’s nothing particularly wrong with it.
+> To build these private blockchains, banks start with the Bitcoin Core code and rip out all the parts they don‘t need. It‘s a bit like hammering in a thumb tack, but if a hammer is readily available and no one‘s told you that thumb tacks can be pushed in by hand, there‘s nothing particularly wrong with it.
 
 Das alles bringt uns zu der Frage: Brauche ich überhaupt eine Blockchain für mein Problem? Karl Wüst und Arthur Gervais von der ETH Zürich haben versucht genau diese Frage in ihrer Studie „[Do you need a Blockchain?][11]“ zu beantworten. Ihr Ergebnis: Vermutlich eher nicht. Zwar gäbe es durchaus valide Use-Cases in Bereichen, wie im Supply/Demand-Chain-Managment, Banking, Proof-of-Ownership oder E-Voting, aber all diese Use-Cases kommen mit Einschränkungen daher. Wüst und Gervais haben ihre Ergebnisse auch in einem praktischen Flow-Chart zusammengefasst.
 
@@ -75,7 +75,7 @@ Jedoch sollten auch Use-Cases wie Banking oder E-Voting mit Vorsicht genossen we
 
 Und der Entwickler Ben Adida hat einen ebenfalls kritischen Artikel [über den Einsatz von Blockchain bei Wahlen geschrieben][13]. 
 
-> Blockchain can help a bit with voting, but it’s not doing the most important part of the work. It doesn’t help tally secret ballots in a publicly verifiable way. It doesn’t provide individual verifiability that a ballot was correctly encoded. And it’s not useful for voting eligibility, since that’s all about human authentication and a centrally produced voter list. At best, in voting, Blockchain can be a ledger that helps us track the voting metadata.
+> Blockchain can help a bit with voting, but it‘s not doing the most important part of the work. It doesn‘t help tally secret ballots in a publicly verifiable way. It doesn‘t provide individual verifiability that a ballot was correctly encoded. And it‘s not useful for voting eligibility, since that‘s all about human authentication and a centrally produced voter list. At best, in voting, Blockchain can be a ledger that helps us track the voting metadata.
 
 (Ich gehe auch fest davon aus, dass wir in den nächsten Wochen und Monaten vermehrt kritische Artikel zu anderen Use-Cases sehen werden.)
 
@@ -110,13 +110,13 @@ Auch wenn diese Definition keineswegs allgemeingültig ist, ist sie jedoch bemer
 
 David Golumbia, Professor an der Virginia Commonwealth University, hat diese Punkte auch in seinem 2016 erschienen Buch The Politics of Bitcoin: Software as Right-Wing Extremism aufgefasst. Gegenüber dem Blog der Universität[ fasste er seine Kritik wie folgt zusammen][19]:
 
-> The world of Bitcoin bluntly says “government is evil” and “central banking is evil” and “‘we’ can take control back from these institutions with distributed software,” but discourages adherents from investigating how governments function, what central banks do, or even what it means for a nebulous “us” to “take control” away from “centralized institutions,” since in practice this usually means just giving more control to institutions that are less accountable and less transparent than governments.
+> The world of Bitcoin bluntly says “government is evil” and “central banking is evil” and “‘we‘ can take control back from these institutions with distributed software,” but discourages adherents from investigating how governments function, what central banks do, or even what it means for a nebulous “us” to “take control” away from “centralized institutions,” since in practice this usually means just giving more control to institutions that are less accountable and less transparent than governments.
 
 Auch wenn seine Kritik sich hauptsächlich auf Teile der Bitcoin Community bezieht, sollte die ideologische Motivation einiger Blockchain/Bitcoin-Evangelisten nicht ignoriert werden, [gerade dann wenn Blockchain der Grundstock für eine neue Gesellschaftsordnung sein soll][20].
 
 Es ist eine bequeme Illusion zu glauben, dass Technologie neutral oder aus sich heraus „gut“ ist. Kryptowährungen könnten genauso gut das Einfalltor für eine neue Form technisch ermöglichten Autoritarismus sein, [argumentiert Ian Bogost][21].
 
-> Future cryptocurrencies operated by banks or governments might enjoy more productive use than Bitcoin. But those futures also undermine cryptocurrency’s [anrcho-capitalistic] aspirations. Corporations and governments re-centralize control, for one. But also, they undermine the discretion and anonymity that accompanies free trade in the [anrcho-capitalistic] fantasy. When the local or central bank manages the cryptocurrency platform, it also gets a record of every transaction that takes place in that economy. One doesn’t need to be an anarchist to surmise potential downsides of that situation. Picture China mandating state cryptocurrency, tying the country’s proposed social credit system to that ledger. Or imagine if the North Carolina State legislature decided to issue all food stamp vouchers in crypto form to better manage their future use.
+> Future cryptocurrencies operated by banks or governments might enjoy more productive use than Bitcoin. But those futures also undermine cryptocurrency‘s [anrcho-capitalistic] aspirations. Corporations and governments re-centralize control, for one. But also, they undermine the discretion and anonymity that accompanies free trade in the [anrcho-capitalistic] fantasy. When the local or central bank manages the cryptocurrency platform, it also gets a record of every transaction that takes place in that economy. One doesn‘t need to be an anarchist to surmise potential downsides of that situation. Picture China mandating state cryptocurrency, tying the country‘s proposed social credit system to that ledger. Or imagine if the North Carolina State legislature decided to issue all food stamp vouchers in crypto form to better manage their future use.
 
 Wir sollten deutlich wachsamer sein, wenn es um den Hype angeblicher neuer technologischer Paradigmen geht, und stärker die Motivationen hinter diesen Technologien hinterfragen. Des einen Utopie wird ansonsten schnell des anderen Dystopie.
 

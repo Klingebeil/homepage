@@ -23,7 +23,7 @@ But hype is not always the same; there are different forms and levels. I‘ve be
 
 So far, I‘ve decided to separate hype into five different levels. The first draft of this scale [went unexpectedly viral on *Twitter*](https://twitter.com/Klingebeil/status/1481183190584807424). (Including, of course, every imaginable typo still in it.)
 
-Think of this scale as form of Richter scale to get a feel of how bad the hype is. A new technology doesn’t have to move through every single level but it most likely will at least reach level 3.
+Think of this scale as form of Richter scale to get a feel of how bad the hype is. A new technology doesn‘t have to move through every single level but it most likely will at least reach level 3.
 
 {% include img-full.html id="downloads/hype-as-a-scale.jpg" %}
 
@@ -66,7 +66,7 @@ The technology has become a group identity for its boosters. Claims are exclusiv
 
 This is the most aggressive and annoying form of hype. Notably, the time of arrival is less important at this level, simply that the technology *will* arrive at some point in the future.
 
-Examples here are (again) the cryptocurrency scene which has been pretty good at othering critics as “no-coiners” or lately with the phrase “have fun staying poor”. Another example might also be particularly vocal groups of boosters at the height of the AI hype a couple of years ago. Here the claims were that critics simply didn’t “understand exponential growth”.
+Examples here are (again) the cryptocurrency scene which has been pretty good at othering critics as “no-coiners” or lately with the phrase “have fun staying poor”. Another example might also be particularly vocal groups of boosters at the height of the AI hype a couple of years ago. Here the claims were that critics simply didn‘t “understand exponential growth”.
 
 ---
 

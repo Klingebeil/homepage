@@ -4,7 +4,7 @@ title: "Building a new website"
 date: 2021-03-10
 teaser-img: 2021-03-20-teaser.png
 ---
-It‘s been some time since I last updated my website or even published something on it. With platforms such as _Medium_, _Substack_ and _Revue_ taking over so much of the written indie-web, I didn’t see the need to take care of my own digital space.
+It‘s been some time since I last updated my website or even published something on it. With platforms such as _Medium_, _Substack_ and _Revue_ taking over so much of the written indie-web, I didn‘t see the need to take care of my own digital space.
 
 But things change. Thought I will still use _Revue_ extensively to write and publish my (German) newsletter, I wanted to take a step back from _Medium_. _Medium_ is a seductive place. It‘s easy to use, has an in-build audience and you might even earn some money on the platform. (I earned at least enough to buy myself a cup of coffee this year.) So why change? Why not build my own digital place?
 
@@ -25,7 +25,7 @@ From the start I knew, I wanted a couple of things my website should do:
 {% include img-full.html id="2021-03-10-01.jpeg" alt="" info="The Money Shot" %}
 ## The Stack
 
-In the end, my choice fell on _Github_ Pages as a quick and easy platform after being inspired to check it out by Tom Critchlow’s piece [on his digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) (yes, yes… let me finish here).
+In the end, my choice fell on _Github_ Pages as a quick and easy platform after being inspired to check it out by Tom Critchlow‘s piece [on his digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) (yes, yes… let me finish here).
 
 _Github_ Pages uses a programing language called _Jekyll_ to weave together blocks of _HTML_, _Markdown_ and _CSS_ to static pages. So, it‘s not fancy and quite bare-bones, but it has a couple of neat upsides for me and my workflow:
 
@@ -38,7 +38,7 @@ _Github_ Pages uses a programing language called _Jekyll_ to weave together bloc
 
 Okay, what‘s a digital garden? To be concise, a digital garden is a collection of public notes[^1]. It works similar to a personal wiki, where I can build on ideas while also being able to reference them quickly through links. Or as Tom Crithlow describes it:
 
-> It’s a less-performative version of blogging – more of a captain’s log than a broadcast blog. The distinction will come down to how you blog – some people blog in much the same way. For me, however, blogging is mostly performative thinking and less captain’s log. So I am looking for a space to nurture, edit in real-time and evolve my thinking.
+> It‘s a less-performative version of blogging – more of a captain‘s log than a broadcast blog. The distinction will come down to how you blog – some people blog in much the same way. For me, however, blogging is mostly performative thinking and less captain‘s log. So I am looking for a space to nurture, edit in real-time and evolve my thinking.
 
 Again I looked a Tom‘s [own digital garden](https://tomcritchlow.com/wiki/) for inspiration and lifted some of his _Jekyll_ code from his _Github_, as well. (Sorry, Tom!)
 

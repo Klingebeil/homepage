@@ -34,7 +34,7 @@ Ich wollte auf diesen Text eigentlich eine Serie folgen lassen, merkte aber, das
 
 Und das ist letztendlich der große Vorteil von Print. Es ist ein abgeschlossenes Medium. Oder wie [Craig Mod so schön schreibt](https://craigmod.com/essays/media_accounting/):
 
-> We buy a book, we know what we’re getting. There is no other “business model” at play. No other information being (necessarily, relatively) sold. This clarity of contract is especially lucid in physical form. The book has edges. The transaction has edges. The transaction completes. Given time, we complete the book. It has an ending. Contracts are clear.
+> We buy a book, we know what we‘re getting. There is no other “business model” at play. No other information being (necessarily, relatively) sold. This clarity of contract is especially lucid in physical form. The book has edges. The transaction has edges. The transaction completes. Given time, we complete the book. It has an ending. Contracts are clear.
 
 Das Format zwang mich auf den Punkt zu kommen, knapp zu formulieren und genau darüber nachzudenken, welche Gedanken ich wie vermitteln wollte. Ich habe ehrlicherweise noch nie einen besseren Brecher für eine Schreibblokade gehabt.
 

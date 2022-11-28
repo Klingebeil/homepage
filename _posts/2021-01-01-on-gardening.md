@@ -8,7 +8,7 @@ teaser-img: 2021-01-01-teaser.png
 
 Okay, okay, okay… Weg von Journalismus zu einem ganz anderen Gedanken. Über die Feiertage habe ich einige der “[Slowdown Paper](https://medium.com/slowdown-papers)” des Designers und Architekten Dan Hill gelesen, die er über das letzte Pandemie-Jahr veröffentlicht hatte und in denen er auch [immer wieder die Macht der Rhetorik des Silicon Valleys kritisiert](https://medium.com/slowdown-papers/41-the-slowdown-is-something-to-fight-for-not-to-wait-for-1068f913a2c1):
 
-> […] our language has been so infected by mental models of growth at (almost) all costs that a message like ‘slow down’ does almost feel like a failure, like a depressive motivated only to give up and withdraw.
+> […] our language has been so infected by mental models of growth at (almost) all costs that a message like ‘slow down‘ does almost feel like a failure, like a depressive motivated only to give up and withdraw.
 
 Im Kontrast dazu steht für ihn die Idee des Gärtners.
 
@@ -20,7 +20,7 @@ Es geht darum, Dinge von sich aus wachsen zu lassen und ihnen Raum zu geben, ans
 
 Zu denken wie ein Gärtner bedeutet auch einen Blick auf größere Kontexte zu haben, offen für Ungeplantes zu sein [und sich tatsächlich zu kümmern](https://theplanthunter.com.au/gardens/audacious-gardening-daring-care/).
 
-> **To be a gardener is to give a fuck. To be a gardener is to be invested in a place—to know it, to protect it, and to be present.** How can we protect and heal ourselves and our planet if we’re not willing to step into, and value, the role of the gardener?
+> **To be a gardener is to give a fuck. To be a gardener is to be invested in a place—to know it, to protect it, and to be present.** How can we protect and heal ourselves and our planet if we‘re not willing to step into, and value, the role of the gardener?
 
 Es ist noch kein vollständig ausformuliertes Bild, aber ein Anspruch, den ich gerne an meine Arbeit in 2021 hätte: zu denken und zu handeln wie ein Gärtner.
 

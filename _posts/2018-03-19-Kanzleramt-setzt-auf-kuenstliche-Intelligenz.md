@@ -26,9 +26,9 @@ Die Inspiration für dieses Szenario kommt von den Entwicklungen im Bereich Spra
 ---- 
 ## Literatur
 
-[Adobe prototypes ‘Photoshop for audio’][1]. Steward, Craig. 03.10.2017.
+[Adobe prototypes ‘Photoshop for audio‘][1]. Steward, Craig. 03.10.2017.
 
-[AI-powered lip sync puts old words into Obama’s new mouth][2]. Plummer, Libby. 12.06.2017.
+[AI-powered lip sync puts old words into Obama‘s new mouth][2]. Plummer, Libby. 12.06.2017.
 
 [AI will make forging anything entirely too easy][3]. Allen, Greg. 07.01.2017.
 

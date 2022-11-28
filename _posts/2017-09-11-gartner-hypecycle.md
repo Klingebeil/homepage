@@ -14,7 +14,7 @@ Gartner hat seine Trendaufstellung [für 2018 veröffentlicht][1]. Hier sind ein
 5. Der Hype Cycle ist eine selbsterfüllende Prophezeiung. VC-Firmen, Unternehmen und Investoren richten sich nach Gartners Vorhersagen, was die Weiterentwicklung und Adoption der jeweiligen Technologien befeuert.
 Ich finde [Michael Mullany beschreibt es sehr treffend][2], wenn er von Gartners Modell als narrative Struktur spricht, die im Grunde einer Heldenreise für Technologien entspricht. Sein ganzer Artikel zu Gartners Modell ist lesenswert.
 
-Eine wissenschaftlichere Kritik des Modells findet sich auch im Papier [“Scrutinizing Gartner’s hype cycle approach”][3] (2010) von Martin Steinert und Larry John Leifer.
+Eine wissenschaftlichere Kritik des Modells findet sich auch im Papier [“Scrutinizing Gartner‘s hype cycle approach”][3] (2010) von Martin Steinert und Larry John Leifer.
 
 Die traurige Wahrheit ist, dass wir unglaublich schlecht darin sind, die Zukunft von Technologien vorauszusagen und alle Modelle letztendlich nur etwas treffsicheres Raten sind.
 
