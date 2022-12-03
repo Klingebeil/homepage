@@ -5,7 +5,7 @@ title: Work in Progress Reading List
 
 # Work in Progress Reading List
 
-This is a collection of articles, books and organizations that inspired and informed my work at the innovation team of the _Süddeutsche Zeitung_ and was part of the „Work in Progress“ zine.
+This is a collection of articles, books and organizations that inspired and informed my work at the innovation team of the _Süddeutsche Zeitung_ and was part of the “Work in Progress” zine.
 
 A sporadically updated list can also be found on [are.na][1]. 
 
