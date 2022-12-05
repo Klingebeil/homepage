@@ -1,5 +1,5 @@
 // CSS for Typography
-/* TYPOGRAPHY */
+/* -- TYPOGRAPHY -- */
 
 @font-face { font-family: 'calendas'; src: url('../fonts/calendas_plus-webfont.ttf') format('truetype'); font-weight: normal; font-style: normal;}
 @font-face { font-family: 'calendas'; src: url('../fonts/calendas_plus_italic-webfont.ttf') format('truetype');font-weight: normal; font-style: italic;}
@@ -8,12 +8,18 @@
 @font-face { font-family: 'mono-space'; src: url('../fonts/RobotoMono-Regular.ttf') format('truetype'); font-weight: normal; font-style: normal;}
 @font-face { font-family: 'mono-space'; src: url('../fonts/RobotoMono-Bold.ttf') format('truetype'); font-weight: bold; font-style: normal;}
 
+/* -- VARIABLES -- */
+$font-small: 0.7em;
+$font-micro: 0.4em;
+
+
 body {
 	font-family: calendas, Times, Serif;
 	font-feature-settings: "liga" 1, "calt" 1, "kern" 1;
 	color: $main-txt-color;
 }
 
+/* -- TYPOGRAPHY MODIFIERS -- */
 .color {
 	color: $contrast-color !important;
 }
@@ -61,17 +67,27 @@ b, strong, .bold {
 	font-weight: bold;
 }
 
+.label {
+	font-size: $font-small;
+	font-weight: normal !important;
+	border: 1px solid;
+	border-radius: 5px;
+	padding: 1px 3px;
+	font-variant-numeric: lining-nums;
+	font-family: mono-space, 'Courier New', Courier, monospace;
+}
+
 .regular {
 	font-family: calendas, Times, Serif;
 	font-weight: 100;
 }
 
 .small {
-	font-size: 0.7em;
+	font-size: $font-small;
 }
 
 .micro {
-	font-size: 0.4em;
+	font-size: $font-micro;
 }
 
 .small-caps {
@@ -296,7 +312,7 @@ li {
 	content: 'Table of Contents';
 	display: inline-block;
 	text-transform: uppercase;
-	font-size: 0.7em;
+	font-size: $font-small;
 	font-family: mono-space, 'Courier New', Courier, monospace;
 }
 
@@ -322,7 +338,7 @@ sup {
 }
 .footnotes {
 	border-top: solid 1px currentColor;
-	font-size: 0.7em;
+	font-size: $font-small;
 	margin-top: 100px;
 	padding-bottom: 10px;
 	font-family: mono-space, 'Courier New', Courier, monospace;
@@ -343,7 +359,7 @@ sup {
 		content: "[" counter(list) "] ";
     	counter-increment: list;
 		color: $contrast-color;
-		font-size: 0.7em;
+		font-size: $font-small;
 
 		left: -40px;
 		padding-right: 10px;
