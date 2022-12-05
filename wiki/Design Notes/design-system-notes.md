@@ -3,7 +3,6 @@ layout: wikicrumb
 title: Notes on building a design system
 last-update: 2022-12-05
 ---
-# Notes on building a design system
 
 These are a couple of notes about building and managing a design system at the *Media Lab Bayern*.
 
