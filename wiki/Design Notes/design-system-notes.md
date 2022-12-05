@@ -4,14 +4,14 @@ title: Notes on building a design system
 last-updated: 2022-12-05
 ---
 
-These are a couple of notes about building and managing a design system at the *Media Lab Bayern*.
+These are a couple of notes about building and managing a design system at the *[Media Lab Bayern](https://www.media-lab.de/de/)*.
 
 1. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
 ## Context setting
 
-**2022-12-05**{: .label .color-green} We kicked-off this project in December 2022. At this point the [Media Lab](https://www.media-lab.de/de/) has existed for almost a decade and grew from two people to ~25 at two seperate locations.
+**2022-12-05**{: .label .color-green} We kicked-off this project in December 2022. At this point the *[Media Lab](https://www.media-lab.de/de/)* has existed for almost a decade and grew from two people to ~25 at two seperate locations.
 
 During this time, the CI also grew but was never formalized beyond a collection of graphic elements, fonts and powerpoint slides.
 
