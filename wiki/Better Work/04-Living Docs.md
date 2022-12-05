@@ -1,6 +1,7 @@
 ---
 layout: wikicrumb
 title: Living Docs
+last-updated: 2022-11-22
 ---
 # Living Docs
 I‘ve been a big fan of the London-based agency [_comuzi_](https://www.comuzi.xyz/) for some time. One approach I copied from the team is the idea of a “living deck” or “living doc”.

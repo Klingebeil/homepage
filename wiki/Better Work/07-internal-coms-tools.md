@@ -2,6 +2,7 @@
 layout: wikicrumb 
 title: Modern Internal Communication Tools & Practices
 status: "🌿"
+last-updated: 2022-11-28
 ---
 
 # Modern Internal Communication Tools

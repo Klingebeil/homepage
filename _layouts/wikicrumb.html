@@ -19,6 +19,10 @@
             <div class="seg-line color-green"></div>
             <p class="mono-space small color-green">STATUS: {{ page.status }}</p>
           {% endif %}
+          {% if page.last-updated %}
+            <div class="seg-line color-green"></div>
+            <p class="mono-space small color-green">Last updated: {{ page.last-updated }}</p>
+          {% endif %}
           <div class="seg-line color-green resp-no-display"></div>
         </div>
         <div class="column-50">

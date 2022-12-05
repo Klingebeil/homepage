@@ -1,6 +1,7 @@
 ---
 layout: wikicrumb
 title: Work Manifestos
+last-updated: 2021-02-21
 ---
 
 ![](/img/wiki/manifestos/wiki-manifestos-01.jpg)

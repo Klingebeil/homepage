@@ -1,6 +1,7 @@
 ---
 layout: wikicrumb 
 title: Reading Recommendations
+last-updated: 2021-01-21
 ---
 # Reading Recommendations
 Some resources I‘ve used extensively in my own work.

@@ -1,6 +1,7 @@
 ---
 layout: wikicrumb 
 title: "McNamara Fallacy"
+last-updated: 2022-12-05
 ---
 
 Summary for quick reference. Relevant in the context of decision-making and uncertainty.
@@ -13,4 +14,4 @@ When you prioritize easily measured data points over more elusive information wh
 > 
 >  —  Daniel Yankelovich, "Corporate Priorities: A continuing study of the new demands on business" (1972).[^1]
 
-[1]: [McNamara fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy)
+[^1]: [McNamara Fallacy (Wikipedia)](https://en.wikipedia.org/wiki/McNamara_fallacy)

@@ -1,6 +1,7 @@
 ---
 layout: wikicrumb
 title: Bullshit
+last-updated: 2021-02-21
 ---
 
 ![](/img/wiki-bullshit.png)
