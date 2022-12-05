@@ -11,10 +11,12 @@
 /* -- VARIABLES -- */
 $font-small: 0.7em;
 $font-micro: 0.4em;
+$serif: calendas, Times, Serif;
+$mono-space: mono-space, 'Courier New', Courier, monospace;
 
 
 body {
-	font-family: calendas, Times, Serif;
+	font-family: $serif;
 	font-feature-settings: "liga" 1, "calt" 1, "kern" 1;
 	color: $main-txt-color;
 }
@@ -51,16 +53,16 @@ body {
 }
 
 .mono-space {
-	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-family: $mono-space;
 }
 
 .serif {
-	font-family: calendas, Times, Serif;
+	font-family: $serif;
 }
 
 em, i, .italics {
 	font-style: italic;
-	font-family: calendas, Times, Serif;
+	font-family: $serif;
 }
 
 b, strong, .bold {
@@ -74,11 +76,11 @@ b, strong, .bold {
 	border-radius: 5px;
 	padding: 1px 3px;
 	font-variant-numeric: lining-nums;
-	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-family: $mono-space;
 }
 
 .regular {
-	font-family: calendas, Times, Serif;
+	font-family: $serif;
 	font-weight: 100;
 }
 
@@ -123,7 +125,7 @@ h3 {
 	font-size: 0.8em;
 	text-transform: uppercase;
 	letter-spacing: .5px;
-	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-family: $mono-space;
 	font-weight: 100;
 	margin-top: 36px;
 }
@@ -165,7 +167,7 @@ a {
 }
 
 code {
-	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-family: $mono-space;
 	font-size: 0.9em;
 	padding: 5px 5px 5px 10px;
 	display: block;
@@ -183,7 +185,7 @@ blockquote:not(.twitter-tweet) {
 	background-color: $light-grey;
 
 	& b, strong {
-		font-family: calendas, Times, Serif;
+		font-family: $serif;
 		font-weight: 100;
 		background-color: $light-yellow;
 	} 
@@ -269,7 +271,7 @@ li {
 
 	i, em {
 		font-style: normal;
-		font-family: calendas, Times, Serif;
+		font-family: $serif;
 		text-transform: lowercase;
 		font-variant: small-caps;
 	}
@@ -313,7 +315,7 @@ li {
 	display: inline-block;
 	text-transform: uppercase;
 	font-size: $font-small;
-	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-family: $mono-space;
 }
 
 /* WIKI TYPOGRAPHY */@at-root
@@ -334,14 +336,14 @@ sup {
 	margin-left: 3px;
 	vertical-align: text-top;
 	color: $contrast-color;
-	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-family: $mono-space;
 }
 .footnotes {
 	border-top: solid 1px currentColor;
 	font-size: $font-small;
 	margin-top: 100px;
 	padding-bottom: 10px;
-	font-family: mono-space, 'Courier New', Courier, monospace;
+	font-family: $mono-space;
 	color: $dark-grey;
 
 	@media (max-device-width: 1020px) { font-size: 0.9em;}
