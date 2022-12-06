@@ -1,7 +1,7 @@
 ---
 layout: wikicrumb 
 title: Notes on building a design system
-last-updated: 2022-12-05
+last-updated: 2022-12-06
 ---
 
 These are a couple of notes about building and managing a design system at the *[Media Lab Bayern](https://www.media-lab.de/de/)*.
@@ -15,7 +15,7 @@ These are a couple of notes about building and managing a design system at the *
 
 During this time, the CI also grew but was never formalized beyond a collection of graphic elements, fonts and powerpoint slides.
 
-As a consequence the consistency and quality of the design output varied wildly. While every colleague produces design work in varying quantity, the Lab never employed a dedicated designer. Most high-quality work is done by a lead-agency which also created the CI in the first place.
+As a consequence the consistency and quality of the design output varies wildly. While every colleague produces design work in varying quantitities, the Lab never employed a dedicated designer. Most high-quality work is done by a lead-agency which also created the CI in the first place.
 
 What we‘re trying to do is to grow the existing CI and build a small design system. Meaning, we‘re not trying to define every use-case in a fixed document and then police the team but to create tools they can adopt creatively for their needs. Additionally we want to implement a stewardship process that enables us to periodically check in with the system to optimize, correct or discard elements.
 
