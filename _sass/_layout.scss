@@ -280,7 +280,9 @@ img {
 	& #category-title {
 		margin: 0px;
 		font-size: 0.8em;
-		font-weight: bold;
+		line-height: 1.2em;
+		font-weight: normal;
+		padding: 5px 0px;
 	}
 
 	& #note-count {
