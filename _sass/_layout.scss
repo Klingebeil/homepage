@@ -260,12 +260,13 @@ img {
 	color: $contrast-green;
 	border: solid 1px $contrast-green;
 	border-radius: 10px;
-	width: 90%;
+	width: 40%;
 	padding: 10px 10px 10px 10px;
 	margin: 4px 3px;
 	font-family: mono-space, 'Courier New', Courier, monospace;
 	text-decoration: none !important;
 	display: inline-block !important;
+
 	cursor: pointer;
 	transition: all 400ms 0ms;
 
@@ -291,6 +292,16 @@ img {
 	&:hover {
 		color: $white !important;
 		background-color: $contrast-green;
+	}
+
+	& #category-button-wrapper {
+		height: 3em;
+		align-items: center;
+		@media (max-width: 900px) {
+			flex-direction: column;
+			align-items: flex-start;
+			height: 5em;
+		 }
 	}
 }
 
