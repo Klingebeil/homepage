@@ -6,10 +6,21 @@ last-updated: 2022-12-06
 
 These are a couple of notes about building and managing a design system at the *[Media Lab Bayern](https://www.media-lab.de/de/)*.
 
+The updates are written in reverse chronological order with dates added to each update.
+
 1. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-## Context setting
+### Research (a.k.a Talking to people)
+
+**2022-12-07**{: .label .color-green} During chats in the team we got some more information on the history of design at the lab. 
+
+One thing that keeps coming up is the focus on presentations as one of the main medium for presenting the lab to stakeholders, startups and potential partners. (A close second is the website.) Which is why these are the most mature design artifacts the teams uses.
+
+With the lab having almost doubling in head-count over the last 18 months there‘s a lack of awareness for the brand guidelines and CI. One thing, we briefly discussed, was the apparent need for a design on-boarding for new hires.
+
+
+### Context setting
 
 **2022-12-05**{: .label .color-green} We kicked-off this project in December 2022. At this point the *[Media Lab](https://www.media-lab.de/de/)* has existed for almost a decade and grew from two people to ~25 at two seperate locations.
 
@@ -27,7 +38,3 @@ The next steps:
 * Let the team give feedback on this inventory (What works well? Where do we need more guidelines? What can be ignored at the moment?)
 
 Both of these steps will hopefully help us define a roadmap for the next months and give us some clarity as to where the biggest problems lie.
-
-## Research (a.k.a Talking to people)
-
-**2022-12-07**{: .label .color-green} During chats in the team we got some more information on the history of design at the Lab. One thing that keeps coming up is the focus on presentations as one of the main medium for presenting the lab. Which is why these are the most mature design artifacts the teams uses.
