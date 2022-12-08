@@ -11,7 +11,7 @@ The updates are written in reverse chronological order with dates added to each 
 1. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-### Research (a.k.a Talking to people)
+## Research (a.k.a Talking to people)
 
 **2022-12-07**{: .label .color-green} During chats in the team we got some more information on the history of design at the lab. 
 
@@ -20,7 +20,7 @@ One thing that keeps coming up is the focus on presentations as one of the main 
 With the lab having almost doubling in head-count over the last 18 months there‘s a lack of awareness for the brand guidelines and CI. One thing, we briefly discussed, was the apparent need for a design on-boarding for new hires.
 
 
-### Context setting
+## Context setting
 
 **2022-12-05**{: .label .color-green} We kicked-off this project in December 2022. At this point the *[Media Lab](https://www.media-lab.de/de/)* has existed for almost a decade and grew from two people to ~25 at two seperate locations.
 
