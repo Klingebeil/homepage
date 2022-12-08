@@ -17,8 +17,6 @@ During this time, the CI also grew but was never formalized beyond a collection 
 
 As a consequence the consistency and quality of the design output varies wildly. While every colleague produces design work in varying quantitities, the Lab never employed a dedicated designer. Most high-quality work is done by a lead-agency which also created the CI in the first place.
 
-**2022-12-07 Update**{: .label .color-green} During chats in the team we got some more information on the history of design at the Lab. One thing that keeps coming up is the focus on presentations as one of the main medium for presenting the lab. Which is why these are the most mature design artifacts the teams uses.
-
 What we‘re trying to do is to grow the existing CI and build a small design system. Meaning, we‘re not trying to define every use-case in a fixed document and then police the team but to create tools they can adopt creatively for their needs. Additionally we want to implement a stewardship process that enables us to periodically check in with the system to optimize, correct or discard elements.
 
 At this point we have a cautious “go!” from the team leads and already did some preliminary research  and alignment work (a.k.a. talking to people).
@@ -29,3 +27,7 @@ The next steps:
 * Let the team give feedback on this inventory (What works well? Where do we need more guidelines? What can be ignored at the moment?)
 
 Both of these steps will hopefully help us define a roadmap for the next months and give us some clarity as to where the biggest problems lie.
+
+## Research (a.k.a Talking to people)
+
+**2022-12-07**{: .label .color-green} During chats in the team we got some more information on the history of design at the Lab. One thing that keeps coming up is the focus on presentations as one of the main medium for presenting the lab. Which is why these are the most mature design artifacts the teams uses.
