@@ -7,7 +7,7 @@ date: 2022-01-12
 teaser-img: 2022-01-12-teaser.png
 ---
 
-For an upcoming zine project, I‘ve been buried deep under articles and papers on the phenomenon of “hype”. ([If you‘re interested you can follow the project along here](https://hypemachine.substack.com/p/coming-soon?showWelcome=true)). A topic that has been haunting me throughout my years working at the innovation team of the *Süddeutsche Zeitung* where I spent a sizable amount of time trying to cut through the barrage of trend reports, press releases, and tech reporting.
+For an upcoming zine project, I‘ve been buried deep under articles and papers on the phenomenon of “hype”. A topic that has been haunting me throughout my years working at the innovation team of the *Süddeutsche Zeitung* where I spent a sizable amount of time trying to cut through the barrage of trend reports, press releases, and tech reporting.
 
 Hype is an interesting thing. It‘s rightfully often spurred as misleading bullshit or ignorant boosterism but it also has its uses. In short: when it comes to creating a new technology you need to sell a vision to attract the resources you need (people, investment, etc.). Hype can also act as glue. At its best, it can create a shared vision pulling the actors in the same direction and thus creating a self-fulfilling prophecy.
 
