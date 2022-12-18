@@ -184,6 +184,7 @@ blockquote:not(.twitter-tweet) {
 	margin-inline-end: 10px;
     border-left: 1px solid $dark-grey;
 	background-color: $light-grey;
+	border-radius: 0px 10px 10px 0px;
 
 	& b, strong {
 		font-family: $serif;
