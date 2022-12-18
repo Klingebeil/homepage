@@ -663,9 +663,12 @@ img {
 }
 
 .notes {
-    margin: 0px 20px 50px 0px;
-	max-width: 45%;
+    margin: 0px 20px 20px 0px;
+	max-width: 43%;
     border-top: 1px solid $contrast-green;
+	background-color: $light-grey;
+	padding: 0px 5px 5px 5px;
+	border-radius: 0px 0px 5px 5px;
 
 	& img {
 		max-width: 100%;
@@ -681,15 +684,14 @@ img {
 	}
 
 	@media (max-width: 1024px) {
-		width: 100%;
 		max-width: 100%;
-		margin: 0px 0px 50px 0px;
+		margin: 0px 0px 20px 0px;
 	}
 }
 
 .notes_content {
-    margin-left: 20px;
 	max-height: 400px;
+	padding: 0px 10px;
     overflow: hidden;
 }
 
