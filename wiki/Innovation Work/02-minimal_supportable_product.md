@@ -2,7 +2,7 @@
 layout: wikicrumb 
 title: Minimal Supportable Product
 ---
-# Minimal Supportable Product—A Concept
+# Minimal Supportable Product
 
 A _minimal viable product (MVP)_ is a version of a product, project, or concept with just enough features to satisfy early customers. It‘s a way of testing an assumption before committing to building a fully-featured product. The concept was popularized by the author and consultant Eric Ries.
 
