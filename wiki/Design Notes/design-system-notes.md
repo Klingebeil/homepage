@@ -32,9 +32,9 @@ b) Identify the biggest redundancies and gaps and strategize how to resolve them
 
 ### Research (a.k.a Talking to people)
 
-**2022-12-07**{: .label .color-green} During chats in the team we got more information on the history of design at the lab. 
+**2022-12-07**{: .label .color-green} During chats in the team we got more information on the history of design at the lab. Especially the last brand refresh at the end of 2021, which introduced elements and colors for the different programs and thus expanded the visual language.
 
-One thing that keeps coming up is the focus on presentations as one of the main medium for presenting the lab to stakeholders, startups and potential partners. (A close second is the website.) Which is why these are the most mature design artifacts the teams uses.
+One thing that keeps coming up is the focus on slides as one of the main medium for presenting the lab to stakeholders, startups and potential partners (a close second is the website), which is why these are the most mature design artifacts the teams uses.
 
 With the lab having almost doubling in head-count over the last 18 months there‘s a lack of awareness for the brand guidelines and CI. One thing, we briefly discussed, was the apparent need for a design on-boarding for new hires.
 
