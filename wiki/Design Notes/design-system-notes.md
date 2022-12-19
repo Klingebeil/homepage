@@ -18,7 +18,7 @@ The updates are written in reverse chronological order with a date added to each
 
 1. We have a somewhat complete list of all the relevant parts of the design output of the teams. It currently packs 63 items from colors and fonts to office signage, contracts, social posts, and merch. There‘s **a lot** of stuff we‘re producing in a given year.
 2. I experimented with *Notion* as home for the new design system based on the [*Design System Template*](https://www.notion.so/templates/design-system) from the gallery. Conclusion: It‘s a pretty nifty tool or how our head of marketing put it “I love it ❤️”.
-2. I started a typography audit, starting with our marketing slide template. It‘s, to be honest, a bit all over the place. The goal is to define a new typography system based on size ratios, instead of the fixed pixel sizes, currently in use.
+2. I started a typography audit, starting with our marketing slide template. It‘s, to be honest, a bit all over the place. The goal is to define a new typography system based on [size ratios](https://type-scale.com/), instead of the fixed pixel sizes, currently in use.
 
 With the preparations now complete, the project will “officially” launch next year with the rest of the team. The next steps will be: 
 
