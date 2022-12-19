@@ -11,7 +11,7 @@ The updates are written in reverse chronological order with a date added to each
 1. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-## Preperations
+## Preparations
 ### First experiments
 
 **2022-12-19**{: .label .color-green} With the holidays drawing closer, here are a couple of updates:
