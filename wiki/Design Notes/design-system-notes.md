@@ -11,9 +11,28 @@ The updates are written in reverse chronological order with dates added to each 
 1. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-## Research (a.k.a Talking to people)
+## Preperations
+### First experiments
 
-**2022-12-07**{: .label .color-green} During chats in the team we got some more information on the history of design at the lab. 
+**2022-12-19**{: .label .color-green} With the holidays drawing closer, here are a couple of updates:
+
+1. We have a somewhat complete list of all the relevant parts of the design output of the teams. It currently packs 63 items from colors and fonts to office signage, contracts, social posts, and merch. There‘s **a lot** of stuff we‘re producing in a given year.
+2. I experimented with *Notion* as home for the new design system based on the [*Design System Template*](https://www.notion.so/templates/design-system) from the gallery. Conclusion: It‘s a pretty nifty tool or how our head of marketing put it “I love it ❤️”.
+2. I started a typography audit, starting with our marketing slide template. It‘s, to be honest, a bit all over the place. The goal is to define a new typography system based on size ratios, instead of the fixed pixel sizes, currently in use.
+
+With the preparations now complete, the project will “officially” launch next year with the rest of the team. The next steps will be: 
+
+a) Gathering feedback from the team on the design audit (what works / where are question / what needs to be updated).
+
+b) Identify the biggest redundancies and gaps and strategize how to resolve them within the team.
+
+*Current artifact*: a couple of tables in numbers, able to auto-generate new type scales based on the font size of a basic paragraph. 
+
+![](/img/wiki/mlb-design-system-font-table.png)
+
+### Research (a.k.a Talking to people)
+
+**2022-12-07**{: .label .color-green} During chats in the team we got more information on the history of design at the lab. 
 
 One thing that keeps coming up is the focus on presentations as one of the main medium for presenting the lab to stakeholders, startups and potential partners. (A close second is the website.) Which is why these are the most mature design artifacts the teams uses.
 
