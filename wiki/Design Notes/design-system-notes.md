@@ -6,7 +6,7 @@ last-updated: 2022-12-06
 
 These are a couple of notes about building and managing a design system at the *[Media Lab Bayern](https://www.media-lab.de/de/)*.
 
-The updates are written in reverse chronological order with dates added to each update.
+The updates are written in reverse chronological order with a date added to each.
 
 1. this unordered seed list will be replaced by toc as unordered list
 {:toc}
