@@ -193,7 +193,11 @@ blockquote:not(.twitter-tweet) {
 	} 
 
 	& p {
-		margin: 0px !important;
+		margin: 18px 0px 0px 0px;
+	}
+
+	& p:first-child {
+		margin: 0px;
 	}
 
 	& p:first-child::before {
