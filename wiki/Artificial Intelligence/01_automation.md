@@ -17,8 +17,6 @@ Keeping this in mind, almost every new technology can be placed in one of the fo
 
 ![](/img/wiki-automation-graph.svg)
 
----
-
 # Tomatoes, Tomatoes
 
 This section from Jack Stilgoe‘s excellent book ***How‘s driving innovation?*** is in my opinion a perfect example against the technological determinism inherent to the automation discourse. Just because technology exist, doesn’t mean it will be adopted. Automation is driven not by technology but by politics and economics.
