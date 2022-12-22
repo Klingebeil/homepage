@@ -240,7 +240,7 @@ li {
 
 /* -- ARTICLE CSS -- */
 
-.article-wrapper {
+.article-wrapper, .notes {
     font-size: 18px;
 
 	p {
@@ -326,7 +326,7 @@ li {
 
 /* WIKI TYPOGRAPHY */@at-root
 
-.wiki {
+.wiki, .notes {
 	h1 {
 		text-align: left;
 		padding-bottom: 16px;
