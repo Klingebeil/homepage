@@ -246,8 +246,8 @@ li {
     font-size: 18px;
 
 	p {
-		//text-align: justify;
-		//text-justify: newspaper;
+		text-align: justify;
+		text-justify: newspaper;
 		margin: 24px 0px 0px 0px;
 	}
 
@@ -329,7 +329,7 @@ li {
 /* WIKI TYPOGRAPHY */@at-root
 
 .wiki, .notes {
-	text-align: left;
+	p {text-align: left;}
 
 	h1 {
 		text-align: left;
