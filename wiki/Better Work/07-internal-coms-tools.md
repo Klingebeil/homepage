@@ -1,11 +1,11 @@
 ---
 layout: wikicrumb 
-title: Modern Internal Communication Tools & Practices
+title: Modern Internal Communication Practices
 status: "🌿"
 last-updated: 2022-11-28
 ---
 
-# Modern Internal Communication Tools
+# Modern Internal Communication Practices
 {:.no_toc}
 
 A couple of notes on internal communication tools and practices for organizations that are either distributed, or working in a hybrid model, or are in need of structured ways of sharing information.
