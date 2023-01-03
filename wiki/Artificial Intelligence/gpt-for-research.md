@@ -46,7 +46,7 @@ Hate writing headlines? Let *GPT* do some of the heavy-lifiting. Paste the text,
 
 `Simplify this text`
 
-`Explain this text to me as if I am [number] years old`
+`Explain this text to me like I am [number] years old`
 
 This works in similar fashion as a summary. With the added benefit of *GPT* attempting to break down more complex explanations. Again, simply paste the text and add one command at the end.
 
