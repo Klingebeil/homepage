@@ -70,7 +70,7 @@ Every technology has its limits. Here are some things I found with *GPT*.
 
 ## Sources
 
-*GPT* is notoriously bad with sources. Ask for some and it will simply invent citations and references. **It‘s not a search or even knowledge engine.** Do not use it like one.
+*GPT* is notoriously bad with sources. Ask for some and it will simply invent citations and references. **It‘s not a search or even knowledge engine.** Never treat it like one.
 
 ## Structure
 
