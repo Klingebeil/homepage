@@ -36,7 +36,13 @@ You can ask *GPT* to break down a more complex paragraph from a paper you have t
 
 # Writing
 
-## Simplify
+## Generate Headline
+
+`Suggest some headlines`
+
+Hate writing headlines? Let GPT do some of the heavy-lifiting. Paste the text, ask for headlines and get some siggestions back. Again, edit carefully.
+
+## Simplify Text
 
 `Simplify this text`
 
@@ -46,7 +52,7 @@ This works in similar fashion as a summary. With the added benefit of *GPT* atte
 
 **Caution**{: .label .color-red} *GPT* may appear smart but isn‘t able to actually understand the writing. Edit accordingly and treat the model as you would everyone else‘s writing suggestions.
 
-## Eloquence
+## Sound more eloquent
 
 `Make me sound more eloquent`
 
@@ -64,7 +70,7 @@ This one is more experimental. In short *GPT* will attempt to generate a number 
 
 **Caution**{: .label .color-red} *GPT* tends to generate rather obvious questions and has a somewhat disturbing prevalence towards “how might wes…”. Consider yourself warned.
 
-# Limits
+# The Limits of GPT
 
 Every technology has its limits. Here are some things I found with *GPT*.
 
