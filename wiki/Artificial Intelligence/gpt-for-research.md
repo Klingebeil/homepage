@@ -23,6 +23,17 @@ So far I‘ve used this approach to generate a first drafts for executive summar
 
 **Caution**{: .label .color-red} *GPT* will still make mistakes and most likely miss arguments you might find especially important. Always edit, never copy.
 
+## Simplify
+
+`Simplify this text`
+
+`Explain this text to me as if I am [number] years old`
+
+You can ask *GPT* to break down a more complex paragraph from a paper you have trouble understanding. In my experience it works roughly 90% of the time. It‘s definitely not perfect but may help in cutting through dense writing.
+
+**Caution**{: .label .color-red} *GPT* may appear smart but isn‘t able to actually understand the writing. Nuance and arguments might get lost in translation.
+
+
 # Writing
 
 ## Simplify
