@@ -6,6 +6,9 @@ last-updated: 2022-01-03
 
 These are a couple of notes and prompts I collected while using *GPT* in a research and writing project.
 
+1. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 # Research
 
 ## Summaries
