@@ -40,7 +40,7 @@ You can ask *GPT* to break down a more complex paragraph from a paper you have t
 
 `Suggest some headlines`
 
-Hate writing headlines? Let GPT do some of the heavy-lifiting. Paste the text, ask for headlines and get some siggestions back. Again, edit carefully. You can also modify the output by adding adjectives like `snappy`, `short` or `scientific`.
+Hate writing headlines? Let *GPT* do some of the heavy-lifiting. Paste the text, ask for headlines and get some siggestions back. Again, edit carefully. You can also modify the output by adding adjectives like `snappy`, `short` or `scientific`.
 
 ## Simplify Text
 
