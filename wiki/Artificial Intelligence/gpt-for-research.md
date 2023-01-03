@@ -12,6 +12,7 @@ These are a couple of notes and prompts I collected while using *GPT* in a resea
 # Research
 
 ## Summaries
+
 `Give me a summary`
 
 `Give me a summary in [number] sentences`
@@ -23,6 +24,16 @@ So far I‘ve used this approach to generate a first drafts for executive summar
 **Caution**{: .label .color-red} *GPT* will still make mistakes and most likely miss arguments you might find especially important. Always edit, never copy.
 
 # Writing
+
+## Simplify
+
+`Simplify this text`
+
+`Explain this text to me as if I am [number] years old`
+
+This works in similar fashion as a summary. With the added benefit of *GPT* attempting to break down more complex explanations. Again, simply paste the text and add one command at the end.
+
+**Caution**{: .label .color-red} *GPT* may appear smart but isn‘t able to actually understand the writing. Edit accordingly and treat the model as you would everyone else‘s writing suggestions.
 
 ## Eloquence
 
