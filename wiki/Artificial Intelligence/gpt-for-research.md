@@ -58,7 +58,7 @@ Copy your text, add the prompt and check the output. You can even drop in bullet
 
 ## Further Questions
 
-`What are some interesting questions to continue this disucssion?`
+`What are some interesting questions to continue this discussion?`
 
 This one is more experimental. In short *GPT* will attempt to generate a number of question based on the provided text. Some might be helpful for helping you further flesh-out your arguments while some might turn out rather boring.
 
