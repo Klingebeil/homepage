@@ -6,9 +6,14 @@ last-updated: 2022-01-03
 
 These are a couple of notes and prompts I collected while using *GPT* in a research and writing project.
 
+1. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+These are a couple of notes and prompts I collected while using *GPT* in a research and writing project.
+
 # Research
 
 ## Summaries
+
 `Give me a summary`
 
 `Give me a summary in [number] sentences`
@@ -19,9 +24,36 @@ So far I‘ve used this approach to generate a first drafts for executive summar
 
 **Caution**{: .label .color-red} *GPT* will still make mistakes and most likely miss arguments you might find especially important. Always edit, never copy.
 
+## Simplify
+
+`Simplify this text`
+
+`Explain this text to me as if I am [number] years old`
+
+You can ask *GPT* to break down a more complex paragraph from a paper you have trouble understanding. In my experience it works roughly 90% of the time. It‘s definitely not perfect but may help in cutting through dense writing.
+
+**Caution**{: .label .color-red} *GPT* may appear smart but isn‘t able to actually understand the writing. Nuance and arguments might get lost in translation.
+
+
 # Writing
 
-## Eloquence
+## Generate Headlines
+
+`Suggest some headlines`
+
+Hate writing headlines? Let *GPT* do some of the heavy-lifiting. Paste the text, ask for headlines and get some siggestions back. Again, edit carefully. You can also modify the output by adding adjectives like `snappy`, `short` or `scientific`.
+
+## Simplify Text
+
+`Simplify this text`
+
+`Explain this text to me like I am [number] years old`
+
+This works in similar fashion as a summary. With the added benefit of *GPT* attempting to break down more complex explanations. Again, simply paste the text and add one command at the end.
+
+**Caution**{: .label .color-red} *GPT* may appear smart but isn‘t able to actually understand the writing. Edit accordingly and treat the model as you would everyone else‘s writing suggestions.
+
+## Sound more eloquent
 
 `Make me sound more eloquent`
 
@@ -46,6 +78,21 @@ Every technology has its limits. Here are some things I found with *GPT*.
 ## Sources
 
 *GPT* is notoriously bad with sources. Ask for some and it will simply invent citations and references. **It‘s not a search or even knowledge engine.** Do not use it like one.
+## Further Questions
+
+`What are some interesting questions to continue this discussion?`
+
+This one is more experimental. In short *GPT* will attempt to generate a number of question based on the provided text. Some might be helpful for helping you further flesh-out your arguments while some might turn out rather boring.
+
+**Caution**{: .label .color-red} *GPT* tends to generate rather obvious questions and has a somewhat disturbing prevalence towards “how might wes…”. Consider yourself warned.
+
+# The Limits of GPT
+
+Every technology has its limits. Here are some things I found with *GPT*.
+
+## Sources
+
+*GPT* is notoriously bad with sources. Ask for some and it will simply invent citations and references. **It‘s not a search or even knowledge engine.** Never treat it like one.
 
 ## Structure
 
