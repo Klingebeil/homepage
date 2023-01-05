@@ -5,7 +5,7 @@ date: 2019-11-18
 teaser-img: 2019-11-18-teaser.png
 ---
 
-A couple of weeks ago, I was asked to share my experiences and opinion on the state and future of AI in the context of journalism‘s business and praxis. The final report “[New powers, new responsibilities][1]” by the London School of Economics and Political Science, the Polis think tank and Google‘s News Initiative is now public and sketches out a somewhat expected picture. Strategies, implementations, and ideas vary widely across the industry but are mostly focused on supporting the work of journalists, personalizing content and improving business efficiency.
+A couple of weeks ago, I was asked to share my experiences and opinion on the state and future of AI in the context of journalism‘s business and praxis. The final report “[New powers, new responsibilities][1]” by the *London School of Economics and Political Science*, the *Polis* think tank and *Google‘s News Initiative* is now public and sketches out a somewhat expected picture. Strategies, implementations, and ideas vary widely across the industry but are mostly focused on supporting the work of journalists, personalizing content and improving business efficiency.
 
 If you‘re working in the news industry or are interested in this field of AI, I highly encourage you to at least skim the report or the executive summary. What I‘d like to do here, is to add some of my thoughts on the report as a whole, within the context of my work at the innovation team of the Süddeutsche Zeitung.
 
