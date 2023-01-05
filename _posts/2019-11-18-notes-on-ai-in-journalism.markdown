@@ -10,7 +10,7 @@ A couple of weeks ago, I was asked to share my experiences and opinion on the st
 If you‘re working in the news industry or are interested in this field of AI, I highly encourage you to at least skim the report or the executive summary. What I‘d like to do here, is to add some of my thoughts on the report as a whole, within the context of my work at the innovation team of the *Süddeutsche Zeitung*.
 
 ## 1. No-one knows what “AI” actually is.
-The problem isn‘t the lack of definitions, but their abundance. Or as one interviewee in the “[An AI Pattern Language][2]” report by Data & Society put it:
+The problem isn‘t the lack of definitions, but their abundance. Or as one interviewee in the “[An AI Pattern Language][2]” report by *Data & Society* put it:
 
 > If I walked into a room and said, “We‘re going to talk about an artificial intelligent personal assistant,” nearly everyone would have a picture in their head. The problem is everybody‘s picture would be different.
 
