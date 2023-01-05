@@ -41,7 +41,11 @@ You can ask *GPT* to break down a more complex paragraph from a paper you have t
 
 `Suggest some headlines`
 
+`Suggest some headlines in the style of [publication]`
+
 Hate writing headlines? Let *GPT* do some of the heavy-lifiting. Paste the text, ask for headlines and get some siggestions back. Again, edit carefully. You can also modify the output by adding adjectives like `snappy`, `short` or `scientific`.
+
+*GPT* is also surprisingly good at copying the style of publications be that `Bloomberg` or the `New York Times`.
 
 ## Simplify Text
 
