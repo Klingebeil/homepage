@@ -9,29 +9,29 @@ A couple of weeks ago, I was asked to share my experiences and opinion on the st
 
 If you‘re working in the news industry or are interested in this field of AI, I highly encourage you to at least skim the report or the executive summary. What I‘d like to do here, is to add some of my thoughts on the report as a whole, within the context of my work at the innovation team of the Süddeutsche Zeitung.
 
-## 1. No-one knows what „AI“ actually is.
+## 1. No-one knows what “AI” actually is.
 The problem isn‘t the lack of definitions, but their abundance. Or as one interviewee in the “[An AI Pattern Language][2]” report by Data & Society put it:
 
 > If I walked into a room and said, “We‘re going to talk about an artificial intelligent personal assistant,” nearly everyone would have a picture in their head. The problem is everybody‘s picture would be different.
 
-The report itself uses the following highly un-specific definition:
+The report itself uses the following rather broad definition:
 
 > Artificial intelligence is a collection of ideas, technologies, and techniques that relate to a computer system‘s capacity to perform tasks normally requiring human intelligence.
 
-Or to be more precise; there isn‘t an “artificial intelligence”, there‘s just the field of artificial intelligence and unfortunately, its borders are not well defined. As a consequence, we can find a lot of weird ideas around what AI is, what it can do and might be able to in the future. Imaginations of AI mostly originate in three separate, but connected fields: science, science fiction, and speculation. As a consequence, the stories around actual AI in the form of machine learning are most of the time wildly of target and highly misleading. No-one seems to bother to distinguish between the Terminator, Elon Musk‘s fantasies and the mostly mundane state of the field. Don‘t get me wrong, there are some real and exciting advances to be found here, BUT those have nothing in common with any Sci-fi scenario, except for the name.
+Or to be more precise; there isn‘t an “artificial intelligence”, there‘s just the field of artificial intelligence and unfortunately, its borders are not well defined. As a consequence, we can find a lot of weird ideas around what AI is, what it can do and might be able to in the future. Imaginations of AI mostly originate in three separate, but connected fields: science, science fiction, and speculation. As a consequence, the stories around actual AI in the form of machine learning are most of the time wildly off target and highly misleading. No-one seems to bother to distinguish between the Terminator, Elon Musk‘s fantasies and the mostly mundane state of the field. Don‘t get me wrong, there are some real and exciting advances to be found here, BUT those have nothing in common with any Sci-fi scenario, except for the name.
 
-The media is, of course, a willing accomplice in muddling the narrative and in turn falls itself victim to the same confusion when it comes to talking „AI Strategy“. Which is why you‘ll find ideas like „exponential growth“, „super AI“ and „Robot journalists“ being uttered on the stages of media industry conferences. (Though, to be fair: there are „robot journalist“, but those are strictly template-based and not at all able to write well-researched articles and no that won‘t change in the near future.)
+The media is, of course, a willing accomplice in muddling the narrative and in turn falls itself victim to the same confusion when it comes to talking ”AI strategy”. Which is why you‘ll find ideas like “exponential growth”, “super AI” and “Robot journalists” being uttered on the stages of media industry conferences. (Though, to be fair: there are “robot journalist”, but those are strictly template-based and not at all able to write well-researched articles and no that won‘t change in the near future.)
 
 (If you‘re interested, I wrote a critique of the idea for [NiemanLab‘s 2019 predictions][3])
 
-This is where we get to my first tip if you find yourself in the position of formulating an „AI strategy“: start with language. Define the term as narrowly as possible, avoid „AI“ and don‘t step into the trap of possible big future AI applications. Focus on the little futures — the smaller, daily and mundane tasks you‘re going to tackle. Hype might help sell your idea, but will hurt you in the long-term, because you won‘t be able to build your promised futures.
+This is where we get to my first tip if you find yourself in the position of formulating an “AI strategy“: start with language. Define the term as narrowly as possible, avoid “AI” and don‘t step into the trap of possible big future AI applications. Focus on the little futures — the smaller, daily and mundane tasks you‘re going to tackle. Hype might help sell your idea, but will hurt you in the long-term, because you won‘t be able to build your promised futures.
 
-## 2. The problem with „personalization“
-A lot of interviewees also talked about personalized content, mostly under the term of „relevant content“, which will be made possible by the application of AI to the historic user-data.
+## 2. The problem with personalization
+A lot of interviewees also talked about personalized content, mostly under the term of “relevant content”, which will be made possible by the application of AI to the historic user-data.
 
-Again I think this framing is a bit off to some degree. Especially, if it‘s put into the same bucket as „user-centric design“. Because let‘s be clear: Personalization by an algorithm without the user‘s explicit control is not user-centric or user-friendly. It‘s business-friendly. The idea of showing „relevant“ content by algorithm is a red-herring. What you‘re actually trying to do is to keep users on your website or in your app. You‘re trying to optimize for the time spent, not actual interest.
+Again I think this framing is a bit off to some degree. Especially, if it‘s put into the same bucket as “user-centric design”. Because let‘s be clear: Personalization by an algorithm without the user‘s explicit control is not user-centric or user-friendly. It‘s business-friendly. The idea of showing “relevant” content by algorithm is a red-herring. What you‘re actually trying to do is to keep users on your website or in your app. You‘re trying to optimize for the time spent, not actual interest.
 
-Let‘s just be honest with our intentions here. Everytime someone talks about „relevant content“, keep in mind there is no such thing as objective „relevance“. Just highly subjective approximations. Always ask yourself: relevant for whom? And by what metric?
+Let‘s just be honest with our intentions here. Everytime someone talks about “relevant content”, keep in mind there is no such thing as objective “relevance”. Just highly subjective approximations. Always ask yourself: relevant for whom? And by what metric?
 
 ## 3. The thing with efficiency
 In the end, let‘s talk about the other big horror AI-scenario: mass job-loss. It‘s an all-time favorite, right next to the enslavement or extinction of humanity. I won‘t get into the weeds of dissecting forecasts or studies, but I want to give you a small mental model, that might help to better understand the topic at hand.
@@ -46,7 +46,7 @@ Why are those four things important? Well, if you want to reduce the anxieties o
 Though, to be fair… speedy research, transcription or translation might not result in more time for a single story, but could also mean a higher number of stories, to be written in the same amount of time. But that‘s a thing you‘ll have to discuss with your boss.
 
 ## Conclusion
-Yes, I know this article might not sound like it, but I am fairly convinced machine learning (a.k.a. „AI“) will have real impact on journalism as a praxis and as a business. It most likely won‘t be as „revolutionary“ or „disruptive“ as some would like you to believe, but it will be exciting. But please be honest in what you‘re selling inside your newsroom or to a newsroom. Be thoughtful of the words you‘re using to talk to your colleagues and avoid building hype if you can‘t back it up.
+Yes, I know this article might not sound like it, but I am fairly convinced machine learning (a.k.a. “AI“) will have real impact on journalism as a praxis and as a business. It most likely won‘t be as “revolutionary” or “disruptive” as some would like you to believe, but it will be exciting. But please be honest in what you‘re selling inside your newsroom or to a newsroom. Be thoughtful of the words you‘re using to talk to your colleagues and avoid building hype if you can‘t back it up.
 
 [1]:	https://blogs.lse.ac.uk/polis/2019/11/18/new-powers-new-responsibilities/
 [2]:	https://www.datasociety.net/pubs/ia/AI_Pattern_Language.pdf
