@@ -34,12 +34,12 @@ Again I think this framing is a bit off to some degree. Especially, if it‘s pu
 Let‘s just be honest with our intentions here. Everytime someone talks about “relevant content”, keep in mind there is no such thing as objective “relevance”. Just highly subjective approximations. Always ask yourself: relevant for whom? And by what metric?
 
 ## 3. The thing with efficiency
-In the end, let‘s talk about the other big horror AI-scenario: mass job-loss. It‘s an all-time favorite, right next to the enslavement or extinction of humanity. I won‘t get into the weeds of dissecting forecasts or studies, but I want to give you a small mental model, that might help to better understand the topic at hand.
+At the end, let‘s talk about the other big horror AI-scenario: mass job-loss. It‘s an all-time favorite, right next to the enslavement or extinction of humanity. I won‘t get into the weeds of dissecting forecasts or studies, but I want to give you a small mental model, that might help to better understand the topic at hand.
 
 1. Automation doesn‘t happen on the job-level, but the task-level.
 2.  Automation doesn‘t strictly mean human replacement, but also augmenting given tasks. 
 3. Automation will always need maintenance, updates, and upgrades. There is not a date X, where the process is finished.
-4. Automation happens, if it‘s economically beneficial, not if it‘s technically feasible. It‘s — of course — the product and producer of capitalism.
+4. Automation happens, if it‘s economically beneficial, not when it‘s technically feasible. It‘s—of course—the product and producer of capitalism.
 
 Why are those four things important? Well, if you want to reduce the anxieties of your colleagues of possible firings, you should start by painting a more realistic and boring picture of automation. This is especially important in knowledge work, such as journalism. Yes, there might be fewer human translators or transcribers in the future, but this, in turn, will make the reporting better sourced and faster. Yes, you can automate simple reports of earthquakes, election results or the weather — but this will free reporters to go out and report on the ground. And of course, you won‘t have to dig through millions and millions of leaked documents by yourself — instead, you can get to the heart of the story faster. You get the gist.
 
