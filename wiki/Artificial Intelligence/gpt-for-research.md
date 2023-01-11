@@ -53,8 +53,6 @@ Hate writing headlines? Let *GPT* do some of the heavy-lifiting. Paste the text,
 
 *GPT* is also surprisingly good at copying the style of publications be that `Bloomberg` or the `New York Times`.
 
-*GPT* is also surprisingly good at copying the style of publications be that `Bloomberg` or the `New York Times`.
-
 ## Simplify your writing
 
 `Simplify this text`
