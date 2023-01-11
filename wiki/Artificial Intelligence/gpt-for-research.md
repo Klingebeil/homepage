@@ -10,6 +10,10 @@ These are a couple of notes and prompts I collected while using *GPT* in a resea
 {:toc}
 These are a couple of notes and prompts I collected while using *GPT* in a research and writing project.
 
+# Setup
+
+I am currently using *GPT* mainly through the [“text generator”-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) for *Obsidian*. It‘s not perfect and the templates are currently (for me) a bit buggy but it works well enough.
+
 # Research
 
 ## Summaries
@@ -76,21 +80,6 @@ Copy your text, add the prompt and check the output. You can even drop in bullet
 ## Further Questions
 
 `What are some interesting questions to continue this disucssion?`
-
-This one is more experimental. In short *GPT* will attempt to generate a number of question based on the provided text. Some might be helpful for helping you further flesh-out your arguments while some might turn out rather boring.
-
-**Caution**{: .label .color-red} *GPT* tends to generate rather obvious questions and has a somewhat disturbing prevalence towards “how might wes…”. Consider yourself warned.
-
-# Limits
-
-Every technology has its limits. Here are some things I found with *GPT*.
-
-## Sources
-
-*GPT* is notoriously bad with sources. Ask for some and it will simply invent citations and references. **It‘s not a search or even knowledge engine.** Do not use it like one.
-## Further Questions
-
-`What are some interesting questions to continue this discussion?`
 
 This one is more experimental. In short *GPT* will attempt to generate a number of question based on the provided text. Some might be helpful for helping you further flesh-out your arguments while some might turn out rather boring.
 
