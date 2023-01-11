@@ -54,11 +54,11 @@ Hate writing headlines? Let *GPT* do some of the heavy-lifiting. Paste the text,
 
 ## Simplify your writing
 
-`Simplify this text`
+```Simplify this text
 
-`Explain this text to me like I am [number] years old`
+Explain this text to me like I am [number] years old
 
-`Make the content very clear and easy to understand`
+Make the content very clear and easy to understand```
 
 This works in similar fashion as a summary. With the added benefit of *GPT* attempting to break down more complex explanations. Again, simply paste the text and add one command at the end.
 
