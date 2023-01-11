@@ -46,6 +46,7 @@ You can ask *GPT* to break down a more complex paragraph from a paper you have t
 ## Generate Headlines
 
 `Suggest some headlines`
+
 `Suggest some headlines in the style of [publication]`
 
 Hate writing headlines? Let *GPT* do some of the heavy-lifiting. Paste the text, ask for headlines and get some siggestions back. Again, edit carefully. You can also modify the output by adding adjectives like `snappy`, `short` or `scientific`.
@@ -54,11 +55,11 @@ Hate writing headlines? Let *GPT* do some of the heavy-lifiting. Paste the text,
 
 ## Simplify your writing
 
-```Simplify this text
+`Simplify this text`
 
-Explain this text to me like I am [number] years old
+`Explain this text to me like I am [number] years old`
 
-Make the content very clear and easy to understand```
+`Make the content very clear and easy to understand`
 
 This works in similar fashion as a summary. With the added benefit of *GPT* attempting to break down more complex explanations. Again, simply paste the text and add one command at the end.
 
