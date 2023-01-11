@@ -29,6 +29,8 @@ So far I‘ve used this approach to generate a first drafts for executive summar
 
 `Explain this text to me as if I am [number] years old`
 
+`Make the content very clear and easy to understand`
+
 You can ask *GPT* to break down a more complex paragraph from a paper you have trouble understanding. In my experience it works roughly 90% of the time. It‘s definitely not perfect but may help in cutting through dense writing.
 
 **Caution**{: .label .color-red} *GPT* may appear smart but isn‘t able to actually understand the writing. Nuance and arguments might get lost in translation.
@@ -42,11 +44,13 @@ You can ask *GPT* to break down a more complex paragraph from a paper you have t
 
 Hate writing headlines? Let *GPT* do some of the heavy-lifiting. Paste the text, ask for headlines and get some siggestions back. Again, edit carefully. You can also modify the output by adding adjectives like `snappy`, `short` or `scientific`.
 
-## Simplify Text
+## Simplify your writing
 
 `Simplify this text`
 
 `Explain this text to me like I am [number] years old`
+
+`Make the content very clear and easy to understand`
 
 This works in similar fashion as a summary. With the added benefit of *GPT* attempting to break down more complex explanations. Again, simply paste the text and add one command at the end.
 
