@@ -14,6 +14,8 @@ These are a couple of notes and prompts I collected while using *GPT* in a resea
 
 I am currently using *GPT* mainly through the [“text generator”-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) for *Obsidian*. It‘s not perfect and the templates are currently (for me) a bit buggy but it works well enough.
 
+One example process I‘ve been using: OCR-ing a page with the phone → pasting the text it into *Obsidian* → generating a first summary in bullet points through *GPT* → editing to taste.
+
 # Research
 
 ## Summaries
