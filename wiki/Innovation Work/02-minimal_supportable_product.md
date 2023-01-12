@@ -2,7 +2,7 @@
 layout: wikicrumb 
 title: Minimal Supportable Product
 first-commit: 2021-01-11
-last-published: 2022-12-18
+last-updated: 2022-12-18
 ---
 # Minimal Supportable Product
 
