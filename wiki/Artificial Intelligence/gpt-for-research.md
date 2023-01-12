@@ -65,7 +65,7 @@ Hate writing headlines? Let *GPT* do some of the heavy-lifiting. Paste the text,
 
 This works in similar fashion as a summary. With the added benefit of *GPT* attempting to break down more complex explanations. Again, simply paste the text and add one command at the end.
 
-**Caution**{: .label .color-red} *GPT* may appear smart but isn‘t able to actually understand the writing. Edit accordingly and treat the model as you would everyone else‘s writing suggestions.
+**Caution**{: .label .color-red} *GPT* may appear smart but isn‘t able to actually understand the writing. Edit accordingly and treat the model as you would anyone else‘s writing suggestions.
 
 ## Sound more eloquent
 
@@ -75,7 +75,7 @@ This is for the lazy ones. *GPT* is actually pretty good at rephrasing paragraph
 
 Copy your text, add the prompt and check the output. You can even drop in bullet-points and let the model fill out the gaps.
 
-**Caution**{: .label .color-red} *GPT* may appear smart but isn‘t able to actually understand your writing. Edit accordingly and treat the model as you would everyone else‘s writing suggestions.
+**Caution**{: .label .color-red} *GPT* may appear smart but isn‘t able to actually understand your writing. Edit accordingly and treat the model as you would anyone else‘s writing suggestions.
 
 ## Further Questions
 
