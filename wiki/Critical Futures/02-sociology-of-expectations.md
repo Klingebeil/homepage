@@ -2,6 +2,8 @@
 layout: wikicrumb 
 title: The Sociology of Expectations
 status: 🌿
+first-commit: 2021-12-06
+first-commit: 2021-12-06
 ---
 
 # The Sociology of Expectations

@@ -2,7 +2,8 @@
 layout: wikicrumb 
 title: Modern Internal Communication Practices
 status: "🌿"
-last-updated: 2022-11-28
+first-commit: 2021-12-01
+last-updated: 2022-12-28
 ---
 
 # Modern Internal Communication Practices

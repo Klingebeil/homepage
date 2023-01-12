@@ -1,6 +1,8 @@
 ---
 layout: wikicrumb 
 title: Dark Matter
+first-commit: 2021-01-11
+last-update: 2021-01-11
 ---
 # Dark Matter
 One of the most influential metaphors for my work is Dan Hill‘s „Dark Matter“ from his book „Dark Matter and Trojan Horses“.

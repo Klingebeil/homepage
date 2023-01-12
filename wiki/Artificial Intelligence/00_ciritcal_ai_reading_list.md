@@ -1,6 +1,7 @@
 ---
 layout: wikicrumb 
 title: Critical AI Reading List
+first-commit: 2021-01-11
 ---
 # A Critical Reading List
 {:.no_toc}

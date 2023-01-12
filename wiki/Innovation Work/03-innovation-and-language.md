@@ -1,6 +1,8 @@
 ---
 layout: wikicrumb 
 title: Innovation & Language
+first-commit: 2022-12-03
+latst-update: 2022-12-03
 ---
 
 # Innovation & Language

@@ -1,7 +1,8 @@
 ---
 layout: wikicrumb
 title: Understanding Newsroom vs. Publisher Culture
-last-updated: 2022-11-28
+first-commit: 2021-04-01
+last-updated: 2022-12-05
 ---
 
 # Understanding Culture

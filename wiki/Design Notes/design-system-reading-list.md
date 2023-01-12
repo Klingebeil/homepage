@@ -1,7 +1,8 @@
 ---
 layout: wikicrumb 
 title: Design System Reading List
-last-updated: 2022-12-06
+first-commit: 2022-12-19
+last-updated: 2022-12-19
 ---
 
 A list of things I found pretty useful when researching how to build and steward a design system at the *Media Lab Bayern*. Please note that this project did not include a component library of code base, which is why these recommendations won‘t touch on these subjects

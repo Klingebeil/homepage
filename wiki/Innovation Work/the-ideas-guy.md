@@ -1,6 +1,8 @@
 ---
 layout: wikicrumb 
 title: The Ideas Guy
+first-commit: 2022-12-28
+last-update: 2022-12-28
 ---
 
 The ideas guy is a common phenomenon in corporate settings (or LinkedIn):

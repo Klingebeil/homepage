@@ -2,6 +2,7 @@
 layout: wikicrumb 
 title: Reading Recommendations
 last-updated: 2021-01-21
+first-commit: 2022-12-05
 ---
 # Reading Recommendations
 Some resources I‘ve used extensively in my own work.

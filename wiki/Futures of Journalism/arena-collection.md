@@ -1,6 +1,8 @@
 ---
 layout: wikicrumb
 title: Futures of Journalism
+first-commit: 2021-02-11
+last-update: 2021-02-11
 ---
 
 ![](/img/wiki/futures-of-journalism/arena.png)

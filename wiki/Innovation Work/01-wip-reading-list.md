@@ -1,6 +1,8 @@
 ---
 layout: wikicrumb 
 title: Work in Progress Reading List
+first-commit: 2021-01-23
+first-commit: 2022-12-18
 ---
 
 # Work in Progress Reading List
