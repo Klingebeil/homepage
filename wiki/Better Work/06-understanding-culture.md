@@ -77,10 +77,9 @@ The failures of chatbots as a “technology” aside, the authors make some inte
 > 
 > (…)
 >
-> Likewise, it's helpful to understand the language of knowledge — certain or otherwise — that an organization traffics in. Does it speak to itself in rational numbers, data and hard evidence and have a strong affinity for probabilities? Can it function with what an old client of ours used to call highly informed insight‘ — that is, the trusted knowledge and points of view developed by its own internal expert culture that are often not quantitative in nature but that carry analytical weight?
+> Likewise, it's helpful to understand the language of knowledge — certain or otherwise — that an organization traffics in. Does it speak to itself in rational numbers, data and hard evidence and have a strong affinity for probabilities? Can it function with what an old client of ours used to call highly informed insight‘ — that is, the trusted knowledge and points of view developed by its own internal expert culture that are often not quantitative in nature but that carry analytical weight?[^1]
 
- —  Scott Smith & Madeline Ashby, _How to Future_ (pg. 48ff.)
-
+[^1]: Scott Smith & Madeline Ashby, “How to Future” (pg. 48ff.)
 [1]:	https://academic.oup.com/jcmc/article/25/4/291/5869071
 [2]:	http://www.ted-hunt.com/USERS-PEOPLE.html
 [3]:	https://urbantechnology.substack.com/p/urban-technology-at-university-of-e08?token=eyJ1c2VyX2lkIjoxMDg0MDAsInBvc3RfaWQiOjMzNjQwODQxLCJfIjoiUXNsMzIiLCJpYXQiOjE2MTcyNjU2NzEsImV4cCI6MTYxNzI2OTI3MSwiaXNzIjoicHViLTcwNDQ4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.-PhvJchSslDPUpxwwti1pOoT0Dmt65tewRvz7gEsKRs
