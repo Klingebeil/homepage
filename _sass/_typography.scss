@@ -359,7 +359,7 @@ sup {
 	font-family: $mono-space;
 	color: $dark-grey;
 
-	@media (max-device-width: 1020px) { font-size: 0.9em;}
+	@media (max-device-width: 1020px) { font-size: 0.6em;}
 
 	& ol {
 		counter-reset: list;
