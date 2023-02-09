@@ -93,7 +93,7 @@ last-updated: 2023-02-09
 
 **[The Crisis of Venture Capital : Fixing America’s Broken Start-Up System](https://americanaffairsjournal.org/2021/02/the-crisis-of-venture-capital-fixing-americas-broken-start-up-system/)** by Jeffrey Funk (February 01, 2021). *American Affairs Journal*, Volume V, Number 1 (Spring 2021): 3–26.
 
-- A good analyses by Jeffrey Funk of the VC hype machine
+- A solid analysis by Jeffrey Funk of the VC hype machine
 
 > **The poor performance of VCs and start-ups and the corresponding sense that they are mostly trend-chasing copycats are both indirect results of superficial training, and so part of the blame for these problems must fall on business schools and universities**. […] A recent Stanford research paper argues that such hype about entrepreneurship has encouraged students to become entrepreneurs for the wrong reasons and without proper preparation, with universities often presenting entrepreneurship as a fun and cool lifestyle that will enable them to meet new people and do interesting things, while ignoring the reality of hard and demanding work necessary for success.
 
