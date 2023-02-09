@@ -5,12 +5,13 @@ first-commit: 2021-01-11
 last-updated: 2023-02-09
 ---
 
-# Hype Reading List {:.no-toc}
+# Hype Reading List
+{:.no_toc}
 
 1. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-## Books
+# Books
 
 **[Who‘s Driving Innovation](https://doi.org/10.1007/978-3-030-32320-2_3)** by Jack Stilgoe (November 27, 2019). *Palgrave Macmillan*.
 
@@ -44,7 +45,7 @@ last-updated: 2023-02-09
 > 
 > Venture capital firms (the companies and people within collectively called 'VCs') also care about outside perception of their investment moves. They have their own funders, who trust them to put it into sensible companies and schemes to provide them with a return, who the VCs have to keep onside. They also want to be seen as innovative and fast-moving on new opportunities so that more people want to get involved with investing in their fund, and so the best companies agree to take their investment and work with them. Startups won't just take money from any VC. For the trendiest companies looking for money, VCs normally have to compete with one another to get the startups to say yes to them. If they don't want to compromise on the amount of equity the startup is giving to them, they have to prove themselves as the most promising and useful investor for the startup to agree to beneficial terms.
 
-## Papers
+# Papers
 
 **[The Sociology of Expectations in Science and Technology](https://www.researchgate.net/publication/233106976_The_Sociology_of_Expectations_in_Science_and_Technology)** by Mads Borup, Nik Brown, Kornelia Konrad, Harro van Lente (July 01, 2006). Technology Analysis and Strategic Management, *Routledge*
 
@@ -108,7 +109,7 @@ last-updated: 2023-02-09
 - In short: VC is not that good at really identifying socially or economically beneficial innovation though to treating it as an investment vehicle
 - VC firms also model their investment strategies after the focus of bigger firms, thus allowing a handful of big funds to set the agenda for the whole industry
 
-## Articles
+# Articles
 
 **[Borg Complex](https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/)** https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/ by L.M. Sacasas (March 01, 2013).
 
@@ -120,10 +121,10 @@ last-updated: 2023-02-09
 
 - Jeffrey Funk not only offers a solid economical analysis of hype but also possible ways of fighting back
 
->	To begin, [analysts] can inquire about existing implementations. Has the technology been implemented, what are customers saying, what is the financial status of the suppliers?
->	
->	[…]
->	
+> To begin, [analysts] can inquire about existing implementations. Has the technology been implemented, what are customers saying, what is the financial status of the suppliers?
+> 
+> […]
+> 
 > Second, decision-makers must consider both the value proposition and the cost structures for the new and old technologies. How much of an advantage does the new technology offer?
 > 
 > […]
