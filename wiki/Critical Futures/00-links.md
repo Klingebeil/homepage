@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb 
-title: Reading Recommendations
+title: Reading Recommendations on Hype
 first-commit: 2021-01-11
 last-updated: 2023-02-09
 ---
