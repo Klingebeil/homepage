@@ -5,7 +5,7 @@ first-commit: 2021-01-11
 last-updated: 2023-02-09
 ---
 
-# Hype Reading List
+# Hype Reading List {:.no-toc}
 
 1. this unordered seed list will be replaced by toc as unordered list
 {:toc}
