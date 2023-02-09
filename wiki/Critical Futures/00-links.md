@@ -113,7 +113,7 @@ last-updated: 2023-02-09
 
 ---
 
-**[What‘s Behind Technological Hype](https://issues.org/behind-technological-hype/)** https://issues.org/behind-technological-hype/ by Jeffrey Funk (2019). Issues in Science and Technology 36, no. 1
+**[What‘s Behind Technological Hype](https://issues.org/behind-technological-hype/)** by Jeffrey Funk (2019). Issues in Science and Technology 36, no. 1
 
 Jeffrey Funk not only offers a solid economical analysis of hype but also possible ways of fighting back:
 
