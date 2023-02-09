@@ -117,6 +117,7 @@ last-updated: 2023-02-09
 
 Jeffrey Funk not only offers a solid economical analysis of hype but also possible ways of fighting back:
 
+
 >	To begin, they can inquire about existing implementations. Has the technology been implemented, what are customers saying, what is the financial status of the suppliers?
 >	
 >	[…]
