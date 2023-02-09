@@ -7,6 +7,9 @@ last-updated: 2023-02-09
 
 # Hype Reading List
 
+1. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 ## Books
 
 **[Who‘s Driving Innovation](https://doi.org/10.1007/978-3-030-32320-2_3)** by Jack Stilgoe (November 27, 2019). *Palgrave Macmillan*.
@@ -115,10 +118,9 @@ last-updated: 2023-02-09
 
 **[What‘s Behind Technological Hype](https://issues.org/behind-technological-hype/)** by Jeffrey Funk (2019). Issues in Science and Technology 36, no. 1
 
-Jeffrey Funk not only offers a solid economical analysis of hype but also possible ways of fighting back:
+- Jeffrey Funk not only offers a solid economical analysis of hype but also possible ways of fighting back
 
-
->	To begin, they can inquire about existing implementations. Has the technology been implemented, what are customers saying, what is the financial status of the suppliers?
+>	To begin, [analysts] can inquire about existing implementations. Has the technology been implemented, what are customers saying, what is the financial status of the suppliers?
 >	
 >	[…]
 >	
