@@ -43,7 +43,22 @@ last-updated: 2023-02-09
 > 
 > […]
 > 
-> Venture capital firms (the companies and people within collectively called 'VCs') also care about outside perception of their investment moves. They have their own funders, who trust them to put it into sensible companies and schemes to provide them with a return, who the VCs have to keep onside. They also want to be seen as innovative and fast-moving on new opportunities so that more people want to get involved with investing in their fund, and so the best companies agree to take their investment and work with them. Startups won't just take money from any VC. For the trendiest companies looking for money, VCs normally have to compete with one another to get the startups to say yes to them. If they don't want to compromise on the amount of equity the startup is giving to them, they have to prove themselves as the most promising and useful investor for the startup to agree to beneficial terms.
+> Venture capital firms (the companies and people within collectively called 'VCs') also care about outside perception of their investment moves. They have their own funders, who trust them to put it into sensible companies and schemes to provide them with a return, who the VCs have to keep onside. They also want to be seen as innovative and fast-moving on new opportunities so that more people want to get involved with investing in their fund, and so the best companies agree to take their investment and work with them. Startups won't just take money from any VC. 
+> 
+> For the trendiest companies looking for money, VCs normally have to compete with one another to get the startups to say yes to them. If they don't want to compromise on the amount of equity the startup is giving to them, they have to prove themselves as the most promising and useful investor for the startup to agree to beneficial terms.
+
+---
+
+**The Shock of the Old** by David Edgerton (2006). *Profile Books Ltd*
+
+- Edgerton rewrites the history of technology not as a series of evolutionary inventions but as a history of “technology-in-us”
+- This book is a thorough look at how technology is actually adopted, often layered on-top of each other and how linear narratives of technological progress are often nothing less then a wishful fantasy
+
+> The assumption that the new is clearly superior to what went before has an important corollary: failure to move from one to the other is to be explained by ‘conservatism’, not to mention stupidity or straightforward ignorance. 
+> 
+> ‘Resistance to new technology’ becomes a problem to be addressed by psychologists, sociologists, even historians.[4] But the idea of ‘resistance’ makes sense only if there are no alternatives. It is absurd to talk of resistance to technology or innovation in a world where individuals or societies simply could not accept every innovation, or indeed product, on offer. Resistance is required. 
+> 
+> In choosing one technology, society was necessarily resisting many ‘old’ and ‘new’ alternative technologies.
 
 # Papers
 
