@@ -73,6 +73,8 @@ body {
 
 .resp-no-display { @media (max-width: 1024px) {display:none;}}
 
+.drop-shadow {filter: drop-shadow(0px 5px 4px rgba(0,0,0,.2));}
+
 /* IMAGES */
 img {
 	max-width: 100%;
