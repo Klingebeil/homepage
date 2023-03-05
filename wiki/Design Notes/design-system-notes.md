@@ -13,6 +13,24 @@ The updates are written in reverse chronological order with a date added to each
 {:toc}
 
 ## Preparations
+### Mapping the landscape
+
+**2023-02-04**{: .label .color-green} It‘s been two months since the last update mostly thanks to the slow and busy holidays and first weeks of the year and with other projects demanding my attention, this one was put on the back-burner for a while.
+
+Still, a couple of things happened.
+
+Starting at the beginning of January, I designed a questionnaire for the team based on the audit of our design output. The goal was to map the uncertainties of working with the current state of the CI. From brand related topics, to typography, down to workshop canvases. The questionnaire was created to be printed because I wanted to get people‘s thoughts and notes as well as their opinions.
+
+TK BILD UMFRAGE
+
+Charting the results of the questionnaire didn’t yield any big surprises. Still it was quite notable how many of my colleagues felt insecure when it came to basic guidelines of how to work with colors, fonts, icons and images. There‘s a lot to be said about the need of “operationalizing” a CI — something the team had been lacking and the agency obviously didn’t deliver.
+
+TK BILD AUSWERTUNG
+ 
+We‘re also currently introducing *Notion* as a new knowledge-base for the team, which will make including CI guidelines easy and fast.
+
+TK BILD FIGMA SCREENSHOTS
+
 ### First experiments
 
 **2022-12-19**{: .label .color-green} With the holidays drawing closer, here are a couple of updates:
