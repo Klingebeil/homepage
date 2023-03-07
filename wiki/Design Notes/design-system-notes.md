@@ -29,7 +29,7 @@ Charting the results of the questionnaire didn’t yield any big surprises. Stil
  
 We‘re also currently introducing *Notion* as a new knowledge-base for the team, which will make including CI guidelines easy and fast.
 
-TK BILD FIGMA SCREENSHOTS
+![](/img/wiki/design-system/notion-screenshot.png)
 
 ### First experiments
 
