@@ -11,5 +11,15 @@ last-updated: 2022-03-07
 > 
 > They also create an artificial barrier between the facilitator or designer and the impact you can have by doing work. Services are not made of post-it notes, they're made of data, interfaces and people. It also gives designers the illusion of control over a process of brainstorm but again, that's not action. That's not what a designer is capable of. There are other processes we can take, other ways to do things.
 
- —  Alexandra Deschamps-Sonsino. (2020) ‘Creating a Culture of Innovation’. *apress*
+ —  Alexandra Deschamps-Sonsino. (2020) ‘Creating a Culture of Innovation’. *apress*
+
+---
+
+> Key to design thinking’s spread was its replicable aesthetic, represented by the Post-it note: a humble square that anyone can use in infinite ways. Not too precious, not too permanent, the ubiquitous Post-it promises a fast-moving, cooperative, egalitarian process for getting things done. When Cornforth arrived at IDEO for a workshop, “it was Post-its everywhere, prototypes everywhere,” she says. “What I really liked was that they offered a framework for collaboration and creation.”
+> 
+> […]
+> 
+> But when she looked at the ideas themselves, Cornforth had questions: “I was like, ‘You didn’t talk to anyone who works in a school, did you?’ They were not contextualized in the problem at all.” The deep expertise in the communities of educators and administrators she worked with, Cornforth saw, was in tension with the disruptive, startup-flavored creativity of the design thinking process at consultancies like IDEO.org. “I felt like a stick in the mud to them,” she recalls. “And I felt they were out of touch with reality.”
+
+ — [Design thinking was supposed to fix the world. Where did it go wrong?](https://www.technologyreview.com/2023/02/09/1067821/design-thinking-retrospective-what-went-wrong/) by Rebecca Ackermann
 
