@@ -49,4 +49,4 @@ What leaves an especially bitter taste in my mouth is the way these dominant vis
 {% include img-full.html id="2021-07-27-01.png" %}
 
 ---
-This text was originally published [in German in my newsletter](https://www.getrevue.co/profile/klingebeil/issues/okay-reden-wir-uber-das-metaverse-690415).
+This text was originally published [in German in my newsletter](https://klingebeil.substack.com/p/okay-reden-wir-uber-das-metaverse-690415).

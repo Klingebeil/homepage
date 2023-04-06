@@ -22,7 +22,7 @@ One problem of distributed/remote/hybrid work is the missing bandwidth of face-t
 
 > Our results show that firm-wide remote work caused the collaboration network of workers to become more static and siloed, with fewer bridges between disparate parts. Furthermore, there was a decrease in synchronous communication and an increase in asynchronous communication. Together, these effects may make it harder for employees to acquire and share new information across the network.
 
-A 2020 study by *Atlassian* aptly titled “[Reworking Work](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/reworking-work_atlassian-and-papergiant.pdf)” arrived at similar conclusions.
+A 2020 study by *Atlassian* aptly titled “[Reworking Work](https://atlassianblog.wpengine.com/wp-content/uploads/2020/10/executive-summary_reworking-work_atlassian-and-paper-giant.pdf)” arrived at similar conclusions.
 
 - Meetings in a distributed environment became more formalized and structured. **Unstructured, free-floating communication almost vanished completely** and with it the exchange of topics, information, and ideas not tied to the work at hand.
 - The collaboration in teams got better up thanks to this formalized approach but suffered across team or department borders.

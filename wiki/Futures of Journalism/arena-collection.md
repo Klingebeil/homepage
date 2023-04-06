@@ -46,4 +46,4 @@ Genres of journalism have always been blending into each other, dictated by the 
 ### Algorithmic Society & Casual Surveillance
 Two tightly connected issues are also the impact of algorithms on facets of society as well as the casual use of surveillance tools in everyday life. Not only by state actors of corporations but by everyday people. Mapping these changes, understanding the implications and developing tools and skills to question both issues might is a necessary field of research.
 
-<p><a class="button" href="https://www.are.na/futures-of-journalism-research-group/foj-algorithmic-society-hqyacii7zw">Are.na</a></p>
+<p><a class="button" href="https://www.are.na/futures-of-journalism-research-group/algorithmic-society-foj">Are.na</a></p>
