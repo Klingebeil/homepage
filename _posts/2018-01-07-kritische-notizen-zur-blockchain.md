@@ -120,14 +120,14 @@ Es ist eine bequeme Illusion zu glauben, dass Technologie neutral oder aus sich 
 
 Wir sollten deutlich wachsamer sein, wenn es um den Hype angeblicher neuer technologischer Paradigmen geht, und stärker die Motivationen hinter diesen Technologien hinterfragen. Des einen Utopie wird ansonsten schnell des anderen Dystopie.
 
-[1]:	https://www.getrevue.co/profile/klingebeil
+[1]:	https://klingebeil.substack.com/publish
 [2]:	https://www.linkedin.com/pulse/blockchain-absolute-beginners-mohit-mamoria/
 [3]:	https://twitter.com/mkilg_
 [4]:	http://queue.acm.org/detail.cfm?id=3136559
 [5]:	https://www.reuters.com/article/us-banks-blockchain/nine-of-worlds-biggest-banks-join-to-form-blockchain-partnership-idUSKCN0RF24M20150915
 [6]:	https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic
 [7]:	https://davidgerard.co.uk/blockchain/2017/09/06/estonias-smartcard-security-problem-is-probably-not-blockchain-related-but-what-is-estonias-blockchain/
-[8]:	https://www.getrevue.co/profile/klingebeil/issues/der-ki-hype-kopierstrategien-und-anchor-47361
+[8]:	https://klingebeil.substack.com/p/der-ki-hype-kopierstrategien-und-anchor-47361
 [9]:	https://medium.com/@preethikasireddy/fundamental-challenges-with-public-blockchains-253c800e9428
 [10]:	https://freedom-to-tinker.com/2015/09/18/private-blockchain-is-just-a-confusing-name-for-a-shared-database/
 [11]:	https://eprint.iacr.org/2017/375.pdf
