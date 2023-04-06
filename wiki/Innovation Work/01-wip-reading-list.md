@@ -47,11 +47,10 @@ A sporadically updated list can also be found on [are.na][1].
 - [JOURNALISM DESIGN LAB][21]
 - [LOGIC MAGAZINE][22]
 - [NESTA][23]
-- [STRELKA INSTITUTE][24]
 - [SPACE10][25]
 - [THIRD WAVE BERLIN][26]
 
-[1]:	are.na/johannes-klingebiel/innovation-reading-list
+[1]:	https://www.are.na/johannes-klingebiel/innovation-reading-list
 [2]:	https://academic.oup.com/jcmc/article/25/4/291/5869071
 [3]:	https://www.jstor.org/stable/4531523?seq=1
 [4]:	https://journals.sagepub.com/doi/abs/10.1111/1467-954X.12444?journalCode=sora
@@ -70,10 +69,9 @@ A sporadically updated list can also be found on [are.na][1].
 [17]:	https://changeist.com
 [18]:	https://darkmatterlabs.org
 [19]:	http://helsinkidesignlab.org
-[20]:	https://internetagemedia.com
+[20]:	https://www.iam-internet.com/
 [21]:	https://journalismdesign.com
 [22]:	https://logicmag.io
-[23]:	https://nesta.co.uk
-[24]:	https://strelka.com
+[23]:	https://www.nesta.org.uk/
 [25]:	https://space10.com
 [26]:	https://thirdwaveberlin.de
