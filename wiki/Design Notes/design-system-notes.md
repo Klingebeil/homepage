@@ -2,7 +2,7 @@
 layout: wikicrumb 
 title: Notes on building a design system
 first-commit: 2022-12-05
-last-updated: 2022-03-07
+last-updated: 2022-12-19
 ---
 
 These are a couple of notes about building and managing a design system at the *[Media Lab Bayern](https://www.media-lab.de/de/)*.
@@ -21,15 +21,15 @@ Still, a couple of things happened.
 
 Starting at the beginning of January, I designed a questionnaire for the team based on the audit of our design output. The goal was to map the uncertainties of working with the current state of the CI. From brand related topics, to typography, down to workshop canvases. The questionnaire was created to be printed because I wanted to get people‘s thoughts and notes as well as their opinions.
 
-![](/img/wiki/design-system/umfrage.png)
+TK BILD UMFRAGE
 
 Charting the results of the questionnaire didn’t yield any big surprises. Still it was quite notable how many of my colleagues felt insecure when it came to basic guidelines of how to work with colors, fonts, icons and images. There‘s a lot to be said about the need of “operationalizing” a CI — something the team had been lacking and the agency obviously didn’t deliver.
 
-![](/img/wiki/design-system/auswertung.png)
+TK BILD AUSWERTUNG
  
 We‘re also currently introducing *Notion* as a new knowledge-base for the team, which will make including CI guidelines easy and fast.
 
-![](/img/wiki/design-system/notion-screenshot.png)
+TK BILD FIGMA SCREENSHOTS
 
 ### First experiments
 
@@ -47,7 +47,7 @@ b) Identify the biggest redundancies and gaps and strategize how to resolve them
 
 *Current artifact*: a couple of tables in numbers, able to auto-generate new type scales based on the font size of a basic paragraph. 
 
-![](/img/wiki/design-system/mlb-design-system-font-table.png)
+![](/img/wiki/mlb-design-system-font-table.png)
 
 ### Research (a.k.a Talking to people)
 
