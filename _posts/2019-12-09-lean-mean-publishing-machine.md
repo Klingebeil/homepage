@@ -1,5 +1,6 @@
 ---
 layout: post
+language: de
 title: Was ist Boutique Publishing?
 date: 2019-12-09
 teaser-img: 2019-12-09-teaser.png

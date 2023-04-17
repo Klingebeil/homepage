@@ -1,5 +1,6 @@
 ---
 layout: post
+language: de
 title: Boutique Publishing, Part II
 date: 2020-07-21
 teaser-img: 2020-07-21-teaser.png

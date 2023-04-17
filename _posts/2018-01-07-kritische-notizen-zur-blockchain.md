@@ -1,5 +1,6 @@
 ---
 layout: post
+language: de
 title: "Kritische Notizen zur Blockchain"
 date: 2018-01-07
 teaser-img: 2018-01-07-teaser.png

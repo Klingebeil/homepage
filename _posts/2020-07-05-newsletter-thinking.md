@@ -1,5 +1,6 @@
 ---
 layout: post
+language: de
 title: Tipps für bessere Newsletter
 date: 2020-08-10
 published: false

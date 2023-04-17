@@ -1,5 +1,6 @@
 ---
 layout: post
+language: de
 title: Der Pivot zu Cafés
 subtitle: Medien und Commerce, Teil I
 date: 2019-03-20

@@ -1,5 +1,6 @@
 ---
 layout: post
+language: de
 title: Experimente mit Mikro-Publishing
 subtitle: Work in Progress
 published: true

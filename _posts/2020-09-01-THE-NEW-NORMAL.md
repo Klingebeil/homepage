@@ -1,5 +1,6 @@
 ---
 layout: post
+language: de
 title: VUCA, BANI & The New Normal
 subtitle: Über Zeitrechnungen und ihre Beschreibung
 date: 2020-09-01

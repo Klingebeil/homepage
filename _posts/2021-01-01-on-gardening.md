@@ -1,5 +1,6 @@
 ---
 layout: post
+language: de
 title: Denke wie ein Gärtner
 subtitle: Meine Arbeit in 2021
 date: 2021-01-01

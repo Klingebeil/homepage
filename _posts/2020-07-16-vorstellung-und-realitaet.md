@@ -1,5 +1,6 @@
 ---
 layout: post
+language: de
 title: Innovation—Die Lücke zwischen Vorstellung und Realität
 subtitle: "Innovation als Kommunikationsproblem"
 date: 2020-07-16

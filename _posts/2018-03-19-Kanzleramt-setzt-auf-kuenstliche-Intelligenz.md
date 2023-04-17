@@ -1,5 +1,6 @@
 ---
 layout: post
+language: de
 title: "Kanzleramt setzt auf künstliche Intelligenz für Pressemitteilungen"
 subtitle: "Ein Szenario"
 date: 2018-03-19

@@ -1,5 +1,6 @@
 ---
 layout: post
+language: de
 title: Meine Begegnung mit der Magic Leap
 date: 2018-09-09
 teaser-img: 2018-09-09-teaser.png

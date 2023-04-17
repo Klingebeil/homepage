@@ -1,5 +1,7 @@
 ---
 layout: post
+language: de
+
 title: "Newsroomkultur vs. Innovationskultur"
 subtitle: "Unterschiede und wo sie zu finden sind"
 date: 2021-03-12

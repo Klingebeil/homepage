@@ -1,5 +1,6 @@
 ---
 layout: post
+language: de
 title: "Was du über den Gartner Hype Cycle wissen solltest"
 date: 2017-09-11
 teaser-img: 2017-09-11-teaser.png
