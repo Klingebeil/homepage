@@ -5,11 +5,11 @@ last-updated: 2021-02-21
 first-commit: 2021-01-11
 ---
 
-![](/img/wiki/manifestos/wiki-manifestos-01.jpg)
+![Austin Kleon](/img/wiki/manifestos/wiki-manifestos-01.jpg)
 via Austin Kleon
 
-![](/img/wiki/manifestos/wiki-manifestos-02.png)
+![Sitster.is](/img/wiki/manifestos/wiki-manifestos-02.png)
 via sister.is
 
-![](/img/wiki/manifestos/10-skills.jpg)
+![Wokrfutures](/img/wiki/manifestos/10-skills.jpg)
 via workfutures
