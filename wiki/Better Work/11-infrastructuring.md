@@ -5,9 +5,13 @@ first-commit: 2023-07-5
 last-updated: 2023-07-5
 ---
 
-Lately I‘ve been doing a lot of reading on the concept of infrastructure or to be more precise the connections between infrastructures and work.
+# Work Infrastructuring
 
-I quite like this definition of infrastructure by Susan Leigh Star[^1]:
+Lately I‘ve been doing a lot of reading on the concept of infrastructure or to be more precise the connections between infrastructures of work. 
+
+As in the assembly of tools, processes, knowledge and standards build up over years by people to enable *good* work.
+
+I quite like this definition of infrastructure by Susan Leigh Star[^1]. Mainly because she reaches beyond the idea of infrastructure as a technological construct:
 
 > - *Embeddedness*. Infrastructure is sunk into and inside of other structures, social arrangements, and technologies.
 > - *Transparency*. Infrastructure is transparent to use, in the sense that it does not have to be reinvented each time or assembled for each task, but invisibly supports those tasks.
@@ -19,5 +23,9 @@ I quite like this definition of infrastructure by Susan Leigh Star[^1]:
 > - *Becomes visible upon breakdown*. The normally invisible quality of working infrastructure becomes visible when it breaks: the server is down, the bridge washes out, there is a power blackout.
 > - *Is fixed in modular increments, not all at once or globally*. Because infrastructure is big, layered, and complex, and because it means different things locally, it is never changed from above.
 
+## Grind Challenges
+
+Keeping the work running smoothly means maintaining this infrastructure. Or as Guru Madhavan put it: the grind challenge[^2].
 
 [^1]: Susan Leigh Star (1999). ‘The Ethnography of Infrastructure’. AMERICAN BEHAVIORAL SCIENTIST, Vol. 43 No. 3
+[^2]: Guru Madhavan (2022). ‘The Grind Challenges’. Issues in Science and Technology 38, no. 4
