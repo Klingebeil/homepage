@@ -4,6 +4,7 @@ title: "Just Enough Research"
 author: Erika Hall
 publisher: A Book Apart
 year: 2013
+first-commit: 2021-01-01
 category: Research
 color-spine: "#FF9B3D"
 color-text: "#FEFFED"

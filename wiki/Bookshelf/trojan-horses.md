@@ -4,6 +4,7 @@ title: Dark Matter and Trojan Horses — A Strategic Design Vocabulary
 author: Dan Hill
 publisher: Strelka Press
 year: 2015
+first-commit: 2021-01-01
 category: Design Theory
 color-spine: "#FFFF00"
 color-text: "#050503"

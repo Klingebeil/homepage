@@ -4,6 +4,7 @@ title: "The Social Photo: On Photography and Social Media"
 author: Nathan Jurgenson
 publisher: Verso Books
 year: 2019
+first-commit: 2021-01-01
 category: Media
 color-spine: "#FFFFFF"
 color-text: "#080707"
