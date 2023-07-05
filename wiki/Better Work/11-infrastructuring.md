@@ -23,9 +23,4 @@ I quite like this definition of infrastructure by Susan Leigh Star[^1]. Mainly b
 > - *Becomes visible upon breakdown*. The normally invisible quality of working infrastructure becomes visible when it breaks: the server is down, the bridge washes out, there is a power blackout.
 > - *Is fixed in modular increments, not all at once or globally*. Because infrastructure is big, layered, and complex, and because it means different things locally, it is never changed from above.
 
-## Grind Challenges
-
-Keeping the work running smoothly means maintaining this infrastructure. Or as Guru Madhavan put it: the grind challenge[^2].
-
 [^1]: Susan Leigh Star (1999). ‘The Ethnography of Infrastructure’. AMERICAN BEHAVIORAL SCIENTIST, Vol. 43 No. 3
-[^2]: Guru Madhavan (2022). ‘The Grind Challenges’. Issues in Science and Technology 38, no. 4
