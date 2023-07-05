@@ -4,6 +4,7 @@ title: "Creating a Culture of Innovation: Design an Optimal Environment to Creat
 author: Alexandra Deschamps-Sonsino 
 publisher: Apress
 year: 2020
+first-commit: 2021-01-01
 cover:
 category: Business & Innovation
 color-spine: "#2C1916"
