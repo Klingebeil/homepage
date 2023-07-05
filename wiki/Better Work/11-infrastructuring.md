@@ -7,7 +7,7 @@ last-updated: 2023-07-5
 
 Lately I‘ve been doing a lot of reading on the concept of infrastructure or to be more precise the connections between infrastructures and work.
 
-I quite like this definition of infrastructure by Susan Leigh Star:
+I quite like this definition of infrastructure by Susan Leigh Star[^1]:
 
 > - *Embeddedness*. Infrastructure is sunk into and inside of other structures, social arrangements, and technologies.
 > - *Transparency*. Infrastructure is transparent to use, in the sense that it does not have to be reinvented each time or assembled for each task, but invisibly supports those tasks.
@@ -18,3 +18,6 @@ I quite like this definition of infrastructure by Susan Leigh Star:
 > - *Built on an installed base*. Infrastructure does not grow de novo; it wrestles with the inertia of the installed base and inherits strengths and limitations from that base.
 > - *Becomes visible upon breakdown*. The normally invisible quality of working infrastructure becomes visible when it breaks: the server is down, the bridge washes out, there is a power blackout.
 > - *Is fixed in modular increments, not all at once or globally*. Because infrastructure is big, layered, and complex, and because it means different things locally, it is never changed from above.
+
+
+[^1]: Susan Leigh Star (1999). ‘The Ethnography of Infrastructure’. AMERICAN BEHAVIORAL SCIENTIST, Vol. 43 No. 3
