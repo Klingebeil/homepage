@@ -2,7 +2,7 @@
 layout: wikicrumb
 title: Infrastructing
 first-commit: 2023-07-5
-last-updated: 2023-07-5
+last-updated: 2023-07-9
 ---
 
 # Work Infrastructuring
@@ -22,5 +22,9 @@ I quite like this definition of infrastructure by Susan Leigh Star[^1]. Mainly b
 > - *Built on an installed base*. Infrastructure does not grow de novo; it wrestles with the inertia of the installed base and inherits strengths and limitations from that base.
 > - *Becomes visible upon breakdown*. The normally invisible quality of working infrastructure becomes visible when it breaks: the server is down, the bridge washes out, there is a power blackout.
 > - *Is fixed in modular increments, not all at once or globally*. Because infrastructure is big, layered, and complex, and because it means different things locally, it is never changed from above.
+
+In that sense forms, standards, the dreaded bureaucracy — all these things are in the same sense part of a companies infrastructure as are computers, servers, the buildings, electricity or air conditioning.
+
+In many ways this notion of infrastructure can be understood as part of what Dan Hill described as “[Dark Matter](https://johannesklingebiel.de/wiki/Innovation%20Work/00-dark_matter.html)”, the complete overarching context (from tools, to cultures and laws) that influences every decision made inside an organization.
 
 [^1]: Susan Leigh Star (1999). ‘The Ethnography of Infrastructure’. AMERICAN BEHAVIORAL SCIENTIST, Vol. 43 No. 3
