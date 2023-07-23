@@ -10,9 +10,9 @@ $contrast-green: #5CBE74; //#68B053;
 $contrast-purple: #855AE0;
 
 // SPACING
-$spacing-small: 20px;
-$spacing-medium: 40px;
-$spacing-large: 75px;
+$spacing-small: 2rem;
+$spacing-medium: 4rem;
+$spacing-large: 8rem;
 
 body {
 	margin: 0px;
@@ -21,9 +21,14 @@ body {
 
 /* -- LAYOUT -- */
 
-.spacer-small{margin: $spacing-small;}
-.spacer-medium{margin: $spacing-medium;}
-.spacer-large{margin: $spacing-large;}
+.sp-tp-small{margin-top: $spacing-small;}
+.sp-bt-small{margin-bottom: $spacing-small;}
+.sp-tp-medium{margin-top: $spacing-medium;}
+.sp-bt-medium{margin-bottom: $spacing-medium;}
+.sp-tp-large{margin-top: $spacing-large;}
+.sp-bt-large{margin-bottom: $spacing-large;}
+
+.full-width{width: 100% !important; max-width: 100% !important;}
 
 .row {
 	display: flex;
@@ -34,7 +39,7 @@ body {
 	margin-right: auto;
 }
 
-.flex { display: flex; flex-direction: row;}
+.flex { display: flex; flex-direction: row; gap: $spacing-small;}
 .flex-column { display: flex; flex-direction: column;}
 .justify-center { justify-content: center;}
 .items-center { align-items: center;}
@@ -675,8 +680,8 @@ img {
 }
 
 .notes {
-    margin: 0px 20px 20px 0px;
-	max-width: 43%;
+    margin: 0px 0px 20px 0px;
+	max-width: 45%;
     border-top: 1px solid $contrast-green;
 	background-color: $light-grey;
 	padding: 0px 5px 5px 5px;
