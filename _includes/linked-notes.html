@@ -1,9 +1,18 @@
 {% comment %}
 Das ganze ist der Versuch im YAML verlinkte Notizen in Artikeln anzugeben, die anschließend ausgegeben werden am Ende des Posts. Funktioniert nur leider nicht.
 {% endcomment %}
-{{ page.path }}
 {% assign notes = page.linked-notes %}
+<div class="spacer-medium"></div>
+<div class="seg-line color-green mono-space small uppercase">Linked Notes</div>
+<div class="spacer-small"></div>
+<div id="notes-list" class="flex">
 {% for note in notes %}
     {% assign link = site.pages | where_exp:"link", "link.path contains note"%}
-    <p>{{ note }} | {{ link | markdownify}} | {{ link.url }}</p>
+    {% for item in link %}
+        <div class="notes">
+            <div class="mono-space button capitalize color-green"><a href="{{ site.baseurl }}{{item.url}}">{{item.title }}</a></div>
+            <div class="notes_content">{{ item.content | markdownify }}</div><p class="button mono-space small color-green"><a href="{{ site.baseurl }}{{item.url}}">READ ➞</a></p>
+          </div>
+    {% endfor %}
 {% endfor %}
+</div>
