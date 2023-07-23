@@ -23,7 +23,7 @@ Yes, that new podcast concept is amazing on paper but have we considered if we e
 
 Yes, personalized news homepages sound interesting but do we even have the data we‘d need to personalize the content selection? How will this impact news creation processes? Does the website even support personalization on a technical level?
 
-As Guru Madhavan put it: there‘s a lot of grind necessary to reach the grand vision.
+As [Guru Madhavan put it](https://issues.org/engineering-grind-challenge-madhavan/): there‘s a lot of grind necessary to reach the grand vision.
 
 These considerations are vital but often ignored in favor of speed and “blue skies thinking” and I do hold these myths about innovation responsible for this unforced error. They focus solely on the object of innovation — the iPhone, the space rocket, the idea — all while ignoring the vital infrastructure they were built upon.
 
