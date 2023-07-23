@@ -215,7 +215,7 @@ blockquote:not(.twitter-tweet) {
 		width: 0.7em;
 	}
 
-	& p:last-child::after {
+	& p:last-child::afterbun {
 		break-before: avoid;
 		color: $dark-grey;
 		margin-left: 0.1em;
