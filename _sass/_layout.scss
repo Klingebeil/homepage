@@ -822,4 +822,10 @@ img {
 	.print {
 		display: block;
 	}
+
+	.notes_content {
+		max-height: none;
+		padding: 0px 10px;
+		overflow: auto;
+	}
 }
