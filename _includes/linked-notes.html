@@ -1,0 +1,9 @@
+{% comment %}
+Das ganze ist der Versuch im YAML verlinkte Notizen in Artikeln anzugeben, die anschließend ausgegeben werden am Ende des Posts. Funktioniert nur leider nicht.
+{% endcomment %}
+{{ page.path }}
+{% assign notes = page.linked-notes %}
+{% for note in notes %}
+    {% assign link = site.pages | where_exp:"link", "link.path contains note"%}
+    <p>{{ note }} | {{ link | markdownify}} | {{ link.url }}</p>
+{% endfor %}

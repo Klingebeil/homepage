@@ -5,6 +5,9 @@ title: Building the infrastructure for innovation
 subtitle: That problem of not being able to support your own ideas
 date: 2023-07-23
 teaser-img: 2023-07-23-teaser.png
+linked-notes:
+- infrastructuring
+- minimal_supportable_product
 ---
 
 Before I started my job years ago in the innovation team at the *Süddeutsche Zeitung* the team had been building a 360°-video app, modeled on a similar app by the *New York Times*. The app and content were fascinating, though it never took off and was eventually shut down about a year after I joined.
