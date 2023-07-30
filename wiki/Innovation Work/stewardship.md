@@ -2,7 +2,7 @@
 layout: wikicrumb 
 title: Notes on Stewardship
 first-commit: 2023-07-30
-last-updated: 2023-7-30
+last-updated: 2023-07-30
 linked-notes:
 - infrastructuring
 - minimal_supportable_product
@@ -32,13 +32,13 @@ There‘s also another implicit recognition hidden in this idea: you may not be 
 
 Simply recognizing the need for this approach may in itself be a step towards avoiding solutionists pitfalls.
 
-I found the term myself while researching innovation in the contexts of infrastructure (both technical and social). Infrastructure change is by definition a wicked problem because of the complex systems that itself rely on the stability of often invisible structures, maintenance and work. Thought not every problem can be defined as pure “wicked problems”, they‘re often more wicked then tame, more brownfield than greenfield.
+I found the term myself while researching innovation in the contexts of infrastructure (both technical and social). Infrastructure change is by definition a wicked problem because of the complex systems that itself rely on the stability of often invisible structures, maintenance and work. Though not every problem can be defined as a pure “wicked problems”, they‘re often more wicked then tame, more brownfield than greenfield.
 
-Thus there‘s also a need to adapt a form of *stewardship* to successfully work in these environments:
+Thus there‘s the need to adapt a form of *stewardship* to successfully work in these environments:
 
 > The role of the infrastructure planner and designer has shifted from prescribing a professional solution to a given situation, a high modernist framing of the professional’s role, to being the expert facilitator of the emergence of a design that satisfices enough stakeholders, and the legacy systems and natural infrastructure components, to be both stable and viable.
 > [...]
-> Thus, rather than simply designing a solution to a given problem, the engineer will often find herself needing to satisfice both on problem definition and design solution.[^3]
+> Thus, **rather than simply designing a solution to a given problem, the engineer will often find herself needing to satisfice both on problem definition and design solution**.[^3]
 
 [^1]: Bryan Boyer, Justin W. Cook, Marco Steinberg (2013). ‘[Legible Practices](http://helsinkidesignlab.rip/legiblepractises/)’. Helsinki Design Lab.
 [^2]: Herbert Simon (1957). ‘Models of Man: Social and Rational‘. 
