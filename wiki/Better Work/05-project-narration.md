@@ -4,10 +4,10 @@ title: Project Narration
 first-commit: 2021-03-23
 last-updated: 2022-12-05
 linked-notes:
-- understand-culture
+- understanding-culture
 - internal-coms-tools
-- artefacts of work
-- living docs
+- artefacts-of-work
+- living-docs
 ---
 
 # Project Narration
