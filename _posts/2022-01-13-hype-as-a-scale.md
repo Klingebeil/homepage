@@ -5,6 +5,8 @@ title: The five Levels of Hype
 subtitle: Trying to categorize exuberance
 date: 2022-01-12
 teaser-img: 2022-01-12-teaser.png
+linked-notes:
+- sociology-of-expectations
 ---
 
 For an upcoming zine project, I‘ve been buried deep under articles and papers on the phenomenon of “hype”. A topic that has been haunting me throughout my years working at the innovation team of the *Süddeutsche Zeitung* where I spent a sizable amount of time trying to cut through the barrage of trend reports, press releases, and tech reporting.
