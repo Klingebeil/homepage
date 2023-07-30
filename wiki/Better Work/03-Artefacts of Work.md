@@ -3,6 +3,8 @@ layout: wikicrumb
 title: Artefacts of Work
 first-commit: 2021-01-11
 last-updated: 2022-12-28
+linked-notes:
+- project-narration
 ---
 # Artefacts of Work
 

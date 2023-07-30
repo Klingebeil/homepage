@@ -3,6 +3,8 @@ layout: wikicrumb
 title: Work Infrastructing
 first-commit: 2023-07-5
 last-updated: 2023-07-9
+linked-notes:
+- stewardship
 ---
 
 # Work Infrastructuring

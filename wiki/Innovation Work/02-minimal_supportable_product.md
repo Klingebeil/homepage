@@ -3,6 +3,10 @@ layout: wikicrumb
 title: Minimal Supportable Product
 first-commit: 2021-01-11
 last-updated: 2022-12-18
+linked-notes:
+- stewardship
+- dark_matter
+- trojan-horses
 ---
 # Minimal Supportable Product
 

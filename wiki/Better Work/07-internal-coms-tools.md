@@ -4,6 +4,8 @@ title: Modern Internal Communication Practices
 status: "🌿"
 first-commit: 2021-12-01
 last-updated: 2022-12-28
+linked-notes:
+- project-narration
 ---
 
 # Modern Internal Communication Practices
