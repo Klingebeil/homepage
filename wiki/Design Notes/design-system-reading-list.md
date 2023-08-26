@@ -2,7 +2,7 @@
 layout: wikicrumb 
 title: Design System Reading List
 first-commit: 2022-12-19
-last-updated: 2022-12-19
+last-updated: 2023-08-25
 ---
 
 A list of things I found pretty useful when researching how to build and steward a design system at the *Media Lab Bayern*. Please note that this project did not include a component library of code base, which is why these recommendations won‘t touch on these subjects
@@ -22,3 +22,6 @@ A list of things I found pretty useful when researching how to build and steward
 
 **[Picking Parts, Products & People](https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742)**
 - This is a neat little team exercise for figuring out which parts your new design system actually needs
+
+**[Why design systems fail](https://designinginward.medium.com/why-design-systems-fail-e6748ce5672)**
+- A helpfull consideration of the multiple reasons for design system failure. Especially when considering if such a system is worth the effort in the first place.
