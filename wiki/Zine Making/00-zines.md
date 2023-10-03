@@ -2,7 +2,7 @@
 layout: wikicrumb
 title: What is a zine?
 first-commit: 2022-06-04
-last-updated: 20212-06-04
+last-updated: 2022-06-04
 ---
 
 # What is a zine?
