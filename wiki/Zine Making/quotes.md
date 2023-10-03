@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb
-title: Quotes about Zines and Self-Publishing?
+title: Quotes about Zines and Self-Publishing
 first-commit: 2023-10-03
 last-updated: 2023-10-03
 ---
