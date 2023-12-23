@@ -11,7 +11,7 @@ last-updated: 2022-03-07
 > 
 > They also create an artificial barrier between the facilitator or designer and the impact you can have by doing work. Services are not made of post-it notes, they're made of data, interfaces and people. It also gives designers the illusion of control over a process of brainstorm but again, that's not action. That's not what a designer is capable of. There are other processes we can take, other ways to do things.
 
- —  Alexandra Deschamps-Sonsino. (2020) ‘Creating a Culture of Innovation’. *apress*
+ —  Deschamps-Sonsino (2020). ‘Creating a Culture of Innovation’. *apress*
 
 ---
 
@@ -23,3 +23,10 @@ last-updated: 2022-03-07
 
  — [Design thinking was supposed to fix the world. Where did it go wrong?](https://www.technologyreview.com/2023/02/09/1067821/design-thinking-retrospective-what-went-wrong/) by Rebecca Ackermann
 
+---
+
+> As with their analog predecessors, their meaning doesn’t come from what is written, but from its having been written across colorful rectangles and squares. Such abstract arrangement takes little effort or skill, verbal or visual, while nevertheless producing something filled with words and images. Who can resist such convenience? It’s one reason whiteboards have become increasingly popular despite being ill-suited to so many of their supposed purposes.
+> […]
+> But if whiteboards’ content doesn’t matter because their form supersedes it, that is because the form is also, for all its prestige, basically meaningless. Abstracting form from content, it turns out, can only degrade them both.
+
+ —  Marz (2023). ‘[Beware the Digital Whiteboard](https://www.wired.com/story/beware-the-digital-whiteboard/)’. *Wired Magazine*

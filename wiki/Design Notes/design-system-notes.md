@@ -1,8 +1,8 @@
 ---
 layout: wikicrumb 
-title: Notes on building a design system
+title: Notes on gardening a design system
 first-commit: 2022-12-05
-last-updated: 2022-03-07
+last-updated: 2022-10-16
 ---
 
 These are a couple of notes about building and managing a design system at the *[Media Lab Bayern](https://www.media-lab.de/de/)*.
@@ -11,6 +11,22 @@ The updates are written in reverse chronological order with a date added to each
 
 1. this unordered seed list will be replaced by toc as unordered list
 {:toc}
+
+## The messy middle
+### Cutting through the noise
+**2023-10-16**{: .label .color-green} Oh, wow… it‘s been eight months already? Here‘s a small run-up of where this project is now.
+
+* The CI system now lives in *Notion*, quick to access, well documented and most importantly: open to the outside.
+* I started to document internal case studies of the design in use and the decisions made, for example, while producing a research report.
+* There‘s also a new template library in its infancy. With *Microsoft* still making it hard to actually share templates across platforms, this has to suffice.
+* Also: high level design guidelines are now in place for the team.
+
+That said, things are far from perfect. While the guidelines are now actually usable, they do still lack some important aspects.
+
+1. Our color system is still a small mess with branding colors all over the place
+2. Old templates (esp. PowerPoint) are cumbersome to work with and loaded with redundant and barely used edge cases
+
+
 
 ## Preparations
 ### Mapping the landscape
