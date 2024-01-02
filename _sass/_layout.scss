@@ -322,6 +322,8 @@ img {
 	& #category-button-wrapper {
 		height: 3em;
 		align-items: center;
+		justify-content: space-between;
+		gap: 0em;
 		@media (max-width: 900px) {
 			flex-direction: column;
 			align-items: flex-start;
