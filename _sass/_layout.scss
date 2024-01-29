@@ -1,4 +1,4 @@
-// VARIABLES
+// COLOR VARIABLES
 $main-txt-color: #1D1D1D;
 $contrast-color: #FD675E;
 $light-grey: #e6e6e6;
@@ -9,7 +9,9 @@ $white: hsl(0, 0%, 100%);
 $contrast-green: #5CBE74; //#68B053;
 $contrast-purple: #855AE0;
 
-// SPACING
+
+
+// SPACING VARIABLES
 $spacing-small: 1rem;
 $spacing-medium: 4rem;
 $spacing-large: 8rem;
@@ -281,24 +283,17 @@ img {
 .category-button {
 	background-color: $white;
 	color: $contrast-green;
-	border: solid 1px $contrast-green;
-	border-radius: 10px;
-	width: 40%;
+	border-bottom: solid 1px $contrast-green;
+	width: 100%;
 	padding: 10px 10px 10px 10px;
-	margin: 4px 3px;
 	font-family: mono-space, 'Courier New', Courier, monospace;
 	text-decoration: none !important;
-	display: inline-block !important;
+	display: block !important;
+	overflow: auto;
+	box-sizing: border-box;
 
 	cursor: pointer;
 	transition: all 400ms 0ms;
-
-	& .svg-icon {
-		background-color: white;
-		padding: 5px;
-		border-radius: 20px;
-		margin-right: 10px;
-	}
 
 	& #category-title {
 		margin: 0px;
@@ -320,7 +315,7 @@ img {
 	}
 
 	& #category-button-wrapper {
-		height: 3em;
+		height: 1em;
 		align-items: center;
 		justify-content: space-between;
 		gap: 0em;
@@ -623,10 +618,13 @@ img {
     border: 1px solid $main-txt-color;
     margin: 0px 15px 15px 0px;
     border-radius: 5px;
+	overflow: auto;
 }
 
 #topic-list {
-    margin: 50px 0px 50px 20px;
+    margin: 50px 0px 50px 0px;
+	border-top: solid 1px $contrast-green;
+	overflow: auto;
 
 	& .button {
 		margin: 4px;
