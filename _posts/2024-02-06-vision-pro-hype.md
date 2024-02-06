@@ -1,6 +1,6 @@
 ---
 layout: post
-language: de
+language: en
 title: "The Vision Pro and the lack of hype"
 subtitle: "A Theory"
 date: 2024-02-06
