@@ -20,7 +20,7 @@ Notably a lot of tech commentators are employing two rhetoric strategies to not 
 - **Be wowed!** — the technology is an almost magical power, right at your fingertips. Great examples are here the many AI showcases, esp. video and image generation, which tend to be presented as ridiculously advanced, even better than human artists.[^2]
 - **Be afraid!** — the technology is a clear and present danger in the near future. Again a good example is here almost everything about the current AI discourse.
 
-Both these tactics are explicitly emotional and tinged with an almost religious fervour. This kind of rhetoric is also focused on the reader who is urged to imagine himself either wielding the power of the technology or how he/she should fear for his job/business/way of life. They’re also often accompanied by what L.M. Sacasas called the "[Borg complex](https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/)": the assertion that resistance against this new technology is not only futile but also either naive of malicious.
+Both these tactics are explicitly emotional and tinged with an almost religious fervour. This kind of rhetoric is also focused on the reader who is urged to imagine himself either wielding the power of the technology or how he/she should fear for his job/business/way of life. They’re also often accompanied by what L.M. Sacasas called the "[Borg complex](https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/)": the assertion that resistance against this new technology is not only futile but also either naive or malicious.
 
 ## The Vision Pro’s lack of hype
 
