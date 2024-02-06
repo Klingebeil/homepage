@@ -35,7 +35,7 @@ There’s just not enough room for uncertainty to make speculation seem believab
 
 Again, it’s impossible from the present to ascertain if these claims are true or wrong. But what is possible to dissect is the basic argument here: because this has happened, it will happen again, which is why I can now speculate about *the future*. It is an attempt to open up the space for hyperbolic claims, to induce *permissive uncertainty* in the discourse.
 
-This is why I was positively surprised when *The Verge* closed their excellent product review by stating how they’re only reviewing what’s in the box, not what the device might imply for the future. Which is not only good journalism but also simply a good way of looking at new technologies: simply taking a good and long look inside the (black) box.
+This is why I was positively surprised when *The Verge* closed their [excellent product review](https://youtu.be/hdwaWxY11jQ?si=Hy-8MTowTGIaZ_fE&t=1605) by stating how they’re only reviewing what’s in the box, not what the device might imply for the future. Which is not only good journalism but also simply a good way of analyzing new technologies: taking a good and long look inside the (black) box.
 
 [^1]: Emily Bender wrote a great and fitting essay on AI worth linking here: [Resist the Urge to be Impressed](https://medium.com/@emilymenonbender/on-nyt-magazine-on-ai-resist-the-urge-to-be-impressed-3d92fd9a0edd)
 [^2]: André Spicer (2020). ‘Playing the Bullshit Game — How Empty and Misleading Communication Takes over Organizations’. Organization Theory, Volume I: I–26
