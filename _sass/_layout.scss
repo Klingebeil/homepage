@@ -284,8 +284,8 @@ img {
 	background-color: $white;
 	border-radius: 10px;
 	color: $contrast-green;
-	width: 30vw;
-	height: 40vh;
+	width: 32%;
+	height: 30vh;
 	padding: 10px 10px 10px 10px;
 	//font-family: mono-space, 'Courier New', Courier, monospace;
 	text-decoration: none !important;
@@ -299,7 +299,7 @@ img {
 
 
 	@media (max-width: 900px) {
-		width: 40vw;
+		width: 42%;
 		height: 30vh;
 	 }
 
@@ -353,7 +353,7 @@ img {
 	cursor: default;
 
 	@media (max-width: 900px) {
-		width: calc(80vw + 1rem);
+		width: calc(84% + 1rem);
 		height: auto;
 	 }
 }
