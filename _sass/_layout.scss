@@ -331,10 +331,6 @@ img {
 		background-color: $contrast-green;
 	}
 
-	& img {
-		rotate: 10deg;
-	}
-
 	& img:hover {
 		transform: scale(1.5);
 		transition: transform .5s;
