@@ -46,7 +46,7 @@
       <div id="notes-list" class="flex">
       {% for item in notes %}
           {% unless item.path contains "index.html" %}
-              <div class="notes">
+              <div class="notes hairline">
                 <div class="notes_content">
                   <!--<div class="mono-space small no-decoration capitalize color-green"><a href="{{ site.baseurl }}{{item.url}}">{{item.title }}</a></div>-->
                   {{ item.content | markdownify }}

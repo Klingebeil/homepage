@@ -1,13 +1,13 @@
 // COLOR VARIABLES
-$main-txt-color: #1D1D1D;
-$contrast-color: #FD675E;
-$light-grey: #e6e6e6;
-$dark-grey: #8E9B9D;
-$light-yellow: #fff17A; //#F8F4C6;
-$background: #EFEFEF;
-$white: hsl(0, 0%, 100%);
-$contrast-green: #5CBE74; //#68B053;
-$contrast-purple: #855AE0;
+$main-txt-color: rgb(29, 29, 29);
+$contrast-color: rgb(253, 103, 94);
+$light-grey: rgb(230, 230, 230);
+$dark-grey: rgb(142, 155, 157);
+$light-yellow: rgb(255, 241, 122); //#F8F4C6;
+$background: rgb(239, 239, 239);
+$white: rgb(255, 255, 255);
+$contrast-green: rgb(92, 190, 116); //#68B053;
+$contrast-purple: rgb(133, 90, 224);
 
 
 
@@ -734,10 +734,10 @@ img {
 .notes {
     margin: 0px 0px 20px 0px;
 	max-width: 45%;
-    border-top: 1px solid $contrast-green;
-	background-color: $white;
+    //border-top: 1px solid $contrast-green;
+	background-color: $light-grey;
 	//padding: 0px 5px 5px 5px;
-	border-radius: 0px 0px 5px 5px;
+	border-radius: 10px;
 	position: relative;
 
 	& img {
@@ -758,12 +758,12 @@ img {
 		bottom: 0;
 		width: 100%;
 		height: 50%;
-		border-radius: 0px 0px 5px 5px;
-		background: -webkit-linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(255 255 255) 90%);
-		background-image: -ms-linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 90%);
-		background-image: linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 90%);
-		background-image: -moz-linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 90%);
-		background-image: -o-linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 90%);
+		border-radius: 0px 0px 10px 10px;
+		background: -webkit-linear-gradient(rgba($light-grey, 0%) 0%, $background 90%);
+		background-image: -ms-linear-gradient(rgba($light-grey, 0%) 0%, $background 90%);
+		background-image: linear-gradient(rgba($light-grey, 0%) 0%, $background 90%);
+		background-image: -moz-linear-gradient(rgba($light-grey, 0%) 0%, $background 90%);
+		background-image: -o-linear-gradient(rgba($light-grey, 0%) 0%, $background 90%);
 		pointer-events: none;
 	}
 
