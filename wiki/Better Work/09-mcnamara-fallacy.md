@@ -5,6 +5,7 @@ first-commit: 2022-12-05
 last-updated: 2022-12-05
 ---
 
+# McNamara Fallacy
 Summary for quick reference. Relevant in the context of decision-making and uncertainty.
 
 When you prioritize easily measured data points over more elusive information when making decisions, you might fall victim to the McNamara fallacy.

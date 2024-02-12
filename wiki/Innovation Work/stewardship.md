@@ -10,7 +10,7 @@ linked-notes:
 - trojan-horses
 ---
 
-## Notes on Stewardship
+# Notes on Stewardship
 
 *Stewardship* is an idea I first came across in Dan Hills “*Dark Matter and Trojan Horses*” and later “*Legible Practices*”. It describes a management approach for new projects, especially in the context of innovation work:
 

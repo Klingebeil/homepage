@@ -7,7 +7,6 @@ last-updated: 2021-12-06
 ---
 
 # The Sociology of Expectations
-
 Expectations (or visions, trend reports, forecasts or "hype") are a fundamental driver for the development, advancement and implementation of technology in society. They are not neutral observations, but part of these developments.
 
 **The shared expectations of a future help all actors (developers, investors, politicians, etc.) to pull together and realise this vision**[^1].

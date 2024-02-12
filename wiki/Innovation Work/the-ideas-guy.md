@@ -5,6 +5,7 @@ first-commit: 2022-12-28
 last-updated: 2022-12-28
 ---
 
+# The ideas guy
 The ideas guy is a common phenomenon in corporate settings (or LinkedIn):
 
 > Somebody who can come up with endless lists of ideas, some good and some bad, but lacks the skills and / or motivation to execute any of them.[^1]

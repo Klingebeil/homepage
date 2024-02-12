@@ -3,7 +3,7 @@ layout: wikicrumb
 title: Critical AI Reading List
 first-commit: 2021-01-11
 ---
-# A Critical Reading List
+# A Critical AI Reading List
 {:.no_toc}
 
 1. this unordered seed list will be replaced by toc as unordered list

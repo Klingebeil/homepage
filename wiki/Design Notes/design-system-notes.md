@@ -5,6 +5,7 @@ first-commit: 2022-12-05
 last-updated: 2022-10-16
 ---
 
+# Notes on gardening a design system
 These are a couple of notes about building and managing a design system at the *[Media Lab Bayern](https://www.media-lab.de/de/)*.
 
 The updates are written in reverse chronological order with a date added to each.

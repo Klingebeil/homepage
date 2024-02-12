@@ -5,6 +5,7 @@ first-commit: 2023-01-30
 last-updated: 2023-01-30
 ---
 
+# Ditching the Post-It
 While the post-it (or sticky note, if you‘d like to avoid the 3M trademark) is a useful tool in a physical office, it‘s virtual cousin is a skeuomorphic crux to be left behind.
 
 They suffer the same draw-backs (lack of context, lack of coherence, lack of accountability and a general illusion of having written a *finished thought*) but without the main argument for using one (they‘re sticky and thus actually useful in a physical setting).

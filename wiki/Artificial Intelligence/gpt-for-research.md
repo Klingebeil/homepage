@@ -5,6 +5,7 @@ last-updated: 2023-01-11
 first-commit: 2021-12-28
 ---
 
+# Using ChatGPT for research & writing
 These are a couple of notes and prompts I collected while using *GPT* in a research and writing project.
 
 1. this unordered seed list will be replaced by toc as unordered list

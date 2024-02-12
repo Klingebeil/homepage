@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb
-title: Work Infrastructing
+title: Work Infrastructuring
 first-commit: 2023-07-5
 last-updated: 2023-07-9
 linked-notes:
@@ -8,7 +8,6 @@ linked-notes:
 ---
 
 # Work Infrastructuring
-
 Lately I‘ve been doing a lot of reading on the concept of infrastructure or to be more precise the connections between infrastructures of work. 
 
 As in the assembly of tools, processes, knowledge and standards build up over years by people to enable *good* work.

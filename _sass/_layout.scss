@@ -97,6 +97,8 @@ body {
 				0px 32px 24px rgba(125, 125, 125, 0.08);
 }
 
+.hairline {border: .5px solid hsl(0deg 0% 0% / 15%);}
+
 /* IMAGES */
 img {
 	max-width: 100%;
@@ -285,10 +287,8 @@ img {
 	border-radius: 10px;
 	color: $contrast-green;
 	width: calc((100% - 2rem)/3);
-	//width: 32%;
 	height: 40vh;
 	padding: 10px 10px 10px 10px;
-	//font-family: mono-space, 'Courier New', Courier, monospace;
 	text-decoration: none !important;
 	display: block !important;
 	overflow: hidden;
@@ -735,8 +735,9 @@ img {
 	max-width: 45%;
     border-top: 1px solid $contrast-green;
 	background-color: $white;
-	padding: 0px 5px 5px 5px;
+	//padding: 0px 5px 5px 5px;
 	border-radius: 0px 0px 5px 5px;
+	position: relative;
 
 	& img {
 		max-width: 100%;
@@ -749,6 +750,27 @@ img {
 
 	& h3 {
 		font-size: 1em;
+	}
+
+	& .fadeout {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		height: 50%;
+		border-radius: 0px 0px 5px 5px;
+		background: -webkit-linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(255 255 255) 90%);
+		background-image: -ms-linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 90%);
+		background-image: linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 90%);
+		background-image: -moz-linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 90%);
+		background-image: -o-linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 90%);
+		pointer-events: none;
+	}
+
+	& .float {
+		position: absolute;
+		z-index: 100;
+		bottom: 15px;
+		left: 10px;
 	}
 
 	@media (max-width: 1024px) {

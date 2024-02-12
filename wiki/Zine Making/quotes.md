@@ -1,9 +1,10 @@
 ---
 layout: wikicrumb
-title: Quotes about Zines and Self-Publishing
+title: Quotes on Zines and Self-Publishing
 first-commit: 2023-10-03
 last-updated: 2023-10-03
 ---
+# Quotes on Zines and Self-Publishing
 
 > There is no speech or performance addressed to a public that does not try to specify in advance, in countless highly condensed ways, the lifeworld of its circulation: not just through its discursive claims—of the kind that can be said to be oriented to understand- ing—but through the pragmatics of its speech genres, idioms, stylistic markers, address, temporality, mise en scène, citational field, interlocutory protocols, lexicon, and so on. Its circulatory fate is the realization of that world.
 >  

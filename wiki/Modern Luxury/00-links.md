@@ -2,7 +2,8 @@
 layout: wikicrumb
 title: Luxury Links 
 ---
-**Links**
+
+# Links
 
 [The Premium Mediocre Life of Maya Millennial][1] (Venkatesh Rao)
 
