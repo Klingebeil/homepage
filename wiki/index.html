@@ -8,19 +8,10 @@ title: Digital Garden
     {% include header_wiki.html %}
   </div>
 </div>
-
 <div class="row">
-  <div class="column-50">
+  <div class="column-100">
     {% include wikibreadcrumb.html %}
-    <div class="intro">
-      <blockquote>I am committed to tending to this world as a gardener. I am committed to cultivating new shoots, new stories, new hopes, new futures. I do this work with dirt under my nails, with curiosity, reverence and respect.<br><br>—<i>Georgina Reid</i></blockquote><br>
-      <p>This is my personal digital garden, inspired by the work of so many others. This garden is a loose collections of notes and ideas I tend to return to. It works as a quick refernce guide, a way of collecting unfinished ideas and a ressource for others.</p>
-    </div>
-  </div>
-  <div class="column-50">
-    <div class="seg-line color-green">
-      <div class="seg-element mono-space uppercase">Topics</div>
-    </div>
+
     {% assign folders = site.pages | where_exp:"item", "item.path contains 'wiki'" %}
     {% assign wikifolders = "" | split:"" %}
     {% for folder in folders %}
@@ -31,20 +22,27 @@ title: Digital Garden
     {% assign wikifolders = wikifolders | uniq | sort %}
 
     <div id="topic-list">
+      <div class="category-button" id="intro-button" style="background-color: #5CBE74; color: white">
+        <div class="serif" id="category-button-wrapper">
+          <p>This is my personal digital garden, inspired by the work of so many others. </p>
+          <p>This garden is a loose collections of notes and ideas I tend to return to. It works as a quick refernce guide, a way of collecting unfinished ideas and a ressource for others.</p>
+        </div>
+      </div>
       {% for folder in wikifolders %}
         {% assign currentFolder = folder %}
         {% assign folderCount = site.pages | where_exp:"item", "item.path contains currentFolder"%}
         {% unless folder contains 'md' or folder contains 'html' %}
           <a class="category-button" href="/wiki/{{folder}}/">
             <div class="flex" id="category-button-wrapper">
-              <p id="category-title">{{folder}}</p>
-              <p id="note-count">{{folderCount | size | minus:1}}</p>
+              <h1 id="category-title">{{folder}}</h1>
+              <p class="mono-space" id="note-count">{{folderCount | size | minus:1}}</p>
             </div>
+            <img src="{{folder}}/teaser-img.png">
           </a>
         {% endunless %}
       {% endfor %}
     </div>
-    {% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'" | sort:"path" %}
+    <!--{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki'" | sort:"path" %}
     <div class="seg-line color-green">
       <div class="seg-element mono-space uppercase">All notes ({{folder1 | size | minus:1}})</div>
     </div>
@@ -56,7 +54,7 @@ title: Digital Garden
         </svg><span>{{item.title}}</span>
       </a></p>
     {% endfor %}
-    </div>
+    </div>-->
   </div>
 </div>
 

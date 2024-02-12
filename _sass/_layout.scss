@@ -282,31 +282,41 @@ img {
 
 .category-button {
 	background-color: $white;
+	border-radius: 10px;
 	color: $contrast-green;
-	border-bottom: solid 1px $contrast-green;
-	width: 100%;
+	width: 30vw;
+	height: 40vh;
 	padding: 10px 10px 10px 10px;
-	font-family: mono-space, 'Courier New', Courier, monospace;
+	//font-family: mono-space, 'Courier New', Courier, monospace;
 	text-decoration: none !important;
 	display: block !important;
-	overflow: auto;
+	overflow: hidden;
 	box-sizing: border-box;
 
 	cursor: pointer;
-	transition: all 400ms 0ms;
+	transition: all .2s;
+	transition-timing-function: ease-in-out;
+
+
+	@media (max-width: 900px) {
+		width: 40vw;
+		height: 30vh;
+	 }
 
 	& #category-title {
 		margin: 0px;
-		font-size: 0.8em;
+		font-size: 2em;
 		line-height: 1.2em;
 		font-weight: normal;
-		padding: 5px 0px;
+		padding: 5px;
 	}
 
 	& #note-count {
 		text-transform: uppercase;
 		font-size: 0.6em;
 		margin: 0;
+		padding: 10px;
+		border-left: 1px solid;
 	}
 
 	&:hover {
@@ -314,17 +324,38 @@ img {
 		background-color: $contrast-green;
 	}
 
+	& img {
+		rotate: 10deg;
+	}
+
+	& img:hover {
+		transform: scale(1.5);
+		transition: transform .5s;
+		transition-timing-function: ease-in-out;
+		
+	}
+
 	& #category-button-wrapper {
-		height: 1em;
-		align-items: center;
+		align-items: flex-start;
 		justify-content: space-between;
 		gap: 0em;
-		@media (max-width: 900px) {
+		margin-bottom: 10%;
+		border-top: solid 1px;
+		/*@media (max-width: 900px) {
 			flex-direction: column;
 			align-items: flex-start;
 			height: 5em;
-		 }
+		 }*/
 	}
+}
+
+#intro-button {
+	cursor: default;
+
+	@media (max-width: 900px) {
+		width: calc(80vw + 1rem);
+		height: auto;
+	 }
 }
 
 /* FOOTER */
@@ -623,8 +654,12 @@ img {
 
 #topic-list {
     margin: 50px 0px 50px 0px;
-	border-top: solid 1px $contrast-green;
+	//border-top: solid 1px $contrast-green;
 	overflow: auto;
+	display: flex; 
+	flex-direction: row; 
+	gap: $spacing-small;
+	flex-wrap: wrap;
 
 	& .button {
 		margin: 4px;
@@ -689,7 +724,7 @@ img {
     margin: 0px 0px 20px 0px;
 	max-width: 45%;
     border-top: 1px solid $contrast-green;
-	background-color: $light-grey;
+	background-color: $white;
 	padding: 0px 5px 5px 5px;
 	border-radius: 0px 0px 5px 5px;
 
