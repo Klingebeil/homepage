@@ -1,11 +1,11 @@
 ---
 layout: wikicrumb 
-title: "Tips for Critique & Feedback"
+title: "Tipps for Critique & Feedback"
 first-commit: 2022-07-28
 last-updated: 2022-12-05
 ---
 
-# Tips for Critique & Feedback
+# Tipps for Critique & Feedback
 
 A collection of notes for quick reference.
 
