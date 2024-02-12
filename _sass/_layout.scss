@@ -728,7 +728,6 @@ img {
 }
 
 .notes {
-    margin: 0px 0px 20px 0px;
 	max-width: 45%;
     //border-top: 1px solid $contrast-green;
 	background-color: $light-grey;
@@ -772,7 +771,6 @@ img {
 
 	@media (max-width: 1024px) {
 		max-width: 100%;
-		margin: 0px 0px 20px 0px;
 	}
 }
 
