@@ -99,6 +99,8 @@ body {
 
 .hairline {border: .5px solid hsl(0deg 0% 0% / 15%);}
 
+.inline {display: inline-block;}
+
 /* IMAGES */
 img {
 	max-width: 100%;
@@ -863,6 +865,17 @@ img {
 		max-height: 200px;
 	}
 }
+
+/* -- ANIMATIONS -- */
+.sway {
+    animation: sway 8s infinite;
+    transform-origin: 50% 100% 0;
+}
+@keyframes sway {
+    0%, 100%{ transform: rotate(-6deg);}
+    50%{ transform: rotate(6deg); }
+}
+
 /* -- MEDIA QUERIES -- */
 @media (max-device-width: 1020px) { 
 	.content-wrapper {
