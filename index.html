@@ -19,49 +19,47 @@ title: Johannes Klingebiel
   <div class="intro">
     <p class="mono-space small uppercase">Hello, Hallo, Griaß di,</p>
     <h2>I am a designer and researcher currently working as a program manager at the <span class="small-caps">Media Lab Bayern</span><a class="no-decoration color" href="https://www.media-lab.de/">*</a> in Munich.</h2>
-    <h2><a class="button uppercase small" href="{{site.baseurl}}/portfolio">My personal projects</a> are focussed on exploring possible futures for the news media.</h2>
-    <h2>I write a (<i>German</i>) <a class="button uppercase small" href="https://klingebeil.substack.com/">Newsletter</a> and you can follow me on <a class="button uppercase small" href="https://twitter.com/Klingebeil">Twitter</a>, <a class="button uppercase small" rel="me" href="https://newsie.social/@klingebeil">Mastodon</a>, <a class="button uppercase small" href="https://www.are.na/johannes-klingebiel">Are.na</a>, or <a class="button uppercase small" href="https://www.instagram.com/klingebeil">Instagram</a>.</h2>
-    <h2>We can also always <a class="button uppercase small" href="mailto:johannes.klingebiel@gmail.com">have a chat ✌🏻</a></h2>
+    <h2><a class="button hairline uppercase small" href="{{site.baseurl}}/portfolio">My personal projects</a> are focussed on exploring possible futures for the news media.</h2>
+    <h2>I write a (<i>German</i>) <a class="button uppercase small" href="https://klingebeil.substack.com/">Newsletter</a> and you can follow me on <a class="button hairline uppercase small" href="https://twitter.com/Klingebeil">Twitter</a>, <a class="button hairline small" rel="me" href="https://newsie.social/@klingebeil">Mastodon</a>, <a class="button hairline small" href="https://www.are.na/johannes-klingebiel">Are.na</a>, or <a class="button hairline uppercase small" href="https://www.instagram.com/klingebeil">Instagram</a>.</h2>
+    <h2>We can also always <a class="button hairline uppercase small" href="mailto:johannes.klingebiel@gmail.com">have a chat ✌🏻</a></h2>
     <div class="centered flex items-center">
       <img style="width: 50%; z-index: 100; transform: rotate(-8deg);" src="/img/portfolio/hype-field-guide/cfgh-00cover.png">
       <div class="hairline" style="color: #EFEFEF; background-color: #fd675e; padding: 10px 20px; border-radius: 20px; transform: rotate(4deg); margin-left: -30px; box-shadow: 0px 1px 1px rgba(235, 113, 100, 0.05), 0px 2px 4px rgba(235, 113, 100, 0.11), 0px 5px 9px rgba(235, 113, 100, 0.16), 0px 10px 16px rgba(235, 113, 100, 0.22), 0px 15px 25px rgba(235, 113, 100, 0.27);">
         <p class="mono-space small uppercase">My latest project</p>
       <h2>A small field guide on the uses and misuses of hype.</h2> 
-      <p><a style="color: #fd675e" class="button uppercase small" href="{{site.baseurl}}/portfolio/a-field-guide-to-hype.html">Grab one!</a></p>
+      <p><a style="color: #fd675e" class="hairline button uppercase small" href="{{site.baseurl}}/portfolio/a-field-guide-to-hype.html">Grab one!</a></p>
       </div>
     </div>
     
-    <h2 class="hairline" style="color: #EFEFEF; background-color: #3863ff; padding: 20px; border-radius: 20px; transform: rotate(-3deg); box-shadow: 0px 1px 1px rgba(66, 98, 246, 0.05), 0px 2px 4px rgba(66, 98, 246, 0.11), 0px 5px 9px rgba(66, 98, 246, 0.16), 0px 10px 16px rgba(66, 98, 246, 0.22), 0px 15px 25px rgba(66, 98, 246, 0.27);">In 2021 I <a style="color: #0074df" class="button uppercase small" href="{{site.baseurl}}/portfolio/work-in-progress">published a zine</a> in German about my experiences and learnings from working in an innovation team for four years. ✨</h2>
+    <h2 class="hairline" style="color: #EFEFEF; background-color: #3863ff; padding: 20px; border-radius: 20px; transform: rotate(-3deg); box-shadow: 0px 1px 1px rgba(66, 98, 246, 0.05), 0px 2px 4px rgba(66, 98, 246, 0.11), 0px 5px 9px rgba(66, 98, 246, 0.16), 0px 10px 16px rgba(66, 98, 246, 0.22), 0px 15px 25px rgba(66, 98, 246, 0.27);">In 2021 I <a style="color: #0074df" class="button hairline uppercase small" href="{{site.baseurl}}/portfolio/work-in-progress">published a zine</a> in German about my experiences and learnings from working in an innovation team for four years. ✨</h2>
   </div>
 
   <div class="seg-line">
     <div class="uppercase mono-space seg-element">Writing</div>
-    <div class="uppercase mono-space button"><a href="feed.xml">RSS &#x279E;</a></div>
+    <div class="uppercase mono-space button hairline"><a href="feed.xml">RSS &#x279E;</a></div>
     <!--Article List-->
     <div class="article-list">
         {% for post in site.posts limit:8 %}
             <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }}, </h2></a>
-        {% endfor %}<a id="btn-all-articles" class="button" href="{{site.baseurl}}/articles.html"> All Articles &#x279E;</a>
+        {% endfor %}<a id="btn-all-articles" class="hairline button" href="{{site.baseurl}}/articles.html"> All Articles &#x279E;</a>
     </div>
   </div>
   
   <!-- Notes List -->
   {% assign noteslist = site.pages | where_exp: "item" , "item.path contains 'wiki'" | sort:"last-updated" | reverse %}
-  <div class="seg-line">
-    <div class="seg-element mono-space uppercase">Latest notes</div>
+  <!--<div class="seg-line">
+    <div class="seg-element mono-space uppercase">Notes</div>
     <div class="button color-green"><a href="{{ site.baseurl }}/wiki/index.html">Digital Garden &#x279E;</a></div>
-  </div>
-  <div id="allnotes-list" class="mono-space">
-  {% for item in noteslist limit: 10 %}
-    <p>
-      <svg class="svg-icon" viewBox="0 0 20 20">
-        <path d="M15.475,6.692l-4.084-4.083C11.32,2.538,11.223,2.5,11.125,2.5h-6c-0.413,0-0.75,0.337-0.75,0.75v13.5c0,0.412,0.337,0.75,0.75,0.75h9.75c0.412,0,0.75-0.338,0.75-0.75V6.94C15.609,6.839,15.554,6.771,15.475,6.692 M11.5,3.779l2.843,2.846H11.5V3.779z M14.875,16.75h-9.75V3.25h5.625V7c0,0.206,0.168,0.375,0.375,0.375h3.75V16.75z"></path>
-      </svg>
-      <a href="{{ item.url }}">
-        <span>{{item.title}}</span>
-      </a>
+  </div>-->
+  <div id="allnotes-list" class="hairline" style="background-color: rgb(230, 230, 230); padding: 20px; border-radius: 20px; rotate: 0.5deg; box-shadow: 0px 0px 0px rgba(118, 188, 123, 0.04),0px 1px 2px rgba(118, 188, 123, 0.08),0px 2px 4px rgba(118, 188, 123, 0.12),0px 3px 6px rgba(118, 188, 123, 0.16),0px 5px 10px rgba(118, 188, 123, 0.20);">
+    <h2>This is my personal <a class="button color-green hairline" href="{{ site.baseurl }}/wiki/index.html">Digital Garden</a></h2>
+    <p> A loose collections of notes and ideas I tend to return to. It works as a quick refernce guide, a way of collecting unfinished ideas and a ressource for others. <span class="color-green">𖤣.𖥧.𖡼.⚘</span></p>
+    <p class="mono-space small">
+      <span class="uppercase color-green">Latest Notes:</span>
+    {% for item in noteslist limit: 6 %}
+      <span class="color-green">● </span><a href="{{ item.url }}">{{item.title}}</a>
+    {% endfor %}
     </p>
-  {% endfor %}
   </div>
 </div>
 
