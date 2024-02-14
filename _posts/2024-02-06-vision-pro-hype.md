@@ -33,7 +33,7 @@ There’s just not enough room for uncertainty to make speculation seem believab
 
 > This is a first generation. The first iPhone was also not that impressive. Just wait for the second and third generation. This is *the future*!
 
-Again, it’s impossible from the present to ascertain if these claims are true or wrong. But what is possible to dissect is the basic argument here: because this has happened, it will happen again, which is why I can now speculate about *the future*. It is an attempt to open up the space for hyperbolic claims, to induce *permissive uncertainty* in the discourse.
+Again, it’s impossible from the present to ascertain if these claims are true or wrong. But what is possible to dissect is the basic argument here: because this has happened before and it will happen again, which is why I can now speculate about *the future*. It is an attempt at openning up the space for hyperbolic claims, to induce *permissive uncertainty* in the discourse.
 
 This is why I was positively surprised when *The Verge* closed their [excellent product review](https://youtu.be/hdwaWxY11jQ?si=Hy-8MTowTGIaZ_fE&t=1605) by stating how they’re only reviewing what’s in the box, not what the device might imply for the future. Which is not only good journalism but also simply a good way of analyzing new technologies: taking a good and long look inside the (black) box.
 
