@@ -290,7 +290,7 @@ img {
 	border-radius: 10px;
 	color: $contrast-green;
 	width: calc((100% - 2rem)/3);
-	height: 40vh;
+	height: 30vh;
 	padding: 10px 10px 10px 10px;
 	text-decoration: none !important;
 	display: block !important;
@@ -314,7 +314,6 @@ img {
 
 	& #category-title {
 		margin: 0px;
-		font-size: 2em;
 		line-height: 1.2em;
 		font-weight: normal;
 		padding: 5px;
@@ -344,7 +343,7 @@ img {
 		align-items: flex-start;
 		justify-content: space-between;
 		gap: 0em;
-		margin-bottom: 10%;
+		margin-bottom: 7.5%;
 		border-top: solid 1px;
 		/*@media (max-width: 900px) {
 			flex-direction: column;
@@ -662,8 +661,7 @@ img {
 }
 
 #topic-list {
-    margin: 50px 0px 50px 0px;
-	padding: 10px;
+    margin: 0px 0px 50px 0px;
 	//border-top: solid 1px $contrast-green;
 	overflow: auto;
 	display: flex; 
