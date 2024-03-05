@@ -2,10 +2,10 @@
 layout: portfolio
 title: Edgeland
 date: 2017-08-14
-category: Event
+category: Branding
 teaser-img: portfolio/edgeland/edgeland-teaser.jpg
 summary: TBA
-published: false
+published: true
 ---
 # Edgeland
 
