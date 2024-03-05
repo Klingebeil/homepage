@@ -24,34 +24,27 @@ title: Portfolio
       <div class="seg-line resp-no-display"></div>
 </div>
 
-<div class="column-50">
-    {% assign work_items = site.portfolio | sort: 'date' | reverse %}
+<div class="column-75">
+  {% assign work_items = site.portfolio | sort: 'date' | reverse %}
 
-    <ul class="project-list">
-      {% for article in work_items %}
-        {% unless article.path contains "index.html" %}
-        <li class="seg-line">
-          <div class="seg-element mono-space project-year">{{ article.date | date: "%Y" }}</div>
-          <div class="seg-element uppercase mono-space">{{ article.category }}</div>
-          <a class="no-decoration" href="{{ site.baseurl }}{{ article.url }}">
-            <div class="project-summary">
-              <img class="portfolio-teaser-img" src="{{site.baseurl}}/img/{{ article.teaser-img }}" alt="{{ article.title }} Teaser Image">
-              <div class="portfolio-project-text">
-                <h2 class=" project-title">{{ article.title }}</h2>
-                <p>{{ article.summary }}</p>
-              </div>
+  <div class="flex-list seg-line">
+    {% for article in work_items %}
+      {% unless article.path contains "index.html" %}
+        <a class="card-50 flex-column justify-between portfolio-category-button hairline" href="{{ site.baseurl }}{{ article.url }}">
+          <div class="flex" id="wiki-category-button-wrapper">
+            <div class="seg-element mono-space project-year">{{ article.date | date: "%Y" }}</div>
+            <div class="seg-element uppercase mono-space">{{ article.category }}</div>
+            <div>
+              <h2 class="project-title">{{ article.title }}</h2>
+              <p>{{ article.summary }}</p>
             </div>
-          </a>
-        </li>
-        {% endunless %}
-      {% endfor %}
-    </ul>
+          </div>
+          <img class="portfolio-teaser-img" src="{{site.baseurl}}/img/{{ article.teaser-img }}" alt="{{ article.title }} Teaser Image">
+        </a>
+      {% endunless %}
+    {% endfor %}
+    </div>
 </div>
-
-<div class="column-25">
-  <div class="seg-line"> </div>
-</div>
-
 </div>
 
 {% include footer.html %}
