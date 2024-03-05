@@ -344,11 +344,9 @@ img {
 .card-30, .card-50, .card-60, .card-100 {
 	@media (max-width: 900px) {
 		width: calc((100% - 1rem)/2);
-		height: 30vh;
 	}
 	@media (max-width: 400px) {
 		width: 100%;
-		height: 40vh;
 	}
 }
 
@@ -400,6 +398,13 @@ img {
 		gap: 0em;
 		margin-bottom: 7.5%;
 		border-top: solid 1px;
+	}
+
+	@media (max-width: 900px) {
+		height: 30vh;
+	}
+	@media (max-width: 400px) {
+		height: 40vh;
 	}
 }
 
