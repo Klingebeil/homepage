@@ -48,7 +48,7 @@ body {
 	flex-direction: row; 
 	gap: $spacing-small;
 	flex-wrap: wrap;
-	padding-top: 10px;
+	padding-top: $spacing-small;
 }
 .justify-center { justify-content: center;}
 .justify-start {justify-content:flex-start;}
@@ -706,19 +706,6 @@ img {
     border-radius: 5px;
 	overflow: auto;
 }
-
-#flex-list {
-	overflow: auto;
-	display: flex; 
-	flex-direction: row; 
-	gap: $spacing-small;
-	flex-wrap: wrap;
-
-	& .button {
-		margin: 4px;
-	}
-}
-
 
 /* LIST OF NOTES */
 #notes-list {
