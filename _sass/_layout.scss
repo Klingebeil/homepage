@@ -56,6 +56,7 @@ body {
 	}
 }
 .justify-center { justify-content: center;}
+.justify-start {justify-content:flex-start;}
 .justify-between { justify-content: space-between;}
 .items-center { align-items: center;}
 
@@ -209,7 +210,6 @@ img {
 
 	& #wiki-category-button-wrapper {
 		align-items: flex-start;
-		justify-content: space-between;
 		gap: 0em;
 		margin-bottom: 7.5%;
 		border-top: solid 1px;

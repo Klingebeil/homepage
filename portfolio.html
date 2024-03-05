@@ -31,7 +31,7 @@ title: Portfolio
     {% for article in work_items %}
       {% unless article.path contains "index.html" %}
         <a class="card-50 flex-column justify-between portfolio-category-button hairline" href="{{ site.baseurl }}{{ article.url }}">
-          <div class="flex" id="wiki-category-button-wrapper">
+          <div class="flex justify-start" id="wiki-category-button-wrapper">
             <div class="seg-element mono-space project-year">{{ article.date | date: "%Y" }}</div>
             <div class="seg-element uppercase mono-space">{{ article.category }}</div>
             <div>
