@@ -26,32 +26,31 @@ title: Digital Garden
       <h1>{{page.title}}</h1>
       <p>This garden is a loose collections of notes and ideas I tend to return to. It works as a quick refernce guide, a way of collecting unfinished ideas and a ressource for others.</p>
     </div>
-    <div class="seg-line color-green"></div>  
-    <div id="allnotes-list" class="color-green small">
-        {% for item in notes %}
-        {% unless item.path contains "index.html" %}
-        <p class="mono-space capitalize color-text"><a href="{{ site.baseurl }}{{item.url}}">
-          <svg class="svg-icon" viewBox="0 0 20 20">
-            <path d="M15.475,6.692l-4.084-4.083C11.32,2.538,11.223,2.5,11.125,2.5h-6c-0.413,0-0.75,0.337-0.75,0.75v13.5c0,0.412,0.337,0.75,0.75,0.75h9.75c0.412,0,0.75-0.338,0.75-0.75V6.94C15.609,6.839,15.554,6.771,15.475,6.692 M11.5,3.779l2.843,2.846H11.5V3.779z M14.875,16.75h-9.75V3.25h5.625V7c0,0.206,0.168,0.375,0.375,0.375h3.75V16.75z"></path>
-          </svg>{{item.title }}</a></p>        
-        {% endunless %}
-        {% endfor %}
-      </div>
     <div class="seg-line color-green resp-no-display"></div>
   </div>
   <div class="column-75">
-    <div id="topic-list">
+    <div class="flex-list seg-line color-green">
       {% for folder in wikifolders %}
         {% assign currentFolder = folder %}
         {% assign folderCount = site.pages | where_exp:"item", "item.path contains currentFolder"%}
         {% unless folder contains 'md' or folder contains 'html' %}
-          <a class="category-button hairline" href="/wiki/{{folder}}/">
-            <div class="flex" id="category-button-wrapper">
-              <h2 id="category-title">{{folder}}</h2>
-              <p class="mono-space" id="note-count">{{folderCount | size | minus:1}}</p>
-            </div>
-            <img src="{{folder}}/teaser-img.png">
-          </a>
+          {%if folderCount.size > 5 %}
+            <a class="card-60 wiki-category-button hairline" href="/wiki/{{folder}}/">
+              <div class="flex" id="wiki-category-button-wrapper">
+                <h2 id="category-title">{{folder}}</h2>
+                <p class="mono-space" id="note-count">{{folderCount | size | minus:1}}</p>
+              </div>
+              <img src="{{folder}}/teaser-img.png">
+            </a>
+          {% else %}
+            <a class="card-30 wiki-category-button hairline" href="/wiki/{{folder}}/">
+              <div class="flex" id="wiki-category-button-wrapper">
+                <h2 id="category-title">{{folder}}</h2>
+                <p class="mono-space" id="note-count">{{folderCount | size | minus:1}}</p>
+              </div>
+              <img src="{{folder}}/teaser-img.png">
+            </a>
+          {% endif %}
         {% endunless %}
       {% endfor %}
     </div>
