@@ -23,7 +23,7 @@ body {
 
 /* -- TYPOGRAPHY MODIFIERS -- */
 .color {
-	color: $contrast-color !important;
+	color: $contrast-primary !important;
 }
 
 .color-green {
@@ -31,7 +31,7 @@ body {
 }
 
 .color-red {
-	color: $contrast-color !important;
+	color: $contrast-primary !important;
 }
 
 .color-dark-gray {
@@ -347,7 +347,7 @@ sup {
 	font-size: 8px;
 	margin-left: 3px;
 	vertical-align: text-top;
-	color: $contrast-color;
+	color: $contrast-primary;
 	font-family: $mono-space;
 }
 .footnotes {
@@ -372,7 +372,7 @@ sup {
 	& ol > li:before {
 		content: "[" counter(list) "] ";
     	counter-increment: list;
-		color: $contrast-color;
+		color: $contrast-primary;
 		font-size: $font-small;
 
 		left: -40px;
