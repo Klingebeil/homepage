@@ -5,6 +5,7 @@ date: 2017-12-14
 category: Talk
 teaser-img: portfolio/talk-gdm17/talk-gdm17-teaser.jpg
 summary: A short talk I was invited to give at the GDM17 on the narratives around AR and VR.
+published: false
 ---
 # Ein unvollständiger Reiseführer für die Zukunft von AR & VR
 At the end of 2017, I was invited by the German _Institut für digitales Lernen_ (institute for digital learning) to give a talk at their yearly education conference on the narratives and future imaginations around virtual and augmented reality.
