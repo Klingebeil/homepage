@@ -242,9 +242,19 @@ img {
 
 /* TABLE OF CONTENT */
 
+#toc-wrapper{
+	margin: 11px 0px;
+	text-transform: uppercase;
+
+	summary::marker {
+		padding-right: 5px;
+	}
+}
+
 #toc {
+	padding: 0px 0px 0px 10px;
 	ul {
-		padding:0px;
+		padding: 0px;
 		list-style: none;
 		font-weight: bold;
 	}
@@ -253,6 +263,8 @@ img {
 		padding-left: $spacing-small;
 		font-weight: normal;
 	}
+
+	li a {text-decoration: none !important;}
 }
 
 /* -- INDEX PAGE --*/
