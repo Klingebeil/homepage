@@ -240,6 +240,21 @@ img {
 	display: none;
 }
 
+/* TABLE OF CONTENT */
+
+#toc {
+	ul {
+		padding:0px;
+		list-style: none;
+		font-weight: bold;
+	}
+
+	ul ul {
+		padding-left: $spacing-small;
+		font-weight: normal;
+	}
+}
+
 /* -- INDEX PAGE --*/
 
 .intro {

@@ -23,11 +23,15 @@
             {% endif %}
             <div class="seg-line_dotted"></div>
             <p>CATEGORY: {{ page.category | capitalize }}</p>
+            {% if page.toc == true %}
+                <div class="seg-line"><p class="seg-element uppercase">Table of Contents</p></div>
+                {% include java-toc.html %}
+            {% endif %}
             <div class="seg-line resp-no-display"></div></div>
         <div class="column-50">
             <div class="seg-line uppercase mono-space">
             </div>
-            <div class="article-wrapper">
+            <div class="article-wrapper" role="article">
                 {{ content }}
             </div>
         </div>
