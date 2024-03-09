@@ -5,6 +5,7 @@ title: The five Levels of Hype
 subtitle: Trying to categorize exuberance
 date: 2022-01-12
 teaser-img: 2022-01-12-teaser.png
+toc: true
 linked-notes:
 - sociology-of-expectations
 ---
