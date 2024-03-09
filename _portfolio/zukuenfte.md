@@ -14,10 +14,10 @@ Trends are often presented as a monolithic force of nature, reorganizing society
 
 This doesn‘t mean that trends don‘t exist, but their framing is often influenced by the need for new investment vehicles.  Trends are often built, not discovered—especially in the tech industry and there‘s been an almost inexhaustible supply of “the next big thing” for media companies over the last decade, be that VR, AR, blockchain, artificial intelligence, or… iPads.
 
-As a result, we observed high levels of FOMO (fear of missing out) in the questions managers asked us as uncertainty took root. People were anxious about another possible disruption of the media industry if we missed a new development, failed to invest in a new startup, or didn‘t use the latest technology. What was needed was an internal counter-weight to structure and reframe those discussions.
+As a result, we observed high levels of _FOMO_ (fear of missing out) in the questions managers asked us as uncertainty took root. People were anxious about another possible disruption of the media industry if we missed a new development, failed to invest in a new startup, or didn‘t use the latest technology. What was needed was an internal counter-weight to structure and reframe those discussions.
 
 ## The reports
-In collaboration with the Berlin-based consulting agency _Third Wave_, we developed the quarterly internal report _Zukünfte_ (Engl. “futures”) for the Süddeutsche Zeitung. Focussed on new technologies we combined short explorations of each trend with different case-studies to create a magazine that would be useful not only to our managers but also to our colleagues.
+In collaboration with the Berlin-based consulting agency _Third Wave_, we developed the quarterly internal report _Zukünfte_ (Engl. “futures”) for the _Süddeutsche Zeitung_. Focussed on new technologies we combined short explorations of each trend with different case-studies to create a magazine that would be useful not only to our managers but also to our colleagues.
 
 During the project, I did everything including the editorial strategy, research, and the final design parts of the reports. The texts were written by the core team as well as collaborators throughout the organization and freelancers.
 

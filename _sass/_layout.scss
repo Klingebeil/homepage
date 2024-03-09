@@ -3,13 +3,11 @@ $main-txt-color: rgb(29, 29, 29);
 $contrast-primary: rgb(253, 103, 94);
 $light-grey: rgb(230, 230, 230);
 $dark-grey: rgb(142, 155, 157);
-$light-yellow: rgb(255, 241, 122); //#F8F4C6;
+$light-yellow: rgb(255, 241, 122);
 $background: rgb(239, 239, 239);
 $white: rgb(255, 255, 255);
-$contrast-green: rgb(92, 190, 116); //#68B053;
+$contrast-green: rgb(92, 190, 116);
 $contrast-purple: rgb(133, 90, 224);
-
-
 
 // SPACING VARIABLES
 $spacing-small: 1rem;
@@ -50,10 +48,10 @@ body {
 	flex-wrap: wrap;
 	padding-top: $spacing-small;
 }
-.justify-center { justify-content: center;}
+.justify-center {justify-content: center;}
 .justify-start {justify-content:flex-start;}
-.justify-between { justify-content: space-between;}
-.items-center { align-items: center;}
+.justify-between {justify-content: space-between;}
+.items-center {align-items: center;}
 
 .w-100 {width: 100%;}
 .w-50 {width: 50%;}
