@@ -22,11 +22,11 @@
           {% endif %}
           {% if page.first-commit %}
             <div class="seg-line color-green"></div>
-            <p class="mono-space small color-green">First commit: {{ page.first-commit }}</p>
+            <p class="mono-space small color-green"><span class="uppercase">First commit:</span> {{ page.first-commit }}</p>
           {% endif %}
           {% if page.last-updated %}
             <div class="seg-line color-green"></div>
-            <p class="mono-space small color-green">Last updated: {{ page.last-updated }}</p>
+            <p class="mono-space small color-green"><span class="uppercase">Last updated:</span> {{ page.last-updated }}</p>
           {% endif %}
           <!-- Linked Notes based on the include template -->
           {% assign notes = page.linked-notes %}

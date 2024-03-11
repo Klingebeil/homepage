@@ -358,8 +358,8 @@ img {
 .card-60 {width: calc((100% - 0.5rem)*(2/3));}
 .card-100 {width: 100%;}
 
-.card-30, .card-50, .card-60, .card-100 {
-	@media (max-width: 900px) {
+.card-30, .card-50, .card-60 {
+	@media (max-width: 900) {
 		width: calc((100% - 1rem)/2);
 	}
 	@media (max-width: 600px) {
@@ -736,11 +736,7 @@ img {
 #notes-list {
     padding: 0px;
 	margin: 0px;
-	flex-wrap: wrap;;
-
-	@media (max-width: 1024px) {
-		flex-direction: column;
-	}
+	flex-wrap: wrap;
 }
 
 #allnotes-list {
@@ -767,10 +763,7 @@ img {
 }
 
 .notes {
-	max-width: 45%;
-    //border-top: 1px solid $contrast-green;
 	background-color: $light-grey;
-	//padding: 0px 5px 5px 5px;
 	border-radius: 10px;
 	position: relative;
 
