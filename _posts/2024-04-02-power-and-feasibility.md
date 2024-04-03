@@ -5,6 +5,7 @@ title: "Power and feasibility"
 subtitle: "Innovation work in organizations as an infrastructural practice"
 date: 2024-02-06
 teaser-img: 2024-04-02-teaser.png
+published: false
 ---
 
 (This article is a translation of a pre-print of a forthcoming essay with Springer Link. The link to the final article will be added here.)
