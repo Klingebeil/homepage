@@ -46,7 +46,9 @@
                 {{ content }}
     
             </div>
-            {% include linked-notes.html%}
+            {% if page.linked-notes %}
+                {% include linked-notes.html%}
+            {% endif %}
         </div>
         <div class="column-25">
             <div class="seg-line resp-no-display"></div>
