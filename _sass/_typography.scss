@@ -401,12 +401,13 @@ sup {
 	max-width: $side-note-spacing;
     padding-top: 0px;
     margin-left: 15px;
-    padding: 0em 2.5em;
+    padding: 0em 2.5em 0.5em 2.5em;
     border-left: 1px solid;
     text-indent: -2em;
 
 	sup::before {content: "[";}
 	sup::after {content: "] ";}
+
 
 	p {
 		margin: 0px;

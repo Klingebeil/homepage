@@ -44,15 +44,15 @@
     function loadSideNotesFromFootnotes() {
 
         const $postTitle = $(".article-wrapper");
-        console.log($postTitle); // Log $postTitle to check its value
+        // console.log($postTitle); // Log $postTitle to check its value
 
         const browserWidth = $(".column-100").width();
-        console.log("---> browserWidth: " + browserWidth) // Log browserWidth
-        console.log("---> $postTitle.position().left: " + $postTitle.position().left)
-        console.log("---> $postTitle.outerWidth(): " + $postTitle.outerWidth())
+        // console.log("---> browserWidth: " + browserWidth) // Log browserWidth
+        // console.log("---> $postTitle.position().left: " + $postTitle.position().left)
+        // console.log("---> $postTitle.outerWidth(): " + $postTitle.outerWidth())
         // const startPosition = $postTitle.position().left + $postTitle.outerWidth() + sideNoteStartMargin;
         const startPosition = $postTitle.position().left + $postTitle.width() + sideNoteStartMargin;
-        console.log("---> startPosition: " + startPosition) // Log startPosition
+        // console.log("---> startPosition: " + startPosition) // Log startPosition
        
         $(".sidenote").remove(); // remove any existing side notes to begin
         $footnotes.show();  // previous resize could have hidden footnotes
@@ -68,8 +68,8 @@
         //#region there's no space for sidenotes
         const availabeSpaceForSideNote = browserWidth - startPosition;
 
-        console.log(" ---> availabeSpaceForSideNote " + availabeSpaceForSideNote);
-        console.log(" ---> sideNoteWidth [" + sideNoteMinWidth + " to " + sideNoteMaxWidth + "]");
+        // console.log(" ---> availabeSpaceForSideNote " + availabeSpaceForSideNote);
+        // console.log(" ---> sideNoteWidth [" + sideNoteMinWidth + " to " + sideNoteMaxWidth + "]");
 
         if (availabeSpaceForSideNote < sideNoteMinWidth) {
             console.log("Not enough space");
@@ -97,9 +97,11 @@
         // construct side note <div>
         let div = $(document.createElement('div'))
             .html('<sup class="footnote-number">' + footnoteNumber + '</sup>' + footnoteHtml)
-            .addClass("sidenote mono-space small color-red");
+            .addClass("sidenote mono-space small color-dark-gray");
 
         const topPosition = superscript.offset();
+        console.log (" ---> topPosition:" + topPosition.top);
+        
 
         div.css({
             position: "absolute",
@@ -118,6 +120,21 @@
         } else {
             div.addClass("sidenote-hover");
         }*/
+
+        // Check for collision with existing side notes
+        $(".sidenote").each(function() {
+            const existingTop = $(this).offset().top;
+            const existingBottom = existingTop + $(this).outerHeight();
+            const newTop = topPosition.top;
+            const newBottom = newTop + div.outerHeight();
+
+            // Adjust vertical position if collision detected
+            if ((newTop >= existingTop && newTop <= existingBottom) || (newBottom >= existingTop && newBottom <= existingBottom)) {
+                const newTopOffset = existingBottom + 10; // Add extra spacing
+                div.css("top", newTopOffset);
+            }
+        });
+
 
         // console.log(" ---> ");
 
