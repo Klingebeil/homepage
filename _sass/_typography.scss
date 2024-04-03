@@ -13,6 +13,7 @@ $font-small: 0.7em;
 $font-micro: 0.4em;
 $serif: calendas, Times, Serif;
 $mono-space: mono-space, 'Courier New', Courier, monospace;
+$side-note-spacing: 300px;
 
 
 body {
@@ -250,7 +251,7 @@ li {
 
 .article-wrapper, .notes {
     font-size: 18px;
-	max-width: calc(100% - 250px);
+	max-width: calc(100% - $side-note-spacing);
 
 	p {
 		text-align: justify;
@@ -397,10 +398,10 @@ sup {
 }
 
 .sidenote {
-	max-width: 210px;
+	max-width: $side-note-spacing;
     padding-top: 0px;
     margin-left: 15px;
-    padding-left: 2.5em;
+    padding: 0em 2.5em;
     border-left: 1px solid;
     text-indent: -2em;
 
