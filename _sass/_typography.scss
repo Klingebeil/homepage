@@ -397,12 +397,20 @@ sup {
 }
 
 .sidenote {
-	left: calc(100% - 250px);
-	max-width: 250px;
-	padding-top: 0px;
-	padding-left: 20px;
+	max-width: 210px;
+    padding-top: 0px;
+    margin-left: 15px;
+    padding-left: 2.5em;
+    border-left: 1px solid;
+    text-indent: -2em;
 
-	p {margin: 0px;}
+	sup::before {content: "[";}
+	sup::after {content: "] ";}
+
+	p {
+		margin: 0px;
+		display: inline;
+	}
 }
   
 .footnotes p {

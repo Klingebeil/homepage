@@ -44,11 +44,10 @@
                     <p id="post-subtitle" class="centered italics">{{ page.subtitle }}</p>
                 {% endif %}
                 {{ content }}
-    
+                {% if page.linked-notes %}
+                    {% include linked-notes.html%}
+                {% endif %}
             </div>
-            {% if page.linked-notes %}
-                {% include linked-notes.html%}
-            {% endif %}
         </div>
         <!--<div class="column-25">
             <div class="seg-line resp-no-display"></div>

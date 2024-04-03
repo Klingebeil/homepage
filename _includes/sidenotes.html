@@ -83,20 +83,21 @@
 
         $("sup").each(function (index) {
             const $footnoteHtml = $fnItems.eq(index).html();
-            createSideNote($(this), $footnoteHtml, startPosition);
+            const footnoteNumber = index + 1;
+            createSideNote($(this), $footnoteHtml, startPosition, footnoteNumber);
         });
 
         $footnotes.hide();
     }
 
-    function createSideNote(superscript, footnoteHtml, startPosition) {
+    function createSideNote(superscript, footnoteHtml, startPosition, footnoteNumber) {
 
         console.log(" ---> " + superscript.text() + " : " + footnoteHtml);
 
         // construct side note <div>
         let div = $(document.createElement('div'))
-            .html(footnoteHtml)
-            .addClass("sidenote mono-space small");
+            .html('<sup class="footnote-number">' + footnoteNumber + '</sup>' + footnoteHtml)
+            .addClass("sidenote mono-space small color-red");
 
         const topPosition = superscript.offset();
 
@@ -108,7 +109,7 @@
             // maxWidth: sideNoteMaxWidth,
         });
 
-        if (startPosition > 420) {
+        /*if (startPosition > 420) {
             superscript.hover(function () {
                 div.addClass("sidenote-hover");
             }, function () {
@@ -116,7 +117,7 @@
             });
         } else {
             div.addClass("sidenote-hover");
-        }
+        }*/
 
         // console.log(" ---> ");
 

@@ -280,6 +280,8 @@ img {
 /* SEGMENTED LINES AND HEADER */
 .seg-line {
 	border-top: solid 1px currentColor;
+
+	p {margin: 0px !important; padding: 0px !important;}
 }
 
 .seg-line_dotted {
