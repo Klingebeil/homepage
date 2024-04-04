@@ -24,16 +24,16 @@ This essay presents a framework that considers innovation work as an interplay o
 
 It is certainly not an original insight that the new always necessitates changing the old. To have a lasting effect, innovation must always become part of the fabric of an organization. Innovation needs maintenance and upgrades, it requires the knowledge of its application, it needs to be integrated into long-term strategies and business models — in short, it needs an infrastructure.
 
-However, innovation teams are rarely set up to not only to build this infrastructure, but to even understand it in the first place. The absence of this infrastructure, however, is one of the main reasons for the failure of innovation in companies.
+However, innovation teams are rarely set up to not only to build this infrastructure, but to even understand it in the first place. The absence of this infrastructure, however, is one of the main reasons for the failure of innovation initiatives inside of companies.
 
 {% include img-small.html id="2024-04-02-apollo-lander.png" %}
 
 ## Infrastructure and Innovation
 {: .centered}
 
-While I was working in the innovation team at the *Süddeutsche Zeitung*, the team helped to set up a new podcast editorial team. Although the newspaper had already had experience with podcasts in the past, this new start was anything but easy. Unclear processes, conflicts with existing teams and a lack of understanding in the editorial team ("Why is a newspaper doing radio now?") brought the project close to a standstill several times.
+During my time at the innovation team at the *Süddeutsche Zeitung*, the team helped to set up a new podcast team. Although the newspaper had already had experiences with podcasts in the past, this new start was anything but easy. Unclear processes, conflicts with existing teams and a lack of understanding in the newsroom ("Why is a newspaper doing radio now?") brought the project close to a standstill several times.
 
-The problem was not the product — the podcasts themselves: content, sound design and production were state-of-the-art and quickly conceived . The problem was the anchoring in the organization: processes and common standards, especially in the context of an business model based on advertising.
+The problem was not the product — the podcasts themselves: content, sound design and production were state-of-the-art and quickly conceived. The problem was the anchoring in the organization: processes and common standards, especially in the context of a newspaper business model based on advertising.
 
 The concept of infrastructure is helpful to illustrate this problem of anchoring. The concept of infrastructure itself dates back to late 18th century France and originally described the preparations for the construction of a railroad: from land acquisition to the construction of bridges and dams[^1].
 
