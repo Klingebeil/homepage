@@ -118,7 +118,7 @@ In its work as part of *Sitra*, the Finnish government's innovation unit, the *H
 ## Tugboats, speedboats and Trojan horses
 {: .centered}
 
-The sphere of influence of innovation units is often reduced to the *project* or product itself. It is not uncommon for these units to describe themselves as "speedboats" compared to the "tanker" of the organization: nimble and agile to explore new shoals [^20]. However, tugboats are needed to actually change the course of a tanker, to stay with this nautical metaphor. A will to deal with the organization and the necessary power to bring about change from within it are thus central to the success of innovation.
+The sphere of influence of innovation units is often reduced to the *project* or product itself. It is not uncommon for these units to describe themselves as "speedboats" compared to the "tanker" of the organization: nimble and agile to explore new shoals[^20]. However, tugboats are needed to actually change the course of a tanker, to stay with this nautical metaphor. A will to deal with the organization and the necessary power to bring about change from within it are thus central to the success of innovation.
 
 The triad of *project*, *infrastructure* and *context* makes it possible to gain a broader perspective when working on something new, to make dependencies tangible and to think beyond the *project*. In my current work on funding programs for innovation in media companies at Media Lab Bayern, this framework has found a permanent place in order to capture the architecture of a new innovation project. In this context, we often talk about "drawing a map of challenges" in order to answer key questions:
 
