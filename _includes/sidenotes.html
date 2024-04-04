@@ -80,6 +80,7 @@
 
         const $fnItems = $footnotes.find("ol li");
 
+        // Inserst corresponding footnote number
         $("sup").each(function (index) {
             const $footnoteHtml = $fnItems.eq(index).html();
             const footnoteNumber = index + 1;
@@ -91,7 +92,7 @@
 
     function createSideNote(superscript, footnoteHtml, startPosition, footnoteNumber) {
 
-        console.log(" ---> " + superscript.text() + " : " + footnoteHtml);
+        // console.log(" ---> " + superscript.text() + " : " + footnoteHtml);
 
         // construct side note <div>
         let div = $(document.createElement('div'))
