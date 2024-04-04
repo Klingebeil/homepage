@@ -6,6 +6,11 @@ subtitle: "Innovation work in organizations as an infrastructural practice"
 date: 2024-02-06
 teaser-img: 2024-04-02-teaser.png
 published: true
+linked-notes:
+    - 00-dark_matter
+    - 02-minimal_supportable_product
+    - 06-understanding-culture
+    - 11-infrastructuring
 ---
 
 (This article is a translation of a pre-print of a forthcoming essay with Springer Link. The link to the final article will be added here.)
