@@ -31,11 +31,6 @@
         $(window).resize(function () {
             // console.log(" XXX -- RESIZE -- XXX ");
 
-            // TODO: optimization if window width doesn't change that much
-            // const new_ww = $(".wrapper").outerWidth();
-            // if (new_ww === windowWidth) return;
-            // windowWidth = new_ww;
-
             loadSideNotesFromFootnotes();
         });
     });
@@ -80,7 +75,7 @@
 
         const $fnItems = $footnotes.find("ol li");
 
-        // Inserst corresponding footnote number
+        // Insert corresponding footnote number
         $("sup").each(function (index) {
             const $footnoteHtml = $fnItems.eq(index).html();
             const footnoteNumber = index + 1;
