@@ -35,7 +35,7 @@ During my time at the innovation team at the *Süddeutsche Zeitung*, the team he
 
 The problem was not the product — the podcasts themselves: content, sound design and production were state-of-the-art and quickly conceived. The problem was the anchoring in the organization: processes and common standards, especially in the context of a newspaper business model based on advertising.
 
-The concept of infrastructure is helpful to illustrate this problem of anchoring. The concept of infrastructure itself dates back to late 18th century France and originally described the preparations for the construction of a railroad: from land acquisition to the construction of bridges and dams[^1].
+The notion of an infrastructure for innovation is helpful to illustrate this problem of anchoring. The concept of infrastructure itself dates back to late 18th century France and originally described the preparations for the construction of a railroad: from land acquisition to the construction of bridges and dams[^1].
 
 According to Slota and Bowker[^2], infrastructure can be understood as the amount of work already done that supports an activity in progress:
 
