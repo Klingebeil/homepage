@@ -266,7 +266,9 @@ img {
 			border-left: 1px solid inherit;
 		}
 	}
-	.toc2, .toc3, .toc4, .toc5, .toc6, .toc-break { border-left: 1px solid $dark-grey; margin-left: 2px;}
+	.toc1 {margin-top: 1em; border-bottom: 1px solid $dark-grey; padding-bottom: 0.25em;}
+	.toc1:first-of-type {margin-top: 0em;}
+	.toc2, .toc3, .toc4, .toc5, .toc6, .toc-break {border-left: 1px solid $dark-grey;}
 	.toc-break {
 		padding-top: 0.25em;
 		margin-top: 0.25em;
