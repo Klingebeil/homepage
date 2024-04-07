@@ -1,8 +1,11 @@
-<details id="toc-wrapper">
-  <summary class="uppercase mono">Table of Contents</summary>
-  <div id="toc">
-  </div>
-</details>
+<div id="toc-wrapper">
+  <div class="seg-line"></div>
+  <details>
+    <summary class="uppercase mono">Table of Contents</summary>
+    <p id="toc"></p>
+  </details>
+  <div class="seg-line resp-no-display"></div>
+</div>
 
 <script type="text/javascript">
   $(document).ready(function() {
@@ -11,12 +14,12 @@
   
     $("h1, h2, h3, h4, h5, h6, hr").each(function(index) {
       var heading = $(this);
-      console.log("---> element: " + this.tagName)
+      //console.log("---> element: " + this.tagName)
       var headingText = heading.text();
       var headingId = headingText.replace(/\s+/g, '-').toLowerCase();
       heading.attr('id', headingId);
       var level = parseInt(this.tagName.charAt(1));
-      console.log("---> level: " + level);
+      //console.log("---> level: " + level);
   
       // Adjust indentation based on the heading level
       var indentation = level - 1;
@@ -27,5 +30,18 @@
       }
         $("#toc ul").append(listItem);
     });
+
+    /*
+    // Make TOC sticky on desktop
+    if ($(window).width() >= 960) {
+      console.log("desktop");
+      var tocWrapper = $("#toc-wrapper");
+      var tocPosition = tocWrapper.position().top;
+      tocWrapper.css ({
+        position: "sticky",
+        //top: tocPosition,
+        top: 20,
+      });
+    } */
   });
   </script>

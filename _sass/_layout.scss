@@ -239,13 +239,24 @@ img {
 }
 
 /* TABLE OF CONTENT */
+summary {
+	list-style-type: '[+] ';
+	cursor: pointer;
+}
+
+details[open] > summary {
+	list-style-type: '[-] ';
+}
 
 #toc-wrapper{
 	margin: 11px 0px;
 	text-transform: uppercase;
 
-	summary::marker {
-		padding-right: 5px;
+	details {padding: 11px 0px;}
+
+	@media screen and (min-width: 960px) {
+		position: sticky;
+        top: 20px;
 	}
 }
 

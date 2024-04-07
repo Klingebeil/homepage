@@ -25,10 +25,10 @@
                 <p class="color mono-space">This article is part of the <a href="{{ site.baseurl }}/series/{{page.series}}.html">{{page.series | replace:'-',' ' | upcase }}</a> series.</p>
             {% endif %}
             {% if page.toc == true %}
-                <div class="seg-line"></div>
                 {% include java-toc.html %}
-            {% endif %}
+            {% else %}
             <div class="seg-line resp-no-display"></div>
+            {% endif %}
         </div>
         <div class="column-75">
             <div class="seg-line uppercase mono-space">
