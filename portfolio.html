@@ -3,6 +3,8 @@ layout: default
 title: Projects
 ---
 
+{% assign work_items = site.portfolio | sort: 'date' | reverse %}
+
 <div class="row">
   <div class="column-100">
     {% include header.html %}
@@ -17,16 +19,22 @@ title: Projects
     <h1>{{ page.title }}</h1>
   </div>
   <div class="seg-line"></div>
-        <p class="mono-space small">Entries: 
-          {% assign work_items = site.portfolio | sort: 'date' | reverse %}
-            {{ work_items.size }}
-          </p>
-      <div class="seg-line resp-no-display"></div>
+    <p class="mono-space small">Entries:      
+        {{ work_items.size }}
+    </p>
+  <div class="seg-line"></div>
+    <p class="uppercase mono-space small">List of Projects</p>
+    <div id="toc">
+      <ul>
+      {% for article in work_items %}
+        <li class="mono-space small uppercase"><a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
+  <div class="seg-line resp-no-display"></div>
 </div>
 
 <div class="column-75">
-  {% assign work_items = site.portfolio | sort: 'date' | reverse %}
-
   <div class="flex-list seg-line">
     {% for article in work_items %}
       {% unless article.path contains "index.html" %}
