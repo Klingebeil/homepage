@@ -251,6 +251,7 @@ img {
 
 #toc {
 	padding: 0px 0px 0px 10px;
+	width: 90%;
 	ul {
 		padding: 0px;
 		list-style: none;
@@ -265,7 +266,12 @@ img {
 			border-left: 1px solid inherit;
 		}
 	}
-	.toc2, .toc3, .toc4, .toc5, .toc6 { border-left: 1px solid $dark-grey;}
+	.toc2, .toc3, .toc4, .toc5, .toc6, .toc-break { border-left: 1px solid $dark-grey; margin-left: 2px;}
+	.toc-break {
+		padding-top: 0.25em;
+		margin-top: 0.25em;
+		border-top: 1px solid $dark-grey;
+	}
 	li a {text-decoration: none !important;}
 }
 

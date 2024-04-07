@@ -21,8 +21,6 @@ The implementation of innovations in the wider context of an organization is one
 
 This essay presents a framework that considers innovation work as an interplay of *project*, *infrastructure* (including physical, organizational, technological and financial aspects), and organizational *context*. It illustrates that innovation work in organizations is characterized by the interdependence of these elements. The analysis, based on a case study of innovation work within the *Süddeutsche Zeitung*, shows how changes in the context can influence the design space of *infrastructure* and thus significantly shape the implementation of innovation projects. The essay concludes with practical approaches for innovation teams such as "*stewardship*" as a form of opportunistic project management, as well as tactical measures such as the conception of *Trojan horses*, which enable flexible and adaptable innovation projects.
 
----
-
 It is certainly not an original insight that the new always necessitates changing the old. To have a lasting effect, innovation must always become part of the fabric of an organization. Innovation needs maintenance and upgrades, it requires the knowledge of its application, it needs to be integrated into long-term strategies and business models — in short, it needs an infrastructure.
 
 However, innovation teams are rarely set up to not only to build this infrastructure, but to even understand it in the first place. The absence of this infrastructure, however, is one of the main reasons for the failure of innovation initiatives inside of companies.
@@ -145,7 +143,7 @@ So, if innovation work is to have a real long-term impact on the parent organiza
 
 ---
 
-# Literature
+## Literature
 
 Barroso, L. (2016). The Roofshot Manifesto. Google: Re:Work by Google. https://perma.cc/XX5S-JR29 (19.11.2023)
 {: .left}
