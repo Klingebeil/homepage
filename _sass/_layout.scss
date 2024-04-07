@@ -254,14 +254,18 @@ img {
 	ul {
 		padding: 0px;
 		list-style: none;
-		font-weight: bold;
+		font-weight: 100;
 	}
 
 	ul ul {
 		padding-left: $spacing-small;
 		font-weight: normal;
-	}
 
+		li {
+			border-left: 1px solid inherit;
+		}
+	}
+	.toc2, .toc3, .toc4, .toc5, .toc6 { border-left: 1px solid $dark-grey;}
 	li a {text-decoration: none !important;}
 }
 
@@ -391,12 +395,12 @@ img {
 		padding: 5px;
 	}
 
-	& #note-count {
+	& .note-count {
 		text-transform: uppercase;
-		font-size: 0.6em;
-		margin: 0;
-		padding: 10px;
-		border-left: 1px solid;
+		font-size: 0.6em !important;
+		margin: 0 !important;
+		padding: 10px !important;
+		border-left: 1px solid !important;
 	}
 
 	&:hover {
