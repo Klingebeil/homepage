@@ -6,6 +6,7 @@ category: Talks
 teaser-img: portfolio/talk-gdm17/talk-gdm17-teaser.jpg
 summary: TBD Summary
 toc: true
+published: false
 ---
 
 # Talks & Workshops
