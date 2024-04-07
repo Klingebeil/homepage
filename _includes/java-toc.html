@@ -14,6 +14,7 @@
   
     $("h1, h2, h3, h4, h5, h6, hr").each(function(index) {
       var heading = $(this);
+
       //console.log("---> element: " + this.tagName)
       var headingText = heading.text();
       var headingId = headingText.replace(/\s+/g, '-').toLowerCase();
@@ -28,7 +29,37 @@
       } else {
         var listItem = "<li style='padding-left: " + (indentation * 20) + "px;' class='toc" + level + "'><a href='#" + headingId + "'>" + headingText + "</a></li>";
       }
-        $("#toc ul").append(listItem);
+        
+      $("#toc ul").append(listItem);
     });
+
+    // Add class to the corresponding heading in the TOC when in viewport
+    $(window).on('scroll', function() {
+      var scrollPos = $(window).scrollTop();
+      var windowHeight = $(window).height();
+
+      console.log(scrollPos);
+
+      // Remove 'active' class from all toc items
+      $("#toc li").removeClass('active');
+      
+      var activeTocItem = null;
+      $("h1, h2, h3, h4, h5, h6").each(function() {
+        var header = $(this);
+        var headerId = header.attr('id');
+        var headerPosition = header.position().top;
+        var tocItem = $("#toc a[href='#" + headerId + "']").parent();
+        
+        if (headerPosition <= scrollPos + (windowHeight * 0.7)) {
+          if (activeTocItem != null) {
+            activeTocItem.removeClass('active');
+          }
+          activeTocItem = tocItem;
+          activeTocItem.addClass('active');
+          console.log("activeTocItem: " + activeTocItem.text());
+        }
+      });
+    });
+
   });
   </script>
