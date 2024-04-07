@@ -4,6 +4,7 @@ language: de
 title: Meine Begegnung mit der Magic Leap
 date: 2018-09-09
 teaser-img: 2018-09-09-teaser.png
+toc: true
 ---
 
 Ich wurde vergangene Woche von Holo-Light eingeladen, einmal eines ihrer Magic Leap One Testgeräte auszuprobieren. Holo-Light selbst ist ein drei Jahre altes Startup, welches sich auf Mixed Reality für Industrieanwendungen spezialisiert hat. Es war also eine Einladung einmal die Zukunft zu sehen.

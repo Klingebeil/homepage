@@ -6,6 +6,7 @@ subtitle: "Innovation als Kommunikationsproblem"
 date: 2020-07-16
 teaser-img: 2020-07-16-teaser.png
 series: the-messy-middle
+toc: true
 ---
 
 Die Arbeit in einem Innovationsteam findet in vielerlei Hinsicht in den Lücken zwischen Vorstellung und Realität statt. Damit ist nicht nur der Weg von einer Idee bis zu einem ersten Prototypen oder fertigen Produkt gemeint. Viel wichtiger ist die Lücke zwischen unserer Vorstellung davon, wie Innovation auszusehen hat, und dem, wie sie sich in der Realität tatsächlich verhält.
@@ -53,10 +54,8 @@ Um dies zu erreichen schlägt Critchlow bereits bekannte Werkzeuge vor, die Team
 
 Innovation beginnt mit ihrer eigenen Definition. Wenn Innovation im Journalismus wirklich erfolgreich sein will, muss sie es schaffen, diese Lücke zwischen Vorstellung und Realität zu schließen. Ansonsten wird sie sich damit begnügen müssen, wieder und wieder dem nächsten Hype hinterherzulaufen.
 
-
-
----- 
 Mit großer Dankbarkeit an [Meike Winkler][11], [Martin Wiens][12] und [Benjamin Heinz][13] für die Korrekturen und Feedback.
+{: .small .color-dark-gray}
 
 
 [^1]:	Hilfreich sind an dieser Stelle die Begriffe „Imaginary“ und „Futures“ oder „Zukünfte“ aus der kritischen Zukunftsforschung. Siehe auch Sohail Inayatullah (2007): _Six pillars: futures thinking for transforming_.

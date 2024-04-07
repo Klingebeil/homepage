@@ -4,6 +4,7 @@ language: de
 title: "Kritische Notizen zur Blockchain"
 date: 2018-01-07
 teaser-img: 2018-01-07-teaser.png
+toc: true
 ---
 
 Eigentlich sollte der folgende Text [in meinem Newsletter erscheinen][1]. Jedoch wurde er schnell deutlich zu lang für eine E-Mail, weswegen ich mich entschlossen habe ihn hier zu veröffentlichen. Ich versuche normalerweise in meinem Newsletter einigermaßen regelmäßig über Technologien zu schreiben und ihre Auswirkungen, Entwicklung und Bedeutung einzuordnen. Entsprechend war mein eigentliches Ziel dies auch für die Blockchain zu tun.

@@ -7,6 +7,7 @@ published: true
 date: 2021-02-14
 teaser-img: 2021-01-28-teaser.png
 series: the-messy-middle
+toc: true
 ---
 
 Mitte Januar veröffentlichte ich parallel zu meinem Newsletter [ein Zine als Zusammenfassung meiner Erfahrungen im Innovationsteam der _Süddeutschen Zeitung_](https://johannesklingebiel.de/portfolio/work-in-progress), das innerhalb von vier Stunden ausverkauft war.

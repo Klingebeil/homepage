@@ -3,6 +3,7 @@ layout: post
 title: "What is Conversational Journalism?"
 date: 2016-02-14
 teaser-img: 2016-02-14-teaser.png
+toc: true
 ---
 
 Sometimes technology makes weird jumps back in time and reinvents channels or mediums. The latest evidence of this circular move forward is the emerging trend of _conversational commerce_. This term, though not invented, but made popular by [Chris Messina](), can be broken down in one fairly simple picture.
