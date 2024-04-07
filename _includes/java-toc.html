@@ -2,7 +2,7 @@
   <div class="seg-line"></div>
   <details>
     <summary class="uppercase mono">Table of Contents</summary>
-    <p id="toc"></p>
+    <p id="toc" role="navigation"></p>
   </details>
   <div class="seg-line resp-no-display"></div>
 </div>
@@ -30,18 +30,5 @@
       }
         $("#toc ul").append(listItem);
     });
-
-    /*
-    // Make TOC sticky on desktop
-    if ($(window).width() >= 960) {
-      console.log("desktop");
-      var tocWrapper = $("#toc-wrapper");
-      var tocPosition = tocWrapper.position().top;
-      tocWrapper.css ({
-        position: "sticky",
-        //top: tocPosition,
-        top: 20,
-      });
-    } */
   });
   </script>
