@@ -6,6 +6,7 @@ subtitle: "Innovation work in organizations as an infrastructural practice"
 date: 2024-02-06
 teaser-img: 2024-04-02-teaser.png
 published: true
+toc: true
 linked-notes:
     - 00-dark_matter
     - 02-minimal_supportable_product
@@ -144,7 +145,7 @@ So, if innovation work is to have a real long-term impact on the parent organiza
 
 ---
 
-## Literature
+# Literature
 
 Barroso, L. (2016). The Roofshot Manifesto. Google: Re:Work by Google. https://perma.cc/XX5S-JR29 (19.11.2023)
 {: .left}
