@@ -1,8 +1,30 @@
 <details id="toc-wrapper">
   <summary class="uppercase mono">Table of Contents</summary>
-  <div id="toc"></div>
+  <div id="toc">
+  </div>
 </details>
-<script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    var toc = $("#toc");
+    toc.append("<ul></ul>");
+  
+    $("h1, h2, h3, h4, h5, h6").each(function(index) {
+      var heading = $(this);
+      var headingText = heading.text();
+      var headingId = headingText.replace(/\s+/g, '-').toLowerCase();
+      heading.attr('id', headingId);
+      var level = parseInt(this.tagName.charAt(1));
+      console.log("---> level: " + level);
+  
+      // Adjust indentation based on the heading level
+      var indentation = level - 1;
+      var listItem = "<li style='padding-left: " + (indentation * 20) + "px;' class='toc" + level + "'><a href='#" + headingId + "'>" + headingText + "</a></li>";
+      $("#toc ul").append(listItem);
+    });
+  });
+  </script>
+<!--<script>
 
     class TOC {
       /**
@@ -101,4 +123,4 @@
       const frag = document.createRange().createContextualFragment(`${tocHTMLContent}`)
       document.querySelector(`#toc`).insertBefore(frag, document.querySelector(`#toc`).firstChild)
     }
-  </script>
+  </script>-->
