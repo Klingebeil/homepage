@@ -24,10 +24,11 @@
             <div class="seg-line_dotted"></div>
             <p>CATEGORY: {{ page.category | capitalize }}</p>
             {% if page.toc == true %}
-                <div class="seg-line"></div>
                 {% include java-toc.html %}
+            {% else %}
+            <div class="seg-line resp-no-display"></div>
             {% endif %}
-            <div class="seg-line resp-no-display"></div></div>
+        </div>
         <div class="column-75">
             <div class="seg-line uppercase mono-space">
             </div>
@@ -38,5 +39,6 @@
     </div>
 
     {% include footer.html %}
+    {% include sidenotes.html %}
 </body>
 </html>
