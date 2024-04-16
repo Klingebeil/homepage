@@ -448,6 +448,8 @@ table {
 		tr{border-bottom: 1px solid $dark-grey;}
 	}
 	td, th {vertical-align: top; padding: 6px; line-height: 1.2em;}
+	tbody tr:hover {background-color: $light-grey;}
+	tr{cursor: default;}
 	strong { color: $dark-grey; font-weight: normal;}
 	strong em, em strong {font-weight: normal; color: $dark-grey;}
 }
