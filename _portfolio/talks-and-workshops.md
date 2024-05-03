@@ -1,12 +1,11 @@
 ---
 layout: portfolio
 title: Talks & Workshops
-date: 2024-12-31
+date: 2024-05-02
 category: Talks
-teaser-img: portfolio/talk-gdm17/talk-gdm17-teaser.jpg
-summary: I enjoy giving talks at conferences, companies or universities. Here‘s a list of topics and how I approach them.
-toc: true
-published: false
+teaser-img: portfolio/talks-and-workshops/teaser.jpg
+summary: "I enjoy giving talks at conferences, companies or universities. Here‘s a list of topics and how I approach them."
+published: true
 ---
 
 # Talks & Workshops
@@ -15,7 +14,7 @@ I enjoy sharing my knowledge and experiences at conferences and events and can o
 
 In the past I gave a number of talks on topics such as *The Future of Journalism* (at the moment with an unsurprising focus on AI), *Technological Hype*, and *Innovation Work Inside Companies*.
 
-Contact me, if you‘re interested in me joining your conversation: <a class="button hairline" href="mailto:johannes.klingebiel@gmail.com">E-Mail</a>
+Contact me, if you‘re interested in me joining your conversation: <a class="button hairline" href="mailto:johannes.klingebiel@gmail.com">E-Mail me!</a>
 
 A selection of companies, events and institutions I was invited to in the past:
 
