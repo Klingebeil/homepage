@@ -361,6 +361,7 @@ sup {
 	color: $contrast-primary;
 	font-family: $mono-space;
 }
+
 .footnotes {
 	border-top: solid 1px currentColor;
 	font-size: $font-small;
@@ -381,16 +382,16 @@ sup {
 	}
 
 	& ol > li:before {
-		content: "[" counter(list) "] ";
+		content: "[" counter(list) "]";
     	counter-increment: list;
 		color: $contrast-primary;
 		font-size: $font-small;
 
-		left: -40px;
+		/*left: -40px;
 		padding-right: 10px;
 		position: absolute;
 		text-align: right;
-		width: 40px;
+		width: 40px;*/
 	}
 
 	& p {
