@@ -1,40 +1,33 @@
 ---
 layout: portfolio
 title: Talks & Workshops
-date: 2015-01-01
+date: 2024-12-31
 category: Talks
 teaser-img: portfolio/talk-gdm17/talk-gdm17-teaser.jpg
-summary: TBD Summary
+summary: I enjoy giving talks at conferences, companies or universities. Here‘s a list of topics and how I approach them.
 toc: true
 published: false
 ---
 
 # Talks & Workshops
 
-Contact me, should you be interested in me joining your conversation: <a class="button hairline" href="mailto:johannes.klingebiel@gmail.com">E-Mail</a>
-{: .centered}
+I enjoy sharing my knowledge and experiences at conferences and events and can often bring an informed but differing opinion to the stage or room. My talks are backed up by scientific literature and based on detailed research. As such audiences walk away from my talks with actionable insights, practical strategies, and a deeper understanding of the subject matter.
 
-## Talks
+In the past I gave a number of talks on topics such as *The Future of Journalism* (at the moment with an unsurprising focus on AI), *Technological Hype*, and *Innovation Work Inside Companies*.
 
-I love sharing my knowledge and experiences at conferences and events. In the past I gave a number of talks on topics such as *The Future of Journalism* (at the moment often with a focus on AI), *Technological Hype* (also often with a focus on technological hype), and *Innovation Work Inside Companies*. Rather than focusing on marketing keynotes, I thrive on delivering comprehensive and in-depth lectures that engage audiences and spark meaningful conversations.
-
-A selection of companies, events and institutions I was invited to in the past:
-- AEB SE 
-- Hochschule der Medien Stuttgart
-- Hochschule Makromedia
-- HYPR
-- Internationale Hochschule SDI München
-- Munich Business School
-- Plattform V
-- SWR
-- Zündfunk Netzkongress
-
----
-
-## Workshops
-
-Contact me, should you be interested in me joining your conversation: <a class="button hairline" href="mailto:johannes.klingebiel@gmail.com">E-Mail</a>
+Contact me, if you‘re interested in me joining your conversation: <a class="button hairline" href="mailto:johannes.klingebiel@gmail.com">E-Mail</a>
 
 A selection of companies, events and institutions I was invited to in the past:
-- Radiotage Tutzing
-- Zündfunk Netzkongress
+
+| Date | Topic | Where | Language |
+|:--|:--|:--|:--|
+| ***2024*** | Lecture on technological Hype as a Marketing Tool | *Internationale Hochschule SDI München* | ***DE*** |
+| ***2023*** | A short Introduction to Trends and Hypes | *Plattform V* | ***DE*** |
+| ***2023*** | An Intro to technological Hype and Trends | *AEB SE* | ***DE*** |
+| ***2023*** | An Intro to technological Hype and Trends | *Munich Business School* | ***ENG*** |
+| ***2022*** | Innovation Pratices inside News Organisations | *SWR X Lab* | ***DE*** |
+| ***2021*** | Innovation Pratices inside News Organisations | *media.innovation* | ***DE*** |
+| ***2020*** | The State of the Media Business | *HYPR* | ***DE*** |
+| ***2020*** | The Pandemic as a Catalyst for Media | *Media Lab Bayern* | ***DE*** |
+| ***2019*** | Understanding technological Developments beyond the Hype Cycle | *Pathfinder Festival 2019* | ***DE*** |
+| ***2017*** | An incomplete Travel Guide to the Future of VR/AR | *GDM17* | ***DE*** |
