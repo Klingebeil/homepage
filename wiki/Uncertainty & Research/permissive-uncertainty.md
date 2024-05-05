@@ -7,6 +7,8 @@ last-updated: 2024-05-05
 
 # Permissive Uncertainty
 
+This is just one of those really handy concepts when it comes to understanding what shapes decision-making inside companies.
+
 In organizations, “permissive uncertainty” refers to a situation where there is a high level of ambiguity and lack of clarity, but there are loose rules or norms that allow for almost any knowledge claim to be considered valid. This creates an environment where people are unsure about what is true or correct, making it easier for misleading or false information to be accepted without much scrutiny. As André Spicer describes it[^1]:
 
 > **This is a situation where actors do not know what will happen and are willing to consider almost any knowledge that might plug this epistemic gap. They face high levels of uncertainty, yet have permissive epistemic norms which guide the problem of sorting out what to do.**
