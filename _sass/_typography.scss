@@ -356,10 +356,14 @@ li {
 
 sup {
 	font-size: 8px;
-	margin-left: 3px;
+	margin-left: 2px;
 	vertical-align: text-top;
 	color: $contrast-primary;
 	font-family: $mono-space;
+
+	border: 1px solid;
+	border-radius: 3px;
+	padding: 0em 0.5em;
 }
 
 .footnotes {
@@ -382,16 +386,20 @@ sup {
 	}
 
 	& ol > li:before {
-		content: "[" counter(list) "]";
+		content: counter(list);
     	counter-increment: list;
 		color: $contrast-primary;
-		font-size: $font-small;
+		font-size: 8px;
+		
+		border: 1px solid;
+		border-radius: 3px;
+		padding: 0em 0.5em;
 
-		/*left: -40px;
-		padding-right: 10px;
+		left: -20px;
 		position: absolute;
-		text-align: right;
-		width: 40px;*/
+		text-align: center;
+		top: 17px;
+		line-height: 1.2;
 	}
 
 	& p {
@@ -401,14 +409,13 @@ sup {
 
 .sidenote {
 	max-width: $side-note-spacing;
-    padding-top: 0px;
     margin-left: 15px;
-    padding: 0em 2.5em 0.5em 2.5em;
-    border-left: 1px solid;
+    padding: 0.5em 2.5em 0.5em 2.5em;
+    border-left: 0.5px solid;
     text-indent: -2em;
 
-	sup::before {content: "[";}
-	sup::after {content: "] ";}
+	/*sup::before {content: "[";}
+	sup::after {content: "] ";}*/
 
 
 	p {
@@ -424,14 +431,6 @@ sup {
 a.footnote {
 	text-decoration: none;
 }
-
-a.footnote:before {
-   content: "[";
-  }
-  
-a.footnote:after {
-	  content: "]";
-  }
 
 /* TABLES */
 
