@@ -5,7 +5,7 @@ date: 2024-02-01
 category: editorial & research
 teaser-img: portfolio/lab-report-ki/teaser-img.png
 summary: "A report on contemporary innovation practices inside German media companies."
-published: true
+published: false
 toc: true
 ---
 
