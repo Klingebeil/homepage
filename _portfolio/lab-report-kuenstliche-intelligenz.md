@@ -28,7 +28,7 @@ To track the progress of the work we used a Google table, shared with every auth
 
 ## Designing the report
 
-DThe layout was based on a simple underlying grid. Images were also adapted to the grid and integrated using clipping masks.
+The layout was based on a simple underlying grid. Images were also adapted to the grid and integrated using clipping masks.
 
 The layout was thus structured and consistent, but allowed for variable and varied layouts.
 
