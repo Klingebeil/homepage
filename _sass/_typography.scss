@@ -438,6 +438,7 @@ a.footnote {
 table {
 	width: 100%;
 	margin: 1em 0;
+	padding: 0;
 	font-variant-numeric: tabular-nums;
 	border-collapse:collapse;
 	font-size: 0.8em;
@@ -448,7 +449,7 @@ table {
 		
 		tr{border-bottom: 1px solid $dark-grey;}
 	}
-	td, th {vertical-align: top; padding: 6px; line-height: 1.2em;}
+	td, th {vertical-align: top; padding: 6px; line-height: 1.2em; text-align: left;}
 	tbody tr:hover {background-color: $light-grey;}
 	tr{cursor: default;}
 	strong { color: $dark-grey; font-weight: normal;}
