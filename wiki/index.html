@@ -34,7 +34,7 @@ title: Digital Garden
         {% assign currentFolder = folder %}
         {% assign folderCount = site.pages | where_exp:"item", "item.path contains currentFolder"%}
         {% unless folder contains 'md' or folder contains 'html' %}
-          {%if folderCount.size > 5 %}
+          {%if folderCount.size > 10 %}
             <a class="card-60 wiki-category-button hairline" href="/wiki/{{folder}}/">
               <div class="flex justify-between" id="wiki-category-button-wrapper">
                 <h2 id="category-title">{{folder}}</h2>
