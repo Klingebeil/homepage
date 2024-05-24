@@ -5,7 +5,7 @@ first-commit: 2024-05-24
 last-updated: 2024-05-24
 ---
 
-# Fantasy of Technolgy
+# Fantasy of Technology
 
 Technology seemingly exists in two separate but connected worlds: the *fantasy of technology* and *the real world of technology*[^1]. The fantasy side consists of a technologies promises, often requiring us to suspend our disbelief with bold visions and futuristic ideas. In contrast, the real world of technology focuses on the actual real world application of technologies, which can differ strongly. By comparing different aspects this table helps in understanding contrast between these two worlds.
 
