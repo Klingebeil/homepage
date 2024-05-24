@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb
-title: Fantasy of Technolgy
+title: Fantasy of Technology
 first-commit: 2024-05-24
 last-updated: 2024-05-24
 ---
