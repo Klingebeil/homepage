@@ -18,8 +18,8 @@ Technology seemingly exists in two separate but connected worlds: the *fantasy o
 | **Timescale**                  | Future Impact (Long-term vision, Decades ahead, Speculative timelines)                              | Immediate Impact (Short-term fixes, Quarterly results, Immediate needs)                                 |
 | **Experience with Technology** | Disruption, Revolution, frictionless experiences, technological sublime, experimental, “like magic” | Breakage, Incremental Improvement, Maintenance, Mundanity, Routine, Legacy systems, Proven technologies |
 | **Artifacts**                  | Sales material, Pitch Decks, Advertising, Science Fiction, Patents                                  | Manuals, Repair Guides, Blueprints, Standards, Specifications, Compliance documents                     |
-| **Economic Impact**            | Speculative markets, Venture Capital, Stock valuations                                              | Business Models, Cost of implementation, Maintenance budgets, Depreciation, Standardization             |
-| **Ethical Considerations**     | Utopian/Dystopian ideals, Ethical by design, Promises of equality                                   | Privacy issues, Security concerns, Inequality in access                                                 |
+| **Economics**            | Speculative markets, Venture Capital, Stock valuations                                              | Business Models, Cost of implementation, Maintenance budgets, Depreciation, Standardization             |
+| **Ethics**     | Utopian/Dystopian ideals, Ethical by design, Promises of equality                                   | Privacy issues, Security concerns, Inequality in access                                                 |
 | **Challenges**                 | Suspension of disbelief                                                                             | Constraints, integration into legacy systems, compliance, usability, cost                               |
 
 [^1]: Ursula M. Franklin. (1990) ‘The Real World of Technology’. CBC Enterprises.
