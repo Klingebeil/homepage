@@ -1,7 +1,7 @@
 ---
 layout: wikicrumb 
 title: Using ChatGPT for research & writing
-last-updated: 2023-01-11
+last-updated: 2024-06-14
 first-commit: 2021-12-28
 ---
 
