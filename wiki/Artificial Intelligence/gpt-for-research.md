@@ -47,6 +47,15 @@ You can ask *GPT* to break down a more complex paragraph from a paper you have t
 
 # Writing
 
+## Turning the Tables
+The smart people at *iA Writer* [recently posted](https://ia.net/topics/turning-the-tables-on-ai) a couple of smart suggestions.
+
+One of these is letting *ChatGPT* prompt you to write:
+
+`‌I want to write [format] about [topic]. Ask me questions one at a time that force me to explain my idea.`
+
+The general idea here being that through this back and forth you‘re forced to refine and develop your ideas. The resulting chat can then be turned into a first draft.
+
 ## Generate Headlines
 
 `Suggest some headlines`
