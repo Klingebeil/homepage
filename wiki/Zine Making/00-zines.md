@@ -11,7 +11,7 @@ As publications, zines live in an interesting niche between low-key social media
 
 The name bears witness to this niche. „Zines“ is even derived from the word „magazine“, simply without the *maga-*.
 
-{% include img-full.html id="wiki/zines-categorization.png" %}
+{% include img-small.html path="wiki/zines-categorization.png" %}
 
 I think the best way of understanding zines is to look at them as a practice, less as a medium or format (a notion I borrowed from [Paul Soulellis](https://www.soulellis.com)). **Zines are a practice of a) self-expression and b) construction of a public[^1].**
 

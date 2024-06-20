@@ -28,7 +28,7 @@ So far, I‘ve decided to separate hype into five different levels. The first dr
 
 Think of this scale as form of Richter scale to get a feel of how bad the hype is. A new technology doesn‘t have to move through every single level but it most likely will at least reach level 3.
 
-{% include img-full.html id="downloads/hype-as-a-scale.jpg" %}
+{% include img-small.html path="downloads/hype-as-a-scale.jpg" %}
 
 You can download the graphic here: ([PDF](https://johannesklingebiel.de/img/downloads/hype-as-a-scale.pdf) / [JPG](https://johannesklingebiel.de/img/downloads/hype-as-a-scale.jpg)).
 

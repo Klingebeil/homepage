@@ -56,7 +56,7 @@ Der Launch selber war absolut verrückt. Nicht nur erreichte ich meinen angeziel
 
 Und an dieser Stelle ein gigantisches „DANKE!“ an jede:n, der/die eines oder sogar mehrere Exemplare von „Work in Progress“ bestellt hat. Gott sei Dank reagierte der Mann am Postschalter recht entspannt, als ich mit 95 Umschlägen in die Filiale spazierte.
 
-{% include img-full.html id="2021-01-28-umschlaege.jpg" alt="" %}
+{% include img-small.html path="2021-01-28-umschlaege.jpg" alt="" %}
 
 Es gibt wirklich kein besseres Gefühl, als sich nach ungefähr vier Monaten Arbeit und Revisionen nicht auf die eigentliche Arbeit konzentrieren zu können, weil das Smartphone im Minutentakt mit Verkaufsbenachrichtigungen vibriert.
 

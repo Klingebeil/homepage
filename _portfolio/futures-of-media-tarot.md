@@ -22,11 +22,11 @@ You can find [a longer write-up on Medium][6].
 <p class="centered"><a class="button" href="/img/portfolio/future-of-media-tarot/printable-cards.pdf">Download Printable Cards [PDF, German]</a></p>
 <p class="centered"><a class="button" href="/img/portfolio/future-of-media-tarot/single-cards.pdf">Download Single Cards [PDF, German]</a></p>
 
-{% include img-full.html id="portfolio/future-of-media-tarot/futures-of-media-tarot-02.jpg" alt=""%}
+{% include img-small.html path="portfolio/future-of-media-tarot/futures-of-media-tarot-02.jpg" alt=""%}
 
-{% include img-full.html id="portfolio/future-of-media-tarot/futures-of-media-tarot-01.jpg" alt="All cards" info="All 30 cards"%}
+{% include img-small.html path="portfolio/future-of-media-tarot/futures-of-media-tarot-01.jpg" alt="All cards" info="All 30 cards"%}
 
-{% include img-full.html id="portfolio/future-of-media-tarot/futures-of-media-tarot-03.jpg" alt="FTOJ Workshop" info="Workshop at the Frankfurter Tag des Onlinejournalismus 2019 (Credits: Corinna Klingler/hr)"%}
+{% include img-small.html path="portfolio/future-of-media-tarot/futures-of-media-tarot-03.jpg" alt="FTOJ Workshop" info="Workshop at the Frankfurter Tag des Onlinejournalismus 2019 (Credits: Corinna Klingler/hr)"%}
 
 [1]:    https://twitter.com/Scub4
 [2]:    https://superflux.in/index.php/work/synbio-tarot-reading/#

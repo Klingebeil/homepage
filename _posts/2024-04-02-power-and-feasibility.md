@@ -25,7 +25,7 @@ It is certainly not an original insight that the new always necessitates changin
 
 However, innovation teams are rarely set up to not only to build this infrastructure, but to even understand it in the first place. The absence of this infrastructure, however, is one of the main reasons for the failure of innovation initiatives inside of companies.
 
-{% include img-small.html id="2024-04-02-apollo-lander.png" %}
+{% include img-small.html path="2024-04-02-apollo-lander.png" %}
 
 ## Infrastructure and Innovation
 {: .centered}
@@ -50,7 +50,7 @@ Understanding and shaping these infrastructures is therefore important for the s
 
 > It is not enough to produce the prototype of an entirely new paradigm for the motor car, say, without redesigning the organisation that might design and produce them, the supply chains that might enable their construction and maintenance, the various traffic and planning regulations that must absorb a new vehicle, the refuelling infrastructure, and so on[^7].
 
-{% include img-small.html id="2024-04-02-project-infrastructure-context.png" %}
+{% include img-small.html path="2024-04-02-project-infrastructure-context.png" %}
 
 ## Project, Infrastructure, Context
 {: .centered}
@@ -76,13 +76,13 @@ The *context* in turn describes the limits of what is currently possible: all as
 
 These three levels are characterized by their relationship to the power and influence of a project team: while they can often shape the project on their own, they are dependent on the support of others for making changes to the *infrastructure*, while the *context* is completely outside their sphere of influence.
 
-{% include img-full.html id="2024-04-02-graphic.png" %}
+{% include img-small.html path="2024-04-02-graphic.png" %}
 
 All of these levels are also interdependent: *projects* can only be implemented within the framework of the *infrastructure* and are in turn limited by the constraints of the *context*. 
 
 The monetization of podcasts is a good example of this interplay of restriction and opportunity. The *context* of the newspaper's business model prescribed direct monetization via advertising, while the existence of an ad sales team within the company should in theory enable this as an *infrastructure*. A conception of the podcasts outside of these aspects, e.g. without ad financing or the establishment of a parallel sales structure, would have led to conflicts and would have required greater support and willingness for change within the organization.
 
-{% include img-small.html id="2024-04-02-container.png" %}
+{% include img-small.html path="2024-04-02-container.png" %}
 
 ## The difficulty of working on infrastructure
 {: .centered}
@@ -117,7 +117,7 @@ In its work as part of *Sitra*, the Finnish government's innovation unit, the *H
 > 
 > If you are used to continually calibrating the goals of a project with the constraints of your context, you are practicing stewardship. If you maintain a constant state of opportunism and a willingness to pivot when progress on the current path is diminishing, you’re a natural steward.[^19]
 
-{% include img-small.html id="2024-04-02-tugboat.png" %}
+{% include img-small.html path="2024-04-02-tugboat.png" %}
 
 ## Tugboats, speedboats and Trojan horses
 {: .centered}

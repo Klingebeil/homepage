@@ -10,7 +10,7 @@ toc: true
 
 Es gibt inzwischen viele Begriffe und Akronyme, die versuchen den derzeitigen Zustand der Welt zu beschreiben. Einer von ihnen, VUCA (Volatility, Uncertainty, Complexity, Ambiguity), hat inzwischen seinen Weg in die Quartalspräsentationen von deutschen Mittelständlern gefunden. Dabei ist der Begriff ursprünglich dem Jargon des US-Militärs nach dem Ende des Kalten Krieges entsprungen und hat in den Zweitausendern den Sprung von Westpoint in die Wirtschaft geschafft. Er ist damit nicht der erste Begriff, der seinen Ursprung im Militärjargon hat. „Offensiven“, „Target“, „Boot Camp“ oder Begriffe wie „War-time CEO“ sind—ob zum Guten oder Schlechten—schon länger Teil der internationalen Business-Lingo[^1].
 
-{% include img-full.html id="2020-09-01-01.svg" alt="" info="Quelle: trends.google.de/trends/explore?date=today%205-y&q=%22the%20new%20normal%22,VUCA" %}
+{% include img-small.html path="2020-09-01-01.svg" alt="" info="Quelle: trends.google.de/trends/explore?date=today%205-y&q=%22the%20new%20normal%22,VUCA" %}
 
 Mit dem Beginn von 2020 und der globalen Covid-19 Pandemie gewannen jedoch zwei neue Begriffe an Popularität: „The New Normal“ und BANI. [Zweiteres steht, im Geiste von VUCA][2], für “Brittleness“, „Anxiety“, „Nonlinearity“ und „Incomprehensibility“. Ausdrücke, die die letzten Monate durchaus passend beschreiben, es aber vor allem Beratungsunternehmen ermöglichen auf elegante Art und Weise „wir wissen auch keine Antwort“ zu sagen.
 
