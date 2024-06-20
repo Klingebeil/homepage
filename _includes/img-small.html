@@ -1,1 +1,6 @@
-<div class="img-small"><img src="{{site.baseurl}}/img/{{ include.id }}" alt="{{ include.alt }}"></div>
+<div class="img-small">
+    <img src="{{site.baseurl}}/img/{{ include.id }}" alt="{{ include.alt }}">
+    {% if include.info %}
+        <p class="small mono centered">&#x21B3; {{ include.info }}</p>
+    {% endif %}
+</div>
