@@ -381,11 +381,14 @@ details[open] > summary {
 .card-30, .card-50, .card-60 {
 	box-sizing: border-box;
 	margin: 5px;
+
 	@media (max-width: 900) {
 		max-width: calc((100% - 1rem)/2) !important;
+		flex-basis: calc((100% - 1rem)/2);
 	}
 	@media (max-width: 600px) {
 		max-width: 100% !important;
+		flex-basis: 100%;
 	}
 }
 
