@@ -3,7 +3,7 @@ layout: portfolio
 title: Zukünfte
 teaser-img: portfolio/zukuenfte/featured.jpg
 date: 2019-01-01
-category: editorial
+category: Report
 summary: "A series of internal trend reports for the Süddeutsche Zeitung."
 published: true
 ---
