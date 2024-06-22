@@ -9,7 +9,7 @@ published: true
 toc: false
 ---
 
-{% include img-small.html path="portfolio/lab-report-ki/title-img.png" alt="Cover Image" %}
+{% include img-full.html path="portfolio/lab-report-ki/title-img.png" alt="Cover Image" %}
 
 # Lab Report: Künstliche Intelligenz
 
@@ -23,7 +23,7 @@ To speed up the process and structure the content we send out questionnaires eve
 
 To track the progress of the work we used a Google table, shared with every author and stakeholder, including information of the state of each case study, the corresponding authors, notes and contacts.
 
-{% include img-small.html path="portfolio/lab-report-ki/table.png" alt="Cover Image" %}
+{% include img-full.html path="portfolio/lab-report-ki/table.png" alt="Cover Image" %}
 
 
 ## Designing the report

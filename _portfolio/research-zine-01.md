@@ -13,17 +13,17 @@ As Anand Giridharadas notes: “Powerpoint is the language of the status quo.”
 
 Research, editing and design was handled by myself.
 
-{% include img-small.html path= "portfolio/research-zine-01/Research-Zine-30.jpg" alt="Research Zine Cover" info="Cover and packaging" %}
+{% include img-full.html path= "portfolio/research-zine-01/Research-Zine-30.jpg" alt="Research Zine Cover" info="Cover and packaging" %}
 
-{% include img-small.html path="portfolio/research-zine-01/Research-Zine-18.jpg" alt="Research Zine" %}
+{% include img-full.html path="portfolio/research-zine-01/Research-Zine-18.jpg" alt="Research Zine" %}
 
-{% include img-small.html path="portfolio/research-zine-01/Research-Zine-16.jpg" alt="Research Zine" %}
+{% include img-full.html path="portfolio/research-zine-01/Research-Zine-16.jpg" alt="Research Zine" %}
 
-{% include img-small.html path="portfolio/research-zine-01/Research-Zine-14.jpg" alt="Research Zine" %}
+{% include img-full.html path="portfolio/research-zine-01/Research-Zine-14.jpg" alt="Research Zine" %}
 
-{% include img-small.html path="portfolio/research-zine-01/Research-Zine-10.jpg" alt="Research Zine" %}
+{% include img-full.html path="portfolio/research-zine-01/Research-Zine-10.jpg" alt="Research Zine" %}
 
-{% include img-small.html path="portfolio/research-zine-01/Research-Zine-05.jpg" alt="Research Zine" %}
+{% include img-full.html path="portfolio/research-zine-01/Research-Zine-05.jpg" alt="Research Zine" %}
 
 
 
