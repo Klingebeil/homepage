@@ -2,22 +2,22 @@
 layout: portfolio
 title: "Lab Report: State of Innovation"
 date: 2024-02-01
-category: editorial & research
+category: Research
 teaser-img: portfolio/lab-report-ki/teaser-img.png
 summary: "A report on contemporary innovation practices inside German media companies."
-published: false
+published: true
 toc: true
 ---
 
 # Lab Report: State of Innovation
 
+{% include img-full.html path="portfolio/lab-report-innovation/report-workspace.png" %}
+
 ## What was the challenge?
 
-Together with my colleague Christian Simon, we had set ourselves the goal of drawing a cross-section of the state of innovation work in media companies. What does innovation actually look like in practice? How is it supported? Do innovation methods even work at all?
+**Together with my colleague Christian Simon, we had set ourselves the goal of drawing a cross-section of the state of innovation work German in media companies. What does innovation actually look like in practice? How is it supported? Do innovation methods even work at all?**
 
-We were able to build on our experience with the [Lab Report: Künstliche Intelligenz](https://johannesklingebiel.de/portfolio/lab-report-kuenstliche-intelligenz), but it was clear from the start that the research and analysis would be much more complex this time.
-
-{% include img-full.html id="portfolio/lab-report-innovation/report-workspace.png" %}
+We were able to build on our experience with the [Lab Report: Künstliche Intelligenz](https://johannesklingebiel.de/portfolio/lab-report-kuenstliche-intelligenz), but it was clear from the start that the research and analysis would be more complex this time.
 
 ## Survey & Interviews
 
@@ -40,7 +40,7 @@ The 104 participants in our survey resulted in almost 5880 data points, crammed 
 
 While more complex statistical methods were available, we made a deliberate decision not to employ them due to the size of our dataset and the exploratory nature of our research. Instead, our focus was on identifying patterns, correlations, and thematic clusters within the responses.
 
-{% include img-full.html id="portfolio/lab-report-innovation/google-sheet.png" %}
+{% include img-full.html path="portfolio/lab-report-innovation/google-sheet.png" %}
 
 ### Evaluating qualitative data with AI
 
@@ -53,18 +53,18 @@ To extract content from the interviews, we experimented with two tools: *ChatGPT
 
 ## Write, write, write
 
-As with the [Lab Report: Künstliche Intelligenz](https://johannesklingebiel.de/portfolio/lab-report-kuenstliche-intelligenz), we used the following tools:
+As with the [Lab Report: Künstliche Intelligenz](https://johannesklingebiel.de/portfolio/lab-report-kuenstliche-intelligenz), we used the following tools to help us structure the work:
 
-- A flat plan in *Miro* to track layouts and topic distribution throughout the report
-- A *Google* spreadsheet to track the progress of individual texts
+- A flat plan in *Miro* to track layout changes and plan the various chapters throughout the report
+- A *Google Docs* spreadsheet to track the progress of individual texts
 
-{% include img-full.html id="portfolio/lab-report-innovation/miro-flatplan.png" info="A screenshot of the flatplan with parts of the layout already finished" %}
+{% include img-full.html path="portfolio/lab-report-innovation/miro-flatplan.png" info="A screenshot of the flatplan with parts of the layout already finished" %}
 
-We clustered the data from the interviews and the survey around a couple of topics—some we had anticipated in the survey design, others emerged from the research:
+We clustered the data from the interviews and the survey around a couple of emerging topics—some we had anticipated in the survey design, others emerged during the research:
 
-- The role of the management in enabling and hindering innovation initiatives
-- The setup and goals of innovation initiatives across different media companies
-- The use of so called "innovation methods" and where they worked and failed
+- The role of the management in enabling and hindering innovation initiatives, especially the challenges of navigating projects through hierarchies and hidden power structures.
+- The setup and goals of innovation initiatives across different media companies and the difference and similarities in how they approached innovation initiatives.
+- The use of so called "innovation methods" and where they worked and failed with a focus on Design Thinking.
 
 In the end, the report comprised 19 pages and 50,000 characters of text.
 
@@ -74,6 +74,6 @@ TBA
 
 ## What we learned
 
-1. **The critical perspective was valuable**—This was one of the main feedback by readers: taking a more critical perspective hepled in building credibility for the *Media Lab Bayern*, especially if we manage to remain balanced (a good example here is the critical Design Thinking chapter in the report)
+1. **The critical perspective was valuable**—This was one of the main feedback by readers: taking a more critical perspective helped in building credibility for the *Media Lab Bayern*, especially if we manage to remain balanced (a good example here is the critical Design Thinking chapter in the report)
 2. **Layout & Design**—The grid layout not only worked well for this report, but was also easy to adapt to the content with a few tongue-in-cheek elements.
 3. **Automatic feedback e-mail**—The extended Hubspot workflow with an automatic request for feedback seven days after a download was not very fruitful, but still helpful. An interest in "innovative business models" was mentioned several times in the feedback — a possible next topic.
