@@ -131,11 +131,11 @@ The triad of *project*, *infrastructure* and *context* makes it possible to gain
 - What creative power does the team have? Where is support and backing needed? How can this be obtained?
 - Which aspects lie outside this power and require potential compromises in the design of the project? Or are new strategies and approaches needed?
 
-It is important to note at this point that this form of analysis can be demotivating, especially if teams are very attached to a particular idea or the vision of a project. If it becomes clear that their preferred version is not easy to implement and requires ongoing engagement with the internal politics of an organization, disillusionment quickly sets in. However, a good steward should take this as an impetus to change the direction of the *project* and look for new ways and possible compromises to ensure its success.
+It is important to note at this point that this form of analysis can be demotivating[^21], especially if teams are very attached to a particular idea or the vision of a project. If it becomes clear that their preferred version is not easy to implement and requires ongoing engagement with the internal politics of an organization, disillusionment quickly sets in. However, a good steward should take this as an impetus to change the direction of the *project* and look for new ways and possible compromises to ensure its success.
 
 These analyses and discussions can reveal that the changes central to success  lie beyond the team's reach in the *context*. For teams, this means either looking for alternatives or adapting their approaches. Dan Hill outlines an interesting strategy in this context: the "Trojan horse". A *project* designed in such a way that it is seen as desirable by the organization, but carries within it a catalyst for more far-reaching changes. 
 
-Hill uses the example of "Low2No", a real estate project in Helsinki, designed as a climate-neutral building complex and the city's first to be built with wood. A building material that was originally banned due to the risk of fire, but which, thanks to new laminating technology, would enable almost climate-neutral construction and at the same time open up new sales markets for Finland's forestry industry. Low2No became the key to changing Helsinki's building regulations[^21].
+Hill uses the example of "Low2No", a real estate project in Helsinki, designed as a climate-neutral building complex and the city's first to be built with wood. A building material that was originally banned due to the risk of fire, but which, thanks to new laminating technology, would enable almost climate-neutral construction and at the same time open up new sales markets for Finland's forestry industry. Low2No became the key to changing Helsinki's building regulations[^22].
 
 In the context of podcast editing, this could have meant making the necessary changes to advertising sales in good time, for example through early optimistic revenue forecasts.  Or, to use a contemporary example, it could mean changing a company's data infrastructure through an AI lighthouse project.
 
@@ -164,6 +164,9 @@ Hill, D. (2012). Dark Matter and Trojan Horses. Moskau: Strelka Institute Press
 {: .left}
 
 Horn, D. (2021). Innovationsmanagement mit Sascha Friesike. https://dennishorn.de/2021/04/22/innovationsmanagement-mit-sascha-friesike/ (30.09.2023)
+{: .left}
+
+Huising, R. ( 2019). ’Moving off the Map: How Knowledge of Organizational Operations Empowers and Alienates’. Organization Science, pp. 1–22. https://doi.org/10.1287/orsc.2018.1277
 {: .left}
 
 Johnson, B. (2002). The Secrets of Apollo. Maryland, BA: Johns Hopkins University Press
@@ -207,4 +210,5 @@ Van Laak, D. (2001). Infra-Strukturgeschichte. Geschichte und Gesellschaft, 27. 
 [^18]: Simon, H. (1957). *Models of Man: Social and Rational*. Berkeley, CA: Wiley (Original from University of California)
 [^19]: Boyer, B. Cook, J. W., Steinberg, M. (2013). *Legible Practices*. Helsinki: Sitra, p. 15
 [^20]: Horn, D. (2021). *Innovationsmanagement mit Sascha Friesike*. https://dennishorn.de/2021/04/22/innovationsmanagement-mit-sascha-friesike/ (30.09.2023)
-[^21]: Hill, D. (2012), pp. 50-62
+[^21]: Huising, R. ( 2019). ’Moving off the Map: How Knowledge of Organizational Operations Empowers and Alienates’. Organization Science, pp. 1–22. https://doi.org/10.1287/orsc.2018.1277
+[^22]: Hill, D. (2012), pp. 50-62
