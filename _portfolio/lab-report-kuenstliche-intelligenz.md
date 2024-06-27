@@ -2,7 +2,7 @@
 layout: portfolio
 title: "Lab Report: Künstliche Intelligenz"
 date: 2023-08-31
-category: editorial & research
+category: Report
 teaser-img: portfolio/lab-report-ki/teaser-img.png
 summary: "A report on AI startups in journalism for the Media Lab Bayern."
 published: true
