@@ -18,7 +18,7 @@ series: media-&-commerce
 
 \+ Und sowohl _Buzzfeed_, als auch _The Strategist_ sind bereits einen Schritt weiter gegangen und haben eigene Pop-Up Stores eröffnet. Im Falle von _Buzzfeed_ [einen Abenteuer-Spielzeugladen][10], während sich _The Strategist_ [an kuratiertem Lifestyle versuchte][11]. Und _Monocle_ hat bereits seit längerem nicht nur mehrere Cafés und Stores, sondern mit dem Kioskafe auch eines der (finde ich) [spannenderen Store-Konzepte der letzten Jahre entwickelt][12].
 
-{% include img-small.html path="2019-03-20-01.jpg" alt="Monocle Kioskafe" info="via Monocle" %}
+{% include img-full.html path="2019-03-20-01.jpg" alt="Monocle Kioskafe" info="via Monocle" %}
 
 \+ David Perell argumentiert sogar, dass „Owned Commerce“, [also die Produktentwicklung durch Publisher die Zukunft sein könnte][13].
 

@@ -21,11 +21,11 @@ Die Schlussfolgerung ist dabei relativ simpel. Da Redaktion und Innovationsteams
 
 Der Architekt Bryan Boyer hat vor einiger Zeit einmal versucht eine ähnliche Lücke in der Stadtplanung [zwischen Urbanisten und “Technologists” zu skizzieren](https://urbantechnology.substack.com/p/urban-technology-at-university-of-e08).
 
-{% include img-small.html path="2021-03-12-01.png" %}
+{% include img-full.html path="2021-03-12-01.png" %}
 
 Für eine Zeitung wie die _Süddeutsche Zeitung_ könnte eine ähnlich überspitzte Skizze so aussehen:
 
-{% include img-small.html path="2021-03-12-02.jpeg" %}
+{% include img-full.html path="2021-03-12-02.jpeg" %}
 
 Wichtig ist jedoch zu verstehen, dass hier “Innovationskultur” nicht besser als “Redaktionskultur” ist. Im Gegenteil sind beide Perspektiven auch wieder nur das Ergebnis der Arbeit, die in ihnen geschieht. Beispielsweise entwickeln Innovationsteams oft ganz bewusst eine eigene und oft verschleiernde Begriffe, um sich vom Rest der Organisation abzuheben[^1]:
 

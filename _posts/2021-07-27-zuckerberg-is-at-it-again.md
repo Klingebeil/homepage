@@ -46,7 +46,7 @@ It's still entirely possible that the Metaverse will indeed be the next version 
 
 What leaves an especially bitter taste in my mouth is the way these dominant visions of the metaverse are geared towards extraction and monetization. They‘re not focused on the creative possibilities of the medium but instead revolve around how people and companies will be making money on this new internet. With the world burning it feels tasteless to read about how tech companies will create completely new simulated virtual economies and worlds from scratch to escape into.
 
-{% include img-small.html path="2021-07-27-01.png" %}
+{% include img-full.html path="2021-07-27-01.png" %}
 
 ---
 This text was originally published [in German in my newsletter](https://klingebeil.substack.com/p/okay-reden-wir-uber-das-metaverse-690415).

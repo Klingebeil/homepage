@@ -22,7 +22,7 @@ From the start I knew, I wanted a couple of things my website should do:
 - A place that works as a portfolio for my projects
 - A digital garden (I get to that in a minute)
 
-{% include img-small.html path="2021-03-10-01.jpeg" alt="" info="The Money Shot" %}
+{% include img-full.html path="2021-03-10-01.jpeg" alt="" info="The Money Shot" %}
 ## The Stack
 
 In the end, my choice fell on _Github_ Pages as a quick and easy platform after being inspired to check it out by Tom Critchlow‘s piece [on his digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) (yes, yes… let me finish here).
@@ -48,6 +48,6 @@ So, if I want to update a file, I can simply jump into _Ulysses_, edit the conte
 
 So yes. Here we are. New website, new system, lots of room to play.
 
-{% include img-small.html path="digital garden new.svg" %}
+{% include img-full.html path="digital garden new.svg" %}
 
 [^1]:	If you‘d like to read more, Patrick Tanguay published [a great overview on the different approaches and idaes behind digital gardens](https://sentiers.media/dispatch-08-digital-gardens/).

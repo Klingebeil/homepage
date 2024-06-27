@@ -76,7 +76,7 @@ The *context* in turn describes the limits of what is currently possible: all as
 
 These three levels are characterized by their relationship to the power and influence of a project team: while they can often shape the project on their own, they are dependent on the support of others for making changes to the *infrastructure*, while the *context* is completely outside their sphere of influence.
 
-{% include img-small.html path="2024-04-02-graphic.png" %}
+{% include img-full.html path="2024-04-02-graphic.png" %}
 
 All of these levels are also interdependent: *projects* can only be implemented within the framework of the *infrastructure* and are in turn limited by the constraints of the *context*. 
 

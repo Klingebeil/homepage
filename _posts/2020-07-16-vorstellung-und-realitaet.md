@@ -31,7 +31,7 @@ Gleichzeitig ist diese Form des Innovationstheaters eine Strategie für alle, di
 
 Die Folge ist, dass es oft leichter ist, alten Wein in neue Schläuche zu gießen und dies als Innovation zu verkaufen, als grundlegend den Journalismus zu verändern. Seit Jahrzehnten fehlt es in Redaktionen an alternativen Ideen und Geschichten, die glaubhaft genug eine Alternative zum Status Quo erzählen. Und ich meine tatsächlich Jahrzehnte, denn die Tendenz, die Zukunft des Journalismus rein an seinem Medium festzumachen, zieht sich durch das gesamte letzte Jahrhundert.
 
-{% include img-small.html path="messy middle/retro-future-02.jpg" alt="" %}
+{% include img-full.html path="messy middle/retro-future-02.jpg" alt="" %}
 
 Und als Konsequenz haben wir eine Flut an Alexa-Skills, VR-Apps und Daily Podcasts, die aber kaum eine ernsthafte Veränderung in den Medienhäusern nach sich ziehen.
 

@@ -32,7 +32,7 @@ Grundsätzlich muss auch zwischen öffentlichen (oder permissionless) Blockchain
 
 Ein anderer wichtiger Aspekt, den man im Blick behalten sollte, ist die Tatsache, dass die Blockchain als Konzept selbst auf [einer ganzen Reihe anderer Technologien basiert][4]. Die historische Perspektive ist zwar nicht unbedingt ausschlaggebend, aber dennoch wichtig zu berücksichtigen. Oder wie die Autoren es selbst beschreiben: „Nakamoto‘s genius, then, wasn‘t any of the individual components of bitcoin, but rather the intricate way in which they fit together to breathe life into the system.“
 
-{% include img-small.html path="2018-01-07-01.png" alt="" info="via Arvind Narayanan und Jeremy Clark"%}
+{% include img-full.html path="2018-01-07-01.png" alt="" info="via Arvind Narayanan und Jeremy Clark"%}
 
 ## Hype
 
@@ -71,7 +71,7 @@ Bei privaten Blockchains kommt noch ein zusätzlicher Faktor ins Spiel. Eine Blo
 
 Das alles bringt uns zu der Frage: Brauche ich überhaupt eine Blockchain für mein Problem? Karl Wüst und Arthur Gervais von der ETH Zürich haben versucht genau diese Frage in ihrer Studie „[Do you need a Blockchain?][11]“ zu beantworten. Ihr Ergebnis: Vermutlich eher nicht. Zwar gäbe es durchaus valide Use-Cases in Bereichen, wie im Supply/Demand-Chain-Managment, Banking, Proof-of-Ownership oder E-Voting, aber all diese Use-Cases kommen mit Einschränkungen daher. Wüst und Gervais haben ihre Ergebnisse auch in einem praktischen Flow-Chart zusammengefasst.
 
-{% include img-small.html path="2018-01-07-02.jpg" alt="" info="via Arvind Narayanan und Jeremy Clark"%}
+{% include img-full.html path="2018-01-07-02.jpg" alt="" info="via Arvind Narayanan und Jeremy Clark"%}
 
 Jedoch sollten auch Use-Cases wie Banking oder E-Voting mit Vorsicht genossen werden. SaveOnSend, ein Startup, welches sich auf internationale Geldüberweisungen spezialisiert, hat in einem langen Blog-Post die Versprechen von Bitcion/Blockchain [als Banking- und Überweisungssystem in Schwellen- und Entwicklungsländern auseinandergenommen][12]. Auch hier zeigt sich wieder das Problem, dass viele Blockchain-Evangelisten wenig bis gar keinen Einblick in die Industrie haben, die sie „disrupten“ wollen.
 

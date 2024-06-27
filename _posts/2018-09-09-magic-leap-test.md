@@ -13,7 +13,7 @@ Und um ehrlich zu sein: Die Zukunft ist… unscharf. Ich glaube es ist der Fluch
 
 Eine der Dinge, die ich jedoch gleich zu Anfang schätzen lernte, war die Entscheidung der Designer, den Hauptprozessor extern in einem etwa Handtellergroßen Gerät unterzubringen. Angeklippt an eine Hosentasche ist dieser durch eine Nabelschnur mit der Brille verbunden und übernimmt den größten Teil der Arbeit und haust auch die Batterie der Brille. Zwar muss man so mit einem Kabel zwischen Brille und Prozessor klarkommen, aber diese Design hat den angenehmen Nebeneffekt, dass das Gewicht der Brille weitaus geringer ist als erwartet und es hält auch die Wärmeentwicklung in Grenzen. Dies war meiner Meinung nach einer der großen Probleme der Google Glass, welche ihre Batterie und Prozessor direkt hinter dem Ohr des Trägers platzierte. Die entstehende Hitze machte das Gerät oft unangenehm und schwitzig.
 
-{% include img-small.html path="2018-09-09-01.jpg" alt="Magic Leap" %}
+{% include img-full.html path="2018-09-09-01.jpg" alt="Magic Leap" %}
 
 ## Demos
 Alles in allem trägt sich die Brille angenehm ohne zu drücken und lässt sich einfach über den Kopf streifen, bietet aber als Entwicklergerät nur wenige Demos.
@@ -37,7 +37,7 @@ Ein weiteres Problem ist das Display. Zwar sind die Hologramme der Magic Leap du
 
 Was mich bei der Nutzung jedoch beeindruckte war das „Spatial Audio“-System der Brille, welche es tatsächlich schaffte eine glaubwürdige 360°-Geräuschkulisse zu erzeugen. Mehr als einmal drehte ich mich während der Demos um, um Geräusche hinter mir zu erkunden. Und das vor allem ohne Kopfhörer tragen zu müssen.
 
-{% include img-small.html path="2018-09-09-02.jpg" alt="Magic Leap" info="Cyberpunk as f\*ck"%}
+{% include img-full.html path="2018-09-09-02.jpg" alt="Magic Leap" info="Cyberpunk as f\*ck"%}
 
 ## Keine Revolution, aber Evolution
 Ist die Magic Leap also das nächste große Ding™? Ich glaube ehrlich nicht. Nicht zuletzt, weil die Magic Leap One als reines Heimgerät konzipiert ist. Man sollte die Brille eher als Evolutionsschritt sehen. Sie ist ein faszinierendes Gadget, welches rein auf den Konsumentenmarkt abzielt. Und wird damit wahrscheinlich der Flugbahn der Google Glass und Microsofts HoloLens folgen, welche beide ebenfalls als Konsumentenprodukt positioniert wurden, nur um ihre Nische in Industrieanwendungen zu finden. (Eine Anmerkung die Holo-Light dazu machte war jedoch, dass das eingeschränkte Sichtfeld der Brille sie für viele Industrie-Aufgaben disqualifizieren dürfte.)

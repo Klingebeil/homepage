@@ -8,7 +8,7 @@ toc: true
 
 Sometimes technology makes weird jumps back in time and reinvents channels or mediums. The latest evidence of this circular move forward is the emerging trend of _conversational commerce_. This term, though not invented, but made popular by [Chris Messina](), can be broken down in one fairly simple picture.
 
-{% include img-small.html path="2016-02-14-02.png" alt="From businss to chat"%}
+{% include img-full.html path="2016-02-14-02.png" alt="From businss to chat"%}
 
 In a nutshell, _conversational commerce_ tries not to build a business through a storefront, online shop or homepage, but a simple chat interface. This interface can live inside an already popular app like Facebook Messenger, WhatsApp, WeChat, or the SMS application on your smartphone, but it can also exist as a standalone app. Also, the person on the other side of the message doesn‘t have to be human but can be anything from a stupid program or a slightly less stupid bot to a full-fledged AI. Important is only the medium of interaction: chat.
 
@@ -26,7 +26,7 @@ I think _Quartz_‘s approach is interesting on many levels:
 
 Though one could argue, that _Quartz_‘s app merely simulates a conversation, but it does so brilliantly.
 
-{% include img-small.html path="2016-02-14-03.png" alt="Quartz App"%}
+{% include img-full.html path="2016-02-14-03.png" alt="Quartz App"%}
 
 ## The NYT Election Slack Bot
 
@@ -38,7 +38,7 @@ This command will enable you to send a question about the election into the _NYT
 
 Yes, you can talk directly to a _NYT_ journalist from inside your Slack team.
 
-{% include img-small.html path="2016-02-14-04.png" alt="NYT election slack bot"%}
+{% include img-full.html path="2016-02-14-04.png" alt="NYT election slack bot"%}
 
 ## The BBC‘s WhatsApp experience
 
@@ -50,7 +50,7 @@ When Ebola struck out in West-Africa, the [_BBC_ published information about the
 
 Though WhatsApp is still extremely limited with a missing API and a laborious subscription process, the _BBC_ found an interesting way of not only reaching its readers but also connecting a newsroom to the events unfolding on the ground.
 
-{% include img-small.html path="2016-02-14-05.jpg" alt="BBC whatsapp"%}
+{% include img-full.html path="2016-02-14-05.jpg" alt="BBC whatsapp"%}
 
 ## Purple
 
@@ -58,7 +58,7 @@ The easiest way to describe _Purple_ is by inventing a new buzzword: messaging-f
 
 With this approach, _Purple_ is one of the purest examples of conversational journalism. Like the _BBC_, [Purple tries to cover certain events, instead of publishing ongoing editorial content](). Though the service is limited to US cellphone numbers, a WhatsApp, Messenger, and Slack extension seems to be in the works.
 
-{% include img-small.html path="2016-02-14-06.jpg" alt="Purple chatbot"%}
+{% include img-full.html path="2016-02-14-06.jpg" alt="Purple chatbot"%}
 
 ## Where does this leave the news?
 
