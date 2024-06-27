@@ -210,5 +210,5 @@ Van Laak, D. (2001). Infra-Strukturgeschichte. Geschichte und Gesellschaft, 27. 
 [^18]: Simon, H. (1957). *Models of Man: Social and Rational*. Berkeley, CA: Wiley (Original from University of California)
 [^19]: Boyer, B. Cook, J. W., Steinberg, M. (2013). *Legible Practices*. Helsinki: Sitra, p. 15
 [^20]: Horn, D. (2021). *Innovationsmanagement mit Sascha Friesike*. https://dennishorn.de/2021/04/22/innovationsmanagement-mit-sascha-friesike/ (30.09.2023)
-[^21]: Huising, R. ( 2019). ’Moving off the Map: How Knowledge of Organizational Operations Empowers and Alienates’. Organization Science, pp. 1–22. https://doi.org/10.1287/orsc.2018.1277
+[^21]: Huising, R. ( 2019). *Moving off the Map: How Knowledge of Organizational Operations Empowers and Alienates*. Organization Science, pp. 1–22. https://doi.org/10.1287/orsc.2018.1277
 [^22]: Hill, D. (2012), pp. 50-62
