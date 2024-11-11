@@ -18,4 +18,4 @@ title: Luxury Links
 [1]:	https://www.ribbonfarm.com/2017/08/17/the-premium-mediocre-life-of-maya-millennial/
 [2]:	https://qz.com/1303457/nobody-knows-what-luxury-is-anymore/
 [3]:	https://www.highsnobiety.com/p/the-new-luxury-whitepaper-highsnobiety/
-[4]:	https://www.proteinagency.com/reports/a-series-of-dirty-words-exclusivity
+[4]:	https://www.protein.xyz/dirty-words-1-exclusivity/

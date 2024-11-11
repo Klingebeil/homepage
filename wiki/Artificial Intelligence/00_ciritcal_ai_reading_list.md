@@ -101,10 +101,10 @@ A summary can be found in this Wired Article [Wise up, deep learning may never c
 [8]:	https://arxiv.org/pdf/1801.05667.pdf
 [9]:	https://www.wired.com/story/greedy-brittle-opaque-and-shallow-the-downsides-to-deep-learning/
 [10]:	http://approximatelycorrect.com/2018/07/10/troubling-trends-in-machine-learning-scholarship/
-[11]:	http://www.cs.cmu.edu/tom/pubs/Science_WorkforceDec2017.pdf
+[11]:	hhttps://www.science.org/doi/10.1126/science.aap8062
 [12]:	https://ines.io/blog/wired-brain-ai-powered-future
 [13]:	https://logicmag.io/01-interview-with-an-anonymous-data-scientist/
 [14]:	https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3040201
-[15]:	https://points.datasociety.net/dont-call-ai-magic-142da16db408
+[15]:	https://medium.com/datasociety-points/dont-call-ai-magic-142da16db408
 [16]:	http://journals.sagepub.com/doi/abs/10.1177/1354856517715164
 [17]:	https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224

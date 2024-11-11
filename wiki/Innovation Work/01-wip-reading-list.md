@@ -74,4 +74,4 @@ A sporadically updated list can also be found on [are.na][1].
 [22]:	https://logicmag.io
 [23]:	https://www.nesta.org.uk/
 [25]:	https://space10.com
-[26]:	https://thirdwaveberlin.de
+[26]:	https://thirdwaveberlin.de (unfortunately now offline)
