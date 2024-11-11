@@ -85,7 +85,7 @@ The practice is described in a [great piece on the Gov.uk blog](https://defradig
 
 ### Amazon‘s six pager
 
-According to myth: *Amazon* banned PowerPoint presentations in 2004 and [instead installed a culture of written memos](https://www.businessinsider.com.au/jeff-bezos-email-against-powerpoint-presentations-2015-7).
+According to myth: *Amazon* banned PowerPoint presentations in 2004 and [instead installed a culture of written memos](https://www.businessinsider.com/jeff-bezos-email-against-powerpoint-presentations-2015-7).
 
 > Powerpoint-style presentations somehow give permission to gloss over ideas, flatten out any sense of relative importance, and ignore the innerconnectedness of ideas.
 
@@ -131,4 +131,3 @@ Some tools and platforms I find currently interesting:
 ## Related Articles from other smart people
 
 - **[Filtered for... writing inside organizations](https://tomcritchlow.com/2020/05/27/filtered-for-org-writing/)** by Tom Critchlow 
-- **[Work & Learn Out Loud](https://sentiers.media/work-and-learn-out-loud/)** by Patrick Tanguay

@@ -55,4 +55,4 @@ Another quirky example is the work of [Craig Mod][2] who seems to use every oppo
 [5]:	https://gilest.org/2017/stickers/
 [6]:	https://gilest.org/2018/posters/
 [7]:	https://gds.blog.gov.uk/
-[8]:	https://outofoffice.room.com/inside-facebook-analog-research-lab/
+[8]:	https://www.youtube.com/watch?v=5jcwTIFjLxE
