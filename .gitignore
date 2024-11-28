@@ -5,6 +5,8 @@ _css/
 .vscode/
 vendor/
 .jekyll-cache/
+.sass-cache/
+.vscode/
 
 
 wiki/.Ulysses-Group.plist
