@@ -9,7 +9,7 @@ last-updated: 2024-11-28
 
 These are narratives and ideas that are used in arguments about new technologies, are seldom questioned but broadly accepted as *truthful*. They’re often used as buzzwords.
 
-- Killer Apps (pieces of software with a broad appeal) as the singular reason for the adoption of a technology (or a lack of a killer app being the reason for failed adoption)
+- Killer Apps (pieces of software with a broad appeal) as the singular reason for the general adoption of a technology (or a lack of a killer app being the reason for failed adoption)
 - The Gartner Hype Cycle as a predictive model for technological development and adoption[^1]
 - Early adopter advantage
 - First mover advantage[^2]
