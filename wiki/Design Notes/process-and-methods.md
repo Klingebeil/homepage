@@ -11,7 +11,7 @@ These are a number of notes about design methods.
 
 ---
 
-The [originial criticism](https://www.moderniststudio.com/corporate-education/enough-design-methods/) by Jon Kolko is now unfortunately offline but still reachable via [the wayback machine](https://web.archive.org/web/20200801000000*/https://www.themoderniststudio.com/2018/05/28/enough-design-methods/). (I also would extend this criticism to “innovation methods”)
+The [originial criticism](https://www.jonkolko.com/writing/notes/enough-design-methods) by Jon Kolko is now unfortunately offline but still reachable via [the wayback machine](https://web.archive.org/web/20200801000000*/https://www.themoderniststudio.com/2018/05/28/enough-design-methods/). (I also would extend this criticism to “innovation methods”)
 
 > These are the problems with design methods: 
 > 
