@@ -13,6 +13,7 @@ These are narratives and ideas that are used in arguments about new technologies
 
 - *Killer Apps* (pieces of software with a broad appeal) as the singular reason for the general adoption of a technology (or a lack of a killer app being the reason for failed adoption)
 - The *Gartner Hype Cycle* as a predictive model for technological development and adoption[^2]
+- *Generational cohorts* as fixed and unchanging groups of people exhibiting similar behaviour, regardless of age, life stage or material conditions
 - *Early adopter advantage*
 - *First mover advantage*[^3]
 - *Resistance to change* resulting from ignorance alone, not power relations or material conditions[^4]
