@@ -19,8 +19,10 @@ These are narratives and ideas that are used in arguments about new technologies
 - *Resistance to change* resulting from ignorance alone, not power relations or material conditions[^4]
 - The popular understanding of *disruption* as something inherent to technologies, not certain business strategies
 - The popular notions of *technological revolutions* as clean cycles of technological innovation and adoption
+- The idea of *technological inevitability* in the sense that change through this technology will be inevitable, meaning adoption is imperative and every form of resistance (through laws, regulations or non-adoption) is either naiv or dangerous[^5]
 
 [^1]:   Arie Rip (2006). ‘Folk Theories of Nanotechnologists’. Science as Culture. Vol. 15, No. 4, 349–365, December 2006.
 [^2]:   See my notes on the [Gartner Hype Cycle (DE)](http://127.0.0.1:4000/2017/09/11/gartner-hypecycle.html)
 [^3]:   Peter N. Golder, Gerard J. Tellis (1993). ‘Pioneer Advantage: Marketing Logic or Marketing Legend’. Journal of Marketing Research, Vol. 30, No. 2 (May, 1993), pp. 158-170. [http://www.jstor.org/stable/3172825](http://www.jstor.org/stable/3172825)
 [^4]:   Jeffrey D. Ford, Laurie W. Ford, D'Amelio (February 06, 2008). ‘Resistance to Change: The Rest of the Story’. Academy of Management Review 2008, Vol. 33, No. 2, 362–377.
+[^5]:   L.M. Sacasas (2013). ‘[Borg Complex](https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/)’.
