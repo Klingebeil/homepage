@@ -19,7 +19,7 @@ These are narratives and ideas that are used in arguments about new technologies
 - *Resistance to change* resulting from ignorance alone, not power relations or material conditions[^4]
 - The popular understanding of *disruption* as something inherent to technologies, not certain business strategies
 - The popular notions of *technological revolutions* as clean cycles of technological innovation and adoption
-- The idea of *technological inevitability* or the *pandora's box of technology* in the sense that change through this technology will be inevitable, meaning adoption is imperative and every form of resistance (through laws, regulations or non-adoption) is either naiv or dangerous.[^5] (Suggested by Wenzel Mehnert)
+- The idea of *technological inevitability* or the *pandora's box of technology* in the sense that change through this technology will be inevitable, meaning adoption is imperative and every form of resistance (through laws, regulations or non-adoption) is either naiv, misinformed or even dangerous.[^5] (Suggested by Wenzel Mehnert)
 
 [^1]:   Arie Rip (2006). ‘Folk Theories of Nanotechnologists’. Science as Culture. Vol. 15, No. 4, 349–365, December 2006.
 [^2]:   See my notes on the [Gartner Hype Cycle (DE)](http://127.0.0.1:4000/2017/09/11/gartner-hypecycle.html)
