@@ -5,7 +5,7 @@ title: "AI and efficiency"
 subtitle: "Innovation work in organizations as an infrastructural practice"
 date: 2024-12-08
 teaser-img: 2024-04-02-teaser.png
-published: true
+published: false
 toc: true
 linked-notes:
     - 00-dark_matter
