@@ -11,7 +11,7 @@ These are narratives and ideas that are used in arguments about new technologies
 
 > [Folk theories] are a form of expectations, based in some experience, but not necessarily systematically checked. Their robustness derives from their being generally accepted, and thus part of a repertoire current in a group or in our culture more generally.[^1]
 
-(So in that sense this collections of notes is an attempt at pointing out lazy thinking in the discourses about technologies, especially by lay commentators.)
+(So in that sense this collections of notes is an attempt at pointing out lazy or simplistic thinking in the discourses about technologies.)
 
 - *Killer Apps* (pieces of software with a broad appeal) as the singular reason for the general adoption of a technology (or a lack of a killer app being the reason for failed adoption)
 - The *Gartner Hype Cycle* as a predictive model for technological development and adoption[^2]
