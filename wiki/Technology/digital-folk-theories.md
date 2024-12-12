@@ -14,6 +14,7 @@ These are narratives and ideas that are used in arguments about new technologies
 - *Killer Apps* (pieces of software with a broad appeal) as the singular reason for the general adoption of a technology (or a lack of a killer app being the reason for failed adoption)
 - The *Gartner Hype Cycle* as a predictive model for technological development and adoption[^2]
 - *Generational cohorts* as fixed and unchanging groups of people exhibiting similar behaviour, regardless of age, life stage or material conditions. (Suggested by Falk Ebert)
+- The *technology use of young people* is a reliable measurement for future societal technology use (a good example here is also the myth of the “digital native”[^6])
 - *Early adopter advantage*
 - *First mover advantage*[^3]
 - *Resistance to change* resulting from ignorance alone, not power relations or material conditions[^4]
@@ -21,8 +22,9 @@ These are narratives and ideas that are used in arguments about new technologies
 - The popular notions of *technological revolutions* as clean cycles of technological innovation and adoption
 - The idea of *technological inevitability* or the *pandora's box of technology* in the sense that change through this technology will be inevitable, meaning adoption is imperative and every form of resistance (through laws, regulations or non-adoption) is either naiv, misinformed or even dangerous.[^5] (Suggested by Wenzel Mehnert)
 
-[^1]:   Arie Rip (2006). ‘Folk Theories of Nanotechnologists’. Science as Culture. Vol. 15, No. 4, 349–365, December 2006.
-[^2]:   See my notes on the [Gartner Hype Cycle (DE)](http://127.0.0.1:4000/2017/09/11/gartner-hypecycle.html)
-[^3]:   Peter N. Golder, Gerard J. Tellis (1993). ‘Pioneer Advantage: Marketing Logic or Marketing Legend’. Journal of Marketing Research, Vol. 30, No. 2 (May, 1993), pp. 158-170. [http://www.jstor.org/stable/3172825](http://www.jstor.org/stable/3172825)
-[^4]:   Jeffrey D. Ford, Laurie W. Ford, D'Amelio (February 06, 2008). ‘Resistance to Change: The Rest of the Story’. Academy of Management Review 2008, Vol. 33, No. 2, 362–377.
-[^5]:   L.M. Sacasas (2013). ‘[Borg Complex](https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/)’.
+[^1]: Arie Rip (2006). ‘Folk Theories of Nanotechnologists’. Science as Culture. Vol. 15, No. 4, 349–365, December 2006.
+[^2]: See my notes on the [Gartner Hype Cycle (DE)](http://127.0.0.1:4000/2017/09/11/gartner-hypecycle.html)
+[^3]: Peter N. Golder, Gerard J. Tellis (1993). ‘Pioneer Advantage: Marketing Logic or Marketing Legend’. Journal of Marketing Research, Vol. 30, No. 2 (May, 1993), pp. 158-170. [http://www.jstor.org/stable/3172825](http://www.jstor.org/stable/3172825)
+[^4]: Jeffrey D. Ford, Laurie W. Ford, D'Amelio (February 06, 2008). ‘Resistance to Change: The Rest of the Story’. Academy of Management Review 2008, Vol. 33, No. 2, 362–377.
+[^5]: L.M. Sacasas (2013). ‘[Borg Complex](https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/)’.
+[^6]: Enyon, R. (2020). ‘[The myth of the digital native: Why it persists and the harm it inflicts](https://www.oecd-ilibrary.org/education/education-in-the-digital-age_2dac420b-en)’. Education in the Digital Age.
