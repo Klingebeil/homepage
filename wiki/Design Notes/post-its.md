@@ -3,6 +3,8 @@ layout: wikicrumb
 title: On Post-its
 first-commit: 2022-03-07
 last-updated: 2022-03-07
+linked-notes:
+- 10-ditching-the-post-it
 ---
 
 # On Post-its

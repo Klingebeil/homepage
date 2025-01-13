@@ -3,6 +3,8 @@ layout: wikicrumb
 title: "An Experiment: Ditching the Post-It"
 first-commit: 2023-01-30
 last-updated: 2023-01-30
+linked-notes:
+- post-its
 ---
 
 # Ditching the Post-It
