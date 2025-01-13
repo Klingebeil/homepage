@@ -6,12 +6,8 @@ last-updated: 2022-12-05
 ---
 
 # Understanding Culture
-{:.no_toc}
 
 A couple of loose notes on the cultural gaps of publishers vs. newsrooms vs. innovation teams.
-
-1. this unordered seed list will be replaced by toc as unordered list
-{:toc}
 
 ---
 
