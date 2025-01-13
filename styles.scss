@@ -1,6 +1,7 @@
 ---
 ---
 
-@import "../_sass/layout.scss";
-@import "../_sass/typography.scss";
-@import "../_sass/_specialprojects.scss"
+@use '../_sass/_shared.scss' as *;
+@use '../_sass/_layout.scss';
+@use '../_sass/_specialprojects.scss';
+@use '../_sass/_typography.scss';
