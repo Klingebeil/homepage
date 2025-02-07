@@ -33,6 +33,6 @@ Instead, we should ask: will people trust this kind of journalism? Will they cha
 
 But asking these questions and—more importantly—being able to find possible answers, means taking into account the complex role journalism plays in the messy lives of actual people. Not merely reducing them to *users*.
 
-[^1]: I should note here that I am very skeptical of the idea of personalized news, not the least because readers have been shown [again and again to be wary of the concept](https://theaudiencers.com/the-risk-of-personalization-do-people-want-and-trust-it/).
+[^1]: I should note here that I am very skeptical of the idea of personalized news, not the least because readers have been shown [again and again to be wary of the idea](https://theaudiencers.com/the-risk-of-personalization-do-people-want-and-trust-it/).
 [^2]: Which, to be fair, is also a heavily misused concept.
 [^3]: Or as Herbert Simon would put it: “*satisficing*”.
