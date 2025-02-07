@@ -4,7 +4,11 @@
 <meta property="og:image:width" content="500" />
 <meta property="og:image:height" content="500" />
 <meta property="og:type" content="article" />
-<meta property="og:description" content="{{ page.content | truncatewords:50 | strip_html | markdownify }}" />
+{% if page.subtitle %}
+<meta property="og:description" content="{{ page.subtitle }}" />
+{% else %}
+<meta property="og:description" content="{{ page.content | truncatewords:50 | strip_html }}" />
+{% endif %}
 <style>a {text-decoration-color: #FD675E !important;}</style>
 <link rel="canonical" href="johannesklingebiel.de{{page.url}}">
 <script language="JavaScript" type="text/javascript" src="/jquery-v3.7.1.min.js"></script>
