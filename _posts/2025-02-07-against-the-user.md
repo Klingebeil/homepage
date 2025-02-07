@@ -2,7 +2,7 @@
 layout: post
 language: en
 title: "An argument against the news user"
-subtitle: "Concepts used mindlessly tend to bight back"
+subtitle: "Concepts used mindlessly tend to bite back"
 date: 2025-02-07
 teaser-img: 2025-02-07-teaser.png
 published: true
