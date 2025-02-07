@@ -13,9 +13,7 @@ linked-notes:
 
 I’ve seen more and more journalists refer to their audience as *users* of news and while this kind of heuristic can be useful, the *user* as a concept can also be dangerous.
 
-(To be fair, every way of thinking about humans through abstractions has their dangers: *audiences*, *publics*, *communities*, *personas*, *consumers*—all have their uses and limitations. And all are problematic once they’re used exclusively.)
-
-In my opinion *user* flattens the relationship between journalists and their audience to one of practical “use”. The term reduces journalism’s role to one of content provision rather than a more complex social institution that should facilitate public debate and democratic deliberation. The *user* comes at the cost of thinking about readers as *citizens*, *communities*[^2], or *publics*, which have radically different implications for journalism’s role in society.
+To put it briefly, the *user* flattens the relationship between journalists and their audience to one of practical “use”. It reduces journalism’s role to one of content provision, rather than the more complex social institution that should facilitate public debate and democratic deliberation. The *user* comes at the cost of thinking about readers as *citizens*, *communities*,[^2] or *publics*, which have radically different implications for journalism’s role in society.[^4]
 
 Further, it speaks to an at times uncritical adoption of ideas from the tech-industry, through more or less concrete frameworks like “user-centered design”. The adoption of the *user* mirrors how journalism is increasingly structured around platform logics—optimizing for reach, engagement, and visions like personalization[^1]. As journalism lost its infrastructural sovereignty—news organizations no longer control their own distribution—it adapted by borrowing the language and logics of those who do. In some ways this adoption was not only successful but also necessary, but at the same time often lacking a deeper engagement with the assumptions behind these concepts.
 
@@ -36,3 +34,4 @@ But asking these questions and—more importantly—being able to find possible 
 [^1]: I should note here that I am very skeptical of the idea of personalized news, not the least because readers have been shown [again and again to be wary of the idea](https://theaudiencers.com/the-risk-of-personalization-do-people-want-and-trust-it/).
 [^2]: Which, to be fair, is also a heavily misused concept.
 [^3]: Or as Herbert Simon would put it: “*satisficing*”.
+[^4]: Though, to be fair, every way of thinking about humans through abstractions has their dangers: *audiences*, *publics*, *communities*, *personas*, *consumers*—all have their uses and limitations. And all are problematic once they’re used exclusively.
