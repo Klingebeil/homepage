@@ -29,7 +29,7 @@ There is another risk. As [Johann Redström notes](https://doi.org/10.1016/j.des
 
 This is especially apparent in the current discourse around the possible impacts of *artifical intelligence* in journalism. If you consider it only through the lens of the *user*, you will never get any further than the tired cliché of the personalized news assistant. One in which the relationship with journalism is further flattened and eroded and the *user* is forced into a singular news experience.
 
-Instead, we should ask: will people trust this kind of journalism? Will they challenge it, remix it, or ignore it? Who benefits from AI-driven journalism, and who is left out? How does the ways in which AI is at the moment implemented redistribute agency and power between journalists, audiences, and platforms?
+Instead, we should ask: will people trust this kind of journalism? Will they challenge it, remix it, or ignore it? Who benefits from AI-driven journalism, and who is left out? How do the ways in which AI is implemented at the moment redistribute agency and power between journalists, audiences, and platforms?
 
 But asking these questions and—more importantly—being able to find possible answers, means taking into account the complex role journalism plays in the messy lives of actual people. Not merely reducing them to *users*.
 
