@@ -13,7 +13,7 @@ linked-notes:
 
 I’ve seen more and more journalists refer to their audience as *users* of news and while this kind of heuristic can be useful, the *user* as a concept can also be dangerous.
 
-To be fair, every way of thinking about humans through abstractions has their dangers: *audiences*, *publics*, *communities*, *personas*, *consumers*—all have their uses and limitations. But they become very problematic once they’re used exclusively.
+(To be fair, every way of thinking about humans through abstractions has their dangers: *audiences*, *publics*, *communities*, *personas*, *consumers*—all have their uses and limitations. And all are problematic once they’re used exclusively.)
 
 In my opinion *user* flattens the relationship between journalists and their audience to one of practical “use”. The term reduces journalism’s role to one of content provision rather than a more complex social institution that should facilitate public debate and democratic deliberation. The *user* comes at the cost of thinking about readers as *citizens*, *communities*[^2], or *publics*, which have radically different implications for journalism’s role in society.
 
@@ -31,7 +31,7 @@ This is especially apparent in the current discourse around the possible impacts
 
 Instead, we should ask: will people trust this kind of journalism? Will they challenge it, remix it, or ignore it? Who benefits from AI-driven journalism, and who is left out? How does the ways in which AI is at the moment implemented redistribute agency and power between journalists, audiences, and platforms?
 
-But asking these questions and—more importantly—being able to find possible answers means taking into account the complex role of journalism in the messy lives of actual people. Not reducing them to *users*.
+But asking these questions and—more importantly—being able to find possible answers means taking into account the complex role of journalism in the messy lives of actual people. Not merely reducing them to *users*.
 
 [^1]: I should note here that I am very skeptical of the idea of personalized news, not the least because readers have been shown [again and again to be wary of the concept](https://theaudiencers.com/the-risk-of-personalization-do-people-want-and-trust-it/).
 [^2]: Which, to be fair, is also a heavily misused concept.
