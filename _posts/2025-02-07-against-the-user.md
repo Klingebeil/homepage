@@ -13,13 +13,13 @@ linked-notes:
 
 I’ve seen more and more journalists refer to their audience as *users* of news and while this kind of heuristic can be useful, the *user* as a concept can also be dangerous.
 
-To put it briefly, the *user* flattens the relationship between journalists and their audience to one of practical “use”. It reduces journalism’s role to one of content provision, rather than the more complex social institution that should facilitate public debate and democratic deliberation. The *user* comes at the cost of thinking about readers as *citizens*, *communities*,[^2] or *publics*, which have radically different implications for journalism’s role in society.[^4]
+To put it briefly, the *user* flattens the relationship between journalists and their audience to one of practical “use”. It reduces journalism’s role to one of content provision, rather than the more complex social institution that should facilitate public debate and democratic deliberation. The *user* comes at the cost of thinking about readers as *citizens*, *communities*,[^1] or *publics*, which have radically different implications for journalism’s role in society.[^2]
 
-Further, it speaks to an at times uncritical adoption of ideas from the tech-industry, through more or less concrete frameworks like “user-centered design”. The adoption of the *user* mirrors how journalism is increasingly structured around platform logics—optimizing for reach, engagement, and visions like personalization[^1]. As journalism lost its infrastructural sovereignty—news organizations no longer control their own distribution—it adapted by borrowing the language and logics of those who do. In some ways this adoption was not only successful but also necessary, but at the same time often lacking a deeper engagement with the assumptions behind these concepts.
+Further, it speaks to an at times uncritical adoption of ideas from the tech-industry, through more or less concrete frameworks like “user-centered design”. The adoption of the *user* mirrors how journalism is increasingly structured around platform logics—optimizing for reach, engagement, and visions like personalization[^3]. As journalism lost its infrastructural sovereignty—news organizations no longer control their own distribution—it adapted by borrowing the language and logics of those who do. In some ways this adoption was not only successful but also necessary, but at the same time often lacking a deeper engagement with the assumptions behind these concepts.
 
 As scholars like [Martha Kenney](https://www.jstor.org/stable/43829055), [John Law](https://journals.sagepub.com/doi/10.1177/1749975509105533), and others have pointed out: methods are performative. Descriptions of reality are never neutral nor mere descriptions, but rather actively shape the realities they claim to represent. And while they might reveal certain things, we also have to consider what they’re hiding.
 
-A user is a lone individual only driven by needs that have to be full-filled or problems to be solved, defined by an on/off relationship with a product or service.  But humans are complex social creatures, living messy, entangled, unpredictable lives, often simply coping[^3] with problems.
+A user is a lone individual only driven by needs that have to be full-filled or problems to be solved, defined by an on/off relationship with a product or service.  But humans are complex social creatures, living messy, entangled, unpredictable lives, often simply coping[^4] with problems.
 
 People, for example, don’t simply *use* news—they rely on it, trust it, or challenge it. They shape discourse through feedback, activism, or participation. They interpret, discuss, dismiss, circulate, remix, retell, and so on. Reducing humans to *users* means hiding all these complex ways people actually engage with news.
 
@@ -31,7 +31,7 @@ Instead, we should ask: will people trust this kind of journalism? Will they cha
 
 But asking these questions and—more importantly—being able to find possible answers, means taking into account the complex role journalism plays in the messy lives of actual people. Not merely reducing them to *users*.
 
-[^1]: I should note here that I am very skeptical of the idea of personalized news, not the least because readers have been shown [again and again to be wary of the idea](https://theaudiencers.com/the-risk-of-personalization-do-people-want-and-trust-it/).
-[^2]: Which, to be fair, is also a heavily misused concept.
-[^3]: Or as Herbert Simon would put it: “*satisficing*”.
-[^4]: Though, to be fair, every way of thinking about humans through abstractions has their dangers: *audiences*, *publics*, *communities*, *personas*, *consumers*—all have their uses and limitations. And all are problematic once they’re used exclusively.
+[^1]: Which, to be fair, is also a heavily misused concept.
+[^2]: Though, to be fair, every way of thinking about humans through abstractions has their dangers: *audiences*, *publics*, *communities*, *personas*, *consumers*—all have their uses and limitations. And all are problematic once they’re used exclusively.
+[^3]: I should note here that I am very skeptical of the idea of personalized news, not the least because readers have been shown [again and again to be wary of the idea](https://theaudiencers.com/the-risk-of-personalization-do-people-want-and-trust-it/).
+[^4]: Or as Herbert Simon would put it: “*satisficing*”.
