@@ -31,7 +31,7 @@ This is especially apparent in the current discourse around the possible impacts
 
 Instead, we should ask: will people trust this kind of journalism? Will they challenge it, remix it, or ignore it? Who benefits from AI-driven journalism, and who is left out? How does the ways in which AI is at the moment implemented redistribute agency and power between journalists, audiences, and platforms?
 
-But asking these questions and—more importantly—being able to find possible answers means taking into account the complex role of journalism in the messy lives of actual people. Not merely reducing them to *users*.
+But asking these questions and—more importantly—being able to find possible answers, means taking into account the complex role journalism plays in the messy lives of actual people. Not merely reducing them to *users*.
 
 [^1]: I should note here that I am very skeptical of the idea of personalized news, not the least because readers have been shown [again and again to be wary of the concept](https://theaudiencers.com/the-risk-of-personalization-do-people-want-and-trust-it/).
 [^2]: Which, to be fair, is also a heavily misused concept.
