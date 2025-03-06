@@ -14,6 +14,7 @@
 $font-small: 0.7em;
 $font-micro: 0.5em;
 $font-normal: 1em;
+$font-big: 1.3em;
 $serif: calendas, Times, Serif;
 $mono-space: mono-space, 'Courier New', Courier, monospace;
 $side-note-spacing: 300px;
@@ -85,6 +86,11 @@ b, strong, .bold {
 	font-variant-numeric: lining-nums;
 	text-transform: uppercase;
 	font-family: $mono-space;
+}
+
+.big {
+	font-size: $font-big;
+	line-height: 1.3em;
 }
 
 .regular {
