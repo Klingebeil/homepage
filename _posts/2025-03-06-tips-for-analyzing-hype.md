@@ -4,7 +4,7 @@ language: en
 title: "Tips for analysing Hype"
 subtitle: "There is absolutely no inevitability as long as there is a willingness to contemplate what is happening—Marshall McLuhan"
 date: 2025-03-06
-teaser-img: 2025-02-07-teaser.png
+teaser-img: 2025-03-06-teaser.png
 published: true
 toc: false
 ---
