@@ -5,4 +5,67 @@
     <link rel="icon" type="image/vnd.microsoft.icon" href="{{ site.baseurl }}/img/favicon.ico">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/styles.css">
     <link rel="canonical" href="johannesklingebiel.de{{page.url}}">
+    <script>
+        // copiable text snippet
+        document.addEventListener('DOMContentLoaded', () => {
+      // Create notification element dynamically to ensure it exists
+      const notification = document.createElement('div');
+      notification.className = 'copy-notification';
+      notification.textContent = 'The text has been copied to your clipboard';
+      document.body.appendChild(notification);
+      
+      // Get all copiable elements
+      const copiableElements = document.querySelectorAll('.button-copiable');
+      
+      // Add click event to each copiable element
+      copiableElements.forEach(element => {
+        element.addEventListener('click', async () => {
+          try {
+            // Check if there's an alias attribute to copy instead of the visible text
+            const textToCopy = element.hasAttribute('data-alias') 
+              ? element.getAttribute('data-alias')
+              : element.textContent.replace('📋', '').trim();
+              
+            await navigator.clipboard.writeText(textToCopy);
+            
+            // Show notification
+            notification.classList.add('show');
+            
+            // Hide notification after 2 seconds
+            setTimeout(() => {
+              notification.classList.remove('show');
+            }, 2000);
+          } catch (err) {
+            console.error('Failed to copy text: ', err);
+            
+            // Fallback method for older browsers
+            const textarea = document.createElement('textarea');
+            textarea.value = element.hasAttribute('data-alias') 
+              ? element.getAttribute('data-alias')
+              : element.textContent.replace('📋', '').trim();
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.focus();
+            textarea.select();
+            
+            try {
+              document.execCommand('copy');
+              // Show notification
+              notification.classList.add('show');
+              
+              // Hide notification after 2 seconds
+              setTimeout(() => {
+                notification.classList.remove('show');
+              }, 2000);
+            } catch (e) {
+              console.error('Fallback: Failed to copy text: ', e);
+            }
+            
+            document.body.removeChild(textarea);
+          }
+        });
+      });
+    });
+    </script>
 </head>
