@@ -10,16 +10,6 @@
 @font-face { font-family: 'mono-space'; src: url('../fonts/RobotoMono-Regular.ttf') format('truetype'); font-weight: normal; font-style: normal;}
 @font-face { font-family: 'mono-space'; src: url('../fonts/RobotoMono-Bold.ttf') format('truetype'); font-weight: bold; font-style: normal;}
 
-/* -- VARIABLES -- */
-$font-small: 0.7em;
-$font-micro: 0.5em;
-$font-normal: 1em;
-$font-big: 1.3em;
-$serif: calendas, Times, Serif;
-$mono-space: mono-space, 'Courier New', Courier, monospace;
-$side-note-spacing: 300px;
-
-
 body {
 	font-family: $serif;
 	font-feature-settings: "liga" 1, "calt" 1, "kern" 1;
