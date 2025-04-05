@@ -8,6 +8,8 @@ last-updated: 2025-03-16
 # Munich
 {:.no_toc}
 
+This is a selection of my favorite places in the city and what to expect.
+
 1. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
@@ -30,6 +32,8 @@ last-updated: 2025-03-16
 - <span class="button-copiable" data-alias="Kulinariat Munich">Kulinariat</span>—Small but cozy little restaurant, only open on certain nights with a multi-course menu.
 - <span class="button-copiable" data-alias="Usagi Munich">Usagi</span>—Izakaya meets Boazn meets Punkrock. It’s not exactly fusion but small, tasty and a bit loud. Not for long chats over wine but good food over a quick beer or sake. Ramen on Fridays.
 - <span class="button-copiable" data-alias="München72 Munich">München72</span>—Themed around the Olympic games of ’72 they will serve you a breakfast worthy of an athlete, as well as a solid Bavarian dinner menu.
+
+## Beergardens
 
 # Shops
 
