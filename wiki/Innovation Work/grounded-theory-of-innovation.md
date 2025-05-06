@@ -9,7 +9,7 @@ last-updated: 2025-05-06
 
 This is still a bit rough but the general idea is to sketch out an alternative approach to *innovation* then the dominant image presented by the tech-industry—which is still dominant in the media companies.
 
-Innovation is often shaped less by what’s “new” and more by what’s already there—infrastructure, habits, workarounds, and constraints. Grounded strategies respect and build on this, while dominant narratives often ignore or erase it.
+Innovation is often shaped less by what’s “new” and more by what’s already there—infrastructure, habits, workarounds, and constraints. A grounded approach respects and build on this, while dominant narratives often ignore or erase it.
 
 1. Incremental and Adaptive Change:
 	- Innovation as a _slow, iterative process_ shaped by constraints like shrinking budgets, legacy systems, or editorial norms.
