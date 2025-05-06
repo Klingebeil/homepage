@@ -1,11 +1,11 @@
 ---
 layout: wikicrumb
-title: Why AI chat is a terrible interace for news
+title: Why AI chat is a terrible interface for news
 first-commit: 2025-05-06
 last-updated: 2025-05-06
 ---
 
-# Why AI chat is a terrible interace for news
+# Why AI chat is a terrible interface for news
 
 Written by ChatGPT with light editing from me because apparently the system is more critical then some people in the industry.
 

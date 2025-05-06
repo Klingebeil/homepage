@@ -12,8 +12,8 @@ This is still a bit rough but the general idea is to sketch out an alternative a
 Innovation is often shaped less by what’s “new” and more by what’s already there—infrastructure, habits, workarounds, and constraints. Grounded strategies respect and build on this, while dominant narratives often ignore or erase it.
 
 1. Incremental and Adaptive Change:
-    - Innovation as a _slow, iterative process_ shaped by constraints like shrinking budgets, legacy systems, or editorial norms.
-    - Change often occurs through _tinkering_, *improvisation*, or *workarounds* rather than through disruptive "breakthroughs."
+	- Innovation as a _slow, iterative process_ shaped by constraints like shrinking budgets, legacy systems, or editorial norms.
+	- Change often occurs through _tinkering_, *improvisation*, or *workarounds* rather than through disruptive "breakthroughs."
 2. Technology-in-Use over speculative Tech Potential
 	- What matters is _how technology is actually used_, not what it could theoretically do.
 	- E.g. Newsrooms often repurpose tools like Excel, WhatsApp, or Google Docs in creative, journalistic ways.
