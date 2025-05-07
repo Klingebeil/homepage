@@ -7,7 +7,7 @@ last-updated: 2025-05-07
 
 # Grounded Theory of Innovation in Journalism
 
-This is still a bit rough but the general idea is to sketch out an alternative approach to *innovation* then the dominant image presented by the tech-industry and consulting industry. Think “disruption” and apparently universal innovation approaches like “design thinking”.
+This is still a bit rough but the general idea is to sketch out an alternative approach to *innovation* then the dominant image presented by the tech-industry and consulting industry. Think “disruption” and allegedly universal innovation approaches like “design thinking”.
 
 Innovation is often shaped less by what’s “new” and more by what’s already there—infrastructure, habits, workarounds, and constraints. A grounded approach respects and builds on this, while dominant narratives often ignore or erase it. At worst they redefine it as “resistance” or “ignorance”, which will inevitably lead to antagonism between innovation actors and their environment, disangegament, and possibly burn out.
 
