@@ -2,14 +2,14 @@
 layout: wikicrumb 
 title: Grounded Theory of Innovation in Journalism
 first-commit: 2025-05-06
-last-updated: 2025-05-06
+last-updated: 2025-05-07
 ---
 
 # Grounded Theory of Innovation in Journalism
 
 This is still a bit rough but the general idea is to sketch out an alternative approach to *innovation* then the dominant image presented by the tech-industry—which is still dominant in the media companies.
 
-Innovation is often shaped less by what’s “new” and more by what’s already there—infrastructure, habits, workarounds, and constraints. A grounded approach respects and build on this, while dominant narratives often ignore or erase it.
+Innovation is often shaped less by what’s “new” and more by what’s already there—infrastructure, habits, workarounds, and constraints. A grounded approach respects and builds on this, while dominant narratives often ignore or erase it. At worst they redefine it as “resistance” or “ignorance”, which will inevitably lead to antagonism between innovation actors and their environment, disangegament, and possibly burn out.
 
 1. Incremental and Adaptive Change
 	- Innovation is understood as a *slow*, iterative process shaped by constraints* like shrinking budgets, legacy systems, or editorial norms. These are understood as part of the territory, not organisational resistance.
