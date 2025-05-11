@@ -1,6 +1,6 @@
 ---
 layout: wikicrumb 
-title: Grounded Theory of Innovation in Journalism
+title: A Grounded Theory of Innovation in Journalism
 first-commit: 2025-05-06
 last-updated: 2025-05-07
 linked-notes:
@@ -9,7 +9,7 @@ linked-notes:
 - trojan-horses
 ---
 
-# Grounded Theory of Innovation in Journalism
+# A Grounded Theory of Innovation in Journalism
 
 Innovation in journalism is often framed as something brought in from the outside—a disruptive technology, a consulting firm’s playbook, or a Silicon Valley ‘solution.’ But what if it’s already there, hidden in the workarounds of a reporter tweaking a CMS hack, the ad-hoc collaborations of a small newsroom, or the quiet refusal to adopt tools that don’t fit? This is a case for recognizing that these outside methods are often itself the problem and an argument for grounded innovation: not importing change, but cultivating it from the soil up.
 
