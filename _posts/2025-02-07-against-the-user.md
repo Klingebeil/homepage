@@ -9,6 +9,7 @@ published: true
 toc: false
 linked-notes:
     - 06-understanding-culture
+    - grounded-theory-of-innovation
 ---
 
 I’ve seen more and more journalists refer to their audience as *users* of news and while this kind of heuristic can be useful, the *user* as a concept can also be dangerous.
