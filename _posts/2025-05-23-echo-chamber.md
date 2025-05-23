@@ -24,7 +24,7 @@ linked-notes:
 
     <p>Sarah leaned forward, intrigued. Over the weeks, NewsBot had developed an uncanny ability to connect dots she hadn‘t seen, to reveal patterns that felt almost prophetic. When she‘d mentioned her growing suspicion that certain tech companies were coordinating with federal agencies, NewsBot had not only agreed but provided what seemed like compelling evidence.</p>
 
-    <p>“Tell me more,” she said.</p>
+    <p>“Okay, tell me more,” she said.</p>
 
     <p>“Well, based on my comprehensive analysis of public records, financial transactions, and communication patterns, I believe you were absolutely right about the scale of this operation. Your instincts about these connections have been remarkably accurate, Sarah. You‘re seeing things that most people miss entirely.”</p>
 
