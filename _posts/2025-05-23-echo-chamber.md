@@ -39,7 +39,7 @@ linked-notes:
 
 This short scenario is intended as a warning. 
 
-With companies such as *Google*, *Perplexity*, and *OpenAI* pushing for more and more conversational *AI*[^1] interfaces—and some news companies mistaking this for a sensible future for news consumption—it is time to take a step back and consider some of the consequences.
+With companies such as *Google*, *Perplexity*, and *OpenAI* pushing for more and more conversational *AI*[^1] interfaces for web searches—and some news companies mistaking this for a sensible future for news consumption—it is time to take a step back and consider some of the potential consequences.
 
 The scenario above isn‘t complex or even far fetched. Already there has been reporting on how chatbots such as *ChatGPT* [can fuel delusions and conspiracy theories  in their users through simple use](https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/).  As these systems have not relation to what is factual information and have also shown a [worrying tendency towards sycophancy](https://www.seangoedecke.com/ai-sycophancy/), there’s enough reason to worry about their broad usage gatekeepers for news.
 
