@@ -8,6 +8,7 @@ teaser-img: "2025-05-23-teaser.png"
 published: true
 toc: false
 linked-notes:
+- ai-chat-news
 ---
 
 <div class="hairline" style="padding: 20px;pointer-events: auto;border-radius: 20px;background: #FFF7EE;color: #FF2C0B;font-size: 0.9em;margin-top: 30px;z-index: 100;transform: rotate(-0.2deg); box-shadow: 0px 0px 3px rgba(255, 44, 11, 0.02),
