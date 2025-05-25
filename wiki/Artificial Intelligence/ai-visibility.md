@@ -30,4 +30,4 @@ This visibility is performative labor: someone must frame, stage, and translate 
 - Someone must simulate its absence (e.g. “before AI, this took hours”) to heighten its perceived value.
 - Someone must ethically frame its use (“it helps, but does not replace journalists”).
 
-This all sets up an interesting conceptual tension: **AI is most effective when it's invisible, but most valuable (in market/symbolic terms) when it's visible. Both require very different forms of work and both are in some way at odds with each other.**
+This all sets up an interesting conceptual tension: **AI is most invisible when it's effective, but most valuable (in market/symbolic terms) when it's visible. Both require very different forms of work and both are in some way at odds with each other.**
