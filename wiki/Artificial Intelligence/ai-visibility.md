@@ -3,6 +3,8 @@ layout: wikicrumb
 title: On the (in)visbility of AI
 first-commit: 2025-05-25
 last-updated: 2025-05-25
+linked-notes:
+- ai-chat-news
 ---
 
 # On the (in)visbility of AI
