@@ -5,6 +5,8 @@ first-commit: 2025-05-25
 last-updated: 2025-05-31
 linked-notes:
 - ai-chat-news
+- 03-innovation-and-language
+- permissive-uncertainty
 ---
 
 # On the (in)visbility of AI
