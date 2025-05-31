@@ -15,7 +15,7 @@ linked-notes:
 
 ---
 
-This draws on some of my observations in the current discourse around the implementation of “*AI*” in journalism.
+This draws on some of my observations in the current discourse around the implementation of *AI* in journalism.
 
 In the daily work, *AI* tools are often mundane and embedded into bigger processes. They function as part of the “plumbing” of work — like content management systems (*CMS*), recommendation engines, transcription services, auto-summarizers, or headline suggesters in the case of news. They generally support, rather then truly re-shaping existing tasks.
 
@@ -25,11 +25,15 @@ Further, these tools are often integrated not as stand-alone products, but as fe
 
 On the other hand, *AI* is often deliberately made hyper-visible in presentations, product launches, stakeholder meetings, and media coverage. Or the way they are embedded into existing tools, often in the case of highly-visible features or active disruptions of the workflow.
 
+## The Performance of Innovation
+
 As [Iris Meredith  argues](https://deadsimpletech.com/blog/keeping_up_appearances), invisible *AI* is further useless for status games. No one gets credit for using a transcription service that works in the background. There's no social capital in a *CMS* feature nobody sees you deploying. There’s status in being an early adopter or in appearing innovative in the corporate world (and also talk loudly about it). 
 
 This status often translates into more direct business impact than the actual utility of the AI tools themselves — whether through rising share prices when companies announce *AI* initiatives, lucrative consulting opportunities for individuals who become known as ‘*AI* leaders,’ or speaking fees for appearing innovative at conferences.
 
 In journalism specifically, this plays out as editors getting invited to *AI* panels, news organizations getting featured in ‘innovation’ roundups, or individual journalists building personal brands around *AI* expertise — often more valuable career-wise than quietly using *AI* tools to actually improve their reporting.
+
+## The Labor of Making AI Visible
 
 This visibility is performative and narrative labor. Crucially, it's labor that serves status rather than function. Someone must frame, stage, and translate the *AI*'s role:
 
@@ -43,5 +47,9 @@ This visibility is performative and narrative labor. Crucially, it's labor that 
 
 (Think about *Google Docs*' *AI* suggestions — they could easily run in the background and just improve your writing silently. Instead, they pop up visibly, interrupt your flow, make you acknowledge them. The interruption is the message. It signals innovation every time it happens.)
 
-This all sets up an interesting conceptual tension: ***AI* is most invisible when it's effective, but most valuable (in market/symbolic terms) when it's visible. Both require very different forms of work and both are fundamentally at odds with each other.** This suggests that truly useful *AI* adoption might require deliberately resisting status incentives and organizations optimizing for utility vs. visibility are playing entirely different games.
+## The Fundamental Tension
+
+This all sets up an interesting conceptual tension: ***AI* is most invisible when it's effective, but most valuable (in market/symbolic terms) when it's visible. Both require very different forms of work and both are fundamentally at odds with each other.** 
+
+This also suggests that truly useful *AI* adoption might require deliberately resisting status incentives and organizations optimizing for utility vs. visibility are playing entirely different games.
 
