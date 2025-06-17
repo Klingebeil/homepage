@@ -18,15 +18,15 @@ body {
 
 /* -- TYPOGRAPHY MODIFIERS -- */
 .color {
-	color: $contrast-primary !important;
+	color: $red !important;
 }
 
 .color-green {
-	color: $contrast-green !important;
+	color: $green !important;
 }
 
 .color-red {
-	color: $contrast-primary !important;
+	color: $red !important;
 }
 
 .color-dark-gray {
@@ -344,7 +344,7 @@ li {
 	h1 {
 		text-align: left;
 		padding-bottom: 16px;
-		border-bottom: 1px solid $contrast-green;
+		border-bottom: 1px solid $green;
 	}
 }
 
@@ -355,7 +355,7 @@ sup {
 	font-size: 8px;
 	margin-left: 2px;
 	vertical-align: text-top;
-	color: $contrast-primary;
+	color: $red;
 	font-family: $mono-space;
 
 	border: 1px solid;
@@ -386,7 +386,7 @@ sup {
 	& ol > li:before {
 		content: counter(list);
     	counter-increment: list;
-		color: $contrast-primary;
+		color: $red;
 		font-size: 8px;
 		
 		border: 1px solid;

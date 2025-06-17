@@ -183,7 +183,7 @@ img {
 
 	&:hover {
 		color: $white !important;
-		background-color: $contrast-primary;
+		background-color: $red;
 	}
 
 	& #wiki-category-button-wrapper {
@@ -243,7 +243,7 @@ details[open] > summary {
 
 	details {padding: 11px 0px;}
 	.active{color: $dark-grey;}
-	.active::before {content: '● '; color: $contrast-primary;}
+	.active::before {content: '● '; color: $red;}
 }
 
 #toc {
@@ -424,7 +424,7 @@ details[open] > summary {
 .wiki-category-button {
 	background-color: $white;
 	border-radius: 10px;
-	color: $contrast-green;
+	color: $green;
 	height: 30vh;
 	padding: 10px 10px 10px 10px;
 	text-decoration: none !important;
@@ -453,7 +453,7 @@ details[open] > summary {
 
 	&:hover {
 		color: $white !important;
-		background-color: $contrast-green;
+		background-color: $green;
 	}
 
 	& img:hover {
@@ -822,7 +822,7 @@ details[open] > summary {
 #notes-link {
     padding: 5px 10px 2px 0px;
     margin: 0px 0px 10px 0px;
-    color: $contrast-green;
+    color: $green;
     font-size: 0.7em;
     border-bottom: none;
     display: inline-block;
