@@ -5,6 +5,10 @@ body {
 	background-color: $background;
 }
 
+/* -- COLOR -- */
+.bg-light-green {background-color: $light-green !important;}
+
+
 /* -- LAYOUT -- */
 
 .sp-tp-small{margin-top: $spacing-small;}
