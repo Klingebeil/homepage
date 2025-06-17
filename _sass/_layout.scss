@@ -13,11 +13,11 @@ body {
 //Shadow function
 @mixin multi-shadow($base-color) {
   box-shadow:
-    #{rgba($base-color, 0.06)} 0px 1px 2px,
-    #{rgba($base-color, 0.12)} 0px 2px 4px,
-    #{rgba($base-color, 0.18)} 0px 5px 9px,
-    #{rgba($base-color, 0.24)} 0px 10px 16px,
-    #{rgba($base-color, 0.3)} 0px 15px 25px;
+    #{rgba($base-color, 0.04)} 0px 1px 2px,
+    #{rgba($base-color, 0.06)} 0px 2px 4px,
+    #{rgba($base-color, 0.08)} 0px 5px 9px,
+    #{rgba($base-color, 0.10)} 0px 10px 16px,
+    #{rgba($base-color, 0.12)} 0px 15px 25px;
 }
 
 .shadow-green{@include multi-shadow($green);}
