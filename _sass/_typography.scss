@@ -17,46 +17,23 @@ body {
 }
 
 /* -- TYPOGRAPHY MODIFIERS -- */
-.color-red {
-	color: $red !important;
-}
-
-.color-green {
-	color: $green !important;
-}
-
-.color-red {
-	color: $red !important;
-}
-
-.color-dark-gray {
-	color: $dark-grey !important;
-}
-
-.color-light-gray {
-	color: $light-grey !important;
-}
-
-.color-text {
-	color: $main-txt-color !important;
-}
+.color-red {color: $red !important;}
+.color-green {color: $green !important;}
+.color-red {color: $red !important;}
+.color-dark-gray {color: $dark-grey !important;}
+.color-light-gray {color: $light-grey !important;}
+.color-text {color: $main-txt-color !important;}
 
 .uppercase {
 	text-transform: uppercase;
 	font-variant-numeric: lining-nums;
 }
 
-.capitalize {
-	text-transform: capitalize;
-}
+.capitalize {text-transform: capitalize;}
 
-.mono-space {
-	font-family: $mono-space;
-}
+.mono-space {font-family: $mono-space;}
 
-.serif {
-	font-family: $serif;
-}
+.serif {font-family: $serif;}
 
 em, i, .italics {
 	font-style: italic;
