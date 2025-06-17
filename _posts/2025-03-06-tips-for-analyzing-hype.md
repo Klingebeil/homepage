@@ -13,7 +13,7 @@ toc: false
         --txt-color: #0074df;
     }
     .article-wrapper {color: #0074df; padding-left: 50px; padding-right: 50px;}
-    .color {color:#0074df !important;}
+    .color-red {color:#0074df !important;}
     h3 {border-top: 1px dotted;}
     @media screen and (max-width: 950px) {
         .article-wrapper {
