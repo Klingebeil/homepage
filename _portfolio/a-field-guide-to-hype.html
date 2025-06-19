@@ -14,7 +14,8 @@ published: true
         :root {
             --txt-color: #0074df;
         }
-        .color-red {color:#0074df !important;}
+        body {color: var(--txt-color) !important;}
+        .color-red {var(--txt-color) !important;}
         .big-shoulders{font-family: 'Big Shoulders Display', cursive;}
         .column-75 {margin-top: 100px; margin-bottom: 100px;}
         table {
