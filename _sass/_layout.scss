@@ -465,11 +465,6 @@ details[open] > summary {
 		border-left: 1px solid !important;
 	}
 
-	&:hover {
-		color: $white !important;
-		background-color: $green;
-	}
-
 	& img:hover {
 		transform: scale(1.5);
 		transition: transform .5s;

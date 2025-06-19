@@ -35,7 +35,7 @@ title: Digital Garden
         {% assign folderCount = site.pages | where_exp:"item", "item.path contains currentFolder"%}
         {% unless folder contains 'md' or folder contains 'html' %}
           {%if folderCount.size > 10 %}
-            <a class="card-60 wiki-category-button hairline" href="/wiki/{{folder}}/">
+            <a class="card-60 wiki-category-button hairline bg-light-green shadow-green" href="/wiki/{{folder}}/">
               <div class="flex justify-between" id="wiki-category-button-wrapper">
                 <h2 id="category-title">{{folder}}</h2>
                 <p class="mono-space note-count">{{folderCount | size | minus:1}}</p>
@@ -43,7 +43,7 @@ title: Digital Garden
               <img src="{{folder}}/teaser-img.png">
             </a>
           {% else %}
-            <a class="card-30 wiki-category-button hairline" href="/wiki/{{folder}}/">
+            <a class="card-30 wiki-category-button hairline bg-light-green shadow-green" href="/wiki/{{folder}}/">
               <div class="flex" id="wiki-category-button-wrapper">
                 <h2 id="category-title">{{folder}}</h2>
                 <p class="mono-space note-count">{{folderCount | size | minus:1}}</p>
