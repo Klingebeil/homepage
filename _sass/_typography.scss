@@ -162,7 +162,7 @@ blockquote:not(.twitter-tweet) {
 	margin-top: 18px;
 	margin-inline-end: 10px;
     border-left: 1px solid $dark-grey;
-	background-color: $light-grey;
+	background-color: rgba($dark-grey, 0.1);
 	border-radius: 0px 10px 10px 0px;
 
 	& b, strong {
