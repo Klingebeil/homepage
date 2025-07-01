@@ -3,7 +3,7 @@ layout: wikicrumb
 title: The News User
 first-commit: 2025-07-01
 last-updated: 2025-07-01
-linked-notes
+linked-notes:
 - 06-understanding-culture
 - grounded-theory-of-innovation
 ---
