@@ -420,6 +420,7 @@ table {
 	font-variant-numeric: tabular-nums;
 	border-collapse:collapse;
 	font-size: 0.8em;
+	hyphens: none;
 
 	thead {
 		font-family: $mono-space;
@@ -427,7 +428,7 @@ table {
 		
 		tr{border-bottom: 1px solid $dark-grey;}
 	}
-	td, th {vertical-align: top; padding: 6px; line-height: 1.2em; text-align: left;}
+	td, th {vertical-align: top; padding: 6px; line-height: 1.5em; text-align: left;}
 	tbody tr:hover {background-color: $light-grey;}
 	tr{cursor: default;}
 	strong { color: $dark-grey; font-weight: normal;}
