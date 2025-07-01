@@ -15,6 +15,8 @@ The "news user" is not a fixed category but a relational entity that emerges thr
 
 A “user” in these different contexts does not describe the same entity, often not even an actual human being but different levels of abstractions of human behaviours.
 
+It should be also notes that the “news user” as he/she is referred to in practice is often an amalgamation of these different enactments, further abstracting and remixing these them.
+
 | **Enactment**         | **Characteristics**                                                                                                                                                                                                                                 |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Citizen**           | Participates in democracy through news consumption; central to normative models of journalism                                                                                                                                                       |
