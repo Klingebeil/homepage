@@ -21,8 +21,8 @@ A “user” in these different contexts does not describe the same entity, ofte
 | **Consumer**                   | Subscribes, pays, “chooses” among outlets; shaped by neoliberal media models                                                                                               |
 | **Data Subject**               | Tracked, profiled, and personalized by news platforms; visible through engagement metrics                                                                                  |
 | **Interactor**                 | Comments, shares, participates in co-creation or feedback loops; associated with participatory journalism                                                                  |
-| **Non-user**                   | Disengaged, resistant, or excluded; often reframed as a designerly problem for re-engagement strategies and a site for democratic intervention                             |
+| **Non-user**                   | Disengaged, resistant, or excluded; often reframed as a designerly problem for re-engagement strategies and a site for necessary intervention                             |
 | **Algorithmic Proxy**          | A machine-generated persona; a stand-in created through behavioral data and automatic segmentation                                                                         |
-| **Designerly Object**          | Imagined as a _problem-holder_ or _pain-point generator_; operationalized through empathy maps or user personas; reduced to a stylized abstraction for innovation purposes |
+| **Designerly Object**          | Imagined as a _problem-holder_ or _solution-receiver_; operationalized through empathy maps or user personas; reduced to a stylized abstraction for innovation purposes |
 
 A somewhat longer critique of the concept [can be found here](https://johannesklingebiel.de/2025/02/07/against-the-user.html).
