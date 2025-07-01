@@ -11,13 +11,12 @@ linked-notes:
 
 # An Ontology of the News User
 
-When journalists, tech companies, and researchers talk about *news users*, they often speak as if they're describing the same thing. But are they?
+When journalists, product managers, and researchers talk about *news users*, they often speak as if they're describing the same thing. But are they?
 
 Consider these scenarios: 
 - A newsroom editor imagining their "average reader" while writing a headline. 
 - A product manager analyzing click-through rates to optimize a news app. 
-- A democracy scholar studying how citizens engage with political coverage. 
-- A startup founder creating personas for their news aggregation platform.
+- A innovation manager creating personas for a new service.
 
 Each context produces a different version of what we call the *news user*—not because people themselves are different, but because the practices, technologies, and interests that shape these observations create distinct objects of knowledge.
 
@@ -26,8 +25,6 @@ The *news user* is not a person waiting to be discovered through research method
 Understanding these different enactments matters because each one enables and constrains different possibilities for journalism. When we treat users primarily as data subjects, we optimize for engagement. When we see them as citizens, we focus on democratic participation. When we frame them as designerly objects, we center innovation and problem-solving.
 
 The danger lies in conflating these categories or assuming they can be seamlessly combined. 
-
-When newsrooms apply consumer-focused metrics to evaluate democratic engagement, or when tech platforms use algorithmic proxies to make decisions about citizen information needs, category errors emerge that can undermine both journalistic quality and democratic participation. 
 
 These misalignments often go unnoticed precisely because we use the same word—"user"—to describe fundamentally different constructions of human-news relationships.
 
