@@ -3,9 +3,13 @@ layout: wikicrumb
 title: The News User
 first-commit: 2025-07-01
 last-updated: 2025-07-01
+linked-notes
+- 06-understanding-culture
+- grounded-theory-of-innovation
+- 2025-02-07-against-the-user
 ---
 
-An Ontology of the News User
+# An Ontology of the News User
 
 The "news user" is not a fixed category but a relational entity that emerges through specific interactions with news content, platforms, and practices. 
 
