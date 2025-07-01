@@ -21,7 +21,7 @@ Consider these scenarios:
 
 Each context produces a different version of what we call the *news user*—not because people themselves are different, but because the practices, technologies, and interests that shape these observations create distinct objects of knowledge.
 
-==The *news user* is not a person waiting to be discovered through research methods. It is a category actively manufactured through the economic, political, and technological systems that surround news production and consumption.==
+The *news user* is not a person waiting to be discovered through research methods. It is a category actively manufactured through the economic, political, and technological systems that surround news production and consumption.
 
 Understanding these different enactments matters because each one enables and constrains different possibilities for journalism. When we treat users primarily as data subjects, we optimize for engagement. When we see them as citizens, we focus on democratic participation. When we frame them as designerly objects, we center innovation and problem-solving.
 
