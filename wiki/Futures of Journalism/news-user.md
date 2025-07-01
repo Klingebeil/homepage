@@ -11,13 +11,25 @@ linked-notes:
 
 # An Ontology of the News User
 
-News "users" are not *discovered* but manufactured through practices that often serve specific economic and political interests in journalism.
+When journalists, tech companies, and researchers talk about *news users*, they often speak as if they're describing the same thing. But are they?
 
-The user is thus not a fixed category but a relational entity that becomes visible through specific interactions with news content, platforms, and practices like user research.
+Consider these scenarios: 
+- A newsroom editor imagining their "average reader" while writing a headline. 
+- A product manager analyzing click-through rates to optimize a news app. 
+- A democracy scholar studying how citizens engage with political coverage. 
+- A startup founder creating personas for their news aggregation platform.
 
-A “user” in these different contexts does not describe the same entity, often not even an actual human being but different levels of abstractions of human behaviours.
+Each context produces a different version of what we call the *news user*—not because people themselves are different, but because the practices, technologies, and interests that shape these observations create distinct objects of knowledge.
 
-It should be also notes that the “news user” as he/she is referred to in practice is often an amalgamation of these different enactments, further abstracting and blurring them.
+The *news user* is not a person waiting to be discovered through research methods. It is a category actively manufactured through the economic, political, and technological systems that surround news production and consumption.
+
+Understanding these different enactments matters because each one enables and constrains different possibilities for journalism. When we treat users primarily as data subjects, we optimize for engagement. When we see them as citizens, we focus on democratic participation. When we frame them as designerly objects, we center innovation and problem-solving.
+
+The danger lies in conflating these categories or assuming they can be seamlessly combined. 
+
+When newsrooms apply consumer-focused metrics to evaluate democratic engagement, or when tech platforms use algorithmic proxies to make decisions about citizen information needs, category errors emerge that can undermine both journalistic quality and democratic participation. 
+
+These misalignments often go unnoticed precisely because we use the same word—"user"—to describe fundamentally different constructions of human-news relationships.
 
 
 | **Enactment**         | **Characteristics**                                                                                                                                                                                                                                 |
