@@ -15,14 +15,15 @@ The "news user" is not a fixed category but a relational entity that emerges thr
 
 A “user” in these different contexts does not describe the same entity, often not even an actual human being but different levels of abstractions of human behaviours.
 
-| **Enactment** | **Characteristics**                                                                                                                                                        |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Citizen**                    | Participates in democracy through news consumption; central to normative models of journalism                                                                              |
-| **Consumer**                   | Subscribes, pays, “chooses” among outlets; shaped by neoliberal media models                                                                                               |
-| **Data Subject**               | Tracked, profiled, and personalized by news platforms; visible through engagement metrics                                                                                  |
-| **Interactor**                 | Comments, shares, participates in co-creation or feedback loops; associated with participatory journalism                                                                  |
-| **Non-user**                   | Disengaged, resistant, or excluded; often reframed as a designerly problem for re-engagement strategies and a site for necessary intervention                             |
-| **Algorithmic Proxy**          | A machine-generated persona; a stand-in created through behavioral data and automatic segmentation                                                                         |
-| **Designerly Object**          | Imagined as a _problem-holder_ or _solution-receiver_; operationalized through empathy maps or user personas; reduced to a stylized abstraction for innovation purposes |
+| **Enactment**         | **Characteristics**                                                                                                                                                                                                                                 |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Citizen**           | Participates in democracy through news consumption; central to normative models of journalism                                                                                                                                                       |
+| **Consumer**          | Subscribes, pays, “chooses” among outlets; shaped by neoliberal media models                                                                                                                                                                        |
+| **Reader / Audience** | Constructed by journalists and editors as the _ideal recipient_ of news; influences tone, story framing, sourcing, and platform strategy — often shaped by newsroom practices, ideology, and assumptions about class, race, literacy, and geography |
+| **Data Subject**      | Tracked, profiled, and personalized by news platforms; visible through engagement metrics                                                                                                                                                           |
+| **Algorithmic Proxy** | A machine-generated persona; a stand-in created through behavioral data and automatic segmentation                                                                                                                                                  |
+| **Interactor**        | Comments, shares, participates in co-creation or feedback loops; associated with participatory journalism                                                                                                                                           |
+| **Non-user**          | Disengaged, resistant, or excluded; often reframed as a designerly problem for re-engagement strategies and a site for necessary intervention                                                                                                       |
+| **Designerly Object** | Imagined as a _problem-holder_ or _solution-receiver_; operationalized through empathy maps or user personas; reduced to a stylized abstraction for innovation purposes                                                                             |
 
 A somewhat longer critique of the concept [can be found here](https://johannesklingebiel.de/2025/02/07/against-the-user.html).
