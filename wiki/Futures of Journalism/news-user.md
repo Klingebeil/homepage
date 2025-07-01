@@ -6,6 +6,7 @@ last-updated: 2025-07-01
 linked-notes:
 - 06-understanding-culture
 - grounded-theory-of-innovation
+- 2025-02-07-against-the-user
 ---
 
 # An Ontology of the News User
@@ -23,3 +24,5 @@ A “user” in these different contexts does not describe the same entity, ofte
 | **Non-user**                   | Disengaged, resistant, or excluded; often reframed as a designerly problem for re-engagement strategies and a site for democratic intervention                             |
 | **Algorithmic Proxy**          | A machine-generated persona; a stand-in created through behavioral data and automatic segmentation                                                                         |
 | **Designerly Object**          | Imagined as a _problem-holder_ or _pain-point generator_; operationalized through empathy maps or user personas; reduced to a stylized abstraction for innovation purposes |
+
+A somewhat longer critique of the concept [can be found here](https://johannesklingebiel.de/2025/02/07/against-the-user.html).
