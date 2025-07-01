@@ -6,7 +6,6 @@ last-updated: 2025-07-01
 linked-notes
 - 06-understanding-culture
 - grounded-theory-of-innovation
-- 2025-02-07-against-the-user
 ---
 
 # An Ontology of the News User
