@@ -11,11 +11,14 @@ linked-notes:
 
 # An Ontology of the News User
 
-The "news user" is not a fixed category but a relational entity that emerges through specific interactions with news content, platforms, and practices. 
+News "users" are not *discovered* but manufactured through practices that often serve specific economic and political interests in journalism.
+
+The user is thus not a fixed category but a relational entity that becomes visible through specific interactions with news content, platforms, and practices like user research.
 
 A “user” in these different contexts does not describe the same entity, often not even an actual human being but different levels of abstractions of human behaviours.
 
 It should be also notes that the “news user” as he/she is referred to in practice is often an amalgamation of these different enactments, further abstracting and blurring them.
+
 
 | **Enactment**         | **Characteristics**                                                                                                                                                                                                                                 |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25,7 +28,13 @@ It should be also notes that the “news user” as he/she is referred to in pra
 | **Data Subject**      | Tracked, profiled, and personalized by news platforms; visible through engagement metrics                                                                                                                                                           |
 | **Algorithmic Proxy** | A machine-generated persona; a stand-in created through behavioral data and automatic segmentation                                                                                                                                                  |
 | **Interactor**        | Comments, shares, participates in co-creation or feedback loops; "prosumer"; associated with participatory journalism                                                                                                                                           |
-| **Non-user**          | Disengaged, resistant, or excluded; often reframed as a designerly problem for re-engagement strategies and a site for necessary intervention                                                                                                       |
-| **Designerly Object** | Imagined as a _problem-holder_ or _solution-receiver_; operationalized through empathy maps or user personas; reduced to a stylized abstraction for innovation purposes                                                                             |
+| **Non-user**          | Disengaged, resistant, or excluded (by access, literacy, language); often reframed as a _designerly object_ for re-engagement strategies and a site for necessary intervention                                                                                                       |
+| **Designerly Object** | Imagined as _needs driven_, a _problem-holder_, or _solution-receiver_; operationalized through empathy maps or user personas; reduced to a stylized abstraction for innovation purposes                                                                             |
+
+What is often missing in thes imagined categories are factors like…
+
+… embodiement (physical, sensory, and contextual aspects; the user as mobile, distracted, multitasking, or consuming news in specific environments)
+
+… collectives & networks (users form communities, networks, or social reading practices)
 
 A somewhat longer critique of the concept [can be found here](https://johannesklingebiel.de/2025/02/07/against-the-user.html).
