@@ -2,7 +2,7 @@
 layout: wikicrumb
 title: The News User
 first-commit: 2025-07-01
-last-updated: 2025-07-01
+last-updated: 2025-07-03
 linked-notes:
 - 06-understanding-culture
 - grounded-theory-of-innovation
@@ -18,16 +18,15 @@ Consider these scenarios:
 - A product manager analyzing click-through rates to optimize a news app. 
 - A innovation manager creating personas for a new service.
 
-Each context produces a different version of what we call the *news user*—not because people themselves are different, but because the practices, technologies, and interests that shape these observations create distinct objects of knowledge.
+Each context produces a different version of what we call the *news user*—not because people themselves are different, but because the practices, technologies, and interests that shape these observations create distinct objects of knowledge, are.
 
 The *news user* is not a person waiting to be discovered through research methods. It is a category actively manufactured through the economic, political, and technological systems that surround news production and consumption.
 
-Understanding these different enactments matters because each one enables and constrains different possibilities for journalism. When we treat users primarily as data subjects, we optimize for engagement. When we see them as citizens, we focus on democratic participation. When we frame them as designerly objects, we center innovation and problem-solving.
+This isn't just academic hairsplitting. These different versions of "the user" lead to completely different kinds of journalism. Treat users as data points, and you'll optimise for clicks. See them as citizens, and you'll focus on democratic engagement. Frame them as design problems to be solved, and you'll centre a very particular idea of innovation above all else.
 
-The danger lies in conflating these categories or assuming they can be seamlessly combined. 
+The trouble starts when we mix these up or assume they're all the same thing. They're not—and pretending otherwise creates blind spots that can derail entire projects.
 
-These misalignments often go unnoticed precisely because we use the same word—"user"—to describe fundamentally different constructions of human-news relationships.
-
+People use the same word—*news user*—but we're often talking past each other entirely.
 
 | **Enactment**         | **Characteristics**                                                                                                                                                                                                                                 |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,10 +39,8 @@ These misalignments often go unnoticed precisely because we use the same word—
 | **Non-user**          | Disengaged, resistant, or excluded (by access, literacy, language); often reframed as a _designerly object_ for re-engagement strategies and a site for necessary intervention                                                                                                       |
 | **Designerly Object** | Imagined as _needs driven_, a _problem-holder_, or _solution-receiver_; operationalized through empathy maps or user personas; reduced to a stylized abstraction for innovation purposes                                                                             |
 
-What is often missing in thes imagined categories are factors like…
+These categories capture a lot, but they miss some rather important things. Like the fact that people have bodies—they're mobile, distracted, consuming news whilst commuting or queuing for coffee. They're not just individual decision-makers; they're part of communities, sharing articles in group chats and arguing about headlines over dinner.
 
-… embodiement (physical, sensory, and contextual aspects; the user as mobile, distracted, multitasking, or consuming news in specific environments)
-
-… collectives & networks (users form communities, networks, or social reading practices)
+The messiness of actual human life rarely fits neatly into any of these boxes.
 
 A somewhat longer critique of the concept [can be found here](https://johannesklingebiel.de/2025/02/07/against-the-user.html).
