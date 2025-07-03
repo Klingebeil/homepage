@@ -3,6 +3,7 @@ layout: wikicrumb
 title: Critical AI Reading List
 first-commit: 2021-01-11
 last-updated: 2021-01-11
+published: false
 ---
 # A Critical AI Reading List
 
