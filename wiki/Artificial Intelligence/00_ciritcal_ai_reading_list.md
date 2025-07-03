@@ -2,8 +2,12 @@
 layout: wikicrumb 
 title: Critical AI Reading List
 first-commit: 2021-01-11
+last-updated: 2021-01-11
 ---
 # A Critical AI Reading List
+
+**Please note: This list is mostly outdated and I haven’t found time to update it.**
+
 {:.no_toc}
 
 1. this unordered seed list will be replaced by toc as unordered list
