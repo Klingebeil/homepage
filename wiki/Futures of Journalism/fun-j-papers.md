@@ -13,6 +13,6 @@ This is a short list of journalism related papers I‘ve really enjoyed reading.
 
 Every thought about the impact of air conditioning on the development of professional journalism? No? Yeah, me neither. This is what makes this one by Will Mari so fun. It‘s not a story of technological determinism but one about invisible infrastructures, on which developments in the industry are layered on top. Just a very nice piece of technological history.
 
-### Plotnick, R. (2015). **[Rubbing Readers the Wrong Way? Materiality and the Case of Ink Rub-Off](https://doi.org/10.1080/08821127.2015.1036674)**. *American Journalism, 32(2), 221–232*.
+### Plotnick, R. (2015). **[Rubbing Readers the Wrong Way? Materiality and the Case of Ink Rub-Off](https://doi.org/10.1080/08821127.2015.1036674)**. American Journalism, 32(2), 221–232.
 
 This one is first and foremost a discussion of the materiality of newspapers, as in the physical aspects of reading one—explored through the phenomenon of printing ink rubbing-off. Burried beneath is a discussion of the development and adoption of different print technologies and their effects on its readers. This one is just delightfully niche.
