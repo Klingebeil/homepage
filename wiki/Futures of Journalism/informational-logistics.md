@@ -20,13 +20,17 @@ This isn't merely technological adaptation or a neutral analysis by its propagat
 
 Under this paradigm, newsrooms become nodes in a vast information supply chain, optimized not for citizen engagement but for machine-mediated consumption. **The implications extend far beyond business models: when journalism is restructured around algorithmic requirements, it fundamentally alters what kinds of stories get told, how they're framed, and who ultimately controls the narrative.**
 
-## The general idea
+## The general idea / pattern of informational logistiscs
 
 - Fragmentation: Content is atomized into “fact-full” units (clips, quotes, summaries) optimized for reuse by LLMs, chatbots, and recommendation engines.
-- Repackaging: Editorial content is tailored on-demand for different audiences and contexts.
-- Pipelining: Newsrooms build end-to-end workflows—from ingestion to structured output—that integrate with synthetic media, LLM-chatbots, and other AI-plattforms.
-- Delegation to Machines: AI agents become “new browsers” that pull content not for reading but for machine interpretation (e.g. answer generation, media synthesis).
+- Repackaging: Content is dynamically tailored for different audiences[^1] and contexts through automated systems, removing human editorial judgment from the crucial decisions about emphasis, framing, and context that shape public understanding.
+- Pipelining: Newsrooms build end-to-end workflows that integrate directly with synthetic media generation, LLM chatbots, and other AI platforms, making journalism a component in larger automated systems rather than an independent democratic institution.
+- Delegation to Machines: AI agents become the primary "readers" of journalistic content, pulling information not for human comprehension but for machine interpretation—answer generation, media synthesis, and algorithmic decision-making.
 
 ---
 
+This isn't technological inevitability—it's a choice.
+
 The question isn't whether journalism will use AI tools, but whether it will retain its democratic mission in doing so. *Informational logistics* represents the path toward algorithmic capture. We need alternatives that preserve journalism's role as a check on power, not just a cog in the machine.
+
+[^1]: Notably, how exactly this kind of personalisation should happen and if the audiences are actually in need of it, is generally side-stepped or taken for granted.
