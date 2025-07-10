@@ -10,17 +10,15 @@ linked-notes:
 
 # Informational logistics
 
-Over the last months I‘ve observed an idea growing inside some AI-deterministic journalism circles, I call "informational logistics".
+Over the last months I‘ve observed an idea growing inside some AI-deterministic journalism circles, I will call *informational logistics* for now.
 
-The general idea here is to reshape journalism around the affordances of LLM-platforms like *OpenAI*, *Google*, *Perplexity* & Co.
+The general idea here is to reshape journalism systemically around the affordances of LLM-platforms like *OpenAI*, *Google*, *Perplexity* & Co.
 
-*Information logistics* reframes journalism not as the production of meaning, but as the coordination of flow. It shifts the locus of value from editorial judgment to delivery efficiency. This may serve commercial and infrastructural goals but risks marginalizing journalism’s democratic functions.
+This isn't merely technological adaptation or a neutral analysis by its propagators. It represents a categorical shift from journalism as meaning-making to journalism as supply chain management: treating information as raw material to be processed, packaged, and delivered through algorithmic pipelines rather than as the foundation for democratic deliberation.
 
-It treats information like a product that needs to be broken down, reassembled, and delivered through technical pipelines to meet algorithmic, commercial, or personal consumption goals.
+*Informational logistics* redefines journalism's core function. Instead of producing meaning through editorial judgment, context, and democratic accountability, it prioritizes delivery efficiency and third-party algorithmic compatibility. This shift serves the commercial interests of tech platforms while marginalizing journalism's essential democratic functions—and concentrating unprecedented control over information flow in the hands of a few powerful corporations.
 
-It necessitates the systematic management, packaging, routing, and delivery of information as if it were a supply chain resource, optimized for efficiency, personalization, and scalability—rather than deliberation, context, or editorial meaning-making.
-
-***Information logistics* reframes journalism not as the production of meaning, but as the coordination of flow. It shifts the locus of value from editorial judgment to delivery efficiency. This may serve commercial and infrastructural goals but risks marginalizing journalism’s democratic functions, while strengthening tech-companies further.**
+Under this paradigm, newsrooms become nodes in a vast information supply chain, optimized not for citizen engagement but for machine-mediated consumption. **The implications extend far beyond business models: when journalism is restructured around algorithmic requirements, it fundamentally alters what kinds of stories get told, how they're framed, and who ultimately controls the narrative.**
 
 ## The general idea
 
@@ -28,3 +26,7 @@ It necessitates the systematic management, packaging, routing, and delivery of i
 - Repackaging: Editorial content is tailored on-demand for different audiences and contexts.
 - Pipelining: Newsrooms build end-to-end workflows—from ingestion to structured output—that integrate with synthetic media, LLM-chatbots, and other AI-plattforms.
 - Delegation to Machines: AI agents become “new browsers” that pull content not for reading but for machine interpretation (e.g. answer generation, media synthesis).
+
+---
+
+The question isn't whether journalism will use AI tools, but whether it will retain its democratic mission in doing so. *Informational logistics* represents the path toward algorithmic capture. We need alternatives that preserve journalism's role as a check on power, not just a cog in the machine.
