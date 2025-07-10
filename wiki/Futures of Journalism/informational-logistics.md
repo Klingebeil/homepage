@@ -18,7 +18,7 @@ This isn't merely technological adaptation or a neutral analysis by its propagat
 
 *Informational logistics* redefines journalism's core function. Instead of producing meaning through editorial judgment, context, and democratic accountability, it prioritizes delivery efficiency and third-party algorithmic compatibility. This shift serves the commercial interests of tech platforms while marginalizing journalism's essential democratic functions—and concentrating unprecedented control over information flow in the hands of a few powerful corporations.
 
-Under this paradigm, newsrooms become nodes in a vast information supply chain, optimized not for citizen engagement but for machine-mediated consumption. 
+Under this paradigm, newsrooms become nodes in a vast information supply chain, optimized for machine-mediated consumption. 
 
 **The implications extend far beyond business models: when journalism is restructured around algorithmic requirements, it fundamentally alters what kinds of stories get told, how they're framed, and who ultimately controls the narrative.**
 
