@@ -14,7 +14,7 @@ Over the last months I‘ve observed an idea growing inside some AI-deterministi
 
 The general idea here is to reshape journalism systemically around the affordances of LLM-platforms like *OpenAI*, *Google*, *Perplexity* & Co.
 
-This isn't merely technological adaptation or a neutral analysis by its propagators. It represents a categorical shift from journalism as meaning-making to journalism as supply chain management: treating information as raw material to be processed, packaged, and delivered through algorithmic pipelines rather than as the foundation for democratic deliberation.
+This isn't merely technological adaptation or a neutral analysis by its proponents. It represents a categorical shift from journalism as meaning-making to journalism as supply chain management: treating information as raw material to be processed, packaged, and delivered through algorithmic pipelines rather than as the foundation for democratic deliberation.
 
 *Informational logistics* redefines journalism's core function. Instead of producing meaning through editorial judgment, context, and democratic accountability, it prioritizes delivery efficiency and third-party algorithmic compatibility. This shift serves the commercial interests of tech platforms while marginalizing journalism's essential democratic functions—and concentrating unprecedented control over information flow in the hands of a few powerful corporations.
 
