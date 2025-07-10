@@ -20,6 +20,8 @@ This isn't merely technological adaptation or a neutral analysis by its propagat
 
 Under this paradigm, newsrooms become nodes in a vast information supply chain, optimized not for citizen engagement but for machine-mediated consumption. **The implications extend far beyond business models: when journalism is restructured around algorithmic requirements, it fundamentally alters what kinds of stories get told, how they're framed, and who ultimately controls the narrative.**
 
+---
+
 ## The general idea / pattern of informational logistiscs
 
 - Fragmentation: Content is atomized into “fact-full” units (clips, quotes, summaries) optimized for reuse by LLMs, chatbots, and recommendation engines.
