@@ -5,7 +5,7 @@ first-commit: 2025-07-17
 last-updated: 2025-07-17
 ---
 
-# Using Comments to Tag Research in Google Docs
+# A Lightweight QDA Workflow with Google Docs and Sheets
 
 This micro-tool lets you use Google Docs as a lightweight qualitative analysis platform. By tagging content with comments and pulling those into a Google Sheet, you can sort, filter, and analyze your data — collaboratively and for free..
 
