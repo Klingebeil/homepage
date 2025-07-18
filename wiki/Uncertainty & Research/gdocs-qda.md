@@ -21,15 +21,15 @@ This is a small project, updating [four year old code](https://stackoverflow.com
 ```
 function listComments() {
   // Change docId into your document's ID
-  var docId = 'INSERT THE ID OF YOUR TEXT DOCUMENT HERE'; 
+  var docId = 'YOUR DOC ID'; 
   
   // Add the required fields parameter
   var comments = Drive.Comments.list(docId, {
-    fields: 'comments(content,quotedFileContent,anchor,author,deleted)',
+    fields: 'comments(content,quotedFileContent,anchor,author,deleted,id)',
     includeDeleted: false
   });
   
-  var hList = [], cList = [], aList = [];
+  var hList = [], cList = [], aList = [], lList = [];
 
   // Get list of comments
   if (comments.comments && comments.comments.length > 0) {
@@ -60,16 +60,21 @@ function listComments() {
         authorName = comment.author.displayName || comment.author.emailAddress || '';
       }
       
-      // add comment, highlight, and author to arrays
+      // create direct link to comment
+      var commentLink = 'https://docs.google.com/document/d/' + docId + '/edit#comment-' + comment.id;
+      
+      // add comment, highlight, author, and link to arrays
       hList.unshift([highlightedText]);
       cList.unshift([commentText]);
       aList.unshift([authorName]);
+      lList.unshift([commentLink]);
     }
-    // Set values to A, B, and C columns
+    // Set values to A, B, C, and D columns
     var sheet = SpreadsheetApp.getActiveSheet();
     sheet.getRange("A1:A" + hList.length).setValues(hList);
     sheet.getRange("B1:B" + cList.length).setValues(cList);
     sheet.getRange("C1:C" + aList.length).setValues(aList);
+    sheet.getRange("D1:D" + lList.length).setValues(lList);
   }
 }
 ```
@@ -78,9 +83,9 @@ function listComments() {
 
 The output will look like this:
 
-> | Text highlighted | Comment | Author of Comment |
+> | Text highlighted | Comment | Author of Comment | Link to Comment |
 
 ## Limitations
 - the script only works if: a) you have permission to read comments on the Doc and b) the Doc is accessible from the account running the script
-- The script will grab all comments, excluding only deleted ones
+- The script will grab all comments, excluding only deleted ones—meaning the only way to exclude a comment is to truly delete it in the docoument
 - The script will not update live but only when executed, meaning changes made in the Google Sheet might get lost when executed again
