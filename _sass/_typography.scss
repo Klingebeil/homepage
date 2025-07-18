@@ -150,10 +150,15 @@ a {
 code {
 	font-family: $mono-space;
 	font-size: 0.8em;
-	padding: 5px;
+	padding: 15px;
 	display: inline-block;
 	background-color: $light-grey;
     border-radius: 5px;
+	position: relative;
+	max-width: 100%;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	word-wrap: break-word;
 }
 
 blockquote:not(.twitter-tweet) {
