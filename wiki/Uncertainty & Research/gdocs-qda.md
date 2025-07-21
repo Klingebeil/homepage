@@ -79,7 +79,7 @@ function listComments() {
 }
 ```
 
-5. Run the code. The first time the script will ask you for permission to access your files. Once granted, it should run without problems.
+**Finally**: Run the code. The first time the script will ask you for permission to access your files. Once granted, it should run without problems.
 
 The output will look like this:
 
