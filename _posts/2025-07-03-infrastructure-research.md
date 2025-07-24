@@ -5,7 +5,7 @@ title: "Infrastructure research"
 subtitle: "Finding things to fix"
 date: 2025-07-03
 teaser-img:
-published: true
+published: false
 toc: true
 linked-notes:
 ---
