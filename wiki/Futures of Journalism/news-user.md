@@ -47,11 +47,18 @@ A somewhat longer critique of the concept [can be found here](https://johanneskl
 
 ---
 
-## Relevant Papers
+## Relevant Papers & Articles
 
-van der Nat, R., Bakker, P., & Müller, E. (2024). The Imagined User: Creating Interactive Narratives in Journalism. *Journalism Practice*, 1–23. [https://doi.org/10.1080/17512786.2024.2305641](https://doi.org/10.1080/17512786.2024.2305641)
+Coddington, M., Lewis, S. C., & Belair-Gagnon, V. (2021). The Imagined Audience for News: Where Does a Journalist’s Perception of the Audience Come From? *Journalism Studies*, 22(8), 1028–1046. [https://doi.org/10.1080/1461670X.2021.1914709](https://doi.org/10.1080/1461670X.2021.1914709)
 
 Gajardo, C., Costera Meijer, I., & Domingo, D. (2021). From Abstract News Users to Living Citizens: Assessing Audience Engagement Through a Professional Lens. *Journalism Practice*, 17(3), 508–524. [https://doi.org/10.1080/17512786.2021.1925949
 ](https://doi.org/10.1080/17512786.2021.1925949)
 
+Redström, J. (2005). Towards User Design: On the shift from Object to User as the Subject of Design. *Design Studies*, Volume 27, Issue 2, 2006. [https://doi.org/10.1016/j.destud.2005.06.001](https://doi.org/10.1016/j.destud.2005.06.001)
 
+Roberts, S. (2017). The UX-ificitation of Research. *Stripe Partners*. [https://www.stripepartners.com/viewpoint/the-ux-ification-of-research/](https://www.stripepartners.com/viewpoint/the-ux-ification-of-research/)
+
+Robinson, James G. (2019). The Audience in the Mind's Eye: How Journalists Imagine Their Readers. 
+*Tow Center for Digital Journalism, Columbia University*. [https://doi.org/10.7916/d8-drvj-wj06](https://doi.org/10.7916/d8-drvj-wj06)
+
+van der Nat, R., Bakker, P., & Müller, E. (2024). The Imagined User: Creating Interactive Narratives in Journalism. *Journalism Practice*, 1–23. [https://doi.org/10.1080/17512786.2024.2305641](https://doi.org/10.1080/17512786.2024.2305641)
