@@ -44,3 +44,14 @@ These categories capture a lot, but they miss some rather important things. Like
 The messiness of actual human life rarely fits neatly into any of these boxes.
 
 A somewhat longer critique of the concept [can be found here](https://johannesklingebiel.de/2025/02/07/against-the-user.html).
+
+---
+
+## Relevant Papers
+
+van der Nat, R., Bakker, P., & Müller, E. (2024). The Imagined User: Creating Interactive Narratives in Journalism. *Journalism Practice*, 1–23. [https://doi.org/10.1080/17512786.2024.2305641](https://doi.org/10.1080/17512786.2024.2305641)
+
+Gajardo, C., Costera Meijer, I., & Domingo, D. (2021). From Abstract News Users to Living Citizens: Assessing Audience Engagement Through a Professional Lens. *Journalism Practice*, 17(3), 508–524. [https://doi.org/10.1080/17512786.2021.1925949
+](https://doi.org/10.1080/17512786.2021.1925949)
+
+
