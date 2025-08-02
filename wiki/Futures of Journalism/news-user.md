@@ -54,6 +54,8 @@ Coddington, M., Lewis, S. C., & Belair-Gagnon, V. (2021). The Imagined Audience 
 Gajardo, C., Costera Meijer, I., & Domingo, D. (2021). From Abstract News Users to Living Citizens: Assessing Audience Engagement Through a Professional Lens. *Journalism Practice*, 17(3), 508–524. [https://doi.org/10.1080/17512786.2021.1925949
 ](https://doi.org/10.1080/17512786.2021.1925949)
 
+McHardy, J., Jesper W., O., & Jen, S. (2011). Makeshift users. In J. Simonsen (Ed.), Design research: Synergies from interdisciplinary perspectives (1. publ. 2010). Routledge.
+
 Redström, J. (2005). Towards User Design: On the shift from Object to User as the Subject of Design. *Design Studies*, Volume 27, Issue 2, 2006. [https://doi.org/10.1016/j.destud.2005.06.001](https://doi.org/10.1016/j.destud.2005.06.001)
 
 Roberts, S. (2017). The UX-ificitation of Research. *Stripe Partners*. [https://www.stripepartners.com/viewpoint/the-ux-ification-of-research/](https://www.stripepartners.com/viewpoint/the-ux-ification-of-research/)
