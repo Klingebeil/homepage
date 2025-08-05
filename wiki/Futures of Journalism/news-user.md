@@ -49,6 +49,8 @@ A somewhat longer critique of the concept [can be found here](https://johanneskl
 
 ## Relevant Papers & Articles
 
+Akrich, Madeleine. 1992. “The De-Scription of technical Objects”. In Shaping Technology / Building Society: Studies in Sociotechnical Change, edited by Wiebe J. Bijker and Trever Pinch.
+
 Coddington, M., Lewis, S. C., & Belair-Gagnon, V. (2021). The Imagined Audience for News: Where Does a Journalist’s Perception of the Audience Come From? *Journalism Studies*, 22(8), 1028–1046. [https://doi.org/10.1080/1461670X.2021.1914709](https://doi.org/10.1080/1461670X.2021.1914709)
 
 Gajardo, C., Costera Meijer, I., & Domingo, D. (2021). From Abstract News Users to Living Citizens: Assessing Audience Engagement Through a Professional Lens. *Journalism Practice*, 17(3), 508–524. [https://doi.org/10.1080/17512786.2021.1925949
