@@ -14,15 +14,19 @@
 
     <div class="row">
         <div class="column-25 mono-space small">
-            <div class="seg-line"></div>
-            <p><a class="button" href="/articles">WRITING</a> / {{page.title}}</p>
-            <div class="seg-line_dotted"></div>
-            <p>PUBLISHED: {{ page.date | date: "%d.%m.%Y" }}</p>
-            <div class="seg-line_dotted"></div>
-            <p>{% assign words = content | number_of_words %}{{words}} words — {{ words | divided_by:180 }} mins</p>
+            <div class="seg-line">
+                <p><a class="button" href="/articles">WRITING</a> / {{page.title}}</p>
+            </div>
+            <div class="seg-line_dotted">
+                <p>PUBLISHED: {{ page.date | date: "%d.%m.%Y" }}</p>
+            </div>
+            <div class="seg-line_dotted">
+                <p>{% assign words = content | number_of_words %}{{words}} words — {{ words | divided_by:180 }} mins</p>
+            </div>
             {% if page.series %}
-                <div class="seg-line "></div>
-                <p class="color mono-space">This article is part of the <a href="{{ site.baseurl }}/series/{{page.series}}.html">{{page.series | replace:'-',' ' | upcase }}</a> series.</p>
+                <div class="seg-line ">
+                    <p class="color mono-space">This article is part of the <a href="{{ site.baseurl }}/series/{{page.series}}.html">{{page.series | replace:'-',' ' | upcase }}</a> series.</p>
+                </div>
             {% endif %}
             {% if page.toc == true %}
                 {% include java-toc.html %}
