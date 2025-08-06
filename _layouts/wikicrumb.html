@@ -21,16 +21,21 @@
             <p class="mono-space small color-green">STATUS: {{ page.status }}</p>
           {% endif %}
           {% if page.first-commit %}
-            <div class="seg-line color-green"></div>
-            <p class="mono-space small color-green"><span class="uppercase">First commit:</span> {{ page.first-commit }}</p>
+            <div class="seg-line_dotted color-green">
+              <p class="mono-space small color-green"><span class="uppercase">First commit:</span> {{ page.first-commit }}</p>
+            </div>
           {% endif %}
           {% if page.last-updated %}
-            <div class="seg-line color-green"></div>
-            <p class="mono-space small color-green"><span class="uppercase">Last updated:</span> {{ page.last-updated }}</p>
+            <div class="seg-line_dotted color-green">
+              <p class="mono-space small color-green"><span class="uppercase">Last updated:</span> {{ page.last-updated }}</p>
+            </div>
           {% endif %}
           <!-- Linked Notes based on the include template -->
+          {% if page.linked-notes %}
           {% assign notes = page.linked-notes %}
-          <div class="seg-line color-green mono-space small uppercase"><p>Linked Notes</p></div>
+          <div class="seg-line_dotted color-green">
+            <p class="mono-space small color-green"><span class="uppercase">Linked Notes</span>
+          </div>
           <div id="allnotes-list">
           {% for note in notes %}
               {% assign link = site.pages | where_exp:"link", "link.path contains note"%}
@@ -42,6 +47,7 @@
               {% endfor %}
           {% endfor %}
         </div>
+        {% endif %}
           <div class="seg-line color-green resp-no-display"></div>
         </div>
         <div class="column-75">
