@@ -1,6 +1,8 @@
 ---
 layout: wikicrumb 
 title: Tacit Knowledge
+first-commit: 2023-07-30
+last-updated: 2024-11-28
 ---
 
 # Tacit Knowledge

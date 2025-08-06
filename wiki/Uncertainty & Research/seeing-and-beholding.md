@@ -1,6 +1,8 @@
 ---
 layout: wikicrumb 
 title: Move from seeing to beholding
+first-commit: 2023-02-06
+last-updated: 2024-04-06
 ---
 
 > *Move from seeing to beholding*: To see a situation is to catch the facts of the matter. To behold it is to witness the story. If you dwell entirely with statistics and data, you will be a burnt match within months. 
