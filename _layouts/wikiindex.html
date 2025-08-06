@@ -46,11 +46,19 @@
       <div id="notes-list" class="flex">
       {% for item in notes %}
           {% unless item.path contains "index.html" %}
-              <div class="notes hairline no-decoration card-50 bg-light-green shadow-green color-green" href="{{ site.baseurl }}{{item.url}}">
-                <div class="notes_content">{{ item.content | markdownify | truncatewords: 50 }}</div>
-                <a class="button float hairline mono-space small color-green" href="{{ site.baseurl }}{{item.url}}">READ ➞</a>
-                <div class="gradient-blur"><div></div><div></div><div></div><div></div><div></div><div></div></div>
+            <a class="notes-link" href="{{ site.baseurl }}{{item.url}}">
+              <div class="notes hairline no-decoration card-50 bg-light-green shadow-green color-green">
+                <div class="notes-content">
+                  <div class="flex justify-start seg-line">
+                    <div class="seg-element mono-space">{{item.last-updated | date: "%Y"}}</div>
+                    <div>
+                      <h2 class="card-title">{{item.title}}</h2>
+                      <p>{{item.subtitle}}</p>
+                    </div>
+                  </div>
+                </div>
               </div>
+            </a>
           {% endunless %}
       {% endfor %}
       </div>

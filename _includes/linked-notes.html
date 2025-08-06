@@ -8,7 +8,7 @@ Das ganze ist der Versuch im YAML verlinkte Notizen in Artikeln anzugeben, die a
     {% assign link = site.pages | where_exp:"link", "link.path contains note"%}
     {% for item in link %}
         <div class="notes hairline no-decoration card-50 color-green bg-light-green shadow-green"  href="{{ site.baseurl }}{{item.url}}">
-            <div class="notes_content small">{{ item.content | markdownify | truncatewords: 40 }}</div>
+            <div class="notes-content small">{{ item.content | markdownify | truncatewords: 40 }}</div>
             <a class="button float hairline mono-space small color-green" href="{{ site.baseurl }}{{item.url}}">READ ➞</a>
             <div class="gradient-blur"><div></div><div></div><div></div><div></div><div></div></div>
       </div>

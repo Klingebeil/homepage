@@ -228,10 +228,6 @@ img {
       width: 100%; }
 }
 
-.project-title {
-	margin-top: 0px;
-}
-
 /* PAGE LAYOUT */
 .content-wrapper {
 	width: 60%;
@@ -436,6 +432,11 @@ details[open] > summary {
 		max-width: 100% !important;
 		flex-basis: 100%;
 	}
+}
+
+.card-title {
+	margin-top: 0px !important;
+	padding-top: 0px !important;
 }
 
 .wiki-category-button {
@@ -713,132 +714,21 @@ details[open] > summary {
 	}
 }
 
-.gradient-blur {
-  position: absolute;
-  z-index: 5;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 33%; //Edit to change height of blur effect
-  pointer-events: none;
-  border-radius: 10px;
-}
-
-.gradient-blur > div,
-.gradient-blur::before,
-.gradient-blur::after {
-  position: absolute;
-  inset: 0;
-}
-.gradient-blur::before {
-  content: "";
-  z-index: 1;
-  backdrop-filter: blur(0.5px);
-  mask: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0) 0%,
-    rgba(0, 0, 0, 1) 12.5%,
-    rgba(0, 0, 0, 1) 25%,
-    rgba(0, 0, 0, 0) 37.5%
-  );
-}
-.gradient-blur > div:nth-of-type(1) {
-  z-index: 2;
-  border-radius: 10px;
-  backdrop-filter: blur(1px);
-  mask: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0) 12.5%,
-    rgba(0, 0, 0, 1) 25%,
-    rgba(0, 0, 0, 1) 37.5%,
-    rgba(0, 0, 0, 0) 50%
-  );
-}
-.gradient-blur > div:nth-of-type(2) {
-  z-index: 3;
-  border-radius: 10px;
-  backdrop-filter: blur(2px);
-  mask: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0) 25%,
-    rgba(0, 0, 0, 1) 37.5%,
-    rgba(0, 0, 0, 1) 50%,
-    rgba(0, 0, 0, 0) 62.5%
-  );
-}
-.gradient-blur > div:nth-of-type(3) {
-  z-index: 4;
-  border-radius: 10px;
-  backdrop-filter: blur(4px);
-  mask: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0) 37.5%,
-    rgba(0, 0, 0, 1) 50%,
-    rgba(0, 0, 0, 1) 62.5%,
-    rgba(0, 0, 0, 0) 75%
-  );
-}
-.gradient-blur > div:nth-of-type(4) {
-  z-index: 5;
-  border-radius: 10px;
-  backdrop-filter: blur(8px);
-  mask: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0) 50%,
-    rgba(0, 0, 0, 1) 62.5%,
-    rgba(0, 0, 0, 1) 75%,
-    rgba(0, 0, 0, 0) 87.5%
-  );
-}
-.gradient-blur > div:nth-of-type(5) {
-  z-index: 6;
-  border-radius: 10px;
-  backdrop-filter: blur(16px);
-  mask: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0) 62.5%,
-    rgba(0, 0, 0, 1) 75%,
-    rgba(0, 0, 0, 1) 87.5%,
-    rgba(0, 0, 0, 0) 100%
-  );
-}
-.gradient-blur > div:nth-of-type(6) {
-  z-index: 7;
-  border-radius: 10px;
-  backdrop-filter: blur(32px);
-  mask: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0) 75%,
-    rgba(0, 0, 0, 1) 87.5%,
-    rgba(0, 0, 0, 1) 100%
-  );
-}
-.gradient-blur::after {
-  content: "";
-  z-index: 8;
-  border-radius: 10px;
-  backdrop-filter: blur(64px);
-  mask: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0) 87.5%,
-    rgba(0, 0, 0, 1) 100%
-  );
-}
-
-.notes_content {
+.notes-content {
 	height: 300px;
-	padding: 0px 10px;
+	padding: 10px 10px;
     overflow: hidden;
+
+	& h2 {
+		margin-top: 0px;
+		margin-bottom: 10px;
+	}
 }
 
-#notes-link {
-    padding: 5px 10px 2px 0px;
-    margin: 0px 0px 10px 0px;
-    color: $green;
-    font-size: 0.7em;
-    border-bottom: none;
-    display: inline-block;
-    border-right: solid 1px currentColor;
+.notes-link {
+  	text-decoration: none;
+  	color: inherit;
+  	display: contents;
 }
 
 /* BOOKSHELF */
@@ -953,7 +843,7 @@ details[open] > summary {
 		display: block;
 	}
 
-	.notes_content {
+	.notes-content {
 		max-height: none;
 		padding: 0px 10px;
 		overflow: auto;
