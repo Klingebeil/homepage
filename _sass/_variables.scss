@@ -1,16 +1,16 @@
 
 // COLOR VARIABLES
-$main-txt-color: rgb(29, 29, 29);
-$red: rgb(253, 103, 94);
-$light-red: rgb(255, 231, 230);
-$light-grey: rgb(230, 230, 230);
-$dark-grey: rgb(142, 155, 157);
-$light-yellow: rgb(255, 241, 122);
-$background: rgb(239, 239, 239);
-$white: rgb(255, 255, 255);
-$green: rgb(92, 190, 116);
-$light-green: rgb(237, 248, 239);
-$purple: rgb(133, 90, 224);
+$main-txt-color: #{'rgba(29, 29, 29, 1)'};
+$red: rgba(253, 103, 94, 1);
+$light-red: rgba(255, 231, 230, 1);
+$light-grey: rgba(230, 230, 230, 1);
+$dark-grey: rgba(142, 155, 157, 1);
+$light-yellow: rgba(255, 241, 122, 1);
+$background: #{'rgba(239, 239, 239, 1)'};
+$white: rgba(255, 255, 255, 1);
+$green: rgba(92, 190, 116, 1);
+$light-green: rgba(237, 248, 239, 1);
+$purple: rgba(133, 90, 224, 1);
 
 //TYPOGRAPHY VARIABLES
 $font-small: 0.7em;
