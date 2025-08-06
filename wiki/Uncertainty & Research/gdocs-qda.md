@@ -2,7 +2,7 @@
 layout: wikicrumb
 title: Qualitative Analysis in Google Docs
 first-commit: 2025-07-17
-last-updated: 2025-07-17
+last-updated: 2025-08-06
 ---
 
 # A Lightweight QDA Workflow with Google Docs and Sheets
@@ -23,61 +23,76 @@ function listComments() {
   // Change docId into your document's ID
   var docId = 'YOUR DOC ID'; 
   
-  // Add the required fields parameter
-  var comments = Drive.Comments.list(docId, {
-    fields: 'comments(content,quotedFileContent,anchor,author,deleted,id)',
-    includeDeleted: false
-  });
-  
   var hList = [], cList = [], aList = [], lList = [];
-
-  // Get list of comments
-  if (comments.comments && comments.comments.length > 0) {
-    for (var i = 0; i < comments.comments.length; i++) {
-      var comment = comments.comments[i]; 
-      
-      // Skip deleted comments (extra safety check)
-      if (comment.deleted) {
-        continue;
-      }
-      
-      // In Drive API v3, the structure is different
-      // quotedFileContent contains the highlighted text
-      var highlightedText = '';
-      if (comment.quotedFileContent && comment.quotedFileContent.value) {
-        highlightedText = comment.quotedFileContent.value;
-      } else if (comment.anchor) {
-        // anchor contains the selection info as a JSON string
-        highlightedText = comment.anchor;
-      }
-      
-      // content contains the actual comment text
-      var commentText = comment.content || '';
-      
-      // author contains the author information
-      var authorName = '';
-      if (comment.author) {
-        authorName = comment.author.displayName || comment.author.emailAddress || '';
-      }
-      
-      // create direct link to comment
-      var commentLink = 'https://docs.google.com/document/d/' + docId + '/edit#comment-' + comment.id;
-      
-      // add comment, highlight, author, and link to arrays
-      hList.unshift([highlightedText]);
-      cList.unshift([commentText]);
-      aList.unshift([authorName]);
-      lList.unshift([commentLink]);
+  var pageToken = null;
+  
+  do {
+    // Add the required fields parameter and pageToken if it exists
+    var options = {
+      fields: 'comments(content,quotedFileContent,anchor,author,deleted,id),nextPageToken',
+      includeDeleted: false
+    };
+    
+    if (pageToken) {
+      options.pageToken = pageToken;
     }
-    // Set values to A, B, C, and D columns
-    var sheet = SpreadsheetApp.getActiveSheet();
-    sheet.getRange("A1:A" + hList.length).setValues(hList);
-    sheet.getRange("B1:B" + cList.length).setValues(cList);
-    sheet.getRange("C1:C" + aList.length).setValues(aList);
-    sheet.getRange("D1:D" + lList.length).setValues(lList);
-  }
+    
+    var comments = Drive.Comments.list(docId, options);
+    
+    // Get list of comments
+    if (comments.comments && comments.comments.length > 0) {
+      for (var i = 0; i < comments.comments.length; i++) {
+        var comment = comments.comments[i]; 
+        
+        // Skip deleted comments (extra safety check)
+        if (comment.deleted) {
+          continue;
+        }
+        
+        // In Drive API v3, the structure is different
+        // quotedFileContent contains the highlighted text
+        var highlightedText = '';
+        if (comment.quotedFileContent && comment.quotedFileContent.value) {
+          highlightedText = comment.quotedFileContent.value;
+        } else if (comment.anchor) {
+          // anchor contains the selection info as a JSON string
+          highlightedText = comment.anchor;
+        }
+        
+        // content contains the actual comment text
+        var commentText = comment.content || '';
+        
+        // author contains the author information
+        var authorName = '';
+        if (comment.author) {
+          authorName = comment.author.displayName || comment.author.emailAddress || '';
+        }
+        
+        // create direct link to comment
+        var commentLink = 'https://docs.google.com/document/d/' + docId + '/edit#comment-' + comment.id;
+        
+        // add comment, highlight, author, and link to arrays
+        hList.unshift([highlightedText]);
+        cList.unshift([commentText]);
+        aList.unshift([authorName]);
+        lList.unshift([commentLink]);
+      }
+    }
+    
+    // Update the page token
+    pageToken = comments.nextPageToken;
+  } while (pageToken);
+  
+  // Set values to A, B, C, and D columns
+  var sheet = SpreadsheetApp.getActiveSheet();
+  sheet.getRange("A1:A" + hList.length).setValues(hList);
+  sheet.getRange("B1:B" + cList.length).setValues(cList);
+  sheet.getRange("C1:C" + aList.length).setValues(aList);
+  sheet.getRange("D1:D" + lList.length).setValues(lList);
 }
 ```
+
+(Thanks to Angela for finding a critical bug!)
 
 **Finally**: Run the code. The first time the script will ask you for permission to access your files. Once granted, it should run without problems.
 
