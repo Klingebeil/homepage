@@ -7,11 +7,19 @@ Das ganze ist der Versuch im YAML verlinkte Notizen in Artikeln anzugeben, die a
 {% for note in notes %}
     {% assign link = site.pages | where_exp:"link", "link.path contains note"%}
     {% for item in link %}
-        <div class="notes hairline no-decoration card-50 color-green bg-light-green shadow-green"  href="{{ site.baseurl }}{{item.url}}">
-            <div class="notes-content small">{{ item.content | markdownify | truncatewords: 40 }}</div>
-            <a class="button float hairline mono-space small color-green" href="{{ site.baseurl }}{{item.url}}">READ ➞</a>
-            <div class="gradient-blur"><div></div><div></div><div></div><div></div><div></div></div>
-      </div>
+        <a class="notes-link" href="{{ site.baseurl }}{{item.url}}">
+              <div class="notes hairline no-decoration card-50 bg-light-green shadow-green color-green">
+                <div class="notes-content">
+                  <div class="flex justify-start seg-line">
+                    <div class="seg-element br mono-space">{{item.last-updated | date: "%Y"}}</div>
+                    <div>
+                      <h2 class="card-title">{{item.title}}</h2>
+                      <p>{{item.subtitle}}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
     {% endfor %}
 {% endfor %}
 </div>

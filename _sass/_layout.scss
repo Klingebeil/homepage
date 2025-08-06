@@ -26,6 +26,10 @@ body {
 .shadow-green{@include multi-shadow($green);}
 .shadow-red{@include multi-shadow($red);}
 
+/* -- BORDERS -- */
+.br {border-right: solid 1px currentColor;}
+.bl {border-left: solid 1px currentColor;}
+
 
 /* -- LAYOUT -- */
 
@@ -57,7 +61,7 @@ body {
 	padding-top: $spacing-small;
 }
 .justify-center {justify-content: center;}
-.justify-start {justify-content:flex-start;}
+.justify-start {justify-content: flex-start;}
 .justify-between {justify-content: space-between;}
 .items-center {align-items: center;}
 
@@ -311,11 +315,8 @@ details[open] > summary {
 }
 
 .seg-element {
-	padding: 5px 10px 3px 0px;
-	margin: 0px 10px 0px 0px !important; 
-    font-size: 0.7em;
+	padding: 5px;
     display: inline-block;
-	border-right: solid 1px currentColor;
 
 	& a:link {
 		text-decoration: none;}

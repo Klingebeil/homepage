@@ -13,7 +13,7 @@ title: Johannes Klingebiel
   <div class="column-25"><div class="seg-line resp-no-display"></div></div>
   <div class="column-50" id="intro-column">
   <div class="seg-line">
-    <div class="uppercase mono-space seg-element">{{page.title}}</div>
+    <div class="uppercase mono-space seg-element br">{{page.title}}</div>
   </div>
   <!--Intro-->
   <div class="intro">
@@ -35,7 +35,7 @@ title: Johannes Klingebiel
   </div>
 
   <div class="seg-line">
-    <div class="uppercase mono-space seg-element">Writing</div>
+    <div class="uppercase mono-space seg-element br">Writing</div>
     <div class="uppercase mono-space button hairline"><a href="feed.xml">RSS &#x279E;</a></div>
     <!--Article List-->
     <div class="article-list">
@@ -48,7 +48,7 @@ title: Johannes Klingebiel
   <!-- Notes List -->
   {% assign noteslist = site.pages | where_exp: "item" , "item.path contains 'wiki'" | sort:"last-updated" | reverse %}
   <!--<div class="seg-line">
-    <div class="seg-element mono-space uppercase">Notes</div>
+    <div class="seg-element br mono-space uppercase">Notes</div>
     <div class="button color-green"><a href="{{ site.baseurl }}/wiki/index.html">Digital Garden &#x279E;</a></div>
   </div>-->
   <div id="allnotes-list" class="hairline bg-light-green shadow-green" style="padding: 20px; border-radius: 20px; rotate: 0.5deg;">

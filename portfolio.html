@@ -40,9 +40,9 @@ title: Projects
       {% unless article.path contains "index.html" %}
         <a class="card-50 flex-column justify-between portfolio-category-button hairline" href="{{ site.baseurl }}{{ article.url }}">
           <div class="flex justify-start" id="wiki-category-button-wrapper">
-            <div class="seg-element mono-space project-year">{{ article.date | date: "%Y" }}</div>
-            <div class="seg-element uppercase mono-space">{{ article.category }}</div>
-            <div>
+            <div class="seg-element br small mono-space project-year">{{ article.date | date: "%Y" }}</div>
+            <div class="seg-element br small uppercase mono-space">{{ article.category }}</div>
+            <div class="seg-element">
               <h2 class="card-title">{{ article.title }}</h2>
               <p>{{ article.summary }}</p>
             </div>

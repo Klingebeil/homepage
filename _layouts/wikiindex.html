@@ -27,7 +27,7 @@
         {{content}}
       </div>
       <div class="seg-line color-green">
-        <div class="seg-element mono-space uppercase">All notes</div>
+        <div class="seg-element br mono-space uppercase">All notes</div>
         <div class="mono-space small color-green seg-element">Entries: {% assign notes = site.pages | where_exp: "item" , "item.path contains folderfilter" | reverse %}{{ notes.size | minus:1 }}</div>
       </div> 
       <div id="allnotes-list" class="color-green small">
@@ -49,12 +49,12 @@
             <a class="notes-link" href="{{ site.baseurl }}{{item.url}}">
               <div class="notes hairline no-decoration card-50 bg-light-green shadow-green color-green">
                 <div class="notes-content">
-                  <div class="flex justify-start seg-line">
-                    <div class="seg-element mono-space">{{item.last-updated | date: "%Y"}}</div>
-                    <div>
+                  <div class="flex justify-between seg-line">
+                    <div class="seg-element">
                       <h2 class="card-title">{{item.title}}</h2>
                       <p>{{item.subtitle}}</p>
                     </div>
+                    <div class="mono-space small seg-element bl">{{item.last-updated | date: "%Y"}}</div>
                   </div>
                 </div>
               </div>
