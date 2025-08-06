@@ -9,9 +9,6 @@ last-updated: 2025-05-06
 
 Written by ChatGPT with light editing from me because apparently the system is more critical then some people in the industry.
 
-1. this unordered seed list will be replaced by toc as unordered list
-{:toc}
-
 ## Loss of Context and Depth
 Chat interfaces inevitably simplify complex news stories. When a major global conflict gets reduced to “key takeaways” or “top 5 facts,” we lose crucial geopolitical history, conflicting perspectives, and systemic factors. 
 
