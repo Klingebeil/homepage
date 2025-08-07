@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: Talks & Workshops
-date: 2024-05-02
+date: 2025-08-07
 category: Talks
 teaser-img: "portfolio/talks-and-workshops/teaser-me.jpg"
 summary: "I enjoy giving talks at conferences, companies or universities. Here‘s a list of topics and how I approach them."
@@ -20,6 +20,8 @@ A selection of companies, events and institutions I was invited to in the past:
 
 | Date | Topic | Where | Language |
 |:--|:--|:--|:--|
+| ***2025*** | Workshop: Innovation Work as Infrastructural Practice | *Media Innovation Festival* | ***DE*** |
+| ***2024*** | AI in Journalism: A critical Overview | *Radiotage Tutzing* | ***DE*** |
 | ***2024*** | Lecture on technological Hype as a Marketing Tool | *Internationale Hochschule SDI München* | ***DE*** |
 | ***2023*** | A short Introduction to Trends and Hypes | *Plattform V* | ***DE*** |
 | ***2023*** | An Intro to technological Hype and Trends | *AEB SE* | ***DE*** |
