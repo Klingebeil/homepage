@@ -5,7 +5,7 @@ date: 2024-02-01
 category: Research
 teaser-img: portfolio/lab-report-ki/teaser-img.png
 summary: "A report on contemporary innovation practices inside German media companies."
-published: false
+published: true
 toc: true
 ---
 
@@ -67,10 +67,6 @@ We clustered the data from the interviews and the survey around a couple of emer
 - The use of so called "innovation methods" and where they worked and failed with a focus on Design Thinking.
 
 In the end, the report comprised 19 pages and 50,000 characters of text.
-
-## Design
-
-TBA
 
 ## What we learned
 
