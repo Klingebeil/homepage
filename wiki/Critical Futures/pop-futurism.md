@@ -3,6 +3,8 @@ layout: wikicrumb
 title: Pop-Futurism
 first-commit: 2025-07-16
 last-updated: 2025-07-16
+linked-notes:
+- chronocentrism
 ---
 
 # Pop-Futurism
