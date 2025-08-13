@@ -162,13 +162,16 @@ code {
 }
 
 blockquote:not(.twitter-tweet) {
-	padding: 20px;
+	/*padding: 20px;
     margin-left: 5px;
 	margin-top: 18px;
 	margin-inline-end: 10px;
     border-left: 1px solid $dark-grey;
 	background-color: rgba($dark-grey, 0.1);
-	border-radius: 0px 10px 10px 0px;
+	border-radius: 0px 10px 10px 0px;*/
+
+	color: $dark-grey;
+	margin-left: 0px;
 
 	& b, strong {
 		font-family: $serif;
@@ -190,7 +193,7 @@ blockquote:not(.twitter-tweet) {
 		color: $dark-grey;
 		content: "“";
 		display: inline-block;
-		margin-left: -0.7em;
+		margin-left: -0.85em;
 		padding-right: 0.07em;
 		text-align: right;
 		width: 0.7em;
