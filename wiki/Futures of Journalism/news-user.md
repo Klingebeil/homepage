@@ -53,8 +53,12 @@ Akrich, Madeleine. 1992. “The De-Scription of technical Objects”. In Shaping
 
 Coddington, M., Lewis, S. C., & Belair-Gagnon, V. (2021). The Imagined Audience for News: Where Does a Journalist’s Perception of the Audience Come From? *Journalism Studies*, 22(8), 1028–1046. [https://doi.org/10.1080/1461670X.2021.1914709](https://doi.org/10.1080/1461670X.2021.1914709)
 
+Costera Meijer, I. (2020). Understanding the Audience Turn in Journalism: From Quality Discourse to Innovation Discourse as Anchoring Practices 1995–2020. Journalism Studies, 21(16), 2326–2342. https://doi.org/10.1080/1461670X.2020.1847681
+
 Gajardo, C., Costera Meijer, I., & Domingo, D. (2021). From Abstract News Users to Living Citizens: Assessing Audience Engagement Through a Professional Lens. *Journalism Practice*, 17(3), 508–524. [https://doi.org/10.1080/17512786.2021.1925949
 ](https://doi.org/10.1080/17512786.2021.1925949)
+
+Loosen, W., Reimer, J., Oberhülsmann, L., & van Olphen, T. (2025). From Cultivating Fans to Coping With Troublemakers: A Typology of Journalists’ Audience Relationships. Journalism & Mass Communication Quarterly, 0(0). [https://doi.org/10.1177/10776990251343074](https://doi.org/10.1177/10776990251343074)
 
 McHardy, J., Jesper W., O., & Jen, S. (2011). Makeshift users. In J. Simonsen (Ed.), Design research: Synergies from interdisciplinary perspectives (1. publ. 2010). Routledge.
 
@@ -64,5 +68,7 @@ Roberts, S. (2017). The UX-ificitation of Research. *Stripe Partners*. [https://
 
 Robinson, James G. (2019). The Audience in the Mind's Eye: How Journalists Imagine Their Readers. 
 *Tow Center for Digital Journalism, Columbia University*. [https://doi.org/10.7916/d8-drvj-wj06](https://doi.org/10.7916/d8-drvj-wj06)
+
+Steensen, S., Ferrer-Conill, R., & Peters, C. (2020). (Against a) Theory of Audience Engagement with News. Journalism Studies, 21(12), 1662–1680. [https://doi.org/10.1080/1461670X.2020.1788414](https://doi.org/10.1080/1461670X.2020.1788414)
 
 van der Nat, R., Bakker, P., & Müller, E. (2024). The Imagined User: Creating Interactive Narratives in Journalism. *Journalism Practice*, 1–23. [https://doi.org/10.1080/17512786.2024.2305641](https://doi.org/10.1080/17512786.2024.2305641)
