@@ -10,12 +10,12 @@ Das ganze ist der Versuch im YAML verlinkte Notizen in Artikeln anzugeben, die a
         <a class="notes-link" href="{{ site.baseurl }}{{item.url}}">
               <div class="notes hairline no-decoration card-50 bg-light-green shadow-green color-green">
                 <div class="notes-content">
-                  <div class="flex justify-start seg-line">
-                    <div class="seg-element br mono-space">{{item.last-updated | date: "%Y"}}</div>
-                    <div>
+                  <div class="flex justify-between seg-line">
+                    <div class="seg-element">
                       <h2 class="card-title">{{item.title}}</h2>
                       <p>{{item.subtitle}}</p>
                     </div>
+                    <div class="mono-space small seg-element bl">{{item.last-updated | date: "%Y"}}</div>
                   </div>
                 </div>
               </div>
