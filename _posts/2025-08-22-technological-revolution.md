@@ -1,7 +1,7 @@
 ---
 layout: post
 language: en
-title: "Sparkling capital rellocation"
+title: "Sparkling capital reallocation"
 subtitle: "There‘s no technological revolution"
 date: 2025-08-22
 teaser-img: 2025-08-22-teaser.svg
