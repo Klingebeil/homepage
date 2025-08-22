@@ -21,7 +21,7 @@ Take the first technological revolution. We tend to imagine it as a sudden erupt
 
 ‘Technological revolution’ is thus a pretty meaningless term as a lens for analysis, especially as it is used by the LinkedIn-breed of tech enthusiasts. 
 
-But the language its use is as interesting as it is revealing. This kind of language presents a form of technological determinism — it assumes that radical change flows automatically from the machine itself. And once you frame change as inevitable, you push aside the real questions: who benefits, who loses, who decides? Call something a revolution and you can ironically skip the politics, the complexities, the mess of actual technological use. You never stop to ask yourself how the technology in question actually impacts power-relations. 
+But its use is as interesting as it is revealing. This kind of language presents a form of technological determinism — it assumes that radical change flows automatically from the machine itself. And once you frame change as inevitable, you push aside the real questions: who benefits, who loses, who decides? Call something a revolution and you can ironically skip the politics, the complexities, the mess of actual technological use. You never stop to ask yourself how the technology in question actually impacts power-relations. 
 
 In the popular tech discourse, ‘revolution’ is almost always used to hype up boringly incremental improvement — faster processors, smarter algorithms, cheaper batteries — while still keeping intact the hierarchies of ownership and control. It's a branding tactic not a useful descriptor of actual systemic change.
 
