@@ -41,26 +41,23 @@ title: Articles
     <div class="seg-element br mono-space uppercase project-year small">Series</div>
   </div>
 
-  <div class="intro">
+  <div>
     <p class="mono-space small">Some of my articles are part of a larger series. You can find every ongoing series here:</p>
 
     {% assign collection = site.pages | where_exp: "item" , "item.path contains 'series'" | where_exp: "item" , "item.path contains '.md'"  %}
-
+    <div class="flex-list sp-tp-small pd-tp-small">
     {% for item in collection %}
-        <a class="no-decoration" href="{{ site.baseurl }}{{item.url}}">
-            <div class="series-block hairline shadow-yellow">
+        <a class="no-decoration card-50" href="{{ site.baseurl }}{{item.url}}">
+            <div class="series-block hairline shadow-yellow paper">
                 <h2>{{item.title}}</h2> 
                 {%if item.subtitle%}<p class="mono-space small uppercase">{{item.subtitle}}</p>{% endif %}
             </div>
         </a>
     {% endfor %}
-</div>
+    </div>
   </div>
-  <div class="column-25"><div class="seg-line resp-no-display"></div></div>
+</div>
+<div class="column-25"><div class="seg-line resp-no-display"></div></div>
 </div>
 
-<div class="row">
-  <div class="column-100">
-      {% include footer.html %}
-  </div>
-</div>
+{% include footer.html %}

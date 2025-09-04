@@ -17,6 +17,7 @@ body {
 //Shadow function
 @mixin multi-shadow($base-color) {
   box-shadow:
+  	inset 0 2px 2px 0px rgba($white, 0.5),
     #{rgba($base-color, 0.04)} 0px 1px 2px,
     #{rgba($base-color, 0.06)} 0px 2px 4px,
     #{rgba($base-color, 0.08)} 0px 5px 9px,
@@ -29,12 +30,17 @@ body {
 .shadow-yellow{@include multi-shadow($light-yellow);}
 
 //Background Gradient
-@mixin gradient-bg($gradient-color) {
+@mixin gradient-bg($gradient-color, $direction) {
   background: linear-gradient(
-    180deg,
+    $direction,
     $gradient-color 0%,
     color.adjust($gradient-color, $lightness: -3%) 100%
   );
+}
+
+//White Highlight
+@mixin hightlight-top {
+	box-shadow: inset 0 1px 0 0 rgba($white, 0.9);
 }
 
 /* -- BORDERS -- */
@@ -50,6 +56,8 @@ body {
 .sp-bt-medium{margin-bottom: $spacing-medium;}
 .sp-tp-large{margin-top: $spacing-large;}
 .sp-bt-large{margin-bottom: $spacing-large;}
+
+.pd-tp-small{padding-top: $spacing-small;}
 
 .full-width{width: 100% !important; max-width: 100% !important;}
 
@@ -123,7 +131,8 @@ body {
 	@include multi-shadow($dark-grey);
 }
 
-.hairline {border: .5px solid #{rgba($dark-grey, 0.5)};}
+@mixin hairline {border: .5px solid #{rgba($dark-grey, 0.5)};}
+.hairline {@include hairline();}
 
 .inline {display: inline-block;}
 
@@ -349,7 +358,7 @@ details[open] > summary {
 /* -- BUTTONS -- */
 .button {
 	background: $white;
-	@include gradient-bg($white);
+	box-shadow: inset 0 1px 0 0 rgba($white, 0.9), inset 0 8px 4px 0 rgba($dark-grey, 0.1);
 	border-radius: 40px;
 	padding: 1px 10px 1px 10px;
     font-size: 0.7em;
@@ -419,6 +428,8 @@ details[open] > summary {
 	margin-top: 8px;
 }
 
+/* -- CARD LAYOUTS --*/
+
 .card-30 {flex-basis: calc((100% * (1/3)) - 10px);}
 .card-50 {flex-basis: calc((100% * (1/2)) - 20px);}
 .card-60 {flex-basis: calc((100% * (2/3)) - 10px);}
@@ -443,9 +454,11 @@ details[open] > summary {
 	padding-top: 0px !important;
 }
 
+/* -- WIKI LAYOUT --*/
+
 .wiki-category-button {
 	background: $white;
-	@include gradient-bg($light-green);
+	@include gradient-bg($light-green, 180deg);
 	border-radius: 10px;
 	color: $green;
 	height: 30vh;
@@ -510,7 +523,7 @@ details[open] > summary {
 	}
 }
 
-/* FOOTER */
+/* -- FOOTER --  */
 .footer {
 	margin: 50px 0px 50px 0px;
     color: $dark-grey !important;
@@ -526,12 +539,12 @@ details[open] > summary {
 	text-decoration: none;
 }
 
-/* HEADER */
+/* -- HEADER -- */
 .header {
 	margin: 30px 0px 30px 0px;
 }
 
-/* ARTICLE LIST */
+/* -- ARTICLE LIST -- */
 .article-list {
 	margin: 40px 0px 40px 20px;
 }
@@ -556,12 +569,49 @@ details[open] > summary {
 /* SERIES LIST */
 
 .series-block {
-	@include gradient-bg($light-yellow);
+	@include gradient-bg($light-yellow, 180deg);
 	padding: 5px 10px 5px 10px;
-    margin: 10px 5px 5px 0px;
+	height: 30vh;
 	border-radius: 5px;
 	text-align: center;
 	text-decoration: none;
+}
+
+.paper {
+  position: relative;
+  margin-top: 1em;
+}
+
+.paper::before,
+.paper::after {
+  /* Styles to distinguish sheets from one another */
+  @include hairline();
+  @include gradient-bg($white, 180deg);
+}
+
+.paper::before,
+.paper::after {
+  content: "";
+  border-radius: 0.5em;
+  position: absolute;
+  height: 95%;
+  width: 99%;
+  @include hightlight-top();
+  background-color: $white;
+}
+
+.paper::before {
+  top: -5px;
+  right: 0px;
+  transform: rotate(-.5deg);
+  z-index: -1;
+}
+
+.paper::after {
+  top: -7px;
+  right: 0px;
+  transform: rotate(1deg);
+  z-index: -2;
 }
 
 /* COLLECTION */
@@ -574,7 +624,7 @@ details[open] > summary {
 }
 
 .collection-nav p {
-    margin-top: 12px;
+    margin-top: 2em;
 }
 
 .collection-description {
@@ -668,7 +718,7 @@ details[open] > summary {
 
 .notes {
 	background: $light-green;
-	@include gradient-bg($light-green);
+	@include gradient-bg($light-green, 180deg);
 	border-radius: 10px;
 	position: relative;
 
