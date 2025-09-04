@@ -31,9 +31,9 @@ body {
 //Background Gradient
 @mixin gradient-bg($gradient-color) {
   background: linear-gradient(
-    0deg,
-    $gradient-color 50%,
-    color.adjust($gradient-color, $lightness: -5%) 95%
+    180deg,
+    $gradient-color 0%,
+    color.adjust($gradient-color, $lightness: -3%) 100%
   );
 }
 
