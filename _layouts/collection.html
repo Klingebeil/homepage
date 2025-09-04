@@ -13,6 +13,9 @@
   </div>
   <div class="row">
     <div class="column-25">
+      <div id="breadcrumbs" class="mono-space seg-line">
+        <a id="btn-all-articles" class="hairline button" href="{{site.baseurl}}/articles.html"> All Articles</a>
+      </div>
       <div class="seg-line"></div>
       <div class="series-block hairline shadow-yellow paper sp-bt-small">
           <h1>{{page.title}}</h2> 
@@ -30,7 +33,7 @@
     </div>
     <div class="column-50">
       <div class="project-list">
-        {% for post in collection_posts reversed %}
+        {% for post in collection_posts %}
   
         <div class="seg-line">
           <div class="seg-element br mono-space small">{{ post.date | date: "%Y" }}</div>
