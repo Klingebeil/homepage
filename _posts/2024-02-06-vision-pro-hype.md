@@ -4,6 +4,7 @@ language: en
 title: "The Vision Pro and the lack of hype"
 subtitle: "A Theory"
 date: 2024-02-06
+series: hype
 teaser-img: 2024-02-06-teaser.png
 ---
 

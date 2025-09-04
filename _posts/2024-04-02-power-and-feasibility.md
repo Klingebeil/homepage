@@ -7,6 +7,7 @@ date: 2024-02-06
 teaser-img: 2024-04-02-teaser.png
 published: true
 toc: true
+series: messy-middle
 linked-notes:
     - 00-dark_matter
     - 02-minimal_supportable_product

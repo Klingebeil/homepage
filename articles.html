@@ -26,7 +26,7 @@ title: Articles
     {% if currentdate != date %}
       {% unless forloop.first %}</div>{% endunless %}
       <div class="seg-line">
-        <div class="seg-element br mono-space uppercase project-year" id="y{{post.date | date: "%Y" }}">{{ currentdate }}</div></div>
+        <div class="seg-element br mono-space uppercase project-year small" id="y{{post.date | date: "%Y" }}">{{ currentdate }}</div></div>
       <div class="article-list">
       {% assign date = currentdate %}
     {% endif %}
@@ -38,7 +38,7 @@ title: Articles
   {% endfor %}
 
   <div class="seg-line">
-    <div class="seg-element br mono-space uppercase">Series</div>
+    <div class="seg-element br mono-space uppercase project-year small">Series</div>
   </div>
 
   <div class="intro">
@@ -48,8 +48,8 @@ title: Articles
 
     {% for item in collection %}
         <a class="no-decoration" href="{{ site.baseurl }}{{item.url}}">
-            <div class="series-block">
-                <p>{{item.title}}</p> 
+            <div class="series-block hairline shadow-yellow">
+                <h2>{{item.title}}</h2> 
                 {%if item.subtitle%}<p class="mono-space small uppercase">{{item.subtitle}}</p>{% endif %}
             </div>
         </a>

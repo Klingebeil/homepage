@@ -7,6 +7,7 @@ date: 2025-05-23
 teaser-img: "2025-05-23-teaser.png"
 published: true
 toc: false
+series: ai-journalism
 linked-notes:
 - ai-chat-news
 ---

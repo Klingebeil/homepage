@@ -6,6 +6,7 @@ subtitle: Trying to categorize exuberance
 date: 2022-01-12
 teaser-img: 2022-01-12-teaser.png
 toc: true
+series: hype
 linked-notes:
 - sociology-of-expectations
 ---

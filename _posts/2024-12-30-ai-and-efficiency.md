@@ -7,6 +7,7 @@ date: 2024-12-08
 teaser-img: 2024-04-02-teaser.png
 published: false
 toc: true
+series: ai-journalism
 linked-notes:
     - 00-dark_matter
     - 02-minimal_supportable_product

@@ -3,6 +3,7 @@ layout: post
 title: "Debunking Myths About AI in the Newsroom"
 date: 2019-11-18
 teaser-img: 2019-11-18-teaser.png
+series: ai-journalism
 toc: true
 ---
 

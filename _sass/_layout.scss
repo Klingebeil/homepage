@@ -1,4 +1,5 @@
 @use '../_sass/_shared.scss' as *;
+@use "sass:color";
 
 body {
 	margin: 0px;
@@ -25,6 +26,16 @@ body {
 
 .shadow-green{@include multi-shadow($green);}
 .shadow-red{@include multi-shadow($red);}
+.shadow-yellow{@include multi-shadow($light-yellow);}
+
+//Background Gradient
+@mixin gradient-bg($gradient-color) {
+  background: linear-gradient(
+    0deg,
+    $gradient-color 50%,
+    color.adjust($gradient-color, $lightness: -5%) 95%
+  );
+}
 
 /* -- BORDERS -- */
 .br {border-right: solid 1px currentColor;}
@@ -109,14 +120,10 @@ body {
 .resp-no-display { @media (max-width: 1024px) {display:none;}}
 
 .drop-shadow {
-	box-shadow: 0px 1px 1px rgba(125, 125, 125, 0.02),
-				0px 5px 4px rgba(125, 125, 125, 0.03),
-				0px 12px 9px rgba(125, 125, 125, 0.05),
-				0px 20px 15px rgba(125, 125, 125, 0.06),
-				0px 32px 24px rgba(125, 125, 125, 0.08);
+	@include multi-shadow($dark-grey);
 }
 
-.hairline {border: .5px solid hsl(0deg 0% 0% / 15%);}
+.hairline {border: .5px solid #{rgba($dark-grey, 0.5)};}
 
 .inline {display: inline-block;}
 
@@ -341,7 +348,8 @@ details[open] > summary {
 
 /* -- BUTTONS -- */
 .button {
-    background-color: $white;
+	background: $white;
+	@include gradient-bg($white);
 	border-radius: 40px;
 	padding: 1px 10px 1px 10px;
     font-size: 0.7em;
@@ -351,11 +359,6 @@ details[open] > summary {
 	display: inline-block !important;
 	cursor: pointer;
 	transition: all 400ms 0ms;
-
-	&:hover {
-		color: $white !important;
-		background-color: $main-txt-color;
-	}
 
 	& a {
 		text-decoration: none !important;
@@ -441,7 +444,8 @@ details[open] > summary {
 }
 
 .wiki-category-button {
-	background-color: $white;
+	background: $white;
+	@include gradient-bg($light-green);
 	border-radius: 10px;
 	color: $green;
 	height: 30vh;
@@ -552,21 +556,12 @@ details[open] > summary {
 /* SERIES LIST */
 
 .series-block {
+	@include gradient-bg($light-yellow);
 	padding: 5px 10px 5px 10px;
-	border: 1px solid;
     margin: 10px 5px 5px 0px;
 	border-radius: 5px;
 	text-align: center;
 	text-decoration: none;
-}
-
-.series-teaser-img {
-	display: inline-block;
-	vertical-align: top;
-	margin-top: 8px;
-	width: 32%;
-	@media (max-width: 1020px) {
-		width: 100%; }
 }
 
 /* COLLECTION */
@@ -672,7 +667,8 @@ details[open] > summary {
 }
 
 .notes {
-	background-color: $light-grey;
+	background: $light-green;
+	@include gradient-bg($light-green);
 	border-radius: 10px;
 	position: relative;
 
@@ -753,11 +749,7 @@ details[open] > summary {
 	justify-items: flex-start;
 
 	& img {
-		box-shadow: 0 1px 1px rgba(0,0,0,0.12), 
-              0 2px 2px rgba(0,0,0,0.12), 
-              0 4px 4px rgba(0,0,0,0.12), 
-              0 8px 8px rgba(0,0,0,0.12),
-              0 16px 16px rgba(0,0,0,0.12);
+		@include multi-shadow($dark-grey);
 		
 		max-height: 250px;
 		margin: 20px 0px 20px 0px;

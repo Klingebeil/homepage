@@ -4,6 +4,7 @@ published: true
 title: How to write better ‘future of media’ scenarios
 subtitle: Drop the smart assistant
 date: 2022-11-18
+series: ai-journalism
 teaser-img: 2022-11-18-teaser.png
 ---
 

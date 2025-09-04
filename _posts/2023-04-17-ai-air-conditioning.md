@@ -5,6 +5,7 @@ title: Why AI may be similar to Air Conditioning
 subtitle: Don‘t sweat it
 date: 2023-04-17
 teaser-img: 2023-04-17-teaser.png
+series: ai-journalism
 linked-notes:
 - ciritcal_ai_reading_list
 - automation

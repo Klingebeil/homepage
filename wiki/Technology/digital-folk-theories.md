@@ -13,15 +13,15 @@ These are narratives and ideas that are used in arguments about new technologies
 
 (So, in that sense this collections of notes is an attempt at pointing out lazy or simplistic thinking in the popular discourse around new technologies.)
 
-- *Killer Apps* (pieces of software with a broad appeal) as the singular reason for the general adoption of a technology (or a lack of a killer app being the reason for failed adoption)
-- The *Gartner Hype Cycle* as a predictive model for technological development and adoption[^2]
+- *Killer Apps* (pieces of software with a broad appeal) as the singular reason for the general adoption of a technology (or a lack of a killer app being the reason for failed adoption).
+- The *Gartner Hype Cycle* as a predictive model for technological development and adoption.[^2]
 - *Generational cohorts* as fixed and unchanging groups of people exhibiting similar behaviour, regardless of age, life stage or material conditions. (Suggested by Falk Ebert)
-- The *technology use of young people* is a reliable indicator for future societal technology use (a good example here is also the myth of the “digital native”[^3])
+- The *technology use of young people* is a reliable indicator for future societal technology use (a good example here is also the myth of the ‘digital native’[^3]).
 - *Early adopter advantage*
 - *First mover advantage*[^4]
-- *Resistance to change* resulting from ignorance alone, not power relations or material conditions[^5]
-- The popular understanding of *disruption* as something inherent to technologies, not certain business strategies
-- The popular notions of *technological revolutions* as clean cycles of technological innovation and adoption
+- *Resistance to change* resulting from ignorance alone, not power relations or material conditions.[^5]
+- The popular understanding of *disruption* as something inherent to technologies, not certain business strategies or management actions.
+- The popular notions of *technological revolutions* as clean cycles of technological innovation and adoption.[^7]
 - The idea of *technological inevitability* or the *pandora's box of technology* in the sense that change through this technology will be inevitable, meaning adoption is imperative and every form of resistance (through laws, regulations or non-adoption) is either naive, misinformed or even dangerous.[^6] (Suggested by Wenzel Mehnert)
 
 [^1]: Arie Rip (2006). ‘Folk Theories of Nanotechnologists’. Science as Culture. Vol. 15, No. 4, 349–365, December 2006.
@@ -30,3 +30,5 @@ These are narratives and ideas that are used in arguments about new technologies
 [^4]: Peter N. Golder, Gerard J. Tellis (1993). ‘Pioneer Advantage: Marketing Logic or Marketing Legend’. Journal of Marketing Research, Vol. 30, No. 2 (May, 1993), pp. 158-170. [http://www.jstor.org/stable/3172825](http://www.jstor.org/stable/3172825)
 [^5]: Jeffrey D. Ford, Laurie W. Ford, D'Amelio (February 06, 2008). ‘Resistance to Change: The Rest of the Story’. Academy of Management Review 2008, Vol. 33, No. 2, 362–377.
 [^6]: L.M. Sacasas (2013). ‘[Borg Complex](https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/)’.
+[^7]: I wrote a short piece [on the notion of ‘revolution’](https://johannesklingebiel.de/2025/08/22/technological-revolution.html), pointing to sources of critiques.
+[^8]: King, A., Baatartogtokh, B. (2015). ‘How useful is the Theory of Disruptive Innovation?’. May 30, 2023. [https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/](https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/)

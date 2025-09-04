@@ -7,6 +7,7 @@ date: 2025-08-22
 teaser-img: 2025-08-22-teaser.svg
 published: true
 toc: false
+series: hype
 linked-notes:
     - chronocentrism
 ---
