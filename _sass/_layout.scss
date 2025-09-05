@@ -1,6 +1,20 @@
 @use '../_sass/_shared.scss' as *;
 @use "sass:color";
 
+:root {
+    --main-txt-color: #{($main-txt-color)};
+    --red: #{$red};
+    --light-red: #{$light-red};
+    --light-grey: #{$light-grey};
+    --dark-grey: #{$dark-grey};
+    --light-yellow: #{$light-yellow};
+    --background: #{$background};
+    --white: #{$white};
+    --green: #{$green};
+    --light-green: #{$light-green};
+    --purple: #{$purple};
+}
+
 body {
 	margin: 0px;
 	background-color: $background;
