@@ -11,7 +11,7 @@ linked-notes:
 
 # On the (in)visbility of AI
 
-![](/img/wiki/ai-visibility.svg)
+{% include img-inline.html path="/wiki/ai-visibility.svg"%}
 
 ---
 
