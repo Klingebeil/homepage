@@ -30,12 +30,20 @@
               <p class="mono-space small color-green"><span class="uppercase">Last updated:</span> {{ page.last-updated }}</p>
             </div>
           {% endif %}
+          <svg width="100%" height="10" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <pattern id="diagonal-lines" patternUnits="userSpaceOnUse" width="7" height="10" patternTransform="rotate(30)">
+                <line x1="0" y1="0" x2="0" y2="10" stroke="var(--green)" stroke-width="2"/>
+                </pattern>
+            </defs>
+            <!-- Background rectangle with the pattern -->
+            <rect width="100%" height="100%" fill="url(#diagonal-lines)" stroke="var(--green)" stroke-width="2"/>
+            <!-- Horizontal line on top -->
+          </svg>
           <!-- Linked Notes based on the include template -->
           {% if page.linked-notes %}
           {% assign notes = page.linked-notes %}
-          <div class="seg-line_dotted color-green">
-            <p class="mono-space small color-green"><span class="uppercase">Linked Notes</span>
-          </div>
+          <p class="mono-space small color-green"><span class="uppercase">Linked Notes</span>
           <div id="allnotes-list">
           {% for note in notes %}
               {% assign link = site.pages | where_exp:"link", "link.path contains note"%}
@@ -48,21 +56,15 @@
           {% endfor %}
         </div>
         {% endif %}
-          <svg width="100%" height="10" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-                <pattern id="diagonal-lines" patternUnits="userSpaceOnUse" width="7" height="10" patternTransform="rotate(30)">
-                <line x1="0" y1="0" x2="0" y2="10" stroke="var(--green)" stroke-width="2"/>
-                </pattern>
-            </defs>
-            <!-- Background rectangle with the pattern -->
-            <rect width="100%" height="100%" fill="url(#diagonal-lines)" stroke="var(--green)" stroke-width="2"/>
-            <!-- Horizontal line on top -->
-            </svg>
         </div>
-        <div class="column-75">
-            <article class="article-wrapper wiki bg-light-green pd-small pd-bt-medium hairline shadow-green" id="contents">
+        <div class="column-50">
+            <article class="article-wrapper full-width wiki bg-light-green pd-small pd-bt-medium hairline shadow-green" id="contents">
               {{ content }}
             </article>
+        </div>
+        <div class="column-25">
+          <div class="seg-line color-green resp-no-display"></div>
+          <!--<p class="mono-space small color-green"><span class="uppercase">Linked Notes</span>-->
         </div>
       </div>
     

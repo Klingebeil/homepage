@@ -44,7 +44,7 @@
     </div>
     <div class="column-75">
       <div id="notes-list" class="flex">
-      {% for item in notes %}
+        {% for item in notes %}
           {% unless item.path contains "index.html" %}
             <a class="notes-link" href="{{ site.baseurl }}{{item.url}}">
               <div class="notes hairline no-decoration card-50 bg-light-green shadow-green color-green">
@@ -60,7 +60,7 @@
               </div>
             </a>
           {% endunless %}
-      {% endfor %}
+        {% endfor %}
       </div>
     </div>
   </div>

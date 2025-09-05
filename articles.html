@@ -47,10 +47,10 @@ title: Articles
     {% assign collection = site.pages | where_exp: "item" , "item.path contains 'series'" | where_exp: "item" , "item.path contains '.md'"  %}
     <div class="flex-list sp-tp-small pd-tp-small">
     {% for item in collection %}
-        <a class="no-decoration card-50" href="{{ site.baseurl }}{{item.url}}">
+        <a class="no-decoration cutout card-30" href="{{ site.baseurl }}{{item.url}}">
             <div class="series-block hairline shadow-yellow paper">
                 <h2>{{item.title}}</h2> 
-                {%if item.subtitle%}<p class="mono-space small uppercase">{{item.subtitle}}</p>{% endif %}
+                {%if item.subtitle%}<p class="pd-small mono-space small uppercase">{{item.subtitle}}</p>{% endif %}
             </div>
         </a>
     {% endfor %}

@@ -231,7 +231,7 @@ li {
 
 /* -- ARTICLE CSS -- */
 
-.article-wrapper, .notes {
+.article-wrapper {
     font-size: 18px;
 	max-width: calc(100% - $side-note-spacing);
 	color: $main-txt-color;
