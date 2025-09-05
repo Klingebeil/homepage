@@ -49,7 +49,6 @@ body {
 
 
 /* -- LAYOUT -- */
-
 .sp-tp-small{margin-top: $spacing-small;}
 .sp-bt-small{margin-bottom: $spacing-small;}
 .sp-tp-medium{margin-top: $spacing-medium;}
@@ -58,6 +57,9 @@ body {
 .sp-bt-large{margin-bottom: $spacing-large;}
 
 .pd-tp-small{padding-top: $spacing-small;}
+.pd-small{padding: $spacing-small;}
+
+.pd-bt-medium{padding-bottom: $spacing-medium;}
 
 .full-width{width: 100% !important; max-width: 100% !important;}
 
@@ -104,6 +106,8 @@ body {
 	box-sizing: border-box;
 	margin-right: 10px;
 }
+
+.sticky{ position: sticky;}
 
 @media (max-width: 960px) {
 	.column-100, .column-75, .column-50, .column-25 {
