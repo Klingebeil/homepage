@@ -1,15 +1,16 @@
+@use "sass:color";
 
 // COLOR VARIABLES
 $main-txt-color: rgba(29, 29, 29, 1);
 $red: rgba(253, 103, 94, 1);
-$light-red: rgba(255, 231, 230, 1);
-$light-grey: rgba(230, 230, 230, 1);
-$dark-grey: rgba(142, 155, 157, 1);
+$light-red: color.scale($red, $lightness: 90%); //rgba(255, 231, 230, 1);
+$light-grey: color.scale($main-txt-color, $lightness: 90%); //rgba(230, 230, 230, 1);
+$dark-grey: color.scale($main-txt-color, $lightness: 40%); //rgba(142, 155, 157, 1);
 $light-yellow: rgba(255, 241, 122, 1);
 $background: rgba(239, 239, 239, 1);
 $white: rgba(255, 255, 255, 1);
-$green: rgba(92, 190, 116, 1);
-$light-green: rgba(237, 248, 239, 1);
+$green: rgb(92, 190, 116);
+$light-green: color.scale($green, $lightness: 90%); //rgba(237, 248, 239, 1);
 $purple: rgba(133, 90, 224, 1);
 
 //TYPOGRAPHY VARIABLES
@@ -25,3 +26,8 @@ $side-note-spacing: 300px;
 $spacing-small: 1rem;
 $spacing-medium: 4rem;
 $spacing-large: 8rem;
+
+// BORDER RADIUS
+$border-radius: 0.5em;
+$border-radius-btn: 4em;
+$border-radius-small: 0.3em;

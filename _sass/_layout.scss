@@ -57,6 +57,8 @@ body {
 .sp-bt-large{margin-bottom: $spacing-large;}
 
 .pd-tp-small{padding-top: $spacing-small;}
+.pd-l-small{padding-left: $spacing-small;}
+.pd-r-small{padding-right: $spacing-small;}
 .pd-small{padding: $spacing-small;}
 
 .pd-bt-medium{padding-bottom: $spacing-medium;}
@@ -148,13 +150,13 @@ img {
 .img-small {
 	width: 20%;
 	margin: 50px auto 50px auto;
-	border-radius: 5px;
+	border-radius: $border-radius-small;
 }
 
 .img-full {
 	margin: 20px 0px 20px 0px;
 	text-align: center;
-	border-radius: 5px;
+	border-radius: $border-radius-small;
 
 	p {margin: 0px !important;}
 }	
@@ -184,7 +186,7 @@ img {
 	a img {
 		width: 100%;
 		display: block;
-		border-radius: 5px;
+		border-radius: $border-radius-small;
 		background-color: $white;
 	}
 
@@ -239,7 +241,7 @@ img {
     display: inline-block;
 	vertical-align: top;
 	margin-top: 8px;
-	border-radius: 10px;
+	border-radius: $border-radius-small;
 	width: 100%;
 }
 
@@ -362,8 +364,8 @@ details[open] > summary {
 /* -- BUTTONS -- */
 .button {
 	background: $white;
-	box-shadow: inset 0 1px 0 0 rgba($white, 0.9), inset 0 8px 4px 0 rgba($dark-grey, 0.1);
-	border-radius: 40px;
+	box-shadow: inset 0 1px 0 0 rgba($white, 0.9), inset 0 4px 4px 0 rgba($dark-grey, 0.1);
+	border-radius: $border-radius-btn;
 	padding: 1px 10px 1px 10px;
     font-size: 0.7em;
 	line-height: 1.5em;
@@ -382,7 +384,7 @@ details[open] > summary {
 	border: 1px solid $light-grey;
 	color: $light-grey !important;
     background-color: $background;
-	border-radius: 40px;
+	border-radius: $border-radius-btn;
 	padding: 1px 10px 1px 10px;
     font-size: $font-small;
     display: inline-block;
@@ -419,7 +421,7 @@ details[open] > summary {
 	background-color: #333;
 	color: white;
 	padding: 10px 20px;
-	border-radius: 4px;
+	border-radius: $border-radius-small;
 	z-index: 1000;
 	opacity: 0;
 	transition: opacity 0.3s ease;
@@ -463,7 +465,7 @@ details[open] > summary {
 .wiki-category-button {
 	background: $white;
 	@include gradient-bg($light-green, 180deg);
-	border-radius: 10px;
+	border-radius: $border-radius;
 	color: $green;
 	height: 30vh;
 	padding: 10px 10px 10px 10px;
@@ -576,7 +578,7 @@ details[open] > summary {
 	@include gradient-bg($light-yellow, 180deg);
 	padding: 5px 10px 5px 10px;
 	height: 30vh;
-	border-radius: 5px;
+	border-radius: $border-radius-small;
 	text-align: center;
 	text-decoration: none;
 }
@@ -596,7 +598,7 @@ details[open] > summary {
 .paper::before,
 .paper::after {
   content: "";
-  border-radius: 0.5em;
+  border-radius: $border-radius;
   position: absolute;
   height: 95%;
   width: 99%;
@@ -622,7 +624,7 @@ details[open] > summary {
 
 .collection-nav {
     border: 1px solid $main-txt-color;
-    border-radius: 0.5em;
+    border-radius: $border-radius;
     margin-top: 50px;
     padding: 10px;
 }
@@ -686,7 +688,7 @@ details[open] > summary {
     background-color: $light-grey;
     border: 1px solid $main-txt-color;
     margin: 0px 15px 15px 0px;
-    border-radius: 5px;
+    border-radius: $border-radius-small;
 	overflow: auto;
 }
 
@@ -723,7 +725,7 @@ details[open] > summary {
 .notes {
 	background: $light-green;
 	@include gradient-bg($light-green, 180deg);
-	border-radius: 10px;
+	border-radius: $border-radius-small;
 	position: relative;
 
 	& img {
@@ -737,20 +739,6 @@ details[open] > summary {
 
 	& h3 {
 		font-size: 1em;
-	}
-
-	& .fadeout {
-		position: absolute;
-		bottom: 0;
-		width: 100%;
-		height: 50%;
-		border-radius: 0px 0px 10px 10px;
-		background: -webkit-linear-gradient(rgba($light-grey, 0%) 0%, $background 90%);
-		background-image: -ms-linear-gradient(rgba($light-grey, 0%) 0%, $background 90%);
-		background-image: linear-gradient(rgba($light-grey, 0%) 0%, $background 90%);
-		background-image: -moz-linear-gradient(rgba($light-grey, 0%) 0%, $background 90%);
-		background-image: -o-linear-gradient(rgba($light-grey, 0%) 0%, $background 90%);
-		pointer-events: none;
 	}
 
 	& .float {

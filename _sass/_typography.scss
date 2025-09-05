@@ -236,7 +236,7 @@ li {
 	max-width: calc(100% - $side-note-spacing);
 	color: $main-txt-color;
 	box-sizing: border-box;
-	border-radius: 1em;
+	border-radius: $border-radius-small;
 
 	p {
 		text-align: justify;
@@ -367,14 +367,13 @@ sup {
 	font-size: $font-small;
 	margin-top: 100px;
 	padding-bottom: 10px;
-	font-family: $mono-space;
 	color: $dark-grey;
 
 	@media (max-device-width: 1020px) {font-size: 0.6em;}
 
 	& ol {
 		counter-reset: list;
-		margin-left: 10%;
+		margin-right: 15%;
 	}
 
 	& ol > li {
@@ -387,6 +386,8 @@ sup {
     	counter-increment: list;
 		color: $red;
 		font-size: 8px;
+
+		font-family: $mono-space;
 		
 		border: 1px solid;
 		border-radius: 3px;
