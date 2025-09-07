@@ -12,6 +12,8 @@ $white: rgba(255, 255, 255, 1);
 $green: rgb(92, 190, 116);
 $light-green: color.scale($green, $lightness: 90%); //rgba(237, 248, 239, 1);
 $purple: rgba(133, 90, 224, 1);
+$blue: rgba(56, 99, 255, 1);
+$light-blue: color.scale($blue, $lightness: 90%);
 
 //TYPOGRAPHY VARIABLES
 $font-small: 0.7em;

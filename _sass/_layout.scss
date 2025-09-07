@@ -42,6 +42,7 @@ body {
 .shadow-green{@include multi-shadow($green);}
 .shadow-red{@include multi-shadow($red);}
 .shadow-yellow{@include multi-shadow($light-yellow);}
+.shadow-blue{@include multi-shadow($blue);}
 
 //Background Gradient
 @mixin gradient-bg($gradient-color, $direction) {
