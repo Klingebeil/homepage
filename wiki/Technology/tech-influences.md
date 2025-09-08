@@ -1,12 +1,12 @@
 ---
 layout: wikicrumb
-title: Tech-Influencers
+title: Tech-Influencers (Towards a Theory)
 first-commit: 2025-09-08
 last-updated: 2025-09-08
 linked-notes:
 - diffusion
 ---
-# Nots on Tech-Influencers / Towards a theory
+# Notes on Tech-Influencers (Towards a theory)
 
 ## Some first observations
 
