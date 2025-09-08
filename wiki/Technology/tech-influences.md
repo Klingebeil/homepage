@@ -5,6 +5,7 @@ first-commit: 2025-09-08
 last-updated: 2025-09-08
 linked-notes:
 - diffusion
+- digital-folk-theories
 ---
 # Notes on Tech-Influencers (Towards a theory)
 
