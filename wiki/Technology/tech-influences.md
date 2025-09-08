@@ -23,7 +23,7 @@ Influencers are more focused on creating a spectacle and brand building by over-
 
 Audiences might even look for this kind of messaging, not necessarily looking for more considered and “messy” real-life experiences, but entertainment, inspiration and the feeling of being “in the known” when it comes to apparent trends.
 
-As [Iris Meredith has argued](deadsimpletech.com/blog/keeping_up_appearances), sharing and following this content can be a way of *performing innovation*—building up your own personal brand—regardless of substance. Influencers enable both themselves and their audiences to look “tech forward” without deep engagement. 
+As [Iris Meredith has argued](https://deadsimpletech.com/blog/keeping_up_appearances), sharing and following this content can be a way of *performing innovation*—building up your own personal brand—regardless of substance. Influencers enable both themselves and their audiences to look “tech forward” without deep engagement. 
 
 The value here lies less in what the technology or commentary does, and more in being seen engaging with it.
 
