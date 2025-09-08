@@ -77,7 +77,46 @@ The *context*, in turn, describes the limits of what is currently possible: all 
 
 These three levels are characterised by their relationship to the power and influence of a project team: while it is often in a position to shape the project on its own, it is dependent on the support of others for making changes to the *infrastructure*, while the *context* is completely outside its sphere of influence.
 
-{% include img-full.html path="2024-04-02-graphic.png" %}
+<svg width="100%" viewBox="0 0 1000 1011" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <defs>
+        <linearGradient x1="50%" y1="28.2943619%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="var(--background)" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="var(--red)" offset="100%"></stop>
+        </linearGradient>
+        <path d="M500,960 C759.021548,960 969,750.021548 969,491 C969,231.978452 759.021548,22 500,22 C240.978452,22 31,231.978452 31,491 C31,750.021548 240.978452,960 500,960 Z" id="path-2"></path>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="938" height="938" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <path d="M500,771 C654.63973,771 780,645.63973 780,491 C780,336.36027 654.63973,211 500,211 C345.36027,211 220,336.36027 220,491 C220,645.63973 345.36027,771 500,771 Z" id="path-4"></path>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="560" height="560" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="influence" fill="url(#linearGradient-1)" transform="translate(154.500000, 491.000000) rotate(-90.000000) translate(-154.500000, -491.000000) " points="154.5 145.5 210.5 836.5 98.5 836.5"></polygon>
+        <circle id="kontext" stroke="var(--main-txt-color)" stroke-width="3" stroke-dasharray="20 15" cx="500" cy="491" r="467.5"></circle>
+        <circle id="infrastructure" stroke="var(--main-txt-color)" stroke-width="3" stroke-dasharray="20 18" cx="500" cy="491" r="278.5">
+        <animateMotion dur="6s" 
+                repeatCount="indefinite" 
+                rotate="360">
+                </animateMotion></circle>
+        <circle id="project" fill="var(--main-txt-color)" stroke-width="3" cx="500" cy="491" r="56"></circle>
+        <path d="M217,422.598963 L217,409.733976 C217,402.554274 222.820298,396.733976 230,396.733976 L487,396.733976 C494.179702,396.733976 500,402.554274 500,409.733976 L500,422.598963 L500,422.598963" id="Path" stroke="var(--red)" stroke-width="2"></path>
+        <text id="Sphere-of-Influence" font-family="mono-space" font-size="20" font-weight="normal" fill="var(--red)">
+            <tspan x="254.425781" y="387">Sphere of Influence</tspan>
+        </text>
+        <text id="Project" font-family="mono-space" font-size="20" font-weight="normal" fill="var(--red)">
+            <tspan x="463.152344" y="576">Project</tspan>
+        </text>
+        <text id="Infrastructure" font-family="mono-space" font-size="20" font-weight="normal" fill="var(--red)">
+            <tspan x="429.806641" y="805">Infrastructure</tspan>
+        </text>
+        <text id="Context" font-family="mono-space" font-size="20" font-weight="normal" fill="var(--red)">
+            <tspan x="459.144531" y="993">Context</tspan>
+        </text>
+    </g>
+</svg>
 
 As noted above, all three levels are interdependent: *projects* can only be implemented within the framework of the *infrastructure* and are in turn limited by the constraints of the *context*.
 
