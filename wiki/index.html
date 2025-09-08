@@ -36,7 +36,6 @@ title: Digital Garden
         {% unless folder contains 'md' or folder contains 'html' %}
             <a class="card-30 wiki-category-button hairline bg-light-green shadow-green" href="/wiki/{{folder}}/">
               <div class="flex" id="wiki-category-button-wrapper">
-                <div class="cutout"></div>
                 <h2 id="category-title">{{folder}}</h2>
                 <p class="mono-space note-count">{{folderCount | size | minus:1}}</p>
               </div>
