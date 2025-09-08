@@ -6,6 +6,7 @@ last-updated: 2025-09-07
 linked-notes:
 - fantasy-of-technology
 - digital-folk-theories
+published: false
 ---
 
 # Adoption of Technology is weird
