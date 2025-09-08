@@ -173,7 +173,7 @@ blockquote:not(.twitter-tweet) {
 
 	//color: $dark-grey;
 	color: color.adjust($main-txt-color, $alpha: -0.5);
-	margin-left: 0px;
+	margin-left: 1em;
 
 	& b, strong {
 		font-family: $serif;
