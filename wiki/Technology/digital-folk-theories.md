@@ -2,7 +2,7 @@
 layout: wikicrumb
 title: Digital Business Folk Theories
 first-commit: 2024-11-28
-last-updated: 2024-12-12
+last-updated: 2025-09-08
 ---
 
 # Digital Business Folk Theories
