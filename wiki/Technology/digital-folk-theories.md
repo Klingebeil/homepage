@@ -20,9 +20,10 @@ These are narratives and ideas that are used in arguments about new technologies
 - *Early adopter advantage*
 - *First mover advantage*[^4]
 - *Resistance to change* resulting from ignorance alone, not power relations or material conditions.[^5]
-- The popular understanding of *disruption* as something inherent to technologies, not certain business strategies or management actions.
+- The popular understanding of *disruption* as something inherent to technologies, not certain business strategies or management actions.[^8]
 - The popular notions of *technological revolutions* as clean cycles of technological innovation and adoption.[^7]
 - The idea of *technological inevitability* or the *pandora's box of technology* in the sense that change through this technology will be inevitable, meaning adoption is imperative and every form of resistance (through laws, regulations or non-adoption) is either naive, misinformed or even dangerous.[^6] (Suggested by Wenzel Mehnert)
+- Innovation requires high rates of failure. (According to U.S. BLS statistics, ~50% startups fail after five years.[^9] New product failure rate is ~40%.[^10])
 
 [^1]: Arie Rip (2006). ‘Folk Theories of Nanotechnologists’. Science as Culture. Vol. 15, No. 4, 349–365, December 2006.
 [^2]: See my notes on the [Gartner Hype Cycle (DE)](http://127.0.0.1:4000/2017/09/11/gartner-hypecycle.html)
@@ -32,3 +33,5 @@ These are narratives and ideas that are used in arguments about new technologies
 [^6]: L.M. Sacasas (2013). ‘[Borg Complex](https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/)’.
 [^7]: I wrote a short piece [on the notion of ‘revolution’](https://johannesklingebiel.de/2025/08/22/technological-revolution.html), pointing to sources of critiques.
 [^8]: King, A., Baatartogtokh, B. (2015). ‘How useful is the Theory of Disruptive Innovation?’. May 30, 2023. [https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/](https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/)
+[^9]: 
+[^10]: Castellion, G. & Markham, S. (2012). ‘New Product Failure Rates — Influence of Argumentum ad Populum and Self-Interest’. J PROD INNOV MANAG 2013;30(5):976–979
