@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="animationPath" d="M24,471 C45.997074,271.635668 66.431884,29 110.1861,29 C159.211604,29 169.230118,411.602318 214.868612,411.602318 C238.276414,411.602318 236.34884,355.625465 320.837376,291.306418 C361.667308,260.223749 411.232208,246.662043 475,251.187189"></path>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <path d="M24,471 C45.997074,271.635668 66.431884,29 110.1861,29 C159.211604,29 169.230118,411.602318 214.868612,411.602318 C238.276414,411.602318 236.34884,355.625465 320.837376,291.306418 C361.667308,260.223749 411.232208,246.662043 475,251.187189" id="Path" stroke="#F2395A" stroke-width="5"></path>
+    </g>
+
+    <!-- Animated circles -->
+    <!-- Circle 1 -->
+    <circle r="0" style="fill:white;stroke:#F2395A;stroke-width:5px;">
+        <animateMotion dur="8s" repeatCount="indefinite" begin="0s">
+            <mpath xlink:href="#animationPath"/>
+        </animateMotion>
+        <animate attributeName="r" values="0;15;15;0" dur="8s" repeatCount="indefinite" begin="0s"/>
+    </circle>
+    
+    <!-- Circle 2 -->
+    <circle r="0" style="fill:white;stroke:#F2395A;stroke-width:5px;">
+        <animateMotion dur="8s" repeatCount="indefinite" begin="1s">
+            <mpath xlink:href="#animationPath"/>
+        </animateMotion>
+        <animate attributeName="r" values="0;15;15;0" dur="8s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+    
+    <!-- Circle 3 -->
+    <circle r="0" style="fill:white;stroke:#F2395A;stroke-width:5px;">
+        <animateMotion dur="8s" repeatCount="indefinite" begin="2s">
+            <mpath xlink:href="#animationPath"/>
+        </animateMotion>
+        <animate attributeName="r" values="0;15;15;0" dur="8s" repeatCount="indefinite" begin="2s"/>
+    </circle>
+    
+    <!-- Circle 4 -->
+    <circle r="0" style="fill:white;stroke:#F2395A;stroke-width:5px;">
+        <animateMotion dur="8s" repeatCount="indefinite" begin="3s">
+            <mpath xlink:href="#animationPath"/>
+        </animateMotion>
+        <animate attributeName="r" values="0;15;15;0" dur="8s" repeatCount="indefinite" begin="3s"/>
+    </circle>
+    
+    <!-- Circle 5 -->
+    <circle r="0" style="fill:white;stroke:#F2395A;stroke-width:5px;">
+        <animateMotion dur="8s" repeatCount="indefinite" begin="4s">
+            <mpath xlink:href="#animationPath"/>
+        </animateMotion>
+        <animate attributeName="r" values="0;15;15;0" dur="8s" repeatCount="indefinite" begin="4s"/>
+    </circle>
+    
+    <!-- Circle 6 -->
+    <circle r="0" style="fill:white;stroke:#F2395A;stroke-width:5px;">
+        <animateMotion dur="8s" repeatCount="indefinite" begin="5s">
+            <mpath xlink:href="#animationPath"/>
+        </animateMotion>
+        <animate attributeName="r" values="0;15;15;0" dur="8s" repeatCount="indefinite" begin="5s"/>
+    </circle>
+</svg>
