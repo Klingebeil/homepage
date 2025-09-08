@@ -20,9 +20,9 @@ These are narratives and ideas that are used in arguments about new technologies
 - *Early adopter advantage*
 - *First mover advantage*[^4]
 - *Resistance to change* resulting from ignorance alone, not power relations or material conditions.[^5]
-- The popular understanding of *disruption* as something inherent to technologies, not certain business strategies or management actions.[^8]
+- The popular understanding of *disruption* as something inherent to technologies, not certain business strategies or management actions.[^6]
 - The popular notions of *technological revolutions* as clean cycles of technological innovation and adoption.[^7]
-- The idea of *technological inevitability* or the *pandora's box of technology* in the sense that change through this technology will be inevitable, meaning adoption is imperative and every form of resistance (through laws, regulations or non-adoption) is either naive, misinformed or even dangerous.[^6] (Suggested by Wenzel Mehnert)
+- The idea of *technological inevitability* or the *pandora's box of technology* in the sense that change through this technology will be inevitable, meaning adoption is imperative and every form of resistance (through laws, regulations or non-adoption) is either naive, misinformed or even dangerous.[^8] (Suggested by Wenzel Mehnert)
 - Innovation requires high rates of failure. (According to U.S. BLS statistics, ~50% startups fail after five years.[^9] New product failure rate is ~40%.[^10])
 
 [^1]: Arie Rip (2006). ‘Folk Theories of Nanotechnologists’. Science as Culture. Vol. 15, No. 4, 349–365, December 2006.
@@ -30,8 +30,8 @@ These are narratives and ideas that are used in arguments about new technologies
 [^3]: Enyon, R. (2020). ‘[The myth of the digital native: Why it persists and the harm it inflicts](https://www.oecd-ilibrary.org/education/education-in-the-digital-age_2dac420b-en)’. Education in the Digital Age.
 [^4]: Peter N. Golder, Gerard J. Tellis (1993). ‘Pioneer Advantage: Marketing Logic or Marketing Legend’. Journal of Marketing Research, Vol. 30, No. 2 (May, 1993), pp. 158-170. [http://www.jstor.org/stable/3172825](http://www.jstor.org/stable/3172825)
 [^5]: Jeffrey D. Ford, Laurie W. Ford, D'Amelio (February 06, 2008). ‘Resistance to Change: The Rest of the Story’. Academy of Management Review 2008, Vol. 33, No. 2, 362–377.
-[^6]: L.M. Sacasas (2013). ‘[Borg Complex](https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/)’.
+[^6]: King, A., Baatartogtokh, B. (2015). ‘How useful is the Theory of Disruptive Innovation?’. May 30, 2023. [https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/](https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/)
 [^7]: I wrote a short piece [on the notion of ‘revolution’](https://johannesklingebiel.de/2025/08/22/technological-revolution.html), pointing to sources of critiques.
-[^8]: King, A., Baatartogtokh, B. (2015). ‘How useful is the Theory of Disruptive Innovation?’. May 30, 2023. [https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/](https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/)
+[^8]: L.M. Sacasas (2013). ‘[Borg Complex](https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/)’.
 [^9]: 
 [^10]: Castellion, G. & Markham, S. (2012). ‘New Product Failure Rates — Influence of Argumentum ad Populum and Self-Interest’. J PROD INNOV MANAG 2013;30(5):976–979
