@@ -107,7 +107,7 @@ linked-notes:
     <p>A handy tool to check how likely hyped-up claims might be encountered in your current environment.</p>
     <div class="category">
         <h2>Epistemic Infrastructure</h2>        
-        <div class="factor">
+        <div class="factor hairline">
             <div class="factor-header">
                 <h3 class="factor-name">How easily are the claims quantifiable?</h3>
             </div>
@@ -120,7 +120,7 @@ linked-notes:
             </div>
             <div class="examples">Processor speed improvements vs. AI consciousness</div>
         </div>         
-        <div class="factor">
+        <div class="factor hairline">
             <div class="factor-header">
                 <h3 class="factor-name">How distant are the predictions made?</h3>
             </div>
@@ -133,7 +133,7 @@ linked-notes:
             </div>
             <div class="examples">Next week's weather vs. Climate predictions for 2100</div>
         </div>      
-        <div class="factor">
+        <div class="factor hairline">
             <div class="factor-header">
                 <h3 class="factor-name">How many fields or disciplines are involved?</h3>
             </div>
@@ -149,7 +149,7 @@ linked-notes:
     </div>
     <div class="category">
         <h2 class="category-title">Social & Institutional</h2>
-        <div class="factor">
+        <div class="factor hairline">
             <div class="factor-header">
                 <h3 class="factor-name">Who is the audience?</h3>
             </div>
@@ -162,7 +162,7 @@ linked-notes:
             </div>
             <div class="examples">Peer review panels vs. TED talks</div>
         </div>
-        <div class="factor">
+        <div class="factor hairline">
             <div class="factor-header">
                 <h3 class="factor-name">What are people rewarded for?</h3>
             </div>
@@ -173,9 +173,9 @@ linked-notes:
                     <span class="more-permissive">Rewards for bold predictions</span>
                 </div>
             </div>
-            <div class="examples">;edical device approval vs. Venture capital pitches</div>
+            <div class="examples">Medical device approval vs. Venture capital pitches</div>
         </div>
-        <div class="factor">
+        <div class="factor hairline">
             <div class="factor-header">
                 <h3 class="factor-name">How quickly does information spread?</h3>
             </div>
@@ -191,7 +191,7 @@ linked-notes:
     </div>
     <div class="category">
         <h2 class="category-title">Rhetorical & Cultural</h2>
-        <div class="factor">
+        <div class="factor hairline">
             <div class="factor-header">
                 <h3 class="factor-name">How novel are the claims made?</h3>
             </div>
@@ -204,7 +204,7 @@ linked-notes:
             </div>
             <div class="examples">Quantum computing vs. "AI is like a brain"</div>
         </div>
-        <div class="factor">
+        <div class="factor hairline">
             <div class="factor-header">
                 <h3 class="factor-name">Does the speaker align with common beliefs?</h3>
             </div>
@@ -217,7 +217,7 @@ linked-notes:
             </div>
             <div class="examples">Anti-progress sentiments vs. Technological salvation</div>
         </div>
-        <div class="factor">
+        <div class="factor hairline">
             <div class="factor-header">
                 <h3 class="factor-name">Does the speaker borrow credibility from famous sources?</h3>
             </div>
