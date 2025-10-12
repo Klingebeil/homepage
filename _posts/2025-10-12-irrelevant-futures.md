@@ -22,7 +22,7 @@ In early September, I had the chance to attend the first [*Hype Studies* confere
 
 One obvious strategy, of course, is to question the content of such a vision. For example, to work out in detail why Zuckerberg’s idea is obviously nonsense, how real technology use is way more nuanced, and so on. It’s not an ineffective strategy — and I’ve done that many times, and will keep doing it — but it still takes the vision itself seriously.
 
-But the Valley doesn’t actually have a consistent vision. It just needs the next bet. Yesterday it was Web3, today it’s AI, tomorrow it’ll be something else. The fact that these visions are interchangeable doesn’t make them harmless—it makes them more dangerous. Part of the Valley’s so-called “failure culture” is that wrong predictions carry no professional consequences. On the contrary, wild speculation and futurity [are an integral part of the valley’s culture](https://www.sciencedirect.com/science/article/pii/S0883902624000776?via%3Dihub).
+But the Valley doesn’t actually have a consistent vision. It just needs the next bet. Yesterday it was Web3, today it’s AI, tomorrow it’ll be something else. The fact that these visions are interchangeable doesn’t make them harmless — it makes them more dangerous. Part of the Valley’s so-called “failure culture” is that wrong predictions carry no professional consequences. On the contrary, wild speculation and futurity [are an integral part of the valley’s culture](https://www.sciencedirect.com/science/article/pii/S0883902624000776?via%3Dihub).
 
 So if these people don’t even believe their own statements—why should we?
 
@@ -30,6 +30,6 @@ What if we just ignored the content of that rhetoric altogether? Instead of taki
 
 Maybe the real task isn’t to paint better alternative pictures of the future — but to make clearer what kind of present those pictures are already creating. What matters are the shifts in capital, power, and attention that these statements set in motion—not their content. The real question is: are we brave enough not to take Silicon Valley at its word, but at its effects?
 
-This text first appeard in [my german newsletter](https://klingebeil.substack.com/p/was-wenn-die-zukunft-irrelevant-ist).
+This text first appeard in [my german newsletter](https://klingebeil.substack.com/p/was-wenn-die-zukunft-irrelevant-ist). All em-dashes were typed by hand.
 {:.small}
 
