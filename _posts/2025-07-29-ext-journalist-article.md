@@ -1,5 +1,5 @@
 ---
-layout: post-ext
+layout: default
 language: de
 title: "Die Jagd nach dem neuesten KI-Gadget hilft uns nicht weiter"
 subtitle:
