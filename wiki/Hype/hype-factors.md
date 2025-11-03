@@ -6,6 +6,7 @@ last-updated: 2025-09-15
 linked-notes:
 - permissive-uncertainty
 - 02-sociology-of-expectations
+published: false
 ---
 
 <head>
