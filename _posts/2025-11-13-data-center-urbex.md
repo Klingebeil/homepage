@@ -124,7 +124,7 @@ And when energy prices spiked in '32,the private asset market collapsed, and the
 
 <p class="mono-space small">Camera pans again over the office, looking out of the window onto an orange-streaked sky.</p>
 
-<p><span class="mono-space small">TRANSCRIPT:</span> So that's DataVault-7. A monument to irrational exuberance, haha. Somewhere in here, there are probably still SSDs with data for models nobody uses anymore. Dreams in silicon and copper, now just… rust and dust. Like a time capsule.</p>
+<p><span class="mono-space small">TRANSCRIPT:</span> So that's DataVault-7. A monument to irrational exuberance, haha. Somewhere in here, there are probably still SSDs with data for models nobody uses anymore. Dreams in silicon and copper, now just… rust and dust.</p>
 
 <p class="mono-space small">Blows over the thick dust collected on a monitor.</p>
 
