@@ -17,17 +17,17 @@ linked-notes:
   0px 15px 24px rgba(0, 110, 129, 0.08);
 ">
     ✦✧
-<p class="mono-space small">[0:00] Camera turns on, showing a graffiti-tagged chain-link fence. Dawn light filters through fog.</p>
+<p class="mono-space small">[0:00] Camera turns on, showing a graffiti-tagged chain-link fence in the light of a flashlight. Dawn is visible on the horizon.</p>
 
 <p><span class="mono-space small">TRANSCRIPT:</span> Alright, we're here. This is DataVault-7, one of the mega-facilities that powered the AI boom. Cost something like 8 billion dollars to build back in 2027. Been abandoned for… what, three years now? Since the crash.</p>
 
-<p class="mono-space small">Camera pans across a massive brutalist concrete structure, windows dark, parking lot overgrown with weeds.</p>
+<p class="mono-space small">The camera pans across a massive concrete structure, windows dark, parking lot overgrown with weeds.</p>
 
 <p><span class="mono-space small">TRANSCRIPT:</span> Let's see if we can get inside. Fucking hell, this is massive.</p>
 
 <hr>
 
-<p class="mono-space small">[2:15] Camera shakes as explorer climbs through a broken loading dock door. Interior is dim, emergency lights still faintly glowing red.</p>
+<p class="mono-space small">[2:15] Camera shakes as the operator climbs through a broken loading dock door. The interior is dim, emergency lights still faintly glowing red.</p>
 
 <p><span class="mono-space small">TRANSCRIPT:</span> Jesus. Okay, we're in. You can still hear the hum. Some of the backup systems are still running on solar… I think?. Just... concrete and pallets. <span class="mono-space small">[kicks at debris]</span> Some old packaging materials. Cable spools.</p>
 
@@ -65,7 +65,7 @@ linked-notes:
 
 <p><span class="mono-space small">TRANSCRIPT:</span> And... <span class="mono-space small">[pause]</span> ...yeah. Here's where the money went.</p>
 
-<p class="mono-space small">Camera reveals rows upon rows of server racks stretching into darkness, some lonely LEDs blinking randomly like dying stars.</p>
+<p class="mono-space small">Camera reveals rows upon rows of server racks stretching into darkness, some lonely LEDs blinking randomly like dying stars. The black towers recede into shadow, a mechanical cathedral built for silicon prophets who never came.</p>
 
 <p><span class="mono-space small">TRANSCRIPT:</span> This place used to run 24/7. Hundreds of petaflops of computing power. They said it was training the models that would "change everything." <span class="mono-space small">[bitter laugh]</span> Yeah, well. Now, you're content.</p>
 
@@ -99,7 +99,7 @@ linked-notes:
 
 <p><span class="mono-space small">TRANSCRIPT:</span> Okay, this is impressive. This is where they tried to keep everything from melting.</p>
 
-<p class="mono-space small">Camera pans across industrial chillers, cooling towers, massive pipes labeled with flow directions.</p>
+<p class="mono-space small">Camera pans across industrial chillers, cooling towers, massive pipes labeled with flow directions. Steel arteries that once pumped rivers of coolant now stand still and cold, their purpose extinct.</p>
 
 <p><span class="mono-space small">TRANSCRIPT:</span> These facilities used as much power as a small city. The environmental cost... <span class="mono-space small">[shakes head]</span> Just the cooling alone.
 And when energy prices spiked in '32,the private asset market collapsed, and the promised "AI revolution" didn't materialize, investors just... pulled out. Overnight. Places like this went from billions in valuation to bankruptcy in months. The math never mathed, but the PowerPoints were gorgeous.</p>
@@ -122,7 +122,7 @@ And when energy prices spiked in '32,the private asset market collapsed, and the
 
 <p><span class="mono-space small">TRANSCRIPT:</span> They were burning through money so fast. Cooling costs alone were astronomical. And for what? Chatbots that couldn't turn a profit.</p>
 
-<p class="mono-space small">Camera pans again over the office, looking out of the window onto an orange-streaked sky.</p>
+<p class="mono-space small">Camera pans again over the office, looking out of the window onto an orange-streaked sky. Dawn breaks over the parking lot's cracked asphalt and wild grass, gilding the ruins with indifferent beauty.</p>
 
 <p><span class="mono-space small">TRANSCRIPT:</span> So that's DataVault-7. A monument to irrational exuberance, haha. Somewhere in here, there are probably still SSDs with data for models nobody uses anymore. Dreams in silicon and copper, now just… rust and dust.</p>
 
