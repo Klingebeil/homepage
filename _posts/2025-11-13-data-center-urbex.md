@@ -17,7 +17,7 @@ linked-notes:
   0px 15px 24px rgba(0, 110, 129, 0.08);
 ">
     ✦✧
-<p class="mono-space small">[0:00] Camera turns on, showing a graffiti-tagged chain-link fence in the light of a flashlight. Dawn is visible on the horizon.</p>
+<p class="mono-space small">[0:00] Camera turns on, showing a rusted chain-link fence in the light of a flashlight. Dawn is visible on the horizon.</p>
 
 <p><span class="mono-space small">TRANSCRIPT:</span> Alright, we're here. This is DataVault-7, one of the mega-facilities that powered the AI boom. Cost something like 8 billion dollars to build back in 2027. Been abandoned for… what, three years now? Since the crash.</p>
 
