@@ -6,7 +6,7 @@ last-updated: 2025-12-01
 linked-notes:
 
 ---
-# Tech-Nihilism
+# Techno-Nihilism
 
 **Techno-nihilism** views technological change as lacking inherent purpose or direction.  
 
