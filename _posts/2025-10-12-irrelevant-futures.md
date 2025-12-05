@@ -16,9 +16,9 @@ A couple of weeks ago, Mark Zuckerberg showed off a new iteration of *Meta*’s 
 
 What I do want to talk about is something Zuckerberg [said in an interview with *CNN*](https://edition.cnn.com/2025/09/15/tech/meta-future-ai-smart-glasses?Date=20250915&Profile=CNN): the idea that non-users might one day have “significant cognitive disadvantages.” 
 
-Talking about your own products like that is standard Silicon Valley marketing. It’s as unsurprising as it is effective. You take your product, speculate about its inevitable future, sprinkle in a bit of existential anxiety — and voilà, bon appétit. (You can see the same pattern across almost every tech company, especially OpenAI and Anthropic.)
+Talking about your own products like that is standard Silicon Valley marketing. It’s as unsurprising as it is effective. You take your product, speculate about its inevitable future, sprinkle in a bit of existential anxiety — et voilà, bon appétit. (You can see the same pattern across almost every tech company, especially OpenAI and Anthropic.)
 
-In early September, I had the chance to attend the first [*Hype Studies* conference](https://hypestudies.org/) in Barcelona. One of the many topics discussed was how to better deal with this kind of marketing rhetoric — specifically, whether we should even engage with these visions of the future, or whether the futures they sketch are simply irrelevant.
+In early September, I had the chance to attend the first [*Hype Studies* conference](https://hypestudies.org/) in Barcelona. One of the many topics discussed was how to better deal with this kind of marketing rhetoric. Specifically, whether we should even engage with these visions of the future, or whether the futures they sketch are simply irrelevant.
 
 One obvious strategy, of course, is to question the content of such a vision. For example, to work out in detail why Zuckerberg’s idea is obviously nonsense, how real technology use is way more nuanced, and so on. It’s not an ineffective strategy — and I’ve done that many times, and will keep doing it — but it still takes the vision itself seriously.
 
@@ -28,7 +28,7 @@ So if these people don’t even believe their own statements—why should we?
 
 What if we just ignored the content of that rhetoric altogether? Instead of taking Zuckerberg seriously, we could focus purely on the effects of what he says: Does he move stock prices? Where does investment flow? Does he manage to shape political influence? Are other companies moving in similar directions? If we treat Zuckerberg’s words as future forecasts, we’re playing the game he wants us to play. But if we only track their effects, we take away his control over the narrative.
 
-Maybe the real task isn’t to paint better alternative pictures of the future — but to make clearer what kind of present those pictures are already creating. What matters are the shifts in capital, power, and attention that these statements set in motion—not their content. The real question is: are we brave enough not to take Silicon Valley at its word, but at its effects?
+Maybe the real task isn’t to paint better alternative pictures of the future, but to make clearer what kind of present those pictures are already creating. What matters are the shifts in capital, power, and attention that these statements set in motion—not their content. The real question is: are we brave enough not to take Silicon Valley at its word, but at its effects?
 
 This text first appeard in [my german newsletter](https://klingebeil.substack.com/p/was-wenn-die-zukunft-irrelevant-ist). All em-dashes were typed by hand.
 {:.small}
