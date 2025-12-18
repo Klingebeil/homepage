@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ext
 language: en
 title: "We all grow hooves"
 subtitle:
