@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang={% if page.language %}"{{page.language}}"{% else %}"eng"{% endif %}>
+<html lang={% if page.language %}"{{page.language}}"{% else %}"en"{% endif %}>
 <head>
     {% include default_head.html %}
     {% include post_head.html %}
@@ -45,22 +45,29 @@
         <div class="column-75">
             <div class="seg-line uppercase mono-space resp-no-display">
             </div>
-            <div class="article-wrapper" role="article">
+            <article class="article-wrapper" role="article">
                 
                 {% if page.teaser-img %}
-                    {% include img-small.html path=page.teaser-img  alt=""%}
+                    {% include img-small.html path=page.teaser-img  alt="{{ page.title }}"%}
                 {% endif %}
     
                 <h1 id="post-title">{{ page.title }}</h1>
                 {% if page.subtitle %}
                     <p id="post-subtitle" class="centered italics">{{ page.subtitle }}</p>
                 {% endif %}
+                
+                <!-- Hidden structured metadata for SEO -->
+                <div class="article-meta" style="display: none;">
+                    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+                    <span>{% assign words = content | number_of_words %}{{ words | divided_by:180 }} min read</span>
+                </div>
+                
                 {{ content }}
                 {% if page.linked-notes %}
-                    <div class="seg-line color-green mono-space small uppercase sp-tp-medium sp-bt-small"><h1 class="small left">Linked Notes</h1></div>
+                    <div class="seg-line color-green mono-space small uppercase sp-tp-medium sp-bt-small"><h2 class="small left">Linked Notes</h2></div>
                     {% include linked-notes.html %}
                 {% endif %}
-            </div>
+            </article>
         </div>
         <!--<div class="column-25">
             <div class="seg-line resp-no-display"></div>
