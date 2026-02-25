@@ -6,6 +6,7 @@ subtitle: "Lessons from 14 years of Niemanlab predictions"
 date: 2026-01-07
 teaser-img: 2026-01-07-teaser.svg
 published: true
+series: ai-journalism
 toc: true
 linked-notes:
 ---
