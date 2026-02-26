@@ -2,7 +2,7 @@
 layout: wikicrumb
 title: Tech-Influencers (Towards a Theory)
 first-commit: 2025-09-08
-last-updated: 2025-09-08
+last-updated: 2026-02-26
 linked-notes:
 - diffusion
 - digital-folk-theories
@@ -29,31 +29,34 @@ The value here lies less in what the technology or commentary does, and more in 
 
 ---
 
+## The speculative gestus
+
+There‘s a genre of articles and LinkedIn posts that share a couple of peculiarities:
+
+- They are based on the first hand experience of the authors and anecdotal data (e.g. *AI* usage)
+- This experience is then used to question broader societal norms/forces/institutions in an absolute (e.g. “will *AI* make branding obsolete?”; "will *AI agents* displace news websites?“)
+- These texts are then widely shared within their professional networks with remarkably limited critical engagements, instead often people further riffing on these ideas
+
+This is a first rough sketch of my reading of these kinds of articles and what is—not exactly *wrong*—but clearly missing and how to read them:
+
+- **Capabilities and affordances**: These texts generally take the *capabilities*—what a technology can do—and loosely extrapolate from it to a big-picture future vision. There are two interlocking problems with this move. First, capabilities are implicitly treated as universal properties of the technology—stable, context-independent, available to anyone. This makes personal use then feel like legitimate evidence. Second, and more fundamentally, it forecloses the more important question before it's even asked. A better and more grounded starting point would be understanding the *affordances* of a technology: what does it enable, for whom, under which conditions? *Affordances* are relational: they only exist in the interaction between a technology and a specific user with specific skills, contexts, expectations, infrastructures, and social situations. Which means their own use tells you almost nothing about what the technology affords for someone else.
+- **Positionality**: Building on the above, these texts can thus be read as a meta-commentary. *Early adopters* are, almost by definition, people for whom new technology is highly affordable in the full sense — they have the time, literacy, professional context, and social permission to experiment. So they encounter genuine capabilities that others won't encounter, at least not in the same way. Their experience is systematically unrepresentative precisely because they‘re good at using things. And then that experience gets narrated as foresight rather than privilege.
+
+What gets collapsed in these texts is a distinction between two genuinely different kinds of claim: description of a niche present (this is what this technology affords for people with my specific context, right now) and foresight (this is what is coming for society). The early adopter‘s account is often reasonably accurate as the former while being systematically misleading as the latter—not because it is fabricated, but because it mistakes a category of claim.
+
 ## Unresolved Questions
 
-**Framework**
-- How useful is Rogers’ “opinion leader” framework for understanding today’s media environment?
-- What are the consequences of trying to retrofit mid-20th-century diffusion theory to a 21st-century influencer economy?
-- Could some influencers still qualify as opinion leaders if they emerge from within specific communities (e.g. niche developer circles)?
+**The Capabilities/Affordances Confusion**
+- How do we distinguish between what a technology *can do* versus what it *enables* for different users in different contexts?
+- What are the systematic ways that early adopter privilege gets mistaken for technological foresight?
+- How might we develop better frameworks for translating niche present experiences into broader societal predictions?
 
-**‌Influencer Practices and Strategies**
-- To what extent does surface-level engagement still produce real influence over adoption or investment decisions?
-- How do influencers balance (or fail to balance) credibility with spectacle?
-- Does being “external” give them more freedom—or simply less accountability?
-- What rhetorical strategies do influencers use to transform technical developments into spectacle?
-- Is spectacle inherently misleading, or can it sometimes be a productive form of popularization?
-- How does the pressure of personal brand maintenance shape what gets said (or left unsaid)?
+**Spectacle vs. Substance**
+- What rhetorical strategies transform technical developments into spectacle, and when does this serve versus mislead audiences?
+- How do influencers and audiences negotiate the tension between entertainment value and informational accuracy?
+- What does "hype laundering" look like in practice within influencer networks?
 
-**‌Networks and Information Flows**
-- How do these networks of influencers amplify each other?
-- What does “laundering” hype look like in practice, and how does it differ from traditional PR?
-- Can influencers meaningfully critique each other, or does the system incentivize mutual reinforcement?
-- How do visibility and signaling override utility in the economy of influence?
-
-**Audience Motivations and Behaviors**
-- What motivates audiences to prefer spectacle over grounded testimony?
-- Are there identifiable audience segments that still want the “messy” accounts of real use?
-- How does the feeling of being “in the know” interact with actual adoption behavior?
-- To what extent is “performing innovation” more important than actually innovating?
-- How does this performance play out differently for influencers versus ordinary audience members?
-- What are the social rewards (or risks) of appearing “tech forward” without substantive expertise?
+**Performance of Innovation**
+- How do the social rewards of "appearing tech forward" shape both influencer content and audience behavior?
+- What's the relationship between performing innovation and actually engaging with technology substantively?
+- How do different professional contexts make "innovation performance" more or less valuable?
