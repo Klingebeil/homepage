@@ -41,7 +41,7 @@ title: Johannes Klingebiel
     <div class="article-list">
         {% for post in site.posts limit:8 %}
           {% if post.external-link %}
-            <a href="{{ post.external-link }}" target="_blank" title="{{ post.title }}"><sup class="color-dark-gray">EXT</sup><h2> {{ post.title }}{% unless forloop.last %}, {% endunless %}</h2></a>
+            <a href="{{ post.external-link }}?utm_source=johannesklingebiel.de" target="_blank" title="{{ post.title }}"><sup class="color-dark-gray">EXT</sup><h2> {{ post.title }}{% unless forloop.last %}, {% endunless %}</h2></a>
           {% else %}
             <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }}{% unless forloop.last %}, {% endunless %}</h2></a>
           {% endif %}
