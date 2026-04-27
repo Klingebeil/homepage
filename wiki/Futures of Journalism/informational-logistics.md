@@ -12,15 +12,13 @@ linked-notes:
 
 Over the last months, I‘ve observed an idea growing inside some AI-deterministic journalism circles, which I will call *informational logistics* for now.
 
-The general idea here is to reshape journalism systemically around the affordances of LLM platforms like *OpenAI*, *Google*, *Perplexity* & Co.
+The general idea here is to reshape journalism systemically and radically around the affordances of LLM platforms like *OpenAI*, *Google*, *Perplexity* & Co.
 
-This isn't merely technological adaptation or a neutral analysis by its proponents. It represents a categorical shift from journalism as *meaning-making* to journalism as *supply chain management*: treating information as raw material to be processed, packaged, and delivered through algorithmic pipelines.
+This goes way beyond simple tool-like technological adaptation. It represents a categorical shift from journalism as *meaning-making* to journalism as *supply chain management*: treating information as raw material to be processed, packaged, and delivered through algorithmic pipelines. *Informational logistics* redefines journalism‘s core function. 
 
-*Informational logistics* redefines journalism's core function. Instead of producing meaning through editorial judgment, context, and democratic accountability, it prioritises delivery efficiency and third-party algorithmic compatibility. This shift serves the commercial interests of tech platforms while marginalising journalism‘s essential democratic functions—and concentrating unprecedented control over information flow in the hands of a few powerful corporations.
+Instead of producing meaning through editorial judgment, context, and democratic accountability, it prioritises delivery efficiency and third-party algorithmic compatibility. This shift serves the commercial interests of tech platforms while marginalising journalism‘s essential democratic functions—and concentrating control over information flow in the hands of algorithms and by exention a few powerful corporations
 
-Under this paradigm, newsrooms become nodes in a vast information supply chain, optimised for machine-mediated consumption. 
-
-**The implications extend far beyond business models: when journalism is restructured around algorithmic requirements, it fundamentally alters what kinds of stories get told, how they're framed, and who ultimately controls the narrative.**
+Under this paradigm, newsrooms become nodes in a vast information supply chain, optimised for machine-mediated consumption.
 
 ---
 
