@@ -27,7 +27,7 @@ I was asked to contribute two hands-on sessions with concrete strategies in repo
 
 The course was officially launched at the [*International Journalism Festival*](https://www.journalismfestival.com/programme/2026/hype-literacy-reporting-on-ai-beyond-the-buzz) in Perugia, Italy, in April 2026.
 
-{% include youtube-embed.html id="https://www.youtube.com/watch?v=PeWOEIp7ZsM&t=10s" %}
+{% include youtube-embed.html id="https://www.youtube.com/embed/PeWOEIp7ZsM?si=pNB4VE7XA_E8yySE" %}
 
 ### Project Overview
 
