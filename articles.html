@@ -21,22 +21,32 @@ title: Articles
     <div class="seg-line resp-no-display"></div>
   </div>
   <div class="column-50">
-    {% for post in site.posts %}
-    {% assign currentdate = post.date | date: "%Y" %}
-    {% if currentdate != date %}
-      {% unless forloop.first %}</div>{% endunless %}
+    {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+    {% for year_group in posts_by_year %}
       <div class="seg-line">
-        <div class="seg-element br mono-space uppercase project-year small" id="y{{post.date | date: "%Y" }}">{{ currentdate }}</div></div>
+        <div class="seg-element br mono-space uppercase project-year small" id="y{{ year_group.name }}">
+          {{ year_group.name }}
+        </div>
+        <div class="seg-element br mono-space uppercase small">{{ year_group.size }} article{% if year_group.size != 1 %}s{% endif %}</div>
+      </div>
+
       <div class="article-list">
-      {% assign date = currentdate %}
-    {% endif %}
-      {% if post.external-link %}
-        <a href="{{ post.external-link }}" target="_blank" title="{{ post.title }}"><sup class="color-dark-gray">EXT</sup><h2> {{ post.title }}{% unless forloop.last %}, {% endunless %}</h2></a>
-      {% else %}
-        <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"><img src="{{site.baseurl}}/img/{{ post.teaser-img }}"><h2>{{ post.title }}{% unless forloop.last %}, {% endunless %}</h2></a>
-      {% endif %}
-    {% if forloop.last %}</div>{% endif %}
-  {% endfor %}
+        {% for post in year_group.items %}
+          {% if post.external-link %}
+            <a href="{{ post.external-link }}" target="_blank" title="{{ post.title }}">
+              <sup class="color-dark-gray">EXT</sup>
+              <h2>{{ post.title }}{% unless forloop.last %}, {% endunless %}</h2>
+            </a>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+              <img src="{{ site.baseurl }}/img/{{ post.teaser-img }}">
+              <h2>{{ post.title }}{% unless forloop.last %}, {% endunless %}</h2>
+            </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endfor %}
 
   <div class="seg-line">
     <div class="seg-element br mono-space uppercase project-year small">Series</div>
