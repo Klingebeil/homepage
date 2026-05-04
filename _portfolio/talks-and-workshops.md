@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: Talks & Workshops
-date: 2025-08-07
+date: 2026-12-31
 category: Talks
 teaser-img: "portfolio/talks-and-workshops/teaser-me.jpg"
 summary: "I enjoy giving talks at conferences, companies or universities. Here‘s a list of topics and how I approach them."
