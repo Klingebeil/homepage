@@ -7,9 +7,11 @@ teaser-img: portfolio/hype-literacy-course/hype-literacy-course-teaser.png
 summary: "An online course to teach media professionals how to deal with hype and hype cycles in the media industry."
 published: true
 toc: true
+meta-data: 
+    client: "Deutsche Welle Akademie"
+    project-lead: "Steffen Seidl (DW Akademie)"
+    project-team: "Jascha Bareis, Andreu Belsunces Gonçal, Johannes Klingebiel"
 ---
-
-# Hype Literacy Toolkit
 
 At the end of 2025 I was approached by the [*Hype Studies Group*](https://hypestudies.org/) to contribute to a “Hype Literace Toolkit”, an online course to teach media professionals how to deal with hype and hype cycles in the media industry. The project was funded by the *DW Akademie*.
 
@@ -28,11 +30,3 @@ I was asked to contribute two hands-on sessions with concrete strategies in repo
 The course was officially launched at the [*International Journalism Festival*](https://www.journalismfestival.com/programme/2026/hype-literacy-reporting-on-ai-beyond-the-buzz) in Perugia, Italy, in April 2026.
 
 {% include youtube-embed.html id="https://www.youtube.com/embed/PeWOEIp7ZsM?si=pNB4VE7XA_E8yySE" %}
-
-### Project Overview
-
-| Role          | Who                                                           |
-| ------------ | -------------------------------------------------------------- |
-| *Client*     | DW Akademie                                                    |
-| *Project Lead*| Steffen Seidl (DW Akademie)                                    |
-| *Project Team* | Jascha Bareis<br>Andreu Belsunces Gonçalves<br>Johannes Klingebiel |

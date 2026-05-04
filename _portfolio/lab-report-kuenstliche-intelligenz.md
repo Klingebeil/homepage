@@ -7,11 +7,13 @@ teaser-img: portfolio/lab-report-ki/teaser-img.png
 summary: "A report on AI startups in journalism for the Media Lab Bayern."
 published: true
 toc: false
+meta-data: 
+    client: "Media Lab Bayern"
+    project-lead: "Johannes Klingebiel"
+    project-team: "Christian Simon, Johannes Klingebiel"
 ---
 
 {% include img-full.html path="portfolio/lab-report-ki/title-img.png" alt="Cover Image" %}
-
-# Lab Report: Künstliche Intelligenz
 
 With the amount of attention AI, or “Generative AI” was receiving in 2023, we were tasked to create a report collection every “AI project” the *Media Lab Bayern* funded in the last years.
 

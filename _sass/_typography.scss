@@ -244,6 +244,10 @@ li {
 		margin: 24px 0px 0px 0px;
 	}
 
+	p + .micro {
+		margin: 6px 0px 0px 0px;
+	}
+
 	// p margin modifiers
 
 	h3 + p {margin-top: 18px;}

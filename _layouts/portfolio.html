@@ -33,7 +33,18 @@
             <div class="seg-line uppercase mono-space">
             </div>
             <div class="article-wrapper" role="article">
-                {{ content }}
+            {% if page.meta-data %}
+            <div class="meta-section row sp-bt-medium">
+                {% for item in page.meta-data %}
+                <div class="meta-block sp-r-medium">
+                    <p class="meta-title mono-space uppercase micro color-light-grey left">{{ item[0] | replace: "-", " " }}</p>
+                    <p class="meta-content mono-space micro color-dark-grey left">{{ item[1] }}</p>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %}
+            <h1 class="left pd-l-small">{{ page.title }}</h1>
+            {{ content }}
             </div>
         </div>
     </div>

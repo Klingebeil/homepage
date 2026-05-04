@@ -6,9 +6,11 @@ date: 2019-01-01
 category: game
 teaser-img: portfolio/future-of-media-tarot/futures-of-media-tarot-teaser.jpg
 summary: "Developed to explore different possible futures of the news media, this card game was inspired by a similar project by Superflux and used in workshops at different german conferences and events."
+meta-data: 
+    client: "Media Lab Bayern"
+    project-team: "Christian Simon, Johannes Klingebiel"
 ---
 
-# Futures of Media Tarot
 Journalism as a industry has been through a couple of minor and major disruptions in the last two decades. The media experienced a seismic advertising shift and found itself on the shrinking end of the ad budgets. At the same time we can observe how truth as a concept became evermore vague and muddied through the internet and social media. As such parts of the industry at times seems to cultivate their own doom and gloom or romanticizes the past. There‘s a lack of alternative futures to discuss and build towards.
 
 Which is why we (the Medialab Bayern, my co-author [Christian Simon][1] and myself) decided to try to develop a tool we could use to influence this discussions. Inspired by the speculative design studio _Superflux_ we adapted their [Synbio Tarot][2] and got to work.

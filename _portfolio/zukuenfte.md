@@ -6,8 +6,11 @@ date: 2019-01-01
 category: Report
 summary: "A series of internal trend reports for the Süddeutsche Zeitung."
 published: true
+meta-data: 
+    client: "Süddeutsche Zeitung"
+    project-lead: "Johannes Klingebiel"
+    project-team: "Dirk von Gehlen, Johannes Klingebiel"
 ---
-# Zukünfte
 
 ## The challenge
 Trends are often presented as a monolithic force of nature, reorganizing society, or the economy. But things tend to be more complicated if you look more closely. In fact “trends” are often performative, meaning describing and naming one often ensures their influence in the first place. Especially if those trends are propagated by prominent consulting agencies such as *Gartner*, *BCG*, or *FTI*.

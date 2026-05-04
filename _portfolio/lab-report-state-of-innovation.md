@@ -7,9 +7,11 @@ teaser-img: portfolio/lab-report-innovation/report-workspace.png
 summary: "A report on contemporary innovation practices inside German media companies."
 published: true
 toc: true
+meta-data: 
+    client: "Media Lab Bayern"
+    project-lead: "Johannes Klingebiel"
+    project-team: "Christian Simon, Johannes Klingebiel"
 ---
-
-# Lab Report: State of Innovation
 
 {% include img-full.html path="portfolio/lab-report-innovation/report-workspace.png" %}
 
