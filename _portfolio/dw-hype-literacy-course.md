@@ -31,8 +31,8 @@ The course was officially launched at the [*International Journalism Festival*](
 
 ### Project Overview
 
-| Who          | What                                                           |
+| Role          | Who                                                           |
 | ------------ | -------------------------------------------------------------- |
-| Project Lead | Steffen Seidl (DW Akademie)                                    |
-| Project Team | Jascha Bareis, Andreu Belsunces Gonçalves, Johannes Klingebiel |
-| Client       | DW Akademie                                                    |
+| *Client*     | DW Akademie                                                    |
+| *Project Lead*| Steffen Seidl (DW Akademie)                                    |
+| *Project Team* | Jascha Bareis<br>Andreu Belsunces Gonçalves<br>Johannes Klingebiel |
