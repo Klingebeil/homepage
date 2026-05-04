@@ -1,12 +1,11 @@
 ---
 layout: portfolio
 title: Talks & Workshops
-date: 2026-12-31
+date: 2026-05-04
 category: Talks
 teaser-img: "portfolio/talks-and-workshops/teaser-me.jpg"
 summary: "I enjoy giving talks at conferences, companies or universities. Here‘s a list of topics and how I approach them."
 published: true
-
 ---
 
 I enjoy sharing my knowledge and experiences at conferences and events and can often bring an informed but differing opinion to the stage or room. My talks are backed up by scientific literature and based on detailed research. As such audiences walk away from my talks with actionable insights, practical strategies, and a deeper understanding of the subject matter.
