@@ -1,5 +1,5 @@
 ---
-layout: ext
+layout: post-ext
 language: de
 title: "Drei Tipps, um KI besser einzuschätzen"
 subtitle:
