@@ -96,15 +96,14 @@ b, strong, .bold {
 	text-decoration: none !important;
 }
 
-h1 {
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
 	font-weight: 100;
 	line-height: 1.2em;
-	font-feature-settings: "liga" 1, "calt" 1, "kern" 1, "swsh" 1;
 }
 
-h2 {
-	font-weight: 100;
-	line-height: 1.4em;
+h1 {
+	font-feature-settings: "liga" 1, "calt" 1, "kern" 1, "swsh" 1;
 }
 
 h3 {
@@ -112,7 +111,6 @@ h3 {
 	text-transform: uppercase;
 	letter-spacing: .5px;
 	font-family: $mono-space;
-	font-weight: 100;
 	margin-top: 36px;
 }
 
