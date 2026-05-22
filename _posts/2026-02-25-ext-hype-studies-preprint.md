@@ -1,5 +1,5 @@
 ---
-layout: ext
+layout: post-ext
 language: en
 title: "Towards Mapping and Defining Critical Hype Studies: Multidisciplinary Insights and Future Directions"
 subtitle:
