@@ -20,8 +20,8 @@ He captures a dynamic I’ve observed a number of times in journalism: big “lo
 
 On a more practical level, I would further the terminology and abstract it as follows:
 
-- *Loud futuring*: performatively assertive expectations, articulated at the level of the field or industry, often declarative in form (“AI will radically transform journalism”), oriented toward alignment and legitimation within the professional community
-- *Quiet futuring*: practically embedded expectations, articulated at the level of the workflow or organization, often conditional or experimental in form ("we tried this and found..."), oriented toward coordination and sense-making
+- *Loud futuring*: futures/expectations performed for alignment and legitimation, where the future (or achieved near-future) is presented as settled and inevitable, regardless of actual uncertainty.
+- *Quiet futuring*: futures/expectations (i.e. in the form of prototypes) exchanged for coordination and sense-making, often referencing “louder” futures, where uncertainty, friction, and failure are admissible
 
 ---
 ### References
