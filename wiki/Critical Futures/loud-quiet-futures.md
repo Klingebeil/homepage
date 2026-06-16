@@ -1,4 +1,13 @@
-# Loud vs quiet futuring
+---
+layout: wikicrumb
+title: "Loud vs. quiet Futuring"
+first-commit: 2026-06-16
+last-updated: 2026-06-16
+linked-notes:
+- pop-futurism
+---
+
+# Loud vs. quiet futuring
 
 Hepp (2026) defines a helpful distinction between “loud” and “quiet” futuring in the context of AI, with both modes being intereconnected.
 
