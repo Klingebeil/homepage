@@ -78,4 +78,4 @@ Before a newsroom puts a person in a loop, it should be able to answer three que
 [^7]:   Joint Cognitive Systems: Patterns in Cognitive Systems Engineering. (2006). CRC Press.
 [^8]:   This is also a well-known historical pattern with automation. Management often mandates efficiency gains alongside the introduction of new tools, rather than allowing them to naturally emerge from improved workflows.<br><br>David F. Noble (1995). ‘Progress without people’. Between the Lines.
 [^9]: Acemoglu, D., & Restrepo, P. (2019). Automation and New Tasks: How Technology Displaces and Reinstates Labor. Journal of Economic Perspectives, 33(2), 3–30. https://doi.org/10.1257/jep.33.2.3
-[^10]: Alternative terms are “[moral crumple zone](https://estsjournal.org/index.php/ests/article/view/260)”, “https://pmc.ncbi.nlm.nih.gov/articles/PMC11025047/” or simply “fall guy”.
+[^10]: Alternative terms are “[moral crumple zone](https://estsjournal.org/index.php/ests/article/view/260)”, “[liability sink](https://pmc.ncbi.nlm.nih.gov/articles/PMC11025047/)” or simply “fall guy”.
