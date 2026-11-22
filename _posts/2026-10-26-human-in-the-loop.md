@@ -27,7 +27,7 @@ Similarly, in newsrooms these same patterns of automation and human oversight em
 
 What newsrooms call *human-in-the-loop* is often a *human-on-the-loop*: the person supervises and intervenes only when something looks wrong, instead of taking part in the decision-making. In some cases journalists are explicitly excluded from the system‘s core decision loop and only serve as a safety net, or in the literature‘s blunter terms, a “moral crumple zone”[^12], “liabilit sink”[^13] or… fall guy.
 
-As psychologist Lisanne Bainbridge observed in 1983,[^3] automation makes the human role more critical, not less. This is an irony its designers rarely consider. Because they aim to replace human labour, they build systems that make oversight harder, sometimes even impossible. [^3]
+As psychologist Lisanne Bainbridge observed in 1983, automation makes the human role more critical, not less. This is an irony its designers rarely consider. Because they aim to replace human labour, they build systems that make oversight harder, sometimes even impossible. [^3]
 
 ## Fatigue, deskilling, and fragility
 
