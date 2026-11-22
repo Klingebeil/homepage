@@ -28,7 +28,9 @@ As psychologist Lisanne Bainbridge observed as early as 1983,[^3] the human role
 
 ## Fatigue, deskilling, and fragility
 
-The longer humans spend continuously monitoring automated systems, the less attention they pay to individual outputs—increasing the likelihood that incorrect information will be published. “Even when you try to carefully check everything every single day, things get overlooked. If 90 percent is correct, the errors often go unnoticed. Yet, the mistakes that do slip through are frequently the most embarrassing ones,” explained an editorial manager interviewed for a [recent research project](https://www.media-lab.de/de/research/status-quo-ki-in-den-medien/). And oversight is necessary, because hallucinations are ultimately a consequence of the basic functionality of large language models—they simply cannot be eliminated entirely.[^4] 
+The longer humans spend continuously monitoring automated systems, the less attention they pay to individual outputs—increasing the likelihood that incorrect information will be published. “Even when you try to carefully check everything every single day, things get overlooked. If 90 percent is correct, the errors often go unnoticed. 
+
+Yet, the mistakes that do slip through are frequently the most embarrassing ones,” explained an editorial manager interviewed for a [recent research project](https://www.media-lab.de/de/research/status-quo-ki-in-den-medien/). And oversight is necessary, because hallucinations are ultimately a consequence of the basic functionality of large language models—they simply cannot be eliminated entirely.[^4] 
 
 At the same time, humans lose the skills required for tasks that are now handled by automation; they become *deskilled*. This effect has been known and well-researched among pilots for decades: the less practice they get—due to heavy reliance on autopilots—the less capable they are of intervening during an emergency. Such emergencies become particularly critical when automated systems fail suddenly, without any warning or feedback.
 
@@ -38,7 +40,7 @@ Automated systems are often fragile when they encounter situations outside their
 
 Just putting humans in the loop is not enough. If the system is designed in a way that makes human oversight excessively demanding or practically impossible, the intended safety net becomes ineffective, leading to the system eating the promised efficiency gains.[^9]
 
-## Old findings, still relevant
+## There are forty years of insights on automation
 
 It is worth emphasising that these effects have been **well-documented and studied for decades**, yet they continue to be overlooked in the design, deployment, and discussion of automated systems. 
 
@@ -56,7 +58,7 @@ Just take a look at this table from a 2013(!) paper, titled aptly “The Seven D
 | Agent enables more system flexibility in a general way.                                         | Explosion of features, options, and modes introduces new demands, error types, and failure paths—automation surprises.                                          |
 | Human errors are reduced.                                                                       | Both humans and agents remain fallible; coordination breakdowns emerge, and agents can obscure information needed for human decisions—principles of complexity. |
 
-## Teamwork, not gap-filling
+## Good automation meands designing for teamwork
 
 This does not mean that efficiency gains through automation are impossible. The question, however, is how precisely said automation is designed. More than 40 years ago, Bainbridge observed that humans are often deployed merely as gap-fillers to compensate for the shortcomings of machines. The result is jobs consisting of disjointed, residual tasks—the fragments that could not be automated.
 
