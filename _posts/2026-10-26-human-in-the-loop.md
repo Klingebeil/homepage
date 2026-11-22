@@ -58,11 +58,15 @@ Just take a look at this table from a 2013(!) paper, titled aptly “The Seven D
 | Agent enables more system flexibility in a general way.                                         | Explosion of features, options, and modes introduces new demands, error types, and failure paths—automation surprises.                                          |
 | Human errors are reduced.                                                                       | Both humans and agents remain fallible; coordination breakdowns emerge, and agents can obscure information needed for human decisions—principles of complexity. |
 
-## Good automation meands designing for teamwork
+## Good automation means designing for teamwork
 
-This does not mean that efficiency gains through automation are impossible. The question, however, is how precisely said automation is designed. More than 40 years ago, Bainbridge observed that humans are often deployed merely as gap-fillers to compensate for the shortcomings of machines. The result is jobs consisting of disjointed, residual tasks—the fragments that could not be automated.
+This does not mean that efficiency gains through automation are impossible. The question, however, is how precisely said automation is designed.
 
-In the decades that followed, research fields—partly inspired by Bainbridge’s work—explored how collaboration between humans and machines could be structured to be truly productive. A key insight is that both components should be viewed as *joint cognitive systems*—a unified system that must be designed and evaluated as a whole.[^7] Still, you can see people weighing human skills versus machine capabilities, rather than considering how the two can complement each other within a cohesive system. The AI industry in particular has gotten a lot of mileage out of framing AI as a replacement and threat to human labour rather than as a collaborator.
+More than 40 years ago, Bainbridge observed that humans are often deployed merely as gap-fillers to compensate for the shortcomings of machines. The result are jobs consisting of disjointed, residual tasks that could not be automated.
+
+In the decades that followed, multiple research fields—partly inspired by Bainbridge’s work—explored how collaboration between humans and machines could be structured to be truly productive. A key insight was that both components should be viewed as *joint cognitive systems*—a unified system that must be designed and evaluated as a whole.[^7] 
+
+Still, you can see people weighing human skills versus machine capabilities, rather than considering how the two can complement each other within a cohesive system. The AI industry in particular has gotten a lot of mileage out of framing AI as a replacement and threat to human labour rather than as a collaborator.[^11]
 
 It is insufficient to simply attempt to compensate for a machine’s limitations through human labour if those very limitations are potentially exacerbated by the human operator. A *human-in-the-loop* must possess genuine control; the machine’s processes must remain transparent and observable; and errors must be both anticipatable and comprehensible.
 
@@ -81,3 +85,4 @@ Before a newsroom puts a person in a loop, it should be able to answer three que
 [^8]:   This is also a well-known historical pattern with automation. Management often mandates efficiency gains alongside the introduction of new tools, rather than allowing them to naturally emerge from improved workflows.<br><br>David F. Noble (1995). ‘Progress without people’. Between the Lines.
 [^9]: Acemoglu, D., & Restrepo, P. (2019). Automation and New Tasks: How Technology Displaces and Reinstates Labor. Journal of Economic Perspectives, 33(2), 3–30. https://doi.org/10.1257/jep.33.2.3
 [^10]: Alternative terms are “[moral crumple zone](https://estsjournal.org/index.php/ests/article/view/260)”, “[liability sink](https://pmc.ncbi.nlm.nih.gov/articles/PMC11025047/)” or simply “fall guy”.
+[^11]: This is also known as the “MABA-MABA”-fallacy, which stands for “humans are good at” and “machines are good at” thinking, implying that humans and machines have inherently distinct and complementary capabilities.
